@@ -1,0 +1,64 @@
+=========================================
+BRIAN STEWART
+Lake Megan, FM | 666 151 8070 | brian.stewart@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Brian Stewart is a business and analytics professional with 2+ years of transferable experience related to AI Lab experimentation, Approved AI and engineering stack, Client workshops, Validated outcomes. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * AI Lab experimentation
+  * Approved AI and engineering stack
+  * Client workshops
+  * Validated outcomes
+  * Ambiguity and execution
+  * Internal Transformation production path
+  * AI literacy artifacts
+
+CORE SKILLS
+benefit measurement, one-pagers, enterprise rollout, success metrics, rapid experimentation, iteration, outcome validation, applied research, facilitation, executive demos, ambiguity, internal enablement, approved AI stack, operating model change, frontier models, secure platforms, learning artifacts, AI literacy, discovery workshops, AI Lab prototyping
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Robertson, King and Dawson
+2023 - 2024
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: standardized reporting for 8 stakeholder groups.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: cut evaluation turnaround from 10 days to 3 days.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced operational handoffs by 18%.
+
+Analytics Consultant - Jefferson and Sons
+2024 - 2025
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: cut evaluation turnaround from 10 days to 1 day.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: cut evaluation turnaround from 9 days to 3 days.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: cut evaluation turnaround from 12 days to 2 days.
+
+Automation Specialist - Ashley-Stevens
+2025 - Present
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: improved model quality by 19%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 36%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: improved model quality by 14%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced operational handoffs by 9%.
+
+SELECTED ACHIEVEMENTS
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Result: improved model quality by 14%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Result: cut evaluation turnaround from 8 days to 3 days.
+
+SELECTED PROJECTS
+  * Led discovery work across AI Lab experimentation, AI literacy artifacts, Internal Transformation production path, Validated outcomes.
+  * Led discovery work across Client workshops, AI literacy artifacts, Approved AI and engineering stack.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/brian-stewart/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+benefit measurement, one-pagers, enterprise rollout, success metrics, rapid experimentation, iteration, outcome validation, applied research, facilitation, executive demos, ambiguity, internal enablement, approved AI stack, operating model change, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Bachelor of Mathematics
+Bowenland University - Class of 2022

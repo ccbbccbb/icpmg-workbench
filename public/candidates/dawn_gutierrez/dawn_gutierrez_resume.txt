@@ -1,0 +1,64 @@
+=========================================
+DAWN GUTIERREZ
+Jamiemouth, TN | 825.386.0592 | dawn.gutierrez@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Dawn Gutierrez is a business and analytics professional with 6+ years of transferable experience related to Code quality and reliability, Human-AI collaboration, Cloud and engineering partnership, Client workshops. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Human-AI collaboration
+  * Cloud and engineering partnership
+  * Client workshops
+  * Low-code, API, and orchestration tools
+  * Ambiguity and execution
+  * Builder mindset
+
+CORE SKILLS
+review loops, ambiguity, operating model change, internal transformation, discovery workshops, DevOps collaboration, configuration, maintainability, human-AI handoffs, facilitation, reliability engineering, executive demos, cloud engineering, API integration, delivery momentum, structured assumptions, low-code platforms
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Hughes Group
+2020 - 2023
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: processed 6M records through reusable pipelines.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced operational handoffs by 14%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced operational handoffs by 10%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: improved model quality by 25%.
+
+Automation Specialist - Munoz, Simon and Rice
+2023 - 2025
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: processed 35M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: standardized reporting for 4 stakeholder groups.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: improved model quality by 8%.
+
+Analytics Consultant - Pena-Holmes
+2025 - Present
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: processed 31M records through reusable pipelines.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: processed 6M records through reusable pipelines.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced operational handoffs by 20%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced operational handoffs by 16%.
+
+SELECTED ACHIEVEMENTS
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Result: processed 9M records through reusable pipelines.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Result: processed 32M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led enablement work across Ambiguity and execution, Human-AI collaboration, Cloud and engineering partnership, Code quality and reliability.
+  * Led discovery work across Builder mindset, Low-code, API, and orchestration tools, Ambiguity and execution, Client workshops, Human-AI collaboration.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/dawn-gutierrez/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+review loops, ambiguity, operating model change, internal transformation, discovery workshops, DevOps collaboration, configuration, maintainability, human-AI handoffs, facilitation, reliability engineering, executive demos, cloud engineering, API integration, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Diploma in Business Analytics
+Lake Cody University - Class of 2017

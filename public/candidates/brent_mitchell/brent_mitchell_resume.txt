@@ -1,0 +1,77 @@
+=========================================
+BRENT MITCHELL
+North Ashleyfurt, MS | 730-800-1664 | brent.mitchell@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Brent Mitchell is a data and technology consulting professional with 10+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Full AI build lifecycle, Internal Transformation production path, Builder team coaching, Cloud and engineering partnership, Code quality and reliability, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Full AI build lifecycle
+  * Internal Transformation production path
+  * Builder team coaching
+  * Cloud and engineering partnership
+  * Code quality and reliability
+  * Evaluation design
+  * Security and scalability
+  * Human-AI collaboration
+  * Data engineering
+  * Delivery leadership
+
+CORE SKILLS
+autonomy design, program delivery, status reporting, platform teams, data protection, code review, review loops, CI/CD, risk management, ETL, delivery governance, test sets, automated testing, enterprise rollout, scalability, operating model change, maintainability, technical direction, feature stores, ELT, workflow redesign, secure architecture, identity controls, human-AI handoffs, data storytelling, model deployment, prototype lifecycle
+
+PROFESSIONAL EXPERIENCE
+Generative AI Program Manager - Hamilton-Kelly
+2016 - 2018
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved delivery predictability by 30%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced prototype-to-production cycle time by 37%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: improved delivery predictability by 14%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved delivery predictability by 33%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: coached a team of 7 consultants and engineers.
+
+Applied AI Manager - Holmes and Sons
+2018 - 2020
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: improved delivery predictability by 28%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced prototype-to-production cycle time by 15%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced prototype-to-production cycle time by 31%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: coached a team of 4 consultants and engineers.
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Outcome: improved delivery predictability by 16%.
+
+AI Product Engineering Manager - Ward, Cuevas and Nielsen
+2020 - Present
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Outcome: coached a team of 7 consultants and engineers.
+  * Unblocked delivery teams by clarifying scope, decision owners, and acceptance criteria. Outcome: delivered $3M in AI program value cases.
+  * Presented analytical findings through concise visuals, narrative summaries, and recommended actions. Outcome: improved delivery predictability by 23%.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Outcome: improved delivery predictability by 15%.
+  * Defined operational checks for model drift, data freshness, latency, and incident response. Outcome: coached a team of 10 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Result: delivered $2M in AI program value cases.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Result: improved delivery predictability by 20%.
+  * Led multi-stream AI delivery plans with milestones, dependencies, risk logs, and executive reporting. Result: coached a team of 14 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led prototype work across Builder team coaching, Visualization, Internal Transformation production path, Human-AI collaboration, Workflow and operating-model redesign.
+  * Led prototype work across MLOps, Human-AI collaboration, Internal Transformation production path, Builder team coaching, Security and scalability.
+  * Led prototype work across Code quality and reliability, MLOps, Internal Transformation production path.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/brent-mitchell/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+autonomy design, program delivery, status reporting, platform teams, data protection, code review, review loops, CI/CD, risk management, ETL, delivery governance, test sets, automated testing, enterprise rollout, TOGAF Foundation, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * TOGAF Foundation
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Databricks Machine Learning Associate
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Master of Information Systems
+Wrightton Institute of Technology - Class of 2014

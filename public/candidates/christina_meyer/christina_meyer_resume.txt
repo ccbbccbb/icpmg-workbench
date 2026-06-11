@@ -1,0 +1,75 @@
+=========================================
+CHRISTINA MEYER
+Robertland, HI | +1 (318) 348-1711 | christina.meyer@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Christina Meyer is a data and technology consulting professional with 5+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Code quality and reliability, Prototype portfolio, Evaluation design, Security and scalability, Cloud and engineering partnership, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Prototype portfolio
+  * Evaluation design
+  * Security and scalability
+  * Cloud and engineering partnership
+  * Productionization
+  * Agents, plugins, skills, and tools
+  * Full AI build lifecycle
+  * Prompt engineering
+  * Agentic AI delivery
+
+CORE SKILLS
+maintainability, quality gates, NumPy, deployment controls, multi-agent systems, agent evaluation, secure architecture, lifecycle ownership, scalability, code review, discovery workshops, pytest, operational support, identity controls, eval harnesses, data protection, DevOps collaboration, RPA integration, facilitation, Python automation, system prompts, FastAPI
+
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer - Brown Inc
+2021 - 2022
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: processed 13M records through reusable pipelines.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: processed 19M records through reusable pipelines.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced manual analysis effort by 33%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced manual analysis effort by 28%.
+
+Data Science Consultant - Johnson LLC
+2022 - 2023
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced manual analysis effort by 35%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: improved model quality by 23%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: processed 31M records through reusable pipelines.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: processed 26M records through reusable pipelines.
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Outcome: reduced manual analysis effort by 28%.
+
+Machine Learning Engineer - Jones-Rodriguez
+2023 - Present
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Outcome: processed 14M records through reusable pipelines.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: processed 18M records through reusable pipelines.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: improved model quality by 15%.
+  * Wrote tested Python utilities for data validation, feature generation, and API integration. Outcome: improved model quality by 24%.
+
+SELECTED ACHIEVEMENTS
+  * Automated recurring data quality checks and exception routing for operations teams. Result: processed 20M records through reusable pipelines.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Result: cut evaluation turnaround from 12 days to 3 days.
+  * Wrote tested Python utilities for data validation, feature generation, and API integration. Result: processed 6M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led enablement work across Client workshops, Agents, plugins, skills, and tools, Prompt engineering, Code quality and reliability, Python.
+  * Led enablement work across Prompt engineering, Evaluation design, Automation, Client workshops.
+  * Led discovery work across Agents, plugins, skills, and tools, Prototype portfolio, Automation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/christina-meyer/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+maintainability, quality gates, NumPy, deployment controls, multi-agent systems, agent evaluation, secure architecture, lifecycle ownership, scalability, code review, discovery workshops, pytest, operational support, identity controls, Microsoft Certified: Azure AI Engineer Associate, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Databricks Machine Learning Associate
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Computer Science
+Robinhaven University - Class of 2019

@@ -1,0 +1,65 @@
+=========================================
+REBECCA TURNER
+Mortonshire, IA | (814) 763-5367 | rebecca.turner@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Rebecca Turner is a business and analytics professional with 2+ years of transferable experience related to Cloud and engineering partnership, Human-AI collaboration, Reusable demos, kits, and handoff materials, Builder community contribution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Human-AI collaboration
+  * Reusable demos, kits, and handoff materials
+  * Builder community contribution
+  * Automation
+  * Internal Transformation production path
+  * Validated outcomes
+
+CORE SKILLS
+handoff kits, implementation playbooks, process mining, secure deployment, decision boundaries, Python automation, enterprise rollout, cloud engineering, operating model change, workflow automation, replication kits, success metrics
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Choi Ltd
+2023 - 2024
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: standardized reporting for 7 stakeholder groups.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced manual analysis effort by 18%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: processed 30M records through reusable pipelines.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: processed 17M records through reusable pipelines.
+
+Automation Specialist - Gibson Group
+2024 - 2025
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: improved model quality by 26%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: improved model quality by 11%.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: processed 18M records through reusable pipelines.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced manual analysis effort by 45%.
+
+Analytics Consultant - Harris and Sons
+2025 - Present
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: cut evaluation turnaround from 10 days to 3 days.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced manual analysis effort by 30%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: improved model quality by 10%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced manual analysis effort by 37%.
+
+SELECTED ACHIEVEMENTS
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Result: reduced operational handoffs by 12%.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Result: improved model quality by 26%.
+
+SELECTED PROJECTS
+  * Led discovery work across Reusable demos, kits, and handoff materials, Automation, Builder community contribution.
+  * Led implementation work across Builder community contribution, Internal Transformation production path, Automation, Human-AI collaboration.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/rebecca-turner/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+handoff kits, implementation playbooks, process mining, secure deployment, decision boundaries, Python automation, enterprise rollout, cloud engineering, operating model change, workflow automation, replication kits, success metrics, Microsoft Certified: Azure AI Engineer Associate, Project Management Professional
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Business Administration
+Williamstown Polytechnic - Class of 2021

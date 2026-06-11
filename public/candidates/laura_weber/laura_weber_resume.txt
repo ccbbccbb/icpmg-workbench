@@ -1,0 +1,65 @@
+=========================================
+LAURA WEBER
+Carterhaven, MH | 548.985.3845 | laura.weber@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Laura Weber is a business and analytics professional with 9+ years of transferable experience related to Security and scalability, Evaluation design, Service line leadership engagement, AI literacy artifacts. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Evaluation design
+  * Service line leadership engagement
+  * AI literacy artifacts
+  * Enterprise operations fluency
+  * Builder mindset
+  * Stakeholder management
+
+CORE SKILLS
+workflow orchestration, agent evaluation, secure architecture, learning artifacts, API integration, risk review, executive engagement, workshop follow-up, governance checks, service line leaders, internal enablement, identity controls, operating model, enterprise operations, rapid prototyping, low-code platforms, regulated enterprise, build mindset, stakeholder engagement, test sets
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - Smith-Hawkins
+2017 - 2019
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: delivered $12M in AI program value cases.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced operational handoffs by 10%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: coached a team of 6 consultants and engineers.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: reduced operational handoffs by 8%.
+
+Technology Project Manager - Arnold LLC
+2019 - 2021
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: coached a team of 7 consultants and engineers.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced operational handoffs by 11%.
+  * Resolved delivery ambiguity by documenting assumptions, owners, and next steps. Outcome: improved delivery predictability by 33%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: delivered $4M in AI program value cases.
+
+Product Owner - Hubbard Ltd
+2021 - Present
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: standardized reporting for 8 stakeholder groups.
+  * Kept client, product, data, and risk stakeholders aligned through status updates and decision logs. Outcome: coached a team of 11 consultants and engineers.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced operational handoffs by 18%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced operational handoffs by 19%.
+
+SELECTED ACHIEVEMENTS
+  * Turned technical decisions into plain-language materials for business teams and new builders. Result: reduced prototype-to-production cycle time by 15%.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Result: coached a team of 12 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led roadmap work across Enterprise operations fluency, Builder mindset, Service line leadership engagement, Stakeholder management, Low-code, API, and orchestration tools.
+  * Led enablement work across Stakeholder management, Low-code, API, and orchestration tools, Builder mindset, Service line leadership engagement, Evaluation design.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/laura-weber/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+
+TOOLS, PLATFORMS, AND METHODS
+workflow orchestration, agent evaluation, secure architecture, learning artifacts, API integration, risk review, executive engagement, workshop follow-up, governance checks, service line leaders, internal enablement, identity controls, operating model, enterprise operations, Prosci Change Management Certification, SnowPro Core Certification
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * SnowPro Core Certification
+
+EDUCATION
+Graduate Certificate in Project Management
+North Timothy Polytechnic - Class of 2015

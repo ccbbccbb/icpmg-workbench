@@ -1,0 +1,75 @@
+=========================================
+MICHAEL BROWN
+Lake Davidberg, AL | 1-934-765-6100 | michael.brown@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Michael Brown is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Code quality and reliability, Agentic AI delivery, Cloud and engineering partnership, Evaluation design, Agents, plugins, skills, and tools, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Agentic AI delivery
+  * Cloud and engineering partnership
+  * Evaluation design
+  * Agents, plugins, skills, and tools
+  * Prototype portfolio
+  * LLM applications
+  * Security
+  * Compliance
+  * AI Lab experimentation
+
+CORE SKILLS
+facilitation, platform teams, vector databases, cloud engineering, autonomous agents, reliability engineering, agent tools, multi-agent systems, orchestration, automated testing, secure SDLC, applied research, agent evaluation, enterprise rollout, internal transformation, maintainability, DevOps collaboration, production handoff, adoption planning, journey mapping, tool calling, executive demos, eval harnesses, audit readiness
+
+PROFESSIONAL EXPERIENCE
+AI Builder Senior Consultant - Smith Group
+2018 - 2020
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced manual analysis effort by 34%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 27M records through reusable pipelines.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: processed 20M records through reusable pipelines.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: processed 24M records through reusable pipelines.
+
+GenAI Solution Consultant - Thomas-Snow
+2020 - 2023
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved model quality by 23%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: processed 23M records through reusable pipelines.
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Outcome: reduced manual analysis effort by 21%.
+  * Worked with security teams to close architecture and deployment risks before launch. Outcome: cut evaluation turnaround from 5 days to 1 day.
+  * Worked with legal and risk teams to align AI workflows with internal policy requirements. Outcome: reduced manual analysis effort by 46%.
+
+Data Science Consultant - Matthews, Webb and Mccarthy
+2023 - Present
+  * Documented compliance requirements for data retention, consent, and auditability. Outcome: cut evaluation turnaround from 10 days to 2 days.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: cut evaluation turnaround from 7 days to 3 days.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: processed 27M records through reusable pipelines.
+  * Tuned chunking, metadata filters, and ranking logic to improve retrieval precision. Outcome: reduced manual analysis effort by 41%.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: cut evaluation turnaround from 11 days to 1 day.
+
+SELECTED ACHIEVEMENTS
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Result: improved model quality by 23%.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Result: improved model quality by 26%.
+  * Worked with legal and risk teams to align AI workflows with internal policy requirements. Result: processed 6M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led implementation work across Internal Transformation production path, Code quality and reliability, Prototype portfolio, Builder community contribution.
+  * Led prototype work across Compliance, Internal Transformation production path, LLM applications, AI Lab experimentation.
+  * Led discovery work across Agentic AI delivery, Cloud and engineering partnership, Full AI build lifecycle.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/michael-brown/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+facilitation, platform teams, vector databases, cloud engineering, autonomous agents, reliability engineering, agent tools, multi-agent systems, orchestration, automated testing, secure SDLC, applied research, agent evaluation, enterprise rollout, Microsoft Certified: Azure AI Engineer Associate, TOGAF Foundation
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * TOGAF Foundation
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Master of Data Science
+Mariaton Institute of Technology - Class of 2014

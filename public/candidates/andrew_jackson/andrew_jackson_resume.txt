@@ -1,0 +1,95 @@
+=========================================
+ANDREW JACKSON
+Chaseview, IN | 1 (925) 252-7289 | andrew.jackson@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Andrew Jackson is an AI Builder Senior Consultant with 10+ years of direct Data and AI experience, including Approved AI and engineering stack, Cloud and engineering partnership, Evaluation design, Full AI build lifecycle, Productionization, Human-AI collaboration. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Cloud and engineering partnership
+  * Evaluation design
+  * Full AI build lifecycle
+  * Productionization
+  * Human-AI collaboration
+  * Security and scalability
+  * Agentic AI delivery
+  * Builder mindset
+  * Code quality and reliability
+  * Visualization
+  * MLOps
+  * Agents, plugins, skills, and tools
+  * Reusable demos, kits, and handoff materials
+
+CORE SKILLS
+replication kits, value proposition, agentic AI, engineering standards, feature stores, build mindset, scalability, code review, handoff kits, skills, deployment controls, rapid prototyping, agent tools, eval harnesses, lifecycle ownership, monitoring, reliability engineering, data protection, frontier models, review loops, rapid experimentation, decision boundaries, implementation playbooks, plugin design, applied research, platform constraints, demo packaging, working systems, secure deployment
+
+PROFESSIONAL EXPERIENCE
+AI Builder Senior Consultant - Griffin LLC
+2016 - 2019
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: processed 15M records through reusable pipelines.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved model quality by 8%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: reduced manual analysis effort by 41%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved model quality by 24%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: cut evaluation turnaround from 4 days to 2 days.
+
+AI Builder Senior Consultant - Stevens-Weeks
+2019 - 2023
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: cut evaluation turnaround from 9 days to 2 days.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 8 days to 1 day.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: cut evaluation turnaround from 9 days to 3 days.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: processed 35M records through reusable pipelines.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: processed 11M records through reusable pipelines.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: improved model quality by 17%.
+
+AI Builder Senior Consultant - Jordan-Mclaughlin
+2023 - 2024
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved model quality by 19%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: cut evaluation turnaround from 12 days to 3 days.
+  * Presented analytical findings through concise visuals, narrative summaries, and recommended actions. Outcome: improved model quality by 11%.
+  * Implemented MLOps practices for versioning, deployment, monitoring, and retraining workflows. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: reduced manual analysis effort by 24%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: improved model quality by 21%.
+
+GenAI Solution Consultant - Horton, Mullins and Perez
+2024 - Present
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: cut evaluation turnaround from 10 days to 1 day.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: processed 22M records through reusable pipelines.
+  * Created executive narratives that linked emerging AI capabilities to measurable client outcomes. Outcome: processed 5M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: improved model quality by 26%.
+
+SELECTED ACHIEVEMENTS
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Result: reduced manual analysis effort by 31%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Result: processed 9M records through reusable pipelines.
+  * Implemented MLOps practices for versioning, deployment, monitoring, and retraining workflows. Result: processed 29M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: improved model quality by 27%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Result: processed 7M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led enablement work across MLOps, Agentic AI delivery, Builder mindset.
+  * Led roadmap work across Evaluation design, Productionization, Builder mindset, Agents, plugins, skills, and tools, Full AI build lifecycle.
+  * Led enablement work across Approved AI and engineering stack, Full AI build lifecycle, AI Lab experimentation, Code quality and reliability.
+  * Led prototype work across Agentic AI delivery, Security and scalability, Productionization.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/andrew-jackson/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+replication kits, value proposition, agentic AI, engineering standards, feature stores, build mindset, scalability, code review, handoff kits, skills, deployment controls, rapid prototyping, agent tools, eval harnesses, Project Management Professional, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Project Management Professional
+  * Google Cloud Professional Machine Learning Engineer
+  * Microsoft Certified: Azure AI Engineer Associate
+  * IAPP Certified Information Privacy Professional
+  * TOGAF Foundation
+
+EDUCATION
+Master of Applied Computing
+Williamsburgh Polytechnic - Class of 2012

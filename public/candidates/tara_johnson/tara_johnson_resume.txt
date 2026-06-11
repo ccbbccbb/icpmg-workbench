@@ -1,0 +1,65 @@
+=========================================
+TARA JOHNSON
+West Corychester, CA | (225) 892-1919 x348 | tara.johnson@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Tara Johnson is a business and analytics professional with 4+ years of transferable experience related to AI Lab experimentation, Cloud and engineering partnership, Productionization, Builder mindset. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * AI Lab experimentation
+  * Cloud and engineering partnership
+  * Productionization
+  * Builder mindset
+  * Client workshops
+  * Validated outcomes
+  * Trade-off judgment
+
+CORE SKILLS
+cloud engineering, release planning, discovery workshops, outcome validation, delivery momentum, ambiguity, success metrics, AI Lab prototyping, structured assumptions, trade-off decisions, adoption planning, operating model change, delivery judgment, structured thinking, rapid prototyping, executive demos, adoption metrics
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Munoz-Warner
+2022 - 2023
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced operational handoffs by 19%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved model quality by 8%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced operational handoffs by 15%.
+
+Analytics Consultant - Edwards, Thomas and Brady
+2023 - 2024
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: improved model quality by 15%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced operational handoffs by 17%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: cut evaluation turnaround from 4 days to 2 days.
+
+Automation Specialist - Green and Sons
+2024 - Present
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced manual analysis effort by 48%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced operational handoffs by 11%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: reduced manual analysis effort by 41%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: cut evaluation turnaround from 4 days to 2 days.
+
+SELECTED ACHIEVEMENTS
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Result: reduced manual analysis effort by 29%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Result: improved model quality by 20%.
+
+SELECTED PROJECTS
+  * Led implementation work across Validated outcomes, Client workshops, Cloud and engineering partnership, Builder mindset, Internal Transformation production path.
+  * Led discovery work across Builder mindset, AI Lab experimentation, Cloud and engineering partnership, Productionization, Trade-off judgment.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/tara-johnson/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+cloud engineering, release planning, discovery workshops, outcome validation, delivery momentum, ambiguity, success metrics, AI Lab prototyping, structured assumptions, trade-off decisions, adoption planning, operating model change, delivery judgment, structured thinking, Prosci Change Management Certification, SnowPro Core Certification
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * SnowPro Core Certification
+
+EDUCATION
+Bachelor of Science, Statistics
+Hornetown Polytechnic - Class of 2016

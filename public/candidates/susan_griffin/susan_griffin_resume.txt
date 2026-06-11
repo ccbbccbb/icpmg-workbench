@@ -1,0 +1,74 @@
+=========================================
+SUSAN GRIFFIN
+West Timothy, LA | (889) 686-5908 | susan.griffin@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Susan Griffin is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Cloud and engineering partnership, Code quality and reliability, Evaluation design, Agents, plugins, skills, and tools, Security and scalability, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Code quality and reliability
+  * Evaluation design
+  * Agents, plugins, skills, and tools
+  * Security and scalability
+  * Agentic AI delivery
+  * Full AI build lifecycle
+  * Generative AI
+  * Builder mindset
+  * Low-code, API, and orchestration tools
+
+CORE SKILLS
+data protection, skills, working systems, retrieval augmented generation, quality gates, DevOps collaboration, low-code platforms, analytics engineering, data profiling, code review, prototype lifecycle, maintainability, implementation playbooks, demo packaging, agentic AI, scalability, release planning, lifecycle ownership, autonomous agents, build mindset, identity controls, eval harnesses, platform teams, automated testing
+
+PROFESSIONAL EXPERIENCE
+GenAI Solution Consultant - Brown, Ellis and Noble
+2018 - 2020
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: improved model quality by 25%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced manual analysis effort by 46%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: improved model quality by 27%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: cut evaluation turnaround from 4 days to 2 days.
+
+AI Builder Senior Consultant - Garrett-Vincent
+2020 - 2023
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: cut evaluation turnaround from 9 days to 2 days.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: cut evaluation turnaround from 9 days to 1 day.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: cut evaluation turnaround from 9 days to 3 days.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: improved model quality by 8%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved model quality by 15%.
+
+Machine Learning Engineer - Gordon Group
+2023 - Present
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: reduced manual analysis effort by 44%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: cut evaluation turnaround from 10 days to 2 days.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Outcome: reduced manual analysis effort by 39%.
+
+SELECTED ACHIEVEMENTS
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Result: improved model quality by 8%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: processed 27M records through reusable pipelines.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Result: processed 17M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led roadmap work across Generative AI, Code quality and reliability, Security and scalability, Full AI build lifecycle.
+  * Led implementation work across SQL and analytics, Cloud and engineering partnership, Agentic AI delivery, Evaluation design, Reusable demos, kits, and handoff materials.
+  * Led enablement work across Security and scalability, Code quality and reliability, Productionization.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/susan-griffin/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+data protection, skills, working systems, retrieval augmented generation, quality gates, DevOps collaboration, low-code platforms, analytics engineering, data profiling, code review, prototype lifecycle, maintainability, implementation playbooks, demo packaging, AWS Certified Machine Learning - Specialty, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Master of Applied Computing
+Kanetown Institute of Technology - Class of 2016

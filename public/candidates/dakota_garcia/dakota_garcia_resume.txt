@@ -1,0 +1,73 @@
+=========================================
+DAKOTA GARCIA
+North Jeffreyside, FM | (314) 709-0590 x783 | dakota.garcia@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Dakota Garcia is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Evaluation design, Human-AI collaboration, Approved AI and engineering stack, Security and scalability, Agentic AI delivery, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Human-AI collaboration
+  * Approved AI and engineering stack
+  * Security and scalability
+  * Agentic AI delivery
+  * Productionization
+  * Cloud and engineering partnership
+  * Full AI build lifecycle
+  * Data and AI strategy
+  * Reusable demos, kits, and handoff materials
+
+CORE SKILLS
+secure architecture, human-AI handoffs, embeddings, vector databases, secure platforms, test sets, DevOps collaboration, data protection, review loops, rapid prototyping, scalability, engineering standards, quality gates, handoff kits, operational support, lifecycle ownership, identity controls, solution maintenance, capability assessment, prototype lifecycle, production readiness, multi-agent systems, platform teams, agent workflows
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - George, Hall and Reed
+2020 - 2023
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved model quality by 21%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: processed 8M records through reusable pipelines.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced manual analysis effort by 25%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 13M records through reusable pipelines.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: cut evaluation turnaround from 10 days to 1 day.
+
+AI Builder Senior Consultant - Garcia Ltd
+2023 - 2025
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: improved model quality by 24%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: improved model quality by 14%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 39M records through reusable pipelines.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved model quality by 14%.
+  * Assessed data and AI maturity across operating model, tooling, controls, and delivery capability. Outcome: cut evaluation turnaround from 11 days to 2 days.
+
+Machine Learning Engineer - Cuevas, Ross and Stanley
+2025 - Present
+  * Developed AI roadmaps that balanced quick-win use cases with platform, governance, and talent needs. Outcome: improved model quality by 25%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: processed 10M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: improved model quality by 20%.
+  * Built vector-search prototypes for policy, knowledge-base, and case-document retrieval. Outcome: cut evaluation turnaround from 4 days to 3 days.
+
+SELECTED ACHIEVEMENTS
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: cut evaluation turnaround from 7 days to 3 days.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: improved model quality by 27%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Result: improved model quality by 22%.
+
+SELECTED PROJECTS
+  * Led implementation work across Security and scalability, Reusable demos, kits, and handoff materials, Human-AI collaboration, Full AI build lifecycle, Cloud and engineering partnership.
+  * Led discovery work across Security and scalability, Human-AI collaboration, Builder mindset.
+  * Led enablement work across Data and AI strategy, Reusable demos, kits, and handoff materials, Productionization.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/dakota-garcia/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+secure architecture, human-AI handoffs, embeddings, vector databases, secure platforms, test sets, DevOps collaboration, data protection, review loops, rapid prototyping, scalability, engineering standards, quality gates, handoff kits, Microsoft Certified: Azure AI Engineer Associate, Project Management Professional
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Project Management Professional
+
+EDUCATION
+Master of Data Science
+Lake Rick Institute of Technology - Class of 2014

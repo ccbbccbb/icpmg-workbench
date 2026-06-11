@@ -1,0 +1,98 @@
+=========================================
+MICHAEL RICH
+New Laura, VI | 1 (117) 716-8171 | michael.rich@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Michael Rich is an AI Builder Manager with 12+ years of direct Data and AI experience, including Evaluation design, Demo readiness, Reusable demos, kits, and handoff materials, Full AI build lifecycle, Cloud and engineering partnership, Builder team coaching. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Demo readiness
+  * Reusable demos, kits, and handoff materials
+  * Full AI build lifecycle
+  * Cloud and engineering partnership
+  * Builder team coaching
+  * Internal Transformation production path
+  * Code quality and reliability
+  * Builder mindset
+  * Workflow and operating-model redesign
+  * Low-code, API, and orchestration tools
+  * Enterprise operations fluency
+  * Delivery leadership
+  * Thought leadership
+
+CORE SKILLS
+workflow orchestration, test sets, lifecycle ownership, eval harnesses, investment cases, process decomposition, showcase artifacts, senior reporting, analytics engineering, build mindset, maintainability, KPI design, code review, automated testing, demo narrative, white papers, pipeline reporting, production handoff, adoption planning, SQL, reliability engineering, DevOps collaboration, partner governance, identity controls, operating model change, rapid prototyping, business reviews, executive narratives, prioritization, roadmaps
+
+PROFESSIONAL EXPERIENCE
+AI Product Engineering Manager - Garner Ltd
+2014 - 2015
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: delivered $4M in AI program value cases.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: delivered $3M in AI program value cases.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: improved delivery predictability by 24%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved delivery predictability by 23%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced prototype-to-production cycle time by 26%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: reduced prototype-to-production cycle time by 22%.
+
+AI Product Engineering Manager - Hill-Warren
+2015 - 2017
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved delivery predictability by 33%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: improved delivery predictability by 16%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: delivered $7M in AI program value cases.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: improved delivery predictability by 23%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved delivery predictability by 32%.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: coached a team of 13 consultants and engineers.
+
+Generative AI Program Manager - Edwards, Ramos and Russell
+2017 - 2018
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved delivery predictability by 29%.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Outcome: improved delivery predictability by 24%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: coached a team of 5 consultants and engineers.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: coached a team of 14 consultants and engineers.
+  * Led multi-stream AI delivery plans with milestones, dependencies, risk logs, and executive reporting. Outcome: coached a team of 12 consultants and engineers.
+  * Authored thought-leadership material on AI adoption patterns, governance, and value realization. Outcome: reduced prototype-to-production cycle time by 40%.
+
+AI Product Engineering Manager - Ruiz-Carter
+2018 - Present
+  * Unblocked delivery teams by clarifying scope, decision owners, and acceptance criteria. Outcome: improved delivery predictability by 19%.
+  * Presented market insights and practical AI adoption lessons to senior business audiences. Outcome: coached a team of 10 consultants and engineers.
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: reduced prototype-to-production cycle time by 28%.
+  * Prepared partner and internal business reviews covering pipeline movement, forecast risks, and action owners. Outcome: coached a team of 11 consultants and engineers.
+  * Translated ambiguous business needs into deployable technical patterns and delivery milestones. Outcome: reduced prototype-to-production cycle time by 26%.
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: improved delivery predictability by 26%.
+
+SELECTED ACHIEVEMENTS
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Result: improved delivery predictability by 21%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Result: coached a team of 4 consultants and engineers.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Result: coached a team of 4 consultants and engineers.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Result: coached a team of 12 consultants and engineers.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Result: coached a team of 12 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led implementation work across Thought leadership, Builder team coaching, Builder community contribution, Full AI build lifecycle, Delivery leadership.
+  * Led discovery work across Enterprise operations fluency, AI solution architecture, Security and scalability.
+  * Led prototype work across Builder community contribution, Thought leadership, AI solution architecture, Workflow and operating-model redesign, Partner and internal business reviews.
+  * Led roadmap work across Security and scalability, Code quality and reliability, Trade-off judgment.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/michael-rich/agentic-ai-builds
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+workflow orchestration, test sets, lifecycle ownership, eval harnesses, investment cases, process decomposition, showcase artifacts, senior reporting, analytics engineering, build mindset, maintainability, KPI design, code review, automated testing, Microsoft Certified: Azure AI Engineer Associate, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * AWS Certified Machine Learning - Specialty
+  * IAPP Certified Information Privacy Professional
+  * Databricks Machine Learning Associate
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+Duffyberg School of Business - Class of 2012

@@ -1,0 +1,65 @@
+=========================================
+CHRISTY SANCHEZ
+Danielleview, WA | 1-606-127-4158 | christy.sanchez@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Christy Sanchez is a business and analytics professional with 5+ years of transferable experience related to Evaluation design, Cloud and engineering partnership, Ambiguity and execution, Builder community contribution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Cloud and engineering partnership
+  * Ambiguity and execution
+  * Builder community contribution
+  * Reusable demos, kits, and handoff materials
+  * Automation
+  * Low-code, API, and orchestration tools
+
+CORE SKILLS
+prompt evaluation, system prompts, workflow automation, delivery momentum, eval harnesses, API integration, commercial terms, test sets, workflow orchestration, Python automation, secure deployment, configuration, legal liaison, process mining, RPA integration
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Christian, Grant and Jenkins
+2021 - 2024
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced manual analysis effort by 41%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: standardized reporting for 5 stakeholder groups.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: reduced manual analysis effort by 19%.
+
+Analytics Consultant - Barker Ltd
+2024 - 2025
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: reduced operational handoffs by 10%.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: cut evaluation turnaround from 10 days to 2 days.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: processed 24M records through reusable pipelines.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Outcome: processed 33M records through reusable pipelines.
+
+Analytics Consultant - Chan Group
+2025 - Present
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Outcome: standardized reporting for 6 stakeholder groups.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: standardized reporting for 9 stakeholder groups.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: cut evaluation turnaround from 8 days to 1 day.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced operational handoffs by 12%.
+
+SELECTED ACHIEVEMENTS
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Result: standardized reporting for 4 stakeholder groups.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Result: improved model quality by 22%.
+
+SELECTED PROJECTS
+  * Led discovery work across Reusable demos, kits, and handoff materials, Builder community contribution, Evaluation design, Prompt engineering.
+  * Led discovery work across Reusable demos, kits, and handoff materials, Builder community contribution, Cloud and engineering partnership.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/christy-sanchez/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+prompt evaluation, system prompts, workflow automation, delivery momentum, eval harnesses, API integration, commercial terms, test sets, workflow orchestration, Python automation, secure deployment, configuration, legal liaison, process mining, SnowPro Core Certification, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Graduate Certificate in Project Management
+Mccoyville School of Business - Class of 2019

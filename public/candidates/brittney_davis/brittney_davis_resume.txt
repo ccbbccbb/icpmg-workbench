@@ -1,0 +1,76 @@
+=========================================
+BRITTNEY DAVIS
+Michaelport, FL | 1-566-851-1268 | brittney.davis@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Brittney Davis is a data and technology consulting professional with 7+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Validated outcomes, Demo safety and governance checks, Cloud and engineering partnership, Demo readiness, Code quality and reliability, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Validated outcomes
+  * Demo safety and governance checks
+  * Cloud and engineering partnership
+  * Demo readiness
+  * Code quality and reliability
+  * Productionization
+  * Agents, plugins, skills, and tools
+  * Service line leadership engagement
+  * Delivery leadership
+  * Model governance
+
+CORE SKILLS
+responsible AI, operational support, orchestration, model risk management, fairness, controls, tool calling, senior manager alignment, DevOps collaboration, plugin design, status reporting, code review, delivery governance, risk review, AI governance, platform teams, outcome validation, benefit measurement, safe showcase, secure deployment, release planning, production readiness, governance checks, demo safety, demo narrative, transparency, human oversight, reliability engineering
+
+PROFESSIONAL EXPERIENCE
+Data & AI Consulting Manager - Osborne-Arnold
+2019 - 2020
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: coached a team of 10 consultants and engineers.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: delivered $5M in AI program value cases.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: coached a team of 11 consultants and engineers.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: coached a team of 10 consultants and engineers.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: coached a team of 6 consultants and engineers.
+
+Generative AI Program Manager - Smith-Sharp
+2020 - 2022
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: delivered $10M in AI program value cases.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved delivery predictability by 34%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved delivery predictability by 28%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: improved delivery predictability by 31%.
+  * Unblocked delivery teams by clarifying scope, decision owners, and acceptance criteria. Outcome: delivered $13M in AI program value cases.
+
+Data & AI Consulting Manager - Bautista-Foley
+2022 - Present
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: coached a team of 9 consultants and engineers.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: delivered $4M in AI program value cases.
+  * Created model documentation covering purpose, assumptions, limitations, owners, and monitoring controls. Outcome: delivered $3M in AI program value cases.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: coached a team of 7 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Result: improved delivery predictability by 16%.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Result: delivered $2M in AI program value cases.
+  * Led multi-stream AI delivery plans with milestones, dependencies, risk logs, and executive reporting. Result: coached a team of 10 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led discovery work across Productionization, Code quality and reliability, Model governance, Service line leadership engagement, Demo readiness.
+  * Led implementation work across Demo safety and governance checks, Responsible AI, Validated outcomes, Agents, plugins, skills, and tools.
+  * Led discovery work across Delivery leadership, Responsible AI, Demo readiness.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/brittney-davis/agentic-ai-builds
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+
+TOOLS, PLATFORMS, AND METHODS
+responsible AI, operational support, orchestration, model risk management, fairness, controls, tool calling, senior manager alignment, DevOps collaboration, plugin design, status reporting, code review, delivery governance, risk review, Prosci Change Management Certification, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * Google Cloud Professional Machine Learning Engineer
+  * Certified ScrumMaster
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+Bakertown University - Class of 2013

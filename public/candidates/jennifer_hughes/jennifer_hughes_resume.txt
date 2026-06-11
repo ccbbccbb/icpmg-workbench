@@ -1,0 +1,64 @@
+=========================================
+JENNIFER HUGHES
+Port Cody, ID | (850) 793-8690 x333 | jennifer.hughes@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jennifer Hughes is a business and analytics professional with 4+ years of transferable experience related to Human-AI collaboration, AI Lab experimentation, Cloud and engineering partnership, Internal Transformation production path. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * AI Lab experimentation
+  * Cloud and engineering partnership
+  * Internal Transformation production path
+  * Low-code, API, and orchestration tools
+  * Reusable demos, kits, and handoff materials
+
+CORE SKILLS
+operating model change, rapid experimentation, adoption planning, configuration, frontier models, implementation playbooks, cloud engineering, demo packaging, AI Lab prototyping, replication kits, decision boundaries, applied research, API integration, review loops, enterprise rollout, human-AI handoffs
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Lopez-Smith
+2022 - 2023
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: standardized reporting for 9 stakeholder groups.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: improved model quality by 26%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced manual analysis effort by 32%.
+
+Business Analyst - Crosby-Lyons
+2023 - 2025
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced manual analysis effort by 27%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: standardized reporting for 10 stakeholder groups.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: cut evaluation turnaround from 11 days to 1 day.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: standardized reporting for 5 stakeholder groups.
+
+Business Analyst - Matthews, Wagner and Hughes
+2025 - Present
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced operational handoffs by 17%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced operational handoffs by 9%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: standardized reporting for 5 stakeholder groups.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced manual analysis effort by 30%.
+
+SELECTED ACHIEVEMENTS
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Result: improved model quality by 26%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: processed 22M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led prototype work across AI Lab experimentation, Low-code, API, and orchestration tools, Reusable demos, kits, and handoff materials, Cloud and engineering partnership, Human-AI collaboration.
+  * Led implementation work across Cloud and engineering partnership, Reusable demos, kits, and handoff materials, Human-AI collaboration, Low-code, API, and orchestration tools.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/jennifer-hughes/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+operating model change, rapid experimentation, adoption planning, configuration, frontier models, implementation playbooks, cloud engineering, demo packaging, AI Lab prototyping, replication kits, decision boundaries, applied research, API integration, review loops, Certified ScrumMaster, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Graduate Certificate in Project Management
+Hectormouth University - Class of 2020

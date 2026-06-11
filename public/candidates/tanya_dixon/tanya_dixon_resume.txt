@@ -1,0 +1,95 @@
+=========================================
+TANYA DIXON
+Port Jasonshire, NV | 360-028-4795 | tanya.dixon@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Tanya Dixon is an AI Builder Senior Consultant with 7+ years of direct Data and AI experience, including Approved AI and engineering stack, AI Lab experimentation, Productionization, Full AI build lifecycle, Human-AI collaboration, Agentic AI delivery. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * AI Lab experimentation
+  * Productionization
+  * Full AI build lifecycle
+  * Human-AI collaboration
+  * Agentic AI delivery
+  * Cloud and engineering partnership
+  * Agents, plugins, skills, and tools
+  * Evaluation design
+  * Prototype portfolio
+  * Code quality and reliability
+  * Data engineering
+  * APIs and microservices
+  * Experimentation
+
+CORE SKILLS
+orchestration, code review, facilitation, plugin design, quality gates, operational support, analytics engineering, discovery workshops, dbt, KPI design, FastAPI, autonomous agents, decision boundaries, hypothesis design, DevOps collaboration, data profiling, cloud engineering, agent evaluation, platform constraints, applied research, autonomy design, Spark, secure platforms, ETL, agentic AI, prototype portfolio, lifecycle ownership, deployment controls, Airflow, maintainability, multi-agent systems, GitHub demos
+
+PROFESSIONAL EXPERIENCE
+Data Science Consultant - Harvey and Sons
+2019 - 2020
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: improved model quality by 20%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: processed 12M records through reusable pipelines.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced manual analysis effort by 25%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: cut evaluation turnaround from 10 days to 1 day.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: cut evaluation turnaround from 5 days to 2 days.
+
+Data Science Consultant - Snow-Hernandez
+2020 - 2022
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 7 days to 3 days.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: cut evaluation turnaround from 4 days to 3 days.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 9 days to 3 days.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: reduced manual analysis effort by 47%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved model quality by 18%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: improved model quality by 18%.
+
+Applied AI Consultant - Garza LLC
+2022 - 2023
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: processed 13M records through reusable pipelines.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: reduced manual analysis effort by 26%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: processed 39M records through reusable pipelines.
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Outcome: improved model quality by 19%.
+  * Built API services for model inference, batch scoring, and human review queues. Outcome: improved model quality by 22%.
+  * Tracked experiment results and documented tradeoffs before production rollout. Outcome: processed 28M records through reusable pipelines.
+
+Applied AI Consultant - Davis, Salas and Brown
+2023 - Present
+  * Packaged reusable services with typed contracts, validation, and deployment documentation. Outcome: reduced manual analysis effort by 41%.
+  * Designed experiments to compare model variants, user prompts, and workflow interventions. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced manual analysis effort by 31%.
+
+SELECTED ACHIEVEMENTS
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Result: improved model quality by 16%.
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Result: processed 4M records through reusable pipelines.
+  * Improved pipeline reliability through validation, lineage notes, and scheduled quality checks. Result: cut evaluation turnaround from 11 days to 3 days.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Result: improved model quality by 24%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: cut evaluation turnaround from 9 days to 3 days.
+
+SELECTED PROJECTS
+  * Led enablement work across Cloud and engineering partnership, Code quality and reliability, Experimentation, APIs and microservices, Evaluation design.
+  * Led prototype work across Experimentation, Evaluation design, APIs and microservices, Approved AI and engineering stack, Data engineering.
+  * Led implementation work across Approved AI and engineering stack, AI Lab experimentation, Experimentation.
+  * Led roadmap work across APIs and microservices, Cloud and engineering partnership, AI Lab experimentation, Agents, plugins, skills, and tools, Code quality and reliability.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/tanya-dixon/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+orchestration, code review, facilitation, plugin design, quality gates, operational support, analytics engineering, discovery workshops, dbt, KPI design, FastAPI, autonomous agents, decision boundaries, hypothesis design, Microsoft Certified: Azure AI Engineer Associate, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Prosci Change Management Certification
+  * SnowPro Core Certification
+  * IAPP Certified Information Privacy Professional
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Master of Applied Computing
+West Nathan Polytechnic - Class of 2015

@@ -1,0 +1,65 @@
+=========================================
+DANIELLE GRAHAM
+Phillipstown, VT | 418 034 5447 | danielle.graham@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Danielle Graham is a business and analytics professional with 6+ years of transferable experience related to Cloud and engineering partnership, Agents, plugins, skills, and tools, Automation, Ambiguity and execution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Agents, plugins, skills, and tools
+  * Automation
+  * Ambiguity and execution
+  * Trade-off judgment
+  * Low-code, API, and orchestration tools
+  * Contract negotiation and legal liaison
+
+CORE SKILLS
+pricing, prioritization, legal liaison, secure deployment, tool calling, contracting, structured assumptions, trade-off decisions, low-code platforms, orchestration, delivery judgment, commercial terms, configuration, measurement plans
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Miller-Wheeler
+2020 - 2021
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced manual analysis effort by 43%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: reduced operational handoffs by 13%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: standardized reporting for 3 stakeholder groups.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: improved model quality by 18%.
+
+Business Analyst - Mitchell, Gonzalez and Burton
+2021 - 2023
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced manual analysis effort by 32%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced manual analysis effort by 37%.
+  * Clarified commercial terms, scope assumptions, data obligations, and partner responsibilities. Outcome: reduced operational handoffs by 18%.
+  * Defined measurement plans to track whether AI initiatives delivered intended business outcomes. Outcome: reduced operational handoffs by 19%.
+
+Analytics Consultant - Walker PLC
+2023 - Present
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced operational handoffs by 9%.
+  * Defined measurement plans to track whether AI initiatives delivered intended business outcomes. Outcome: improved model quality by 15%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: improved model quality by 21%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced operational handoffs by 8%.
+
+SELECTED ACHIEVEMENTS
+  * Automated recurring data quality checks and exception routing for operations teams. Result: reduced manual analysis effort by 48%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Result: cut evaluation turnaround from 5 days to 1 day.
+
+SELECTED PROJECTS
+  * Led enablement work across Value case development, Ambiguity and execution, Cloud and engineering partnership, Low-code, API, and orchestration tools.
+  * Led discovery work across Contract negotiation and legal liaison, Agents, plugins, skills, and tools, Trade-off judgment, Commercial negotiation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/danielle-graham/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+pricing, prioritization, legal liaison, secure deployment, tool calling, contracting, structured assumptions, trade-off decisions, low-code platforms, orchestration, delivery judgment, commercial terms, configuration, measurement plans, AWS Certified Machine Learning - Specialty, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Business Administration
+West Billystad Polytechnic - Class of 2018

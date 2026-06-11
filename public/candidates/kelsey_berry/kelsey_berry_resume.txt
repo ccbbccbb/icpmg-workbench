@@ -1,0 +1,75 @@
+=========================================
+KELSEY BERRY
+Lake Johnside, CT | (713) 295-3007 x433 | kelsey.berry@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kelsey Berry is a data and technology consulting professional with 11+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Agents, plugins, skills, and tools, Validated outcomes, Workflow and operating-model redesign, Code quality and reliability, Security and scalability, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Validated outcomes
+  * Workflow and operating-model redesign
+  * Code quality and reliability
+  * Security and scalability
+  * Reusable demos, kits, and handoff materials
+  * Productionization
+  * AI literacy artifacts
+  * Full AI build lifecycle
+  * SQL and analytics
+
+CORE SKILLS
+agent tools, release planning, demo packaging, review loops, benefit measurement, data profiling, outcome validation, autonomy design, eval harnesses, operating model change, code review, production handoff, production readiness, deployment controls, secure architecture, agent evaluation, lifecycle ownership, replication kits, skills, operational support
+
+PROFESSIONAL EXPERIENCE
+AI Delivery Manager - Dennis, James and Terrell
+2015 - 2016
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: coached a team of 6 consultants and engineers.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: coached a team of 10 consultants and engineers.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: delivered $8M in AI program value cases.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced prototype-to-production cycle time by 17%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: delivered $8M in AI program value cases.
+
+Data & AI Consulting Manager - Bennett and Sons
+2016 - 2019
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: delivered $3M in AI program value cases.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: coached a team of 5 consultants and engineers.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: reduced prototype-to-production cycle time by 27%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: coached a team of 7 consultants and engineers.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved delivery predictability by 16%.
+
+AI Delivery Manager - Diaz Ltd
+2019 - Present
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: reduced prototype-to-production cycle time by 36%.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Outcome: coached a team of 4 consultants and engineers.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: delivered $2M in AI program value cases.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced prototype-to-production cycle time by 15%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: improved delivery predictability by 16%.
+
+SELECTED ACHIEVEMENTS
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Result: coached a team of 4 consultants and engineers.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Result: reduced prototype-to-production cycle time by 21%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: coached a team of 4 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led enablement work across Validated outcomes, Workflow and operating-model redesign, Internal Transformation production path.
+  * Led prototype work across AI literacy artifacts, Productionization, SQL and analytics.
+  * Led discovery work across Human-AI collaboration, Validated outcomes, Internal Transformation production path, Evaluation design, Full AI build lifecycle.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/kelsey-berry/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+agent tools, release planning, demo packaging, review loops, benefit measurement, data profiling, outcome validation, autonomy design, eval harnesses, operating model change, code review, production handoff, production readiness, deployment controls, Project Management Professional, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Project Management Professional
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Master of Data Science
+Whitneyland Polytechnic - Class of 2012

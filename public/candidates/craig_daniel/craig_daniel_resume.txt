@@ -1,0 +1,65 @@
+=========================================
+CRAIG DANIEL
+Youngfurt, WV | (955) 293-1391 x642 | craig.daniel@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Craig Daniel is a business and analytics professional with 5+ years of transferable experience related to Human-AI collaboration, Ambiguity and execution, Automation, Reusable demos, kits, and handoff materials. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Ambiguity and execution
+  * Automation
+  * Reusable demos, kits, and handoff materials
+  * Internal Transformation production path
+  * Trade-off judgment
+  * Builder mindset
+
+CORE SKILLS
+adoption metrics, operating model change, structured assumptions, structured thinking, review loops, process mining, success metrics, delivery momentum, internal transformation, demo packaging, replication kits, outcome validation, RPA integration
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Parker-Moon
+2021 - 2022
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced operational handoffs by 8%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: improved model quality by 10%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: standardized reporting for 9 stakeholder groups.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced manual analysis effort by 48%.
+
+Automation Specialist - Butler, Dennis and Anderson
+2022 - 2025
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: reduced manual analysis effort by 28%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: standardized reporting for 7 stakeholder groups.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced manual analysis effort by 37%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: processed 37M records through reusable pipelines.
+
+Automation Specialist - Villa, Farmer and Barton
+2025 - Present
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced operational handoffs by 15%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced operational handoffs by 12%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: standardized reporting for 5 stakeholder groups.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: cut evaluation turnaround from 7 days to 1 day.
+
+SELECTED ACHIEVEMENTS
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Result: standardized reporting for 8 stakeholder groups.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Result: reduced manual analysis effort by 41%.
+
+SELECTED PROJECTS
+  * Led prototype work across Builder mindset, Human-AI collaboration, Internal Transformation production path, Trade-off judgment.
+  * Led enablement work across Automation, Human-AI collaboration, Trade-off judgment.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/craig-daniel/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+adoption metrics, operating model change, structured assumptions, structured thinking, review loops, process mining, success metrics, delivery momentum, internal transformation, demo packaging, replication kits, outcome validation, RPA integration, IAPP Certified Information Privacy Professional, Certified ScrumMaster
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Business Administration
+Yorkshire School of Business - Class of 2015

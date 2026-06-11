@@ -1,0 +1,97 @@
+=========================================
+STEPHANIE MARTINEZ
+Port Aliciaville, WI | (639) 858-5027 x147 | stephanie.martinez@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Stephanie Martinez is an AI Builder Senior Consultant with 9+ years of direct Data and AI experience, including Approved AI and engineering stack, Full AI build lifecycle, Agentic AI delivery, AI Lab experimentation, Evaluation design, Prototype portfolio. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Full AI build lifecycle
+  * Agentic AI delivery
+  * AI Lab experimentation
+  * Evaluation design
+  * Prototype portfolio
+  * Cloud and engineering partnership
+  * Human-AI collaboration
+  * Strategic partner plans
+  * Reusable demos, kits, and handoff materials
+  * Partner ecosystem
+  * Enterprise architecture
+  * Cloud alliances
+  * Vector search
+
+CORE SKILLS
+discovery workshops, co-sell, internal transformation, operating model change, replication kits, build mindset, frontier models, lifecycle ownership, cloud engineering, test sets, semantic search, secure deployment, enterprise rollout, solution maintenance, hands-on execution, quality metrics, Python, rapid experimentation, retrieval tuning, GitHub demos, eval harnesses, decision boundaries, executive demos, engineering standards, integration patterns, pytest, demo write-ups, platform constraints, agentic AI, multi-agent systems, automated testing, relationship management, platform strategy, vector databases
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Vaughn, Brooks and Krueger
+2017 - 2019
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: reduced manual analysis effort by 18%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: cut evaluation turnaround from 6 days to 3 days.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: reduced manual analysis effort by 21%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: processed 19M records through reusable pipelines.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 6 days to 3 days.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: cut evaluation turnaround from 12 days to 3 days.
+
+AI Builder Senior Consultant - Booker-Cisneros
+2019 - 2020
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved model quality by 21%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: reduced manual analysis effort by 35%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced manual analysis effort by 19%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: processed 2M records through reusable pipelines.
+  * Executed strategic business plans with cross-functional teams focused on opportunity identification. Outcome: processed 35M records through reusable pipelines.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced manual analysis effort by 31%.
+
+Data Science Consultant - Mitchell, Perry and Gonzalez
+2020 - 2021
+  * Led partner plans and revenue origination strategies that prioritized pipeline growth and market adoption. Outcome: processed 34M records through reusable pipelines.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Connected partner capabilities to client needs and internal delivery capacity. Outcome: processed 2M records through reusable pipelines.
+  * Created transition roadmaps from prototype architecture to production-ready platforms. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Coordinated partner funding requests, marketplace motions, and joint account pursuits. Outcome: cut evaluation turnaround from 9 days to 2 days.
+  * Built vector-search prototypes for policy, knowledge-base, and case-document retrieval. Outcome: cut evaluation turnaround from 6 days to 3 days.
+
+Applied AI Consultant - Vega-Hernandez
+2021 - Present
+  * Aligned internal teams with cloud partner incentives and qualification requirements. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Tuned chunking, metadata filters, and ranking logic to improve retrieval precision. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: processed 40M records through reusable pipelines.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: processed 36M records through reusable pipelines.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Wrote tested Python utilities for data validation, feature generation, and API integration. Outcome: cut evaluation turnaround from 9 days to 3 days.
+
+SELECTED ACHIEVEMENTS
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Result: improved model quality by 20%.
+  * Managed partner ecosystem activities across enablement, account planning, pipeline reviews, and campaign execution. Result: cut evaluation turnaround from 6 days to 1 day.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Result: reduced manual analysis effort by 26%.
+  * Created transition roadmaps from prototype architecture to production-ready platforms. Result: reduced manual analysis effort by 28%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Result: cut evaluation turnaround from 6 days to 3 days.
+
+SELECTED PROJECTS
+  * Led implementation work across Human-AI collaboration, Cloud and engineering partnership, Reusable demos, kits, and handoff materials, Evaluation design, Python.
+  * Led roadmap work across Full AI build lifecycle, Enterprise architecture, AI Lab experimentation, Strategic partner plans.
+  * Led enablement work across Partner ecosystem, Full AI build lifecycle, Reusable demos, kits, and handoff materials, Strategic partner plans.
+  * Led enablement work across Reusable demos, kits, and handoff materials, Builder mindset, Vector search, Evaluation design.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/stephanie-martinez/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+discovery workshops, co-sell, internal transformation, operating model change, replication kits, build mindset, frontier models, lifecycle ownership, cloud engineering, test sets, semantic search, secure deployment, enterprise rollout, solution maintenance, Microsoft Certified: Azure AI Engineer Associate, SnowPro Core Certification
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * SnowPro Core Certification
+  * IAPP Certified Information Privacy Professional
+  * Prosci Change Management Certification
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Master of Applied Computing
+Cassidyshire University - Class of 2015

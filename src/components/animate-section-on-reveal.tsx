@@ -1,6 +1,6 @@
 "use client";
 
-import type { HTMLMotionProps } from "framer-motion";
+import type { HTMLMotionProps, Variants } from "framer-motion";
 import { AnimatePresence, motion } from "framer-motion";
 import type { PropsWithChildren } from "react";
 import { useMemo } from "react";
@@ -27,7 +27,10 @@ type SectionRevealVariants = {
 export function createSectionRevealVariants({
   delayMs = SECTION_REVEAL_STAGGER_MS,
   durationMs = SECTION_REVEAL_DURATION_MS,
-}: { delayMs?: number; durationMs?: number } = {}): SectionRevealVariants {
+}: {
+  delayMs?: number;
+  durationMs?: number;
+} = {}): SectionRevealVariants {
   return {
     initial: { opacity: 0, y: 12 },
     open: (index: number) => ({
@@ -89,7 +92,7 @@ export function AnimateSectionOnReveal({
         custom={index}
         exit="exit"
         initial="initial"
-        variants={variants}
+        variants={variants as Variants}
         {...props}
       >
         {children}
@@ -107,7 +110,7 @@ export function AnimateSectionOnReveal({
           exit="exit"
           initial="initial"
           key={presenceKey}
-          variants={variants}
+          variants={variants as Variants}
           {...props}
         >
           {children}

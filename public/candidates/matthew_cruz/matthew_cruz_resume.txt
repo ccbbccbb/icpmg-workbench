@@ -1,0 +1,64 @@
+=========================================
+MATTHEW CRUZ
+Underwoodhaven, NM | 409-338-6523 | matthew.cruz@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Matthew Cruz is a business and analytics professional with 4+ years of transferable experience related to Agents, plugins, skills, and tools, Human-AI collaboration, AI Lab experimentation, Validated outcomes. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Human-AI collaboration
+  * AI Lab experimentation
+  * Validated outcomes
+  * Ambiguity and execution
+  * Automation
+  * Trade-off judgment
+
+CORE SKILLS
+delivery momentum, tool calling, data protection, skills, delivery judgment, review loops, identity controls, autonomy design, ambiguity, benefit measurement, workflow automation, orchestration, agent tools, structured thinking, AI Lab prototyping, applied research, decision boundaries, internal transformation, Python automation
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Brown, Williams and Mccoy
+2022 - 2023
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: reduced operational handoffs by 13%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced operational handoffs by 13%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: processed 27M records through reusable pipelines.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: processed 21M records through reusable pipelines.
+
+Automation Specialist - Chen PLC
+2023 - 2024
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: standardized reporting for 3 stakeholder groups.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: standardized reporting for 3 stakeholder groups.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: cut evaluation turnaround from 10 days to 2 days.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: standardized reporting for 10 stakeholder groups.
+
+Automation Specialist - Webb, Woods and Barber
+2024 - Present
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced manual analysis effort by 23%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: improved model quality by 23%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced operational handoffs by 13%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: standardized reporting for 6 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Result: reduced operational handoffs by 12%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Result: reduced operational handoffs by 16%.
+
+SELECTED PROJECTS
+  * Led implementation work across Automation, Validated outcomes, Internal Transformation production path, Security and scalability, Ambiguity and execution.
+  * Led implementation work across Automation, Agents, plugins, skills, and tools, Validated outcomes.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/matthew-cruz/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+delivery momentum, tool calling, data protection, skills, delivery judgment, review loops, identity controls, autonomy design, ambiguity, benefit measurement, workflow automation, orchestration, agent tools, structured thinking, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Economics
+Emilystad School of Business - Class of 2020

@@ -1,0 +1,76 @@
+=========================================
+ROBERT WATSON
+Port Loganport, MH | 432-570-2885 x018 | robert.watson@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Robert Watson is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include AI Lab experimentation, Security and scalability, Approved AI and engineering stack, Human-AI collaboration, Evaluation design, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * AI Lab experimentation
+  * Security and scalability
+  * Approved AI and engineering stack
+  * Human-AI collaboration
+  * Evaluation design
+  * Cloud and engineering partnership
+  * Code quality and reliability
+  * Visualization
+  * Full AI build lifecycle
+  * LLM applications
+
+CORE SKILLS
+scalability, human-AI handoffs, approved AI stack, chat applications, code review, relationship management, lifecycle ownership, reliability engineering, document AI, quality gates, rapid experimentation, KPI design, DevOps collaboration, pipeline management, maintainability, prompt design, success metrics, secure platforms, production handoff, autonomy design, tool calling, LangChain, test sets, identity controls, adoption metrics, system prompts, dashboard design
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Jones and Sons
+2020 - 2023
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: cut evaluation turnaround from 10 days to 3 days.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: improved model quality by 11%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: processed 26M records through reusable pipelines.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: improved model quality by 16%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved model quality by 11%.
+
+Data Science Consultant - Chandler-Thomas
+2023 - 2025
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced manual analysis effort by 46%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: processed 23M records through reusable pipelines.
+  * Presented analytical findings through concise visuals, narrative summaries, and recommended actions. Outcome: improved model quality by 23%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: processed 20M records through reusable pipelines.
+
+Data Science Consultant - Munoz, Wallace and Weaver
+2025 - Present
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Integrated language models into business workflows through APIs, queues, and review interfaces. Outcome: processed 3M records through reusable pipelines.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Outcome: processed 31M records through reusable pipelines.
+  * Tracked sourced and influenced opportunities by stage, partner, industry, and expected value. Outcome: processed 18M records through reusable pipelines.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: processed 5M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Result: improved model quality by 9%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Result: improved model quality by 15%.
+  * Presented analytical findings through concise visuals, narrative summaries, and recommended actions. Result: improved model quality by 15%.
+
+SELECTED PROJECTS
+  * Led prototype work across Human-AI collaboration, Prompt engineering, SQL and analytics, Full AI build lifecycle, AI Lab experimentation.
+  * Led prototype work across Cloud and engineering partnership, Full AI build lifecycle, Validated outcomes.
+  * Led prototype work across Human-AI collaboration, Prompt engineering, Cloud and engineering partnership.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/robert-watson/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+scalability, human-AI handoffs, approved AI stack, chat applications, code review, relationship management, lifecycle ownership, reliability engineering, document AI, quality gates, rapid experimentation, KPI design, DevOps collaboration, pipeline management, TOGAF Foundation, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * TOGAF Foundation
+  * IAPP Certified Information Privacy Professional
+  * SnowPro Core Certification
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Master of Data Science
+North Jeffrey Institute of Technology - Class of 2018

@@ -1,0 +1,96 @@
+=========================================
+JAMES HOUSE
+Port Johnfort, CO | 307-096-9382 | james.house@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+James House is an AI Builder Manager with 12+ years of direct Data and AI experience, including Validated outcomes, Agentic AI delivery, Workflow and operating-model redesign, Demo safety and governance checks, Security and scalability, Productionization. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Validated outcomes
+  * Agentic AI delivery
+  * Workflow and operating-model redesign
+  * Demo safety and governance checks
+  * Security and scalability
+  * Productionization
+  * Full AI build lifecycle
+  * Cloud and engineering partnership
+  * AI literacy artifacts
+  * Commercial negotiation
+  * Data and AI strategy
+  * Demo readiness
+  * Enterprise operations fluency
+  * Ambiguity and execution
+
+CORE SKILLS
+structured assumptions, deployment controls, DevOps collaboration, stakeholder alignment, autonomous agents, demo narrative, production handoff, operational support, outcome validation, implementation playbooks, solution maintenance, process decomposition, deal governance, adoption metrics, internal enablement, platform teams, solution architecture, multi-agent systems, governance checks, production readiness, success metrics, risk review, identity controls, secure deployment, iteration, demo safety, release planning, cloud engineering, benefit measurement, board materials, demo packaging, process fluency
+
+PROFESSIONAL EXPERIENCE
+Applied AI Manager - Lee, Miller and Rodriguez
+2014 - 2016
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: delivered $9M in AI program value cases.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: improved delivery predictability by 15%.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Outcome: delivered $3M in AI program value cases.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: coached a team of 14 consultants and engineers.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: delivered $3M in AI program value cases.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: delivered $13M in AI program value cases.
+
+Data & AI Consulting Manager - Howard PLC
+2016 - 2017
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: coached a team of 4 consultants and engineers.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: delivered $4M in AI program value cases.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: delivered $10M in AI program value cases.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: coached a team of 9 consultants and engineers.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: coached a team of 9 consultants and engineers.
+  * Supported commercial negotiations by clarifying scope, value drivers, dependencies, and success metrics. Outcome: coached a team of 5 consultants and engineers.
+
+Applied AI Manager - Roberts, Kelley and Elliott
+2017 - 2020
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: reduced prototype-to-production cycle time by 20%.
+  * Supported commercial negotiations by clarifying scope, value drivers, dependencies, and success metrics. Outcome: delivered $13M in AI program value cases.
+  * Developed AI roadmaps that balanced quick-win use cases with platform, governance, and talent needs. Outcome: improved delivery predictability by 16%.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: reduced prototype-to-production cycle time by 22%.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: reduced prototype-to-production cycle time by 26%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: coached a team of 11 consultants and engineers.
+
+AI Delivery Manager - Sanchez and Sons
+2020 - Present
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: coached a team of 10 consultants and engineers.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: coached a team of 6 consultants and engineers.
+  * Designed AI solution architectures spanning ingestion, model serving, monitoring, and user workflow integration. Outcome: reduced prototype-to-production cycle time by 30%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: delivered $6M in AI program value cases.
+  * Prepared executive briefings that translated AI capabilities into strategic choices and investment decisions. Outcome: coached a team of 12 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Result: improved delivery predictability by 18%.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Result: reduced prototype-to-production cycle time by 33%.
+  * Managed senior stakeholder expectations through clear decision points, risks, and value narratives. Result: delivered $8M in AI program value cases.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Result: coached a team of 10 consultants and engineers.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Result: delivered $13M in AI program value cases.
+
+SELECTED PROJECTS
+  * Led enablement work across Ambiguity and execution, Cloud and engineering partnership, Data and AI strategy, Demo safety and governance checks.
+  * Led roadmap work across Data and AI strategy, AI solution architecture, Executive stakeholder management, Ambiguity and execution.
+  * Led prototype work across Data and AI strategy, AI literacy artifacts, Ambiguity and execution.
+  * Led prototype work across Agentic AI delivery, Enterprise operations fluency, Commercial negotiation.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/james-house/agentic-ai-builds
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+
+TOOLS, PLATFORMS, AND METHODS
+structured assumptions, deployment controls, DevOps collaboration, stakeholder alignment, autonomous agents, demo narrative, production handoff, operational support, outcome validation, implementation playbooks, solution maintenance, process decomposition, deal governance, adoption metrics, Project Management Professional, SnowPro Core Certification
+
+CERTIFICATIONS
+  * Project Management Professional
+  * SnowPro Core Certification
+  * TOGAF Foundation
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Master of Information Systems
+Lake Sylviaton Polytechnic - Class of 2010

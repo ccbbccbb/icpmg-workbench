@@ -1,0 +1,64 @@
+=========================================
+MELISSA BALLARD
+New Kyle, TX | +1 (897) 887-3096 | melissa.ballard@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Melissa Ballard is a business and analytics professional with 6+ years of transferable experience related to Code quality and reliability, Security and scalability, Prototype portfolio, Automation. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Security and scalability
+  * Prototype portfolio
+  * Automation
+  * Builder community contribution
+  * Validated outcomes
+
+CORE SKILLS
+outcome validation, benefit measurement, code review, reliability engineering, GitHub demos, identity controls, build case, community demos, automated testing, maintainability, demo write-ups, workflow automation, process mining, success metrics, scalability, data protection, builder community, adoption metrics
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Johnson-Crawford
+2020 - 2024
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: processed 13M records through reusable pipelines.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 28M records through reusable pipelines.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: improved model quality by 20%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: cut evaluation turnaround from 7 days to 2 days.
+
+Automation Specialist - Riley Group
+2024 - 2025
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: standardized reporting for 5 stakeholder groups.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: reduced manual analysis effort by 18%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 31M records through reusable pipelines.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: standardized reporting for 8 stakeholder groups.
+
+Analytics Consultant - Hall and Sons
+2025 - Present
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: reduced operational handoffs by 9%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced manual analysis effort by 25%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: reduced operational handoffs by 14%.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: cut evaluation turnaround from 5 days to 2 days.
+
+SELECTED ACHIEVEMENTS
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Result: processed 33M records through reusable pipelines.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: processed 7M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led roadmap work across Automation, Code quality and reliability, Validated outcomes, Builder community contribution, Security and scalability.
+  * Led implementation work across Code quality and reliability, Automation, Builder community contribution.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/melissa-ballard/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+outcome validation, benefit measurement, code review, reliability engineering, GitHub demos, identity controls, build case, community demos, automated testing, maintainability, demo write-ups, workflow automation, process mining, success metrics, IAPP Certified Information Privacy Professional, Project Management Professional
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Science, Statistics
+Christinachester Polytechnic - Class of 2017

@@ -1,0 +1,64 @@
+=========================================
+DAVID THOMAS
+Christopherside, SC | 1-734-761-0526 | david.thomas@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+David Thomas is a business and analytics professional with 6+ years of transferable experience related to Human-AI collaboration, Productionization, Full AI build lifecycle, Ambiguity and execution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Productionization
+  * Full AI build lifecycle
+  * Ambiguity and execution
+  * Client workshops
+  * Internal Transformation production path
+  * Validated outcomes
+
+CORE SKILLS
+autonomy design, shared assets, enterprise rollout, builder community, executive demos, structured assumptions, lifecycle ownership, decision boundaries, discovery workshops, production readiness, ambiguity, adoption metrics, journey mapping, reuse
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Choi PLC
+2020 - 2021
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced operational handoffs by 9%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: improved model quality by 12%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: reduced manual analysis effort by 20%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: cut evaluation turnaround from 8 days to 2 days.
+
+Business Analyst - Garcia Inc
+2021 - 2025
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: standardized reporting for 8 stakeholder groups.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: processed 23M records through reusable pipelines.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: processed 8M records through reusable pipelines.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: reduced manual analysis effort by 18%.
+
+Automation Specialist - Haney-White
+2025 - Present
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: reduced manual analysis effort by 44%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: standardized reporting for 10 stakeholder groups.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced operational handoffs by 13%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced operational handoffs by 8%.
+
+SELECTED ACHIEVEMENTS
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: reduced manual analysis effort by 34%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Result: improved model quality by 24%.
+
+SELECTED PROJECTS
+  * Led enablement work across Client workshops, Validated outcomes, Builder community contribution, Security and scalability, Internal Transformation production path.
+  * Led prototype work across Productionization, Internal Transformation production path, Client workshops, Human-AI collaboration, Security and scalability.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/david-thomas/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+autonomy design, shared assets, enterprise rollout, builder community, executive demos, structured assumptions, lifecycle ownership, decision boundaries, discovery workshops, production readiness, ambiguity, adoption metrics, journey mapping, reuse, SnowPro Core Certification
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+
+EDUCATION
+Bachelor of Mathematics
+Dannyhaven School of Business - Class of 2017

@@ -1,0 +1,64 @@
+=========================================
+KAREN TOWNSEND
+Port Deborah, GU | 593-947-2150 x033 | karen.townsend@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Karen Townsend is a business and analytics professional with 3+ years of transferable experience related to Full AI build lifecycle, Automation, Client workshops, Builder community contribution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Full AI build lifecycle
+  * Automation
+  * Client workshops
+  * Builder community contribution
+  * Validated outcomes
+  * Trade-off judgment
+  * Python
+
+CORE SKILLS
+pytest, journey mapping, CI/CD, structured thinking, workflow automation, shared assets, quality metrics, community demos, prototype lifecycle, applied research, trade-off decisions, builder community, FastAPI, production handoff, benefit measurement, discovery workshops
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Johnson LLC
+2023 - 2024
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: reduced operational handoffs by 13%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced manual analysis effort by 42%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: standardized reporting for 8 stakeholder groups.
+
+Analytics Consultant - Zhang Ltd
+2024 - 2025
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: standardized reporting for 7 stakeholder groups.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: improved model quality by 15%.
+  * Wrote tested Python utilities for data validation, feature generation, and API integration. Outcome: processed 12M records through reusable pipelines.
+  * Built evaluation datasets and scorecards to compare model outputs against business acceptance criteria. Outcome: reduced manual analysis effort by 30%.
+
+Analytics Consultant - Whitaker, Hudson and Hansen
+2025 - Present
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced operational handoffs by 10%.
+  * Defined operational checks for model drift, data freshness, latency, and incident response. Outcome: reduced operational handoffs by 14%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: standardized reporting for 7 stakeholder groups.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: standardized reporting for 3 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Result: improved model quality by 13%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Result: reduced operational handoffs by 12%.
+
+SELECTED PROJECTS
+  * Led discovery work across Model evaluation, MLOps, AI Lab experimentation, Client workshops.
+  * Led implementation work across Full AI build lifecycle, Builder community contribution, Validated outcomes, Client workshops.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/karen-townsend/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+pytest, journey mapping, CI/CD, structured thinking, workflow automation, shared assets, quality metrics, community demos, prototype lifecycle, applied research, trade-off decisions, builder community, FastAPI, production handoff, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+
+EDUCATION
+Diploma in Business Analytics
+Sheilaport University - Class of 2018

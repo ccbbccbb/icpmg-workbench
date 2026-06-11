@@ -1,0 +1,64 @@
+=========================================
+DEBRA FRANKLIN
+Gonzalesborough, VI | 534-135-0794 | debra.franklin@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Debra Franklin is a business and analytics professional with 4+ years of transferable experience related to Approved AI and engineering stack, Automation, Ambiguity and execution, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Automation
+  * Ambiguity and execution
+  * Low-code, API, and orchestration tools
+  * Validated outcomes
+  * Responsible AI
+  * Reusable demos, kits, and handoff materials
+
+CORE SKILLS
+rapid prototyping, secure platforms, success metrics, plugin design, implementation playbooks, human oversight, ambiguity, handoff kits, workflow orchestration, production readiness, transparency, agent tools, Python automation, skills, RPA integration, AI ethics
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Robinson, Roach and Cameron
+2022 - 2024
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: improved model quality by 14%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: improved model quality by 8%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: cut evaluation turnaround from 4 days to 3 days.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: standardized reporting for 7 stakeholder groups.
+
+Business Analyst - Watkins, Perez and Maldonado
+2024 - 2025
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: improved model quality by 11%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: processed 29M records through reusable pipelines.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced operational handoffs by 18%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced operational handoffs by 8%.
+
+Automation Specialist - Heath and Sons
+2025 - Present
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: standardized reporting for 10 stakeholder groups.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced operational handoffs by 12%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: processed 21M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: cut evaluation turnaround from 4 days to 1 day.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Result: reduced operational handoffs by 12%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Reusable demos, kits, and handoff materials, Automation, Builder mindset, Ambiguity and execution.
+  * Led implementation work across Responsible AI, Low-code, API, and orchestration tools, Agents, plugins, skills, and tools.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/debra-franklin/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+rapid prototyping, secure platforms, success metrics, plugin design, implementation playbooks, human oversight, ambiguity, handoff kits, workflow orchestration, production readiness, transparency, agent tools, Python automation, skills, SnowPro Core Certification
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+
+EDUCATION
+Bachelor of Science, Statistics
+Lake Carmen University - Class of 2016

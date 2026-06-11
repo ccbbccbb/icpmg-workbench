@@ -1,0 +1,65 @@
+=========================================
+COREY JOHNSON
+Wilsonview, DE | 729 727 1788 | corey.johnson@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Corey Johnson is a business and analytics professional with 5+ years of transferable experience related to Full AI build lifecycle, Service line leadership engagement, Human-AI collaboration, Responsible AI. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Full AI build lifecycle
+  * Service line leadership engagement
+  * Human-AI collaboration
+  * Responsible AI
+  * Builder mindset
+  * Machine learning
+  * Product management
+
+CORE SKILLS
+communications, human-AI handoffs, opportunity management, acceptance criteria, AI ethics, operating model change, user stories, feature engineering, prototype lifecycle, roadmaps, service line leaders, responsible AI, solution maintenance
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - Reese-Owens
+2021 - 2023
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: coached a team of 12 consultants and engineers.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: delivered $8M in AI program value cases.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced prototype-to-production cycle time by 17%.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: improved delivery predictability by 28%.
+
+Product Owner - Espinoza, Hunter and Howard
+2023 - 2024
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved delivery predictability by 32%.
+  * Improved model performance through feature engineering, validation splits, and error analysis. Outcome: reduced prototype-to-production cycle time by 26%.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: improved delivery predictability by 22%.
+  * Built and expanded partner-led pipeline through campaign follow-up, account mapping, and sales funnel discipline. Outcome: standardized reporting for 5 stakeholder groups.
+
+Product Owner - Johnson PLC
+2024 - Present
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: standardized reporting for 6 stakeholder groups.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved delivery predictability by 15%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced operational handoffs by 17%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: reduced operational handoffs by 20%.
+
+SELECTED ACHIEVEMENTS
+  * Partnered with business leads to define new controls, roles, and escalation paths. Result: improved delivery predictability by 25%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: delivered $10M in AI program value cases.
+
+SELECTED PROJECTS
+  * Led discovery work across Change management, Machine learning, Full AI build lifecycle.
+  * Led roadmap work across Full AI build lifecycle, Human-AI collaboration, Partner pipeline creation, Machine learning.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/corey-johnson/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+communications, human-AI handoffs, opportunity management, acceptance criteria, AI ethics, operating model change, user stories, feature engineering, prototype lifecycle, roadmaps, service line leaders, responsible AI, solution maintenance, IAPP Certified Information Privacy Professional, Project Management Professional
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+  * Project Management Professional
+
+EDUCATION
+Diploma in Business Analytics
+Crossview University - Class of 2017

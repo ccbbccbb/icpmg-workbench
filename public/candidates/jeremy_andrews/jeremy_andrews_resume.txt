@@ -1,0 +1,63 @@
+=========================================
+JEREMY ANDREWS
+Timothyton, OK | 905.916.5403 | jeremy.andrews@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jeremy Andrews is a business and analytics professional with 9+ years of transferable experience related to Internal Transformation production path, Builder team coaching, Service line leadership engagement, Change management. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Internal Transformation production path
+  * Builder team coaching
+  * Service line leadership engagement
+  * Change management
+  * Builder mindset
+  * Trade-off judgment
+
+CORE SKILLS
+operating model change, communications, adoption planning, structured thinking, hands-on execution, delivery judgment, team development, technical direction, trade-off decisions, executive engagement, internal stakeholders, prioritization, builder coaching, service line leaders, work review, enterprise rollout, working systems, senior manager alignment, internal transformation
+
+PROFESSIONAL EXPERIENCE
+Product Owner - Johnson Inc
+2017 - 2021
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: coached a team of 11 consultants and engineers.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: improved delivery predictability by 14%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced prototype-to-production cycle time by 32%.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: delivered $4M in AI program value cases.
+
+Technology Project Manager - Lee, Goodman and Floyd
+2021 - 2023
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: standardized reporting for 6 stakeholder groups.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: coached a team of 8 consultants and engineers.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: reduced prototype-to-production cycle time by 40%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: standardized reporting for 10 stakeholder groups.
+
+Technology Project Manager - Powell, Griffin and Thompson
+2023 - Present
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: coached a team of 14 consultants and engineers.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: delivered $12M in AI program value cases.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: delivered $2M in AI program value cases.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: delivered $11M in AI program value cases.
+
+SELECTED ACHIEVEMENTS
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Result: delivered $11M in AI program value cases.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Result: improved delivery predictability by 14%.
+
+SELECTED PROJECTS
+  * Led discovery work across Builder team coaching, Trade-off judgment, Change management, Builder mindset.
+  * Led discovery work across Builder mindset, Trade-off judgment, Internal Transformation production path.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/jeremy-andrews/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+operating model change, communications, adoption planning, structured thinking, hands-on execution, delivery judgment, team development, technical direction, trade-off decisions, executive engagement, internal stakeholders, prioritization, builder coaching, service line leaders, TOGAF Foundation
+
+CERTIFICATIONS
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Economics
+Nicolemouth University - Class of 2015

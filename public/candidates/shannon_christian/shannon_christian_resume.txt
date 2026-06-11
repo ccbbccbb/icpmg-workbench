@@ -1,0 +1,75 @@
+=========================================
+SHANNON CHRISTIAN
+Rhodeschester, FM | (844) 316-8129 | shannon.christian@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Shannon Christian is a data and technology consulting professional with 8+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Agentic AI delivery, Agents, plugins, skills, and tools, Internal Transformation production path, Demo safety and governance checks, Demo readiness, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Agents, plugins, skills, and tools
+  * Internal Transformation production path
+  * Demo safety and governance checks
+  * Demo readiness
+  * Code quality and reliability
+  * Validated outcomes
+  * Security and scalability
+  * Change management
+  * Human-AI collaboration
+
+CORE SKILLS
+co-selling, demo rehearsal, reliability engineering, skills, data protection, review loops, field sales, code review, prototype lifecycle, automated testing, multi-agent systems, success metrics, solution maintenance, adoption planning, secure architecture, human-AI handoffs, partner channels, agentic AI, community demos, shared assets, scalability, safe showcase, plugin design, operating model change, autonomy design, internal transformation, outcome validation
+
+PROFESSIONAL EXPERIENCE
+Applied AI Manager - Jackson-Flowers
+2018 - 2021
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: improved delivery predictability by 14%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: coached a team of 9 consultants and engineers.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: improved delivery predictability by 21%.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: delivered $12M in AI program value cases.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: coached a team of 13 consultants and engineers.
+
+Generative AI Program Manager - Bates PLC
+2021 - 2022
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: coached a team of 8 consultants and engineers.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: delivered $14M in AI program value cases.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: coached a team of 13 consultants and engineers.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: delivered $4M in AI program value cases.
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: coached a team of 4 consultants and engineers.
+
+Generative AI Program Manager - Brown-Franklin
+2022 - Present
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: delivered $8M in AI program value cases.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced prototype-to-production cycle time by 27%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved delivery predictability by 13%.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: coached a team of 10 consultants and engineers.
+  * Built account pursuit cadences with partner sellers, internal account teams, and solution leads. Outcome: coached a team of 7 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: coached a team of 7 consultants and engineers.
+  * Partnered with business leads to define new controls, roles, and escalation paths. Result: reduced prototype-to-production cycle time by 33%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Result: improved delivery predictability by 23%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Human-AI collaboration, Internal Transformation production path, Agents, plugins, skills, and tools, Builder community contribution, Agentic AI delivery.
+  * Led prototype work across Demo safety and governance checks, Partner field sales collaboration, Internal Transformation production path, Agents, plugins, skills, and tools.
+  * Led prototype work across Demo safety and governance checks, Human-AI collaboration, Security and scalability, Full AI build lifecycle, Agents, plugins, skills, and tools.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/shannon-christian/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+co-selling, demo rehearsal, reliability engineering, skills, data protection, review loops, field sales, code review, prototype lifecycle, automated testing, multi-agent systems, success metrics, solution maintenance, adoption planning, Google Cloud Professional Machine Learning Engineer, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Master of Business Administration, Analytics
+Joseton Polytechnic - Class of 2015

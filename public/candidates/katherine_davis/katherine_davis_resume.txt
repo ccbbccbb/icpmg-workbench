@@ -1,0 +1,96 @@
+=========================================
+KATHERINE DAVIS
+New Seth, ID | 1 (931) 803-3581 | katherine.davis@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Katherine Davis is an AI Builder Manager with 10+ years of direct Data and AI experience, including Workflow and operating-model redesign, Cloud and engineering partnership, Internal Transformation production path, Agentic AI delivery, Reusable demos, kits, and handoff materials, Builder team coaching. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Workflow and operating-model redesign
+  * Cloud and engineering partnership
+  * Internal Transformation production path
+  * Agentic AI delivery
+  * Reusable demos, kits, and handoff materials
+  * Builder team coaching
+  * Agents, plugins, skills, and tools
+  * Evaluation design
+  * Demo readiness
+  * Productionization
+  * Sales enablement
+  * Stakeholder management
+  * Security
+  * Product management
+
+CORE SKILLS
+LLMs, decision logs, team development, plugin design, showcase artifacts, adoption planning, multi-agent systems, battlecards, cloud engineering, data protection, workshop follow-up, process decomposition, identity access management, internal transformation, orchestration, builder coaching, work review, user stories, agentic AI, AI copilots, demo scripts, agent evaluation, secure deployment, workflow redesign, decision systems, agent workflows, skills, handoff kits, product strategy, demo rehearsal, decision boundaries, production readiness, pitch decks, replication kits
+
+PROFESSIONAL EXPERIENCE
+AI Product Engineering Manager - Harris, Bridges and Madden
+2016 - 2020
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Outcome: delivered $4M in AI program value cases.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: delivered $12M in AI program value cases.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: coached a team of 13 consultants and engineers.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: reduced prototype-to-production cycle time by 29%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced prototype-to-production cycle time by 19%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: coached a team of 4 consultants and engineers.
+
+Data & AI Consulting Manager - Mills-Harrison
+2020 - 2022
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced prototype-to-production cycle time by 17%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: reduced prototype-to-production cycle time by 30%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved delivery predictability by 25%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: coached a team of 13 consultants and engineers.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: improved delivery predictability by 13%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced prototype-to-production cycle time by 24%.
+
+Applied AI Manager - Rose Ltd
+2022 - 2024
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: delivered $12M in AI program value cases.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced prototype-to-production cycle time by 31%.
+  * Trained client-facing teams on AI use cases, partner offers, and qualification criteria. Outcome: coached a team of 12 consultants and engineers.
+  * Resolved delivery ambiguity by documenting assumptions, owners, and next steps. Outcome: improved delivery predictability by 12%.
+  * Worked with security teams to close architecture and deployment risks before launch. Outcome: reduced prototype-to-production cycle time by 24%.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: coached a team of 5 consultants and engineers.
+
+Data & AI Consulting Manager - Smith PLC
+2024 - Present
+  * Worked with security teams to close architecture and deployment risks before launch. Outcome: coached a team of 11 consultants and engineers.
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: delivered $4M in AI program value cases.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: improved delivery predictability by 18%.
+  * Built generative AI prototypes for knowledge search, summarization, intake triage, and analyst assistance. Outcome: coached a team of 9 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: delivered $14M in AI program value cases.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: coached a team of 7 consultants and engineers.
+  * Trained client-facing teams on AI use cases, partner offers, and qualification criteria. Result: improved delivery predictability by 18%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Result: improved delivery predictability by 30%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Result: delivered $14M in AI program value cases.
+
+SELECTED PROJECTS
+  * Led roadmap work across Builder team coaching, Cloud and engineering partnership, Generative AI, Workflow and operating-model redesign, Agents, plugins, skills, and tools.
+  * Led enablement work across Evaluation design, Agents, plugins, skills, and tools, Cloud and engineering partnership, Reusable demos, kits, and handoff materials, Sales enablement.
+  * Led enablement work across Cloud and engineering partnership, Demo readiness, Human-AI collaboration, Agents, plugins, skills, and tools.
+  * Led discovery work across Sales enablement, Product management, Workflow and operating-model redesign, Evaluation design.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/katherine-davis/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+LLMs, decision logs, team development, plugin design, showcase artifacts, adoption planning, multi-agent systems, battlecards, cloud engineering, data protection, workshop follow-up, process decomposition, identity access management, internal transformation, Databricks Machine Learning Associate, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * AWS Certified Machine Learning - Specialty
+  * Microsoft Certified: Azure AI Engineer Associate
+  * TOGAF Foundation
+  * Certified ScrumMaster
+
+EDUCATION
+Master of Information Systems
+Lake Toniborough Institute of Technology - Class of 2012

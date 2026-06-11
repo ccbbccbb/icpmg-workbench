@@ -1,0 +1,77 @@
+=========================================
+AMANDA ONEAL
+Stevenhaven, AK | 534 420 0203 | amanda.oneal@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Amanda Oneal is a data and technology consulting professional with 9+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Agents, plugins, skills, and tools, Security and scalability, Workflow and operating-model redesign, Cloud and engineering partnership, Productionization, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Security and scalability
+  * Workflow and operating-model redesign
+  * Cloud and engineering partnership
+  * Productionization
+  * Generative AI
+  * Builder team coaching
+  * Data and AI strategy
+  * Model governance
+  * AI Lab experimentation
+
+CORE SKILLS
+deployment controls, retrieval augmented generation, operational support, technical leadership, technical direction, integration patterns, plugin design, Google Cloud, AI Lab prototyping, tool calling, scalability, applied research, agent workflows, capability assessment, facilitation, enterprise architecture, work review, AI strategy, secure architecture, enterprise rollout, discovery workshops, adoption planning, Snowflake, platform teams, resource planning, structured assumptions, frontier models
+
+PROFESSIONAL EXPERIENCE
+Applied AI Manager - Munoz-Morrow
+2017 - 2020
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: delivered $10M in AI program value cases.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: reduced prototype-to-production cycle time by 36%.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: improved delivery predictability by 12%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced prototype-to-production cycle time by 36%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: coached a team of 8 consultants and engineers.
+
+Generative AI Program Manager - Johnson Inc
+2020 - 2022
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: delivered $2M in AI program value cases.
+  * Built generative AI prototypes for knowledge search, summarization, intake triage, and analyst assistance. Outcome: improved delivery predictability by 29%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: improved delivery predictability by 16%.
+  * Assessed data and AI maturity across operating model, tooling, controls, and delivery capability. Outcome: reduced prototype-to-production cycle time by 19%.
+  * Designed governance checkpoints for use-case intake, validation, approval, and post-launch review. Outcome: reduced prototype-to-production cycle time by 22%.
+
+Generative AI Program Manager - Gallagher-Crosby
+2022 - Present
+  * Designed governance checkpoints for use-case intake, validation, approval, and post-launch review. Outcome: improved delivery predictability by 14%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: coached a team of 7 consultants and engineers.
+  * Coached junior team members on consulting communication, solution design, and delivery discipline. Outcome: delivered $14M in AI program value cases.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: delivered $8M in AI program value cases.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced prototype-to-production cycle time by 37%.
+
+SELECTED ACHIEVEMENTS
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Result: coached a team of 7 consultants and engineers.
+  * Created model documentation covering purpose, assumptions, limitations, owners, and monitoring controls. Result: reduced prototype-to-production cycle time by 15%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: reduced prototype-to-production cycle time by 23%.
+
+SELECTED PROJECTS
+  * Led discovery work across Generative AI, Enterprise architecture, Internal Transformation production path.
+  * Led prototype work across Ambiguity and execution, Cloud AI platforms, Security and scalability, Workflow and operating-model redesign, Internal Transformation production path.
+  * Led prototype work across Generative AI, Security and scalability, Model governance, Ambiguity and execution.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/amanda-oneal/agentic-ai-builds
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+
+TOOLS, PLATFORMS, AND METHODS
+deployment controls, retrieval augmented generation, operational support, technical leadership, technical direction, integration patterns, plugin design, Google Cloud, AI Lab prototyping, tool calling, scalability, applied research, agent workflows, capability assessment, Databricks Machine Learning Associate, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Google Cloud Professional Machine Learning Engineer
+  * Prosci Change Management Certification
+
+EDUCATION
+Master of Information Systems
+Port Markburgh University - Class of 2011

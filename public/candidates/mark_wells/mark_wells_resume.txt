@@ -1,0 +1,76 @@
+=========================================
+MARK WELLS
+Port Wendyland, DE | 332-171-3971 | mark.wells@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Mark Wells is a data and technology consulting professional with 4+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Code quality and reliability, Prototype portfolio, Security and scalability, Cloud and engineering partnership, Agentic AI delivery, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Prototype portfolio
+  * Security and scalability
+  * Cloud and engineering partnership
+  * Agentic AI delivery
+  * Evaluation design
+  * Human-AI collaboration
+  * Agents, plugins, skills, and tools
+  * Low-code, API, and orchestration tools
+  * Python
+
+CORE SKILLS
+AWS, Snowflake, human-AI handoffs, pytest, tool calling, build mindset, eval harnesses, workflow orchestration, hypothesis design, low-code platforms, multi-agent systems, A/B testing, scalability, Azure AI, automated testing, code review, platform teams, secure deployment, Python, skills, working systems, NumPy, Databricks
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Villarreal Inc
+2022 - 2024
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: improved model quality by 22%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: reduced manual analysis effort by 45%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: processed 38M records through reusable pipelines.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: processed 24M records through reusable pipelines.
+
+GenAI Solution Consultant - Rodriguez Ltd
+2024 - 2025
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: improved model quality by 16%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: cut evaluation turnaround from 7 days to 3 days.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: processed 4M records through reusable pipelines.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: processed 26M records through reusable pipelines.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced manual analysis effort by 42%.
+
+Applied AI Consultant - Macdonald LLC
+2025 - Present
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: cut evaluation turnaround from 5 days to 1 day.
+  * Built Python services and notebooks for ingestion, modelling, evaluation, and reporting. Outcome: processed 24M records through reusable pipelines.
+  * Delivered AI workloads on cloud platforms using managed model endpoints, storage, and observability services. Outcome: reduced manual analysis effort by 27%.
+  * Designed experiments to compare model variants, user prompts, and workflow interventions. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced manual analysis effort by 36%.
+
+SELECTED ACHIEVEMENTS
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Result: improved model quality by 24%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Result: cut evaluation turnaround from 6 days to 1 day.
+  * Designed experiments to compare model variants, user prompts, and workflow interventions. Result: reduced manual analysis effort by 34%.
+
+SELECTED PROJECTS
+  * Led enablement work across Code quality and reliability, Cloud AI platforms, Python.
+  * Led discovery work across Security and scalability, Cloud and engineering partnership, Builder mindset.
+  * Led discovery work across Security and scalability, Builder mindset, Evaluation design.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/mark-wells/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+AWS, Snowflake, human-AI handoffs, pytest, tool calling, build mindset, eval harnesses, workflow orchestration, hypothesis design, low-code platforms, multi-agent systems, A/B testing, scalability, Azure AI, Databricks Machine Learning Associate, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * IAPP Certified Information Privacy Professional
+  * Google Cloud Professional Machine Learning Engineer
+  * Certified ScrumMaster
+
+EDUCATION
+Master of Data Science
+North Kyle University - Class of 2018

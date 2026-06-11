@@ -1,0 +1,76 @@
+=========================================
+LISA GEORGE
+Suarezberg, WA | 667.585.8278 | lisa.george@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Lisa George is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Evaluation design, Productionization, Approved AI and engineering stack, Agents, plugins, skills, and tools, Cloud and engineering partnership, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Productionization
+  * Approved AI and engineering stack
+  * Agents, plugins, skills, and tools
+  * Cloud and engineering partnership
+  * SQL and analytics
+  * Stakeholder management
+  * Internal Transformation production path
+  * Client workshops
+  * Reusable demos, kits, and handoff materials
+
+CORE SKILLS
+implementation playbooks, replication kits, secure platforms, working systems, model registry, build mindset, engineering standards, adoption planning, SQL, platform constraints, approved AI stack, tool calling, handoff kits, discovery workshops, CI/CD, operating model change, prototype lifecycle, operational support, internal transformation, decision logs, cloud engineering, test sets, KPI design
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Matthews-Harmon
+2018 - 2019
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 9 days to 2 days.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: reduced manual analysis effort by 43%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: reduced manual analysis effort by 31%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: improved model quality by 22%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 38M records through reusable pipelines.
+
+GenAI Solution Consultant - Robbins Inc
+2019 - 2020
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: cut evaluation turnaround from 10 days to 3 days.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Outcome: reduced manual analysis effort by 24%.
+  * Kept client, product, data, and risk stakeholders aligned through status updates and decision logs. Outcome: reduced manual analysis effort by 44%.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: improved model quality by 19%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: improved model quality by 23%.
+
+Data Science Consultant - Mendez-Mercado
+2020 - Present
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: improved model quality by 18%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved model quality by 12%.
+  * Defined operational checks for model drift, data freshness, latency, and incident response. Outcome: reduced manual analysis effort by 27%.
+
+SELECTED ACHIEVEMENTS
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: processed 39M records through reusable pipelines.
+  * Kept client, product, data, and risk stakeholders aligned through status updates and decision logs. Result: processed 40M records through reusable pipelines.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Result: processed 17M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led roadmap work across Productionization, AI Lab experimentation, Cloud and engineering partnership, MLOps, Evaluation design.
+  * Led prototype work across Cloud and engineering partnership, SQL and analytics, Evaluation design.
+  * Led roadmap work across AI Lab experimentation, Cloud and engineering partnership, MLOps, Stakeholder management, Evaluation design.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/lisa-george/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+implementation playbooks, replication kits, secure platforms, working systems, model registry, build mindset, engineering standards, adoption planning, SQL, platform constraints, approved AI stack, tool calling, handoff kits, discovery workshops, IAPP Certified Information Privacy Professional, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+  * Google Cloud Professional Machine Learning Engineer
+  * TOGAF Foundation
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+Smithburgh University - Class of 2013

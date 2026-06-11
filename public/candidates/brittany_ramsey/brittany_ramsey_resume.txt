@@ -1,0 +1,64 @@
+=========================================
+BRITTANY RAMSEY
+South Carla, NE | 832-413-3327 x580 | brittany.ramsey@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Brittany Ramsey is a business and analytics professional with 4+ years of transferable experience related to Agents, plugins, skills, and tools, Validated outcomes, Reusable demos, kits, and handoff materials, Trade-off judgment. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Validated outcomes
+  * Reusable demos, kits, and handoff materials
+  * Trade-off judgment
+  * Ambiguity and execution
+  * Builder mindset
+
+CORE SKILLS
+plugin design, working systems, iteration, agent tools, rapid prototyping, replication kits, benefit measurement, tool calling, structured thinking, handoff kits, implementation playbooks, ambiguity, outcome validation, orchestration, adoption metrics, structured assumptions, demo packaging
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Proctor, Hall and Castro
+2022 - 2023
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: reduced operational handoffs by 16%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: reduced operational handoffs by 12%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced manual analysis effort by 47%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced operational handoffs by 11%.
+
+Business Analyst - Martinez Inc
+2023 - 2025
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: processed 37M records through reusable pipelines.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: cut evaluation turnaround from 7 days to 3 days.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: improved model quality by 8%.
+
+Automation Specialist - Cox-Thomas
+2025 - Present
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: standardized reporting for 9 stakeholder groups.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: processed 22M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: cut evaluation turnaround from 4 days to 1 day.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Result: reduced operational handoffs by 8%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Trade-off judgment, Reusable demos, kits, and handoff materials, Validated outcomes, Agents, plugins, skills, and tools, Builder mindset.
+  * Led prototype work across Builder mindset, Agents, plugins, skills, and tools, Validated outcomes.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/brittany-ramsey/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+plugin design, working systems, iteration, agent tools, rapid prototyping, replication kits, benefit measurement, tool calling, structured thinking, handoff kits, implementation playbooks, ambiguity, outcome validation, orchestration, SnowPro Core Certification, Certified ScrumMaster
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Business Administration
+South Cory University - Class of 2019

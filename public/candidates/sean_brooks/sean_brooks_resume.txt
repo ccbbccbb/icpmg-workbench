@@ -1,0 +1,74 @@
+=========================================
+SEAN BROOKS
+Franciscoland, MO | 593.410.4282 | sean.brooks@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Sean Brooks is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Human-AI collaboration, Prototype portfolio, Full AI build lifecycle, AI Lab experimentation, Productionization, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Prototype portfolio
+  * Full AI build lifecycle
+  * AI Lab experimentation
+  * Productionization
+  * Evaluation design
+  * Reusable demos, kits, and handoff materials
+  * Market development
+  * Approved AI and engineering stack
+  * Enterprise architecture
+
+CORE SKILLS
+competitive positioning, applied research, enterprise architecture, deployment controls, test sets, technical leadership, solution maintenance, handoff kits, market analysis, LLMs, GitHub demos, RPA integration, implementation playbooks, operational support, approved AI stack, production handoff, decision boundaries, market positioning, performance feedback, eval harnesses, process mining, production readiness, human-AI handoffs, autonomy design, secure platforms, release planning
+
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer - Taylor-Bowen
+2018 - 2020
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced manual analysis effort by 46%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: reduced manual analysis effort by 18%.
+
+AI Builder Senior Consultant - Cruz, Lamb and James
+2020 - 2023
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: processed 31M records through reusable pipelines.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: processed 34M records through reusable pipelines.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: processed 13M records through reusable pipelines.
+  * Identified market demand themes and translated them into AI solution themes and partner campaigns. Outcome: cut evaluation turnaround from 4 days to 3 days.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced manual analysis effort by 37%.
+
+Machine Learning Engineer - Baird, Watkins and Vasquez
+2023 - Present
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: improved model quality by 24%.
+  * Mapped AI solution options to enterprise architecture standards and existing integration patterns. Outcome: processed 24M records through reusable pipelines.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Led mixed teams of consultants, engineers, and analysts through discovery, build, and rollout phases. Outcome: cut evaluation turnaround from 7 days to 3 days.
+
+SELECTED ACHIEVEMENTS
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Result: improved model quality by 17%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Result: cut evaluation turnaround from 7 days to 3 days.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Result: processed 13M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led discovery work across Prototype portfolio, Enterprise architecture, Productionization.
+  * Led discovery work across Market development, Automation, Evaluation design.
+  * Led roadmap work across Market development, Full AI build lifecycle, Approved AI and engineering stack, Human-AI collaboration, Reusable demos, kits, and handoff materials.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/sean-brooks/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+competitive positioning, applied research, enterprise architecture, deployment controls, test sets, technical leadership, solution maintenance, handoff kits, market analysis, LLMs, GitHub demos, RPA integration, implementation playbooks, operational support, Certified ScrumMaster, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Master of Data Science
+Gillbury Institute of Technology - Class of 2013

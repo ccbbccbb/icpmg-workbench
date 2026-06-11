@@ -1,0 +1,73 @@
+=========================================
+AMANDA RODRIGUEZ
+West Justinborough, UT | 1 (266) 645-8651 | amanda.rodriguez@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Amanda Rodriguez is a data and technology consulting professional with 5+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Human-AI collaboration, Code quality and reliability, Evaluation design, AI Lab experimentation, Cloud and engineering partnership, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Code quality and reliability
+  * Evaluation design
+  * AI Lab experimentation
+  * Cloud and engineering partnership
+  * Security and scalability
+  * Prototype portfolio
+  * Approved AI and engineering stack
+  * Client workshops
+  * Responsible AI
+
+CORE SKILLS
+AI ethics, platform constraints, adoption metrics, build case, success metrics, platform teams, human-AI handoffs, DevOps collaboration, reliability engineering, eval harnesses, human oversight, Kanban, approved AI stack, quality gates, prototype portfolio, secure platforms, backlog management, GitHub demos, discovery workshops, agent evaluation
+
+PROFESSIONAL EXPERIENCE
+Data Science Consultant - Becker Inc
+2021 - 2024
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved model quality by 10%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 30%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 8 days to 2 days.
+
+Applied AI Consultant - Williams-Mcintyre
+2024 - 2025
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 7M records through reusable pipelines.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: cut evaluation turnaround from 10 days to 1 day.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: improved model quality by 10%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: reduced manual analysis effort by 20%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: improved model quality by 9%.
+
+GenAI Solution Consultant - Robertson Inc
+2025 - Present
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced manual analysis effort by 27%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: reduced manual analysis effort by 38%.
+  * Coordinated analysts, engineers, and client owners through two-week delivery cycles. Outcome: improved model quality by 27%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: processed 27M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Result: improved model quality by 15%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: processed 13M records through reusable pipelines.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Result: processed 33M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led implementation work across Code quality and reliability, Security and scalability, Client workshops, Cloud and engineering partnership, Evaluation design.
+  * Led enablement work across Client workshops, Responsible AI, Code quality and reliability.
+  * Led prototype work across Cloud and engineering partnership, Code quality and reliability, Evaluation design, AI Lab experimentation, Prototype portfolio.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/amanda-rodriguez/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+AI ethics, platform constraints, adoption metrics, build case, success metrics, platform teams, human-AI handoffs, DevOps collaboration, reliability engineering, eval harnesses, human oversight, Kanban, approved AI stack, quality gates, Google Cloud Professional Machine Learning Engineer, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Master of Applied Computing
+South Michaelborough Institute of Technology - Class of 2018

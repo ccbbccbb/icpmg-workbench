@@ -1,0 +1,75 @@
+=========================================
+ERIC ELLISON
+Lake James, UT | 677.185.4683 | eric.ellison@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Eric Ellison is a data and technology consulting professional with 7+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Productionization, Builder team coaching, Full AI build lifecycle, Agents, plugins, skills, and tools, Internal Transformation production path, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Builder team coaching
+  * Full AI build lifecycle
+  * Agents, plugins, skills, and tools
+  * Internal Transformation production path
+  * Cloud and engineering partnership
+  * Validated outcomes
+  * Demo safety and governance checks
+  * Team leadership
+  * Demo readiness
+
+CORE SKILLS
+production handoff, demo safety, safe showcase, operational support, adoption metrics, orchestration, operating model change, dbt, DevOps collaboration, work review, outcome validation, prototype lifecycle, engineering standards, adoption planning, success metrics, solution maintenance, cloud engineering, internal transformation, hands-on execution, analytics tools, deployment controls, technical direction, approved AI stack, working systems, skills, performance feedback
+
+PROFESSIONAL EXPERIENCE
+Data & AI Consulting Manager - Miller LLC
+2019 - 2020
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: delivered $2M in AI program value cases.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: improved delivery predictability by 29%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: delivered $4M in AI program value cases.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: delivered $12M in AI program value cases.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced prototype-to-production cycle time by 33%.
+
+Data & AI Consulting Manager - Bautista, Carter and Jones
+2020 - 2022
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: improved delivery predictability by 17%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: delivered $4M in AI program value cases.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: improved delivery predictability by 14%.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: delivered $9M in AI program value cases.
+  * Coached junior team members on consulting communication, solution design, and delivery discipline. Outcome: improved delivery predictability by 34%.
+
+AI Product Engineering Manager - Thompson, Martin and Brooks
+2022 - Present
+  * Led mixed teams of consultants, engineers, and analysts through discovery, build, and rollout phases. Outcome: improved delivery predictability by 16%.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: improved delivery predictability by 22%.
+  * Improved pipeline reliability through validation, lineage notes, and scheduled quality checks. Outcome: coached a team of 9 consultants and engineers.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: delivered $6M in AI program value cases.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: delivered $8M in AI program value cases.
+
+SELECTED ACHIEVEMENTS
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Result: improved delivery predictability by 27%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Result: improved delivery predictability by 13%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Result: reduced prototype-to-production cycle time by 23%.
+
+SELECTED PROJECTS
+  * Led discovery work across Demo readiness, Team leadership, Full AI build lifecycle, CRM analytics and revenue forecasting.
+  * Led prototype work across Demo safety and governance checks, Validated outcomes, Agents, plugins, skills, and tools.
+  * Led discovery work across Cloud and engineering partnership, Data engineering, Security and scalability, Internal Transformation production path, Validated outcomes.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/eric-ellison/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+production handoff, demo safety, safe showcase, operational support, adoption metrics, orchestration, operating model change, dbt, DevOps collaboration, work review, outcome validation, prototype lifecycle, engineering standards, adoption planning, SnowPro Core Certification, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Master of Business Administration, Analytics
+Pamelaland University - Class of 2013

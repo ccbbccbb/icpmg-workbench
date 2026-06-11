@@ -1,0 +1,65 @@
+=========================================
+BRIAN MARTIN
+Stevenberg, SC | 240.030.8410 | brian.martin@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Brian Martin is a business and analytics professional with 6+ years of transferable experience related to Evaluation design, Full AI build lifecycle, Responsible AI, Change management. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Full AI build lifecycle
+  * Responsible AI
+  * Change management
+  * AI literacy artifacts
+  * Human-AI collaboration
+  * Ambiguity and execution
+
+CORE SKILLS
+iteration, responsible AI, agent evaluation, eval harnesses, transparency, prototype lifecycle, one-pagers, test sets, autonomy design, operating model change, fairness, structured assumptions, learning artifacts, delivery momentum, ambiguity, solution maintenance
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Kerr, Parker and Bauer
+2020 - 2024
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced prototype-to-production cycle time by 35%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: delivered $7M in AI program value cases.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: improved delivery predictability by 18%.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: reduced operational handoffs by 8%.
+
+Analytics Delivery Lead - Porter-Murray
+2024 - 2025
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: standardized reporting for 4 stakeholder groups.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: coached a team of 5 consultants and engineers.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: standardized reporting for 7 stakeholder groups.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: reduced operational handoffs by 15%.
+
+Analytics Delivery Lead - Woods, Turner and Perry
+2025 - Present
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced prototype-to-production cycle time by 40%.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: reduced prototype-to-production cycle time by 28%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: standardized reporting for 10 stakeholder groups.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: reduced prototype-to-production cycle time by 24%.
+
+SELECTED ACHIEVEMENTS
+  * Defined guardrails and review steps for higher-risk AI use cases. Result: delivered $12M in AI program value cases.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Result: reduced prototype-to-production cycle time by 35%.
+
+SELECTED PROJECTS
+  * Led implementation work across AI literacy artifacts, Human-AI collaboration, Responsible AI, Change management, Full AI build lifecycle.
+  * Led prototype work across AI literacy artifacts, Human-AI collaboration, Change management, Evaluation design, Responsible AI.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/brian-martin/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+iteration, responsible AI, agent evaluation, eval harnesses, transparency, prototype lifecycle, one-pagers, test sets, autonomy design, operating model change, fairness, structured assumptions, learning artifacts, delivery momentum, Databricks Machine Learning Associate, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Bachelor of Business Administration
+New Mitchellhaven Institute of Technology - Class of 2018

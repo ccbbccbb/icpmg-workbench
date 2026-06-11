@@ -20,8 +20,8 @@ export default function WorkbenchPage() {
   const utcTime = useUtcClock();
   const heroStatsRef = useProximityScale<HTMLDListElement>({
     axis: "x",
-    maxBrightness: 1.15,
-    maxScale: 1.08,
+    maxBrightness: 1.0375,
+    maxScale: 1.02,
   });
   const [liveAgents, setLiveAgents] = useState(3);
 
@@ -195,14 +195,25 @@ function StatusItem({ color, label }: { color: string; label: ReactNode }) {
 function JobRow({ job, showDivider }: { job: JobListing; showDivider: boolean }) {
   const locked = !job.featured;
   const router = useRouter();
+  const openReview = () => {
+    if (!locked) {
+      router.push(`/workbench/${job.reqId}`);
+    }
+  };
 
   return (
     <li
       className={cn(
         "grid grid-cols-[2fr_repeat(3,minmax(0,9rem))_auto] items-start gap-6 px-6 py-6 transition-colors hover:bg-kpmgGray6/60",
         showDivider && "border-kpmgGray45/60 border-t",
-        locked && "cursor-not-allowed"
+        locked ? "cursor-not-allowed" : "cursor-pointer"
       )}
+      onClick={openReview}
+      onKeyDown={(event) => {
+        if (event.key === "Enter") {
+          openReview();
+        }
+      }}
     >
       <div className="flex items-start gap-3">
         <ChevronDown aria-hidden className="mt-1 size-4 shrink-0 text-kpmgGray1" />
@@ -217,14 +228,15 @@ function JobRow({ job, showDivider }: { job: JobListing; showDivider: boolean })
       <JobMeta label="New This Week" value={`+${job.newThisWeek}`} />
       <JobMeta label="Pipeline Stage" value={job.pipelineStage} />
       <div className="flex flex-col items-stretch gap-2">
-        <Button
-          className="rounded-full px-6 hover:bg-black"
-          disabled={locked}
-          onClick={() => router.push(`/workbench/${job.reqId}`)}
-        >
+        <Button className="rounded-full px-6 hover:bg-black" disabled={locked}>
           Review Candidates
         </Button>
-        <Button className="rounded-full px-6" disabled={locked} variant="outline">
+        <Button
+          className="rounded-full px-6"
+          disabled={locked}
+          onClick={(event) => event.stopPropagation()}
+          variant="outline"
+        >
           <Sparkles aria-hidden />
           Run Screening Agent
         </Button>

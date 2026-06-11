@@ -1,0 +1,75 @@
+=========================================
+EMILY LEE
+Alvarezshire, PR | (519) 198-2580 x981 | emily.lee@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Emily Lee is a data and technology consulting professional with 10+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Reusable demos, kits, and handoff materials, Cloud and engineering partnership, Builder team coaching, Demo safety and governance checks, Validated outcomes, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Reusable demos, kits, and handoff materials
+  * Cloud and engineering partnership
+  * Builder team coaching
+  * Demo safety and governance checks
+  * Validated outcomes
+  * Demo readiness
+  * Full AI build lifecycle
+  * Evaluation design
+  * AI solution architecture
+  * Agile delivery
+
+CORE SKILLS
+cloud engineering, Kanban, deployment controls, production readiness, eval harnesses, team development, sprint planning, production handoff, delivery momentum, outcome validation, demo narrative, acceptance criteria, Scrum, agent evaluation, user stories, ambiguity, demo safety, executive demos, solution architecture, demo rehearsal, decision boundaries, risk review, success metrics, builder coaching
+
+PROFESSIONAL EXPERIENCE
+AI Delivery Manager - Warren LLC
+2016 - 2017
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: delivered $6M in AI program value cases.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: improved delivery predictability by 33%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: delivered $3M in AI program value cases.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: improved delivery predictability by 12%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: coached a team of 13 consultants and engineers.
+
+AI Product Engineering Manager - Boyd PLC
+2017 - 2019
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: delivered $11M in AI program value cases.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: delivered $14M in AI program value cases.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: coached a team of 10 consultants and engineers.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: coached a team of 4 consultants and engineers.
+  * Designed AI solution architectures spanning ingestion, model serving, monitoring, and user workflow integration. Outcome: reduced prototype-to-production cycle time by 21%.
+
+Applied AI Manager - Watkins-Johnson
+2019 - Present
+  * Designed AI solution architectures spanning ingestion, model serving, monitoring, and user workflow integration. Outcome: coached a team of 10 consultants and engineers.
+  * Ran sprint ceremonies and converted discovery notes into prioritized delivery backlogs. Outcome: coached a team of 10 consultants and engineers.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: coached a team of 6 consultants and engineers.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: coached a team of 6 consultants and engineers.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved delivery predictability by 28%.
+
+SELECTED ACHIEVEMENTS
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Result: reduced prototype-to-production cycle time by 20%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Result: coached a team of 10 consultants and engineers.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Result: coached a team of 4 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led roadmap work across Agile delivery, Reusable demos, kits, and handoff materials, Builder team coaching, Product management.
+  * Led enablement work across Evaluation design, Productionization, Demo safety and governance checks, Reusable demos, kits, and handoff materials.
+  * Led roadmap work across Productionization, Evaluation design, AI solution architecture, Demo readiness.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/emily-lee/agentic-ai-builds
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+cloud engineering, Kanban, deployment controls, production readiness, eval harnesses, team development, sprint planning, production handoff, delivery momentum, outcome validation, demo narrative, acceptance criteria, Scrum, agent evaluation, TOGAF Foundation, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * TOGAF Foundation
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Master of Information Systems
+Port Melissa Institute of Technology - Class of 2012

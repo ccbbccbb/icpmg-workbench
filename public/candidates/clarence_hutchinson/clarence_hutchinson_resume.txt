@@ -1,0 +1,65 @@
+=========================================
+CLARENCE HUTCHINSON
+Torreschester, MT | 1 (697) 433-9469 | clarence.hutchinson@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Clarence Hutchinson is a business and analytics professional with 5+ years of transferable experience related to Productionization, Code quality and reliability, Reusable demos, kits, and handoff materials, Responsible AI. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Code quality and reliability
+  * Reusable demos, kits, and handoff materials
+  * Responsible AI
+  * Product management
+  * Service line leadership engagement
+  * Builder mindset
+
+CORE SKILLS
+executive engagement, build mindset, human oversight, reliability engineering, backlog management, working systems, transparency, hands-on execution, maintainability, sprint planning, internal stakeholders, REST APIs, replication kits, deployment controls
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Perry LLC
+2021 - 2023
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: improved delivery predictability by 29%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: standardized reporting for 7 stakeholder groups.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: reduced operational handoffs by 18%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: reduced prototype-to-production cycle time by 19%.
+
+Technology Project Manager - Jones-Henry
+2023 - 2024
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: reduced prototype-to-production cycle time by 28%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced operational handoffs by 19%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: coached a team of 10 consultants and engineers.
+  * Ran sprint ceremonies and converted discovery notes into prioritized delivery backlogs. Outcome: coached a team of 5 consultants and engineers.
+
+Analytics Delivery Lead - Osborne-Thompson
+2024 - Present
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: delivered $6M in AI program value cases.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: reduced prototype-to-production cycle time by 24%.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: coached a team of 14 consultants and engineers.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: improved delivery predictability by 22%.
+
+SELECTED ACHIEVEMENTS
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Result: delivered $8M in AI program value cases.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Result: delivered $4M in AI program value cases.
+
+SELECTED PROJECTS
+  * Led roadmap work across Agile delivery, Product management, Builder mindset, Productionization, APIs and microservices.
+  * Led discovery work across Responsible AI, Reusable demos, kits, and handoff materials, Agile delivery.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/clarence-hutchinson/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+executive engagement, build mindset, human oversight, reliability engineering, backlog management, working systems, transparency, hands-on execution, maintainability, sprint planning, internal stakeholders, REST APIs, replication kits, deployment controls, SnowPro Core Certification, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Bachelor of Mathematics
+East Dana School of Business - Class of 2015

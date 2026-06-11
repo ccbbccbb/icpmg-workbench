@@ -1,0 +1,75 @@
+=========================================
+LACEY HENDRIX
+Santiagobury, DE | 574 245 6791 | lacey.hendrix@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Lacey Hendrix is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Security and scalability, Human-AI collaboration, Productionization, Full AI build lifecycle, AI Lab experimentation, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Human-AI collaboration
+  * Productionization
+  * Full AI build lifecycle
+  * AI Lab experimentation
+  * Cloud and engineering partnership
+  * Code quality and reliability
+  * Prototype portfolio
+  * Responsible AI
+  * Prompt engineering
+
+CORE SKILLS
+transparency, cloud engineering, identity controls, model registry, fairness, production handoff, scalability, CI/CD, LlamaIndex, few-shot examples, frontier models, code review, solution maintenance, model deployment, release planning, decision boundaries, demo write-ups, secure architecture, human-AI handoffs, prompt evaluation, production readiness, feature stores, reliability engineering, GitHub demos, AI Lab prototyping, DevOps collaboration, platform teams
+
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer - Miller, Rodriguez and Bell
+2020 - 2022
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: reduced manual analysis effort by 38%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced manual analysis effort by 39%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: reduced manual analysis effort by 30%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: cut evaluation turnaround from 6 days to 3 days.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: processed 36M records through reusable pipelines.
+
+AI Builder Senior Consultant - Jones Ltd
+2022 - 2025
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: improved model quality by 9%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: processed 7M records through reusable pipelines.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: reduced manual analysis effort by 18%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: cut evaluation turnaround from 9 days to 3 days.
+
+Applied AI Consultant - Espinoza-Moore
+2025 - Present
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Outcome: improved model quality by 25%.
+  * Integrated language models into business workflows through APIs, queues, and review interfaces. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Defined operational checks for model drift, data freshness, latency, and incident response. Outcome: reduced manual analysis effort by 25%.
+
+SELECTED ACHIEVEMENTS
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Result: cut evaluation turnaround from 10 days to 3 days.
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Result: reduced manual analysis effort by 39%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Result: reduced manual analysis effort by 46%.
+
+SELECTED PROJECTS
+  * Led prototype work across AI Lab experimentation, Security and scalability, Code quality and reliability.
+  * Led implementation work across Prompt engineering, Human-AI collaboration, Prototype portfolio, MLOps, Full AI build lifecycle.
+  * Led discovery work across Prototype portfolio, MLOps, Productionization, Human-AI collaboration, AI Lab experimentation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/lacey-hendrix/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+transparency, cloud engineering, identity controls, model registry, fairness, production handoff, scalability, CI/CD, LlamaIndex, few-shot examples, frontier models, code review, solution maintenance, model deployment, SnowPro Core Certification, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * Microsoft Certified: Azure AI Engineer Associate
+  * IAPP Certified Information Privacy Professional
+  * Certified ScrumMaster
+
+EDUCATION
+Master of Applied Computing
+Courtneyberg University - Class of 2015

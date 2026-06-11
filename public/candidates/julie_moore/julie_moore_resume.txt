@@ -1,0 +1,65 @@
+=========================================
+JULIE MOORE
+Williamhaven, AK | (426) 325-3793 x839 | julie.moore@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Julie Moore is a business and analytics professional with 5+ years of transferable experience related to Code quality and reliability, Validated outcomes, Builder community contribution, Ambiguity and execution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Validated outcomes
+  * Builder community contribution
+  * Ambiguity and execution
+  * Internal Transformation production path
+  * Builder mindset
+  * Reusable demos, kits, and handoff materials
+
+CORE SKILLS
+implementation playbooks, Microsoft, delivery momentum, adoption planning, outcome validation, working systems, code review, production handoff, adoption metrics, low-code platforms, prototype lifecycle, build mindset, handoff kits, benefit measurement, community demos, Google Cloud, replication kits
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Berg LLC
+2021 - 2024
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: cut evaluation turnaround from 9 days to 1 day.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: improved model quality by 15%.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: reduced manual analysis effort by 30%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: improved model quality by 9%.
+
+Automation Specialist - Scott Inc
+2024 - 2025
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced manual analysis effort by 42%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: reduced manual analysis effort by 46%.
+  * Maintained partner relationships across sales, solution engineering, and marketplace teams. Outcome: processed 40M records through reusable pipelines.
+
+Automation Specialist - Chang PLC
+2025 - Present
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: standardized reporting for 8 stakeholder groups.
+  * Worked with hyperscaler field teams on joint pursuits, technical validation, and account mapping. Outcome: reduced manual analysis effort by 20%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: reduced operational handoffs by 9%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: cut evaluation turnaround from 5 days to 3 days.
+
+SELECTED ACHIEVEMENTS
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Result: reduced manual analysis effort by 25%.
+  * Maintained partner relationships across sales, solution engineering, and marketplace teams. Result: improved model quality by 19%.
+
+SELECTED PROJECTS
+  * Led discovery work across Builder mindset, Ambiguity and execution, Internal Transformation production path.
+  * Led prototype work across Builder mindset, Hyperscaler partnerships, Ambiguity and execution, Code quality and reliability.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/julie-moore/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+implementation playbooks, Microsoft, delivery momentum, adoption planning, outcome validation, working systems, code review, production handoff, adoption metrics, low-code platforms, prototype lifecycle, build mindset, handoff kits, benefit measurement, Microsoft Certified: Azure AI Engineer Associate, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Science, Statistics
+West Luis School of Business - Class of 2015

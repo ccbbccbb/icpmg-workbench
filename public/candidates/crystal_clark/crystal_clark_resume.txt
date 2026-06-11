@@ -1,0 +1,64 @@
+=========================================
+CRYSTAL CLARK
+West Gina, MA | 182.234.3637 | crystal.clark@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Crystal Clark is a business and analytics professional with 4+ years of transferable experience related to Agents, plugins, skills, and tools, Ambiguity and execution, Low-code, API, and orchestration tools, Builder community contribution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Ambiguity and execution
+  * Low-code, API, and orchestration tools
+  * Builder community contribution
+  * Data and AI strategy
+  * Account planning
+  * Thought leadership
+
+CORE SKILLS
+plugin design, structured assumptions, territory planning, executive narratives, roadmaps, account strategy, ambiguity, orchestration, agent tools, skills, API integration, capability assessment, iteration
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Rivas-Hurley
+2022 - 2024
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: reduced manual analysis effort by 45%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: cut evaluation turnaround from 9 days to 1 day.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: cut evaluation turnaround from 7 days to 3 days.
+
+Automation Specialist - Cruz, Ramirez and Schmitt
+2024 - 2025
+  * Assessed data and AI maturity across operating model, tooling, controls, and delivery capability. Outcome: reduced operational handoffs by 17%.
+  * Mapped target accounts by buying centre, AI maturity, and renewal timing. Outcome: standardized reporting for 3 stakeholder groups.
+  * Presented market insights and practical AI adoption lessons to senior business audiences. Outcome: improved model quality by 22%.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: standardized reporting for 3 stakeholder groups.
+
+Analytics Consultant - Roberts, Smith and Gray
+2025 - Present
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced operational handoffs by 16%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: improved model quality by 25%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: cut evaluation turnaround from 7 days to 3 days.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: improved model quality by 14%.
+
+SELECTED ACHIEVEMENTS
+  * Presented market insights and practical AI adoption lessons to senior business audiences. Result: reduced operational handoffs by 8%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Result: reduced operational handoffs by 9%.
+
+SELECTED PROJECTS
+  * Led discovery work across Ambiguity and execution, Agents, plugins, skills, and tools, Low-code, API, and orchestration tools, Builder community contribution.
+  * Led implementation work across Product management, Low-code, API, and orchestration tools, Thought leadership.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/crystal-clark/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+plugin design, structured assumptions, territory planning, executive narratives, roadmaps, account strategy, ambiguity, orchestration, agent tools, skills, API integration, capability assessment, iteration, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Bachelor of Science, Statistics
+Port Kenneth School of Business - Class of 2016

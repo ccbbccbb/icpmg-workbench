@@ -1,0 +1,64 @@
+=========================================
+TIMOTHY BROCK
+Lake Richard, AS | (140) 292-7339 | timothy.brock@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Timothy Brock is a business and analytics professional with 5+ years of transferable experience related to Cloud and engineering partnership, Trade-off judgment, Internal Transformation production path, Ambiguity and execution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Trade-off judgment
+  * Internal Transformation production path
+  * Ambiguity and execution
+  * Validated outcomes
+  * Builder mindset
+  * Experimentation
+
+CORE SKILLS
+rapid prototyping, build mindset, outcome validation, replication kits, prioritization, A/B testing, reuse, structured thinking, hypothesis design, ambiguity, delivery momentum, trade-off decisions, adoption metrics, hands-on execution, handoff kits, benefit measurement, implementation playbooks, secure deployment, operating model change, statistical analysis
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Price, Hughes and Knight
+2021 - 2022
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: standardized reporting for 7 stakeholder groups.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: standardized reporting for 7 stakeholder groups.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: processed 34M records through reusable pipelines.
+
+Automation Specialist - Mcintyre-Mcmahon
+2022 - 2024
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: processed 14M records through reusable pipelines.
+  * Designed experiments to compare model variants, user prompts, and workflow interventions. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced operational handoffs by 20%.
+
+Analytics Consultant - Jackson, Strickland and Martin
+2024 - Present
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: processed 17M records through reusable pipelines.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: standardized reporting for 6 stakeholder groups.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced manual analysis effort by 25%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: reduced operational handoffs by 11%.
+
+SELECTED ACHIEVEMENTS
+  * Designed experiments to compare model variants, user prompts, and workflow interventions. Result: cut evaluation turnaround from 7 days to 3 days.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Result: cut evaluation turnaround from 11 days to 1 day.
+
+SELECTED PROJECTS
+  * Led discovery work across Builder community contribution, Ambiguity and execution, Cloud and engineering partnership, Internal Transformation production path.
+  * Led prototype work across Validated outcomes, Reusable demos, kits, and handoff materials, Cloud and engineering partnership, Ambiguity and execution.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/timothy-brock/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+rapid prototyping, build mindset, outcome validation, replication kits, prioritization, A/B testing, reuse, structured thinking, hypothesis design, ambiguity, delivery momentum, trade-off decisions, adoption metrics, hands-on execution, TOGAF Foundation
+
+CERTIFICATIONS
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Economics
+Port Steven Polytechnic - Class of 2017

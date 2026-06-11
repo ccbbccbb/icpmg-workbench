@@ -1,0 +1,75 @@
+=========================================
+STEPHANIE CALDWELL
+Smithbury, ND | +1 (816) 393-9106 | stephanie.caldwell@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Stephanie Caldwell is a data and technology consulting professional with 11+ years of experience in originating Data and AI revenue, managing partner plans, expanding pipeline with Microsoft, Databricks, Snowflake, and other ISVs, and converting opportunities through executive and partner engagement. Strongest evidence areas include CRM analytics and revenue forecasting, Joint value propositions, Enterprise Data and AI platform acumen, Contract negotiation and legal liaison, Microsoft, Databricks, and Snowflake partnerships, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * CRM analytics and revenue forecasting
+  * Joint value propositions
+  * Enterprise Data and AI platform acumen
+  * Contract negotiation and legal liaison
+  * Microsoft, Databricks, and Snowflake partnerships
+  * Alliance strategy
+  * Compliance
+  * LLM applications
+  * Market development
+  * Strategic partner plans
+
+CORE SKILLS
+joint business planning, execution governance, privacy, executive storytelling, partner channels, Snowflake, forecasting, LangChain, competitive positioning, joint value propositions, LlamaIndex, field sales, document AI, cloud data warehousing, prompt evaluation, lead sharing, human oversight, offer development, partner plans, nurturing, AI ethics, fairness, ecosystem planning, transparency, solution evangelism, Databricks, policy interpretation
+
+PROFESSIONAL EXPERIENCE
+Ecosystem Growth Lead - King, Hart and Wright
+2015 - 2019
+  * Improved forecast quality by standardizing opportunity stages, next actions, and partner attribution. Outcome: increased partner-sourced opportunities by 50%.
+  * Developed joint value propositions with partners that clarified business outcomes, platform fit, and delivery model. Outcome: reduced pursuit cycle time by 31%.
+  * Explained enterprise Data and AI platform capabilities to business, partner, and sales stakeholders. Outcome: enabled 15 joint account pursuits.
+  * Participated in complex contract negotiations and coordinated legal review for new business deals. Outcome: increased partner-sourced opportunities by 28%.
+  * Positioned Data and AI solutions using partner platform strengths and joint value propositions. Outcome: reduced pursuit cycle time by 25%.
+
+Strategic Alliances Manager - Porter-Adams
+2019 - 2023
+  * Positioned Data and AI solutions using partner platform strengths and joint value propositions. Outcome: increased partner-sourced opportunities by 29%.
+  * Built joint business plans with partner teams, including routes to market, capability gaps, and quarterly targets. Outcome: supported $15M in qualified alliance pipeline.
+  * Worked with legal and risk teams to align AI workflows with internal policy requirements. Outcome: supported $15M in qualified alliance pipeline.
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Outcome: enabled 24 joint account pursuits.
+  * Created competitive positioning notes for AI offerings across platforms and industries. Outcome: supported $5M in qualified alliance pipeline.
+
+Strategic Alliances Manager - Smith, Davis and Singleton
+2023 - Present
+  * Identified market demand themes and translated them into AI solution themes and partner campaigns. Outcome: increased partner-sourced opportunities by 47%.
+  * Executed strategic business plans with cross-functional teams focused on opportunity identification. Outcome: increased partner-sourced opportunities by 50%.
+  * Moved leads through the funnel by clarifying business need, decision process, timing, and value case. Outcome: supported $27M in qualified alliance pipeline.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: enabled 8 joint account pursuits.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Outcome: supported $7M in qualified alliance pipeline.
+
+SELECTED ACHIEVEMENTS
+  * Created competitive positioning notes for AI offerings across platforms and industries. Result: enabled 22 joint account pursuits.
+  * Documented compliance requirements for data retention, consent, and auditability. Result: increased partner-sourced opportunities by 48%.
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Result: supported $10M in qualified alliance pipeline.
+
+SELECTED PROJECTS
+  * Led implementation work across Strategic partner plans, Prompt engineering, Data and AI solution evangelism, Responsible AI, Joint value propositions.
+  * Led roadmap work across Market development, Compliance, Partner field sales collaboration, Enterprise Data and AI platform acumen.
+  * Led implementation work across Alliance strategy, Responsible AI, Enterprise Data and AI platform acumen.
+
+REVENUE AND ALLIANCE IMPACT
+  * Led partner and internal business reviews that connected lead generation, funnel movement, forecast risk, and revenue enablement actions.
+  * Built a Data and AI partner plan covering Microsoft, Databricks, Snowflake, target accounts, quarterly pipeline goals, and field-sales actions.
+  * Maintained CRM forecast views for sourced and influenced pipeline, with stage hygiene, next actions, and partner attribution.
+  * Shaped joint value propositions for enterprise Data and AI services using platform capabilities, adoption paths, and commercial value drivers.
+
+TOOLS, PLATFORMS, AND METHODS
+joint business planning, execution governance, privacy, executive storytelling, partner channels, Snowflake, forecasting, LangChain, competitive positioning, joint value propositions, LlamaIndex, field sales, document AI, cloud data warehousing, Prosci Change Management Certification, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Certified ScrumMaster
+
+EDUCATION
+Master of Management Analytics
+Port Daniel Polytechnic - Class of 2012

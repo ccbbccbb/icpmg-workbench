@@ -1,0 +1,76 @@
+=========================================
+ALEXIS GUTIERREZ
+Johnsonfurt, MH | 649-185-0978 | alexis.gutierrez@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Alexis Gutierrez is a data and technology consulting professional with 10+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Productionization, Full AI build lifecycle, Evaluation design, Cloud and engineering partnership, Agents, plugins, skills, and tools, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Full AI build lifecycle
+  * Evaluation design
+  * Cloud and engineering partnership
+  * Agents, plugins, skills, and tools
+  * Demo safety and governance checks
+  * Security and scalability
+  * Reusable demos, kits, and handoff materials
+  * AI Lab experimentation
+  * Model governance
+
+CORE SKILLS
+roadmaps, platform teams, decision systems, skills, governance checks, implementation playbooks, product strategy, demo packaging, cost estimation, white papers, eval harnesses, identity controls, safe showcase, agent evaluation, frontier models, rapid experimentation, plugin design, integration patterns, DevOps collaboration, webinars, demo safety, secure deployment, solution maintenance, test sets, data protection, scalability, user stories, risk review, model risk management
+
+PROFESSIONAL EXPERIENCE
+Generative AI Program Manager - Collins, Randall and Robinson
+2016 - 2018
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: delivered $4M in AI program value cases.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: delivered $8M in AI program value cases.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: delivered $2M in AI program value cases.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: delivered $11M in AI program value cases.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved delivery predictability by 13%.
+
+AI Delivery Manager - Becker, Martin and Morrison
+2018 - 2022
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: coached a team of 8 consultants and engineers.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: coached a team of 4 consultants and engineers.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: coached a team of 9 consultants and engineers.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced prototype-to-production cycle time by 29%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: delivered $13M in AI program value cases.
+
+Applied AI Manager - Thompson, Taylor and Washington
+2022 - Present
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: delivered $14M in AI program value cases.
+  * Created model documentation covering purpose, assumptions, limitations, owners, and monitoring controls. Outcome: delivered $13M in AI program value cases.
+  * Built business cases that connected AI use cases to cost reduction, cycle-time gains, and risk reduction. Outcome: reduced prototype-to-production cycle time by 37%.
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: reduced prototype-to-production cycle time by 34%.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Outcome: coached a team of 12 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Presented market insights and practical AI adoption lessons to senior business audiences. Result: coached a team of 14 consultants and engineers.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Result: reduced prototype-to-production cycle time by 40%.
+  * Designed governance checkpoints for use-case intake, validation, approval, and post-launch review. Result: coached a team of 11 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led prototype work across Cloud and engineering partnership, Model governance, Demo safety and governance checks, Enterprise architecture, Full AI build lifecycle.
+  * Led roadmap work across Enterprise architecture, Business case development, Evaluation design, Security and scalability, Product management.
+  * Led enablement work across Demo safety and governance checks, Agents, plugins, skills, and tools, Cloud and engineering partnership, Evaluation design, Model governance.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/alexis-gutierrez/agentic-ai-builds
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+roadmaps, platform teams, decision systems, skills, governance checks, implementation playbooks, product strategy, demo packaging, cost estimation, white papers, eval harnesses, identity controls, safe showcase, agent evaluation, Databricks Machine Learning Associate, Project Management Professional
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Project Management Professional
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Master of Data Science
+Mahoneyberg Polytechnic - Class of 2012

@@ -1,0 +1,64 @@
+=========================================
+JOHN RAMIREZ
+North Christina, NE | 256 895 4084 | john.ramirez@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+John Ramirez is a business and analytics professional with 7+ years of transferable experience related to Internal Transformation production path, Demo readiness, AI literacy artifacts, Trade-off judgment. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Internal Transformation production path
+  * Demo readiness
+  * AI literacy artifacts
+  * Trade-off judgment
+  * Human-AI collaboration
+  * Low-code, API, and orchestration tools
+  * Builder mindset
+
+CORE SKILLS
+low-code platforms, autonomy design, hands-on execution, AI strategy, statistical analysis, internal enablement, prioritization, decision boundaries, capability assessment, executive demos, API integration, experiment tracking, adoption planning, roadmapping, demo narrative, operating model change, structured thinking, rapid prototyping, internal transformation
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - Young-Barnes
+2019 - 2020
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: standardized reporting for 9 stakeholder groups.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: reduced prototype-to-production cycle time by 22%.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: improved delivery predictability by 24%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: delivered $11M in AI program value cases.
+
+Analytics Delivery Lead - Hood, Ward and Howe
+2020 - 2022
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: coached a team of 7 consultants and engineers.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced operational handoffs by 14%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: standardized reporting for 4 stakeholder groups.
+  * Developed AI roadmaps that balanced quick-win use cases with platform, governance, and talent needs. Outcome: reduced prototype-to-production cycle time by 25%.
+
+Technology Project Manager - Miller, Allen and King
+2022 - Present
+  * Assessed data and AI maturity across operating model, tooling, controls, and delivery capability. Outcome: reduced prototype-to-production cycle time by 25%.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: delivered $9M in AI program value cases.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: improved delivery predictability by 34%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: standardized reporting for 7 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Result: improved delivery predictability by 29%.
+  * Designed experiments to compare model variants, user prompts, and workflow interventions. Result: standardized reporting for 3 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led enablement work across AI literacy artifacts, Demo readiness, Experimentation, Builder mindset, Internal Transformation production path.
+  * Led discovery work across Low-code, API, and orchestration tools, Experimentation, Data and AI strategy, Builder mindset.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/john-ramirez/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+low-code platforms, autonomy design, hands-on execution, AI strategy, statistical analysis, internal enablement, prioritization, decision boundaries, capability assessment, executive demos, API integration, experiment tracking, adoption planning, roadmapping, SnowPro Core Certification
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+
+EDUCATION
+Graduate Certificate in Project Management
+Samuelmouth Institute of Technology - Class of 2016

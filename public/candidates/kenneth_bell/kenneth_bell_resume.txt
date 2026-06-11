@@ -1,0 +1,76 @@
+=========================================
+KENNETH BELL
+Lake Joanne, NV | (389) 694-9260 x522 | kenneth.bell@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kenneth Bell is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Cloud and engineering partnership, Code quality and reliability, Evaluation design, Approved AI and engineering stack, Full AI build lifecycle, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Code quality and reliability
+  * Evaluation design
+  * Approved AI and engineering stack
+  * Full AI build lifecycle
+  * Productionization
+  * SQL and analytics
+  * Revenue origination
+  * Sales enablement
+  * AI Lab experimentation
+
+CORE SKILLS
+SQL, secure platforms, benefit measurement, deal sourcing, reliability engineering, platform teams, AI Lab prototyping, release planning, operational support, cloud engineering, frontier models, data protection, scalability, sales enablement, new business origination, automated testing, code review, demo scripts, dbt, adoption metrics, KPI design, prototype lifecycle
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Sanchez-Trevino
+2020 - 2021
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: improved model quality by 27%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: processed 38M records through reusable pipelines.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: processed 15M records through reusable pipelines.
+
+Machine Learning Engineer - Owens-Reynolds
+2021 - 2025
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: reduced manual analysis effort by 25%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: processed 8M records through reusable pipelines.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Outcome: reduced manual analysis effort by 31%.
+  * Originated new Data and AI opportunities by connecting partner capabilities with client business priorities. Outcome: improved model quality by 15%.
+  * Trained client-facing teams on AI use cases, partner offers, and qualification criteria. Outcome: processed 35M records through reusable pipelines.
+
+GenAI Solution Consultant - Calhoun-Alvarez
+2025 - Present
+  * Trained client-facing teams on AI use cases, partner offers, and qualification criteria. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced manual analysis effort by 31%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: processed 7M records through reusable pipelines.
+  * Improved pipeline reliability through validation, lineage notes, and scheduled quality checks. Outcome: reduced manual analysis effort by 36%.
+
+SELECTED ACHIEVEMENTS
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Result: processed 17M records through reusable pipelines.
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Result: cut evaluation turnaround from 9 days to 3 days.
+  * Translated ambiguous business needs into deployable technical patterns and delivery milestones. Result: cut evaluation turnaround from 10 days to 1 day.
+
+SELECTED PROJECTS
+  * Led implementation work across Productionization, Data engineering, Cloud and engineering partnership.
+  * Led discovery work across AI solution architecture, Security and scalability, Validated outcomes, Full AI build lifecycle.
+  * Led discovery work across SQL and analytics, Productionization, Sales enablement.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/kenneth-bell/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+SQL, secure platforms, benefit measurement, deal sourcing, reliability engineering, platform teams, AI Lab prototyping, release planning, operational support, cloud engineering, frontier models, data protection, scalability, sales enablement, IAPP Certified Information Privacy Professional, Certified ScrumMaster
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+  * Certified ScrumMaster
+  * Google Cloud Professional Machine Learning Engineer
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+Lake Sherry Institute of Technology - Class of 2017

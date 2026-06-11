@@ -1,0 +1,76 @@
+=========================================
+ELIZABETH SANTANA
+Sabrinamouth, UT | 1 (255) 812-9350 | elizabeth.santana@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Elizabeth Santana is a data and technology consulting professional with 6+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Reusable demos, kits, and handoff materials, Internal Transformation production path, Demo safety and governance checks, Cloud and engineering partnership, Demo readiness, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Reusable demos, kits, and handoff materials
+  * Internal Transformation production path
+  * Demo safety and governance checks
+  * Cloud and engineering partnership
+  * Demo readiness
+  * Full AI build lifecycle
+  * Validated outcomes
+  * Stakeholder management
+  * AI literacy artifacts
+  * Productionization
+
+CORE SKILLS
+internal transformation, replication kits, eval harnesses, skills, trade-off decisions, status updates, operating model change, prioritization, demo narrative, quality gates, plugin design, release planning, service line leaders, implementation playbooks, DevOps collaboration, outcome validation, configuration, operational support, senior manager alignment, deployment controls, solution maintenance, test sets, AI literacy, benefit measurement, tool calling, success metrics
+
+PROFESSIONAL EXPERIENCE
+Data & AI Consulting Manager - Welch-Hernandez
+2020 - 2024
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: delivered $9M in AI program value cases.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: improved delivery predictability by 24%.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: delivered $2M in AI program value cases.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced prototype-to-production cycle time by 29%.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: delivered $12M in AI program value cases.
+
+AI Delivery Manager - James Inc
+2024 - 2025
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: reduced prototype-to-production cycle time by 29%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved delivery predictability by 12%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: improved delivery predictability by 21%.
+  * Resolved delivery ambiguity by documenting assumptions, owners, and next steps. Outcome: reduced prototype-to-production cycle time by 18%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: delivered $9M in AI program value cases.
+
+AI Product Engineering Manager - Walker, Smith and Tucker
+2025 - Present
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: reduced prototype-to-production cycle time by 36%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: coached a team of 9 consultants and engineers.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: delivered $14M in AI program value cases.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: coached a team of 14 consultants and engineers.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: coached a team of 12 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Result: delivered $11M in AI program value cases.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: coached a team of 8 consultants and engineers.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Result: delivered $11M in AI program value cases.
+
+SELECTED PROJECTS
+  * Led discovery work across Low-code, API, and orchestration tools, Reusable demos, kits, and handoff materials, Cloud and engineering partnership, Demo safety and governance checks.
+  * Led discovery work across Full AI build lifecycle, Enterprise operations fluency, Validated outcomes, Service line leadership engagement.
+  * Led prototype work across Service line leadership engagement, Cloud and engineering partnership, Trade-off judgment.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/elizabeth-santana/agentic-ai-builds
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+internal transformation, replication kits, eval harnesses, skills, trade-off decisions, status updates, operating model change, prioritization, demo narrative, quality gates, plugin design, release planning, service line leaders, implementation playbooks, Databricks Machine Learning Associate, TOGAF Foundation
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * TOGAF Foundation
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+South James Institute of Technology - Class of 2016

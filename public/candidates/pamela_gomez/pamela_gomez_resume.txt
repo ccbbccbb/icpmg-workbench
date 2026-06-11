@@ -1,0 +1,64 @@
+=========================================
+PAMELA GOMEZ
+Stephanieberg, AL | 1 (129) 625-4705 | pamela.gomez@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Pamela Gomez is a business and analytics professional with 4+ years of transferable experience related to Evaluation design, Internal Transformation production path, Client workshops, Trade-off judgment. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Internal Transformation production path
+  * Client workshops
+  * Trade-off judgment
+  * Validated outcomes
+  * Builder mindset
+  * Reusable demos, kits, and handoff materials
+
+CORE SKILLS
+delivery judgment, structured thinking, adoption metrics, rapid prototyping, journey mapping, trade-off decisions, outcome validation, replication kits, build mindset, internal transformation, hands-on execution, benefit measurement, facilitation, success metrics, discovery workshops, handoff kits, eval harnesses, adoption planning, test sets, enterprise rollout
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Alvarez-Bryant
+2022 - 2023
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: standardized reporting for 4 stakeholder groups.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: processed 13M records through reusable pipelines.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: processed 4M records through reusable pipelines.
+
+Business Analyst - Horne-Gilbert
+2023 - 2025
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: processed 35M records through reusable pipelines.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: improved model quality by 17%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: processed 3M records through reusable pipelines.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced manual analysis effort by 39%.
+
+Business Analyst - Nicholson, Torres and Santana
+2025 - Present
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: processed 32M records through reusable pipelines.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: improved model quality by 14%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced operational handoffs by 19%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: cut evaluation turnaround from 11 days to 2 days.
+
+SELECTED ACHIEVEMENTS
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Result: reduced manual analysis effort by 35%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Result: reduced operational handoffs by 16%.
+
+SELECTED PROJECTS
+  * Led implementation work across Builder mindset, Internal Transformation production path, Evaluation design.
+  * Led implementation work across Evaluation design, Reusable demos, kits, and handoff materials, Validated outcomes.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/pamela-gomez/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+delivery judgment, structured thinking, adoption metrics, rapid prototyping, journey mapping, trade-off decisions, outcome validation, replication kits, build mindset, internal transformation, hands-on execution, benefit measurement, facilitation, success metrics, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Bachelor of Science, Statistics
+Lopezfurt University - Class of 2019

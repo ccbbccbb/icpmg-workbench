@@ -1,0 +1,64 @@
+=========================================
+JILLIAN MOSLEY
+Lake John, IL | +1 (738) 042-9745 | jillian.mosley@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jillian Mosley is a business and analytics professional with 4+ years of transferable experience related to Full AI build lifecycle, Agentic AI delivery, Human-AI collaboration, Product management. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Full AI build lifecycle
+  * Agentic AI delivery
+  * Human-AI collaboration
+  * Product management
+  * Low-code, API, and orchestration tools
+  * Trade-off judgment
+  * Global alliance and sales account management
+
+CORE SKILLS
+autonomous agents, solution maintenance, contracting, sales account management, workflow orchestration, commercial strategy, low-code platforms, delivery judgment, autonomy design, configuration, production handoff, global alliance, human-AI handoffs, API integration, decision boundaries, partner governance, multi-agent systems, lifecycle ownership, pricing
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - Snow and Sons
+2022 - 2023
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: standardized reporting for 3 stakeholder groups.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: standardized reporting for 7 stakeholder groups.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: delivered $7M in AI program value cases.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: improved delivery predictability by 34%.
+
+Analytics Delivery Lead - Guerrero LLC
+2023 - 2025
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: coached a team of 12 consultants and engineers.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: delivered $12M in AI program value cases.
+  * Managed alliance and sales account relationships across internal, external, and partner leadership groups. Outcome: standardized reporting for 3 stakeholder groups.
+  * Supported commercial negotiations by clarifying scope, value drivers, dependencies, and success metrics. Outcome: reduced operational handoffs by 8%.
+
+Analytics Delivery Lead - Rivera-Chavez
+2025 - Present
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: delivered $14M in AI program value cases.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: improved delivery predictability by 15%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: standardized reporting for 3 stakeholder groups.
+  * Supported commercial negotiations by clarifying scope, value drivers, dependencies, and success metrics. Outcome: reduced prototype-to-production cycle time by 23%.
+
+SELECTED ACHIEVEMENTS
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Result: standardized reporting for 3 stakeholder groups.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Result: improved delivery predictability by 13%.
+
+SELECTED PROJECTS
+  * Led implementation work across Global alliance and sales account management, Full AI build lifecycle, Product management, Commercial negotiation, Human-AI collaboration.
+  * Led implementation work across Full AI build lifecycle, Product management, Agentic AI delivery.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/jillian-mosley/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+autonomous agents, solution maintenance, contracting, sales account management, workflow orchestration, commercial strategy, low-code platforms, delivery judgment, autonomy design, configuration, production handoff, global alliance, human-AI handoffs, API integration, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Bachelor of Economics
+Angelastad Polytechnic - Class of 2017

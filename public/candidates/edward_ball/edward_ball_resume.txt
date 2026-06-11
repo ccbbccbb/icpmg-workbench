@@ -1,0 +1,75 @@
+=========================================
+EDWARD BALL
+New Davidmouth, MT | +1 (279) 441-4708 | edward.ball@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Edward Ball is a data and technology consulting professional with 7+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Workflow and operating-model redesign, Demo safety and governance checks, Cloud and engineering partnership, Productionization, Reusable demos, kits, and handoff materials, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Workflow and operating-model redesign
+  * Demo safety and governance checks
+  * Cloud and engineering partnership
+  * Productionization
+  * Reusable demos, kits, and handoff materials
+  * Code quality and reliability
+  * Enterprise Data and AI platform acumen
+  * Ambiguity and execution
+  * Delivery leadership
+  * Compliance
+
+CORE SKILLS
+risk review, ambiguity, replication kits, AI platforms, risk management, platform teams, agent evaluation, Databricks, decision systems, DevOps collaboration, cloud engineering, safe showcase, status reporting, operational support, enterprise data platforms, delivery momentum, regulatory requirements, workflow redesign, Snowflake, SaaS, release planning
+
+PROFESSIONAL EXPERIENCE
+Generative AI Program Manager - Dixon-Molina
+2019 - 2021
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: improved delivery predictability by 28%.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: coached a team of 8 consultants and engineers.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: delivered $7M in AI program value cases.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: coached a team of 8 consultants and engineers.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: improved delivery predictability by 21%.
+
+Generative AI Program Manager - Brown Inc
+2021 - 2022
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: coached a team of 6 consultants and engineers.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: delivered $2M in AI program value cases.
+  * Connected platform features to client adoption paths, integration needs, and commercial value. Outcome: delivered $13M in AI program value cases.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: coached a team of 12 consultants and engineers.
+  * Unblocked delivery teams by clarifying scope, decision owners, and acceptance criteria. Outcome: delivered $3M in AI program value cases.
+
+Generative AI Program Manager - Hunt, Ortiz and Hurst
+2022 - Present
+  * Led multi-stream AI delivery plans with milestones, dependencies, risk logs, and executive reporting. Outcome: delivered $9M in AI program value cases.
+  * Documented compliance requirements for data retention, consent, and auditability. Outcome: improved delivery predictability by 14%.
+  * Coordinated partner funding requests, marketplace motions, and joint account pursuits. Outcome: coached a team of 4 consultants and engineers.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: delivered $5M in AI program value cases.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: delivered $13M in AI program value cases.
+
+SELECTED ACHIEVEMENTS
+  * Explained enterprise Data and AI platform capabilities to business, partner, and sales stakeholders. Result: delivered $6M in AI program value cases.
+  * Delivered AI workloads on cloud platforms using managed model endpoints, storage, and observability services. Result: reduced prototype-to-production cycle time by 21%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Result: coached a team of 11 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led implementation work across Trade-off judgment, Reusable demos, kits, and handoff materials, Compliance, Cloud alliances, Delivery leadership.
+  * Led discovery work across Trade-off judgment, Code quality and reliability, Ambiguity and execution, Demo safety and governance checks, Reusable demos, kits, and handoff materials.
+  * Led enablement work across Demo safety and governance checks, Cloud AI platforms, Trade-off judgment, Code quality and reliability.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/edward-ball/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+
+TOOLS, PLATFORMS, AND METHODS
+risk review, ambiguity, replication kits, AI platforms, risk management, platform teams, agent evaluation, Databricks, decision systems, DevOps collaboration, cloud engineering, safe showcase, status reporting, operational support, TOGAF Foundation, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * TOGAF Foundation
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+South Scottbury University - Class of 2015

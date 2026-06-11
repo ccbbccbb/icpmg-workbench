@@ -1,0 +1,75 @@
+=========================================
+TRACY MILLER
+Amyton, CT | +1 (498) 285-0226 | tracy.miller@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Tracy Miller is a data and technology consulting professional with 7+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Approved AI and engineering stack, Human-AI collaboration, Full AI build lifecycle, Agentic AI delivery, Productionization, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Human-AI collaboration
+  * Full AI build lifecycle
+  * Agentic AI delivery
+  * Productionization
+  * Cloud and engineering partnership
+  * Client workshops
+  * Low-code, API, and orchestration tools
+  * Service line leadership engagement
+  * MLOps
+
+CORE SKILLS
+production handoff, dashboard design, deployment controls, DevOps collaboration, Power BI, skills, tool calling, agent workflows, executive demos, solution maintenance, CI/CD, facilitation, autonomy design, senior manager alignment, multi-agent systems, service line leaders, commercial strategy, Tableau, feature stores, agentic AI, LLMs, workflow orchestration, cloud engineering
+
+PROFESSIONAL EXPERIENCE
+AI Builder Senior Consultant - Brandt-Dixon
+2019 - 2023
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: processed 8M records through reusable pipelines.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: processed 26M records through reusable pipelines.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved model quality by 12%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: improved model quality by 13%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved model quality by 13%.
+
+AI Builder Senior Consultant - Mata Group
+2023 - 2025
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: improved model quality by 19%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 5M records through reusable pipelines.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: improved model quality by 21%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: improved model quality by 9%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: cut evaluation turnaround from 9 days to 2 days.
+
+GenAI Solution Consultant - Deleon, Foster and Molina
+2025 - Present
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: improved model quality by 8%.
+  * Defined operational checks for model drift, data freshness, latency, and incident response. Outcome: processed 17M records through reusable pipelines.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: processed 32M records through reusable pipelines.
+  * Prepared executive deal summaries covering pricing assumptions, delivery risk, and partner commitments. Outcome: processed 13M records through reusable pipelines.
+  * Created dashboards for adoption, model performance, pipeline health, and executive reporting. Outcome: improved model quality by 26%.
+
+SELECTED ACHIEVEMENTS
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Result: cut evaluation turnaround from 6 days to 2 days.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Result: improved model quality by 21%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Result: improved model quality by 27%.
+
+SELECTED PROJECTS
+  * Led implementation work across Client workshops, Visualization, Cloud and engineering partnership.
+  * Led enablement work across MLOps, Service line leadership engagement, Commercial negotiation, Human-AI collaboration.
+  * Led implementation work across MLOps, Productionization, Service line leadership engagement, Commercial negotiation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/tracy-miller/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+production handoff, dashboard design, deployment controls, DevOps collaboration, Power BI, skills, tool calling, agent workflows, executive demos, solution maintenance, CI/CD, facilitation, autonomy design, senior manager alignment, Databricks Machine Learning Associate, Project Management Professional
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Project Management Professional
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Bachelor of Computer Science
+New Donaldberg Institute of Technology - Class of 2015

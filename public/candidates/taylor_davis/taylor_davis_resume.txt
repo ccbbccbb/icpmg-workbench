@@ -1,0 +1,64 @@
+=========================================
+TAYLOR DAVIS
+West Danny, NM | 219-642-3430 x770 | taylor.davis@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Taylor Davis is a business and analytics professional with 8+ years of transferable experience related to Productionization, Full AI build lifecycle, Service line leadership engagement, Builder mindset. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Full AI build lifecycle
+  * Service line leadership engagement
+  * Builder mindset
+  * Responsible AI
+  * Product management
+
+CORE SKILLS
+rapid prototyping, AI ethics, roadmaps, responsible AI, fairness, senior manager alignment, prototype lifecycle, human oversight, deployment controls, release planning, acceptance criteria, product strategy, hands-on execution, executive engagement, service line leaders, build mindset, production handoff, solution maintenance, lifecycle ownership
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - Brooks, Williams and Mitchell
+2018 - 2019
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: delivered $9M in AI program value cases.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: standardized reporting for 5 stakeholder groups.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: standardized reporting for 9 stakeholder groups.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: standardized reporting for 10 stakeholder groups.
+
+Analytics Delivery Lead - Blackwell Inc
+2019 - 2021
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: improved delivery predictability by 23%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: reduced prototype-to-production cycle time by 30%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: delivered $7M in AI program value cases.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: delivered $2M in AI program value cases.
+
+Product Owner - Yates, Gay and Mcdowell
+2021 - Present
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: coached a team of 6 consultants and engineers.
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: delivered $9M in AI program value cases.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: delivered $4M in AI program value cases.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: standardized reporting for 6 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Result: reduced operational handoffs by 8%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Result: coached a team of 9 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led discovery work across Responsible AI, Productionization, Full AI build lifecycle, Builder mindset, Product management.
+  * Led discovery work across Full AI build lifecycle, Productionization, Responsible AI, Service line leadership engagement.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/taylor-davis/agentic-ai-builds
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+
+TOOLS, PLATFORMS, AND METHODS
+rapid prototyping, AI ethics, roadmaps, responsible AI, fairness, senior manager alignment, prototype lifecycle, human oversight, deployment controls, release planning, acceptance criteria, product strategy, hands-on execution, executive engagement, Google Cloud Professional Machine Learning Engineer, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Diploma in Business Analytics
+Jenniferville University - Class of 2013

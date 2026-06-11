@@ -1,0 +1,65 @@
+=========================================
+JOHN WHITE
+Thomasstad, IA | 197-491-0806 | john.white@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+John White is a business and analytics professional with 5+ years of transferable experience related to Demo readiness, Validated outcomes, Evaluation design, AI literacy artifacts. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Demo readiness
+  * Validated outcomes
+  * Evaluation design
+  * AI literacy artifacts
+  * Human-AI collaboration
+  * Builder mindset
+  * Service line leadership engagement
+
+CORE SKILLS
+hands-on execution, demo narrative, outcome validation, AI literacy, internal enablement, success metrics, learning artifacts, working systems, agent workflows, low-code platforms, human-AI handoffs, benefit measurement, showcase artifacts, executive engagement, LLMs, AI copilots, iteration, eval harnesses, review loops
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Brooks, Evans and White
+2021 - 2022
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: delivered $7M in AI program value cases.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: delivered $11M in AI program value cases.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced operational handoffs by 10%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: reduced operational handoffs by 13%.
+
+Analytics Delivery Lead - Alexander-Perez
+2022 - 2024
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: standardized reporting for 8 stakeholder groups.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: coached a team of 4 consultants and engineers.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: reduced prototype-to-production cycle time by 25%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: standardized reporting for 9 stakeholder groups.
+
+Technology Project Manager - Martinez and Sons
+2024 - Present
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: coached a team of 5 consultants and engineers.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: improved delivery predictability by 22%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: coached a team of 4 consultants and engineers.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: reduced operational handoffs by 11%.
+
+SELECTED ACHIEVEMENTS
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: coached a team of 14 consultants and engineers.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: reduced prototype-to-production cycle time by 37%.
+
+SELECTED PROJECTS
+  * Led prototype work across Human-AI collaboration, Generative AI, Demo readiness.
+  * Led enablement work across Low-code, API, and orchestration tools, Human-AI collaboration, Ambiguity and execution.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/john-white/agentic-ai-builds
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+hands-on execution, demo narrative, outcome validation, AI literacy, internal enablement, success metrics, learning artifacts, working systems, agent workflows, low-code platforms, human-AI handoffs, benefit measurement, showcase artifacts, executive engagement, TOGAF Foundation, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * TOGAF Foundation
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Diploma in Business Analytics
+Christopherfort School of Business - Class of 2015

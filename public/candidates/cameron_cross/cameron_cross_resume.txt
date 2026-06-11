@@ -1,0 +1,64 @@
+=========================================
+CAMERON CROSS
+South Marystad, WY | +1 (246) 514-8560 | cameron.cross@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Cameron Cross is a business and analytics professional with 5+ years of transferable experience related to AI Lab experimentation, Security and scalability, Builder mindset, Internal Transformation production path. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * AI Lab experimentation
+  * Security and scalability
+  * Builder mindset
+  * Internal Transformation production path
+  * Validated outcomes
+  * Reusable demos, kits, and handoff materials
+  * Ambiguity and execution
+
+CORE SKILLS
+replication kits, iteration, data protection, frontier models, rapid experimentation, adoption metrics, delivery momentum, few-shot examples, handoff kits, hands-on execution, rapid prototyping, secure architecture, facilitation, journey mapping, identity controls, applied research, operating model change, working systems, AI Lab prototyping
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Williams PLC
+2021 - 2023
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced operational handoffs by 14%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: improved model quality by 16%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: processed 6M records through reusable pipelines.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: processed 7M records through reusable pipelines.
+
+Analytics Consultant - Smith, Glover and Miller
+2023 - 2025
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: standardized reporting for 4 stakeholder groups.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: improved model quality by 26%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: reduced operational handoffs by 12%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced operational handoffs by 13%.
+
+Analytics Consultant - Jackson, Miller and King
+2025 - Present
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: standardized reporting for 3 stakeholder groups.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: reduced manual analysis effort by 25%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced operational handoffs by 15%.
+
+SELECTED ACHIEVEMENTS
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Result: processed 26M records through reusable pipelines.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Result: standardized reporting for 7 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led implementation work across AI Lab experimentation, Validated outcomes, Ambiguity and execution, Security and scalability, Builder mindset.
+  * Led prototype work across Reusable demos, kits, and handoff materials, Internal Transformation production path, AI Lab experimentation, Prompt engineering.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/cameron-cross/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+replication kits, iteration, data protection, frontier models, rapid experimentation, adoption metrics, delivery momentum, few-shot examples, handoff kits, hands-on execution, rapid prototyping, secure architecture, facilitation, journey mapping, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Diploma in Business Analytics
+Christinaview Polytechnic - Class of 2018

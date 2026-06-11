@@ -1,0 +1,65 @@
+=========================================
+DANNY MATTHEWS
+Schneiderville, VA | 1 (308) 519-0568 | danny.matthews@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Danny Matthews is a business and analytics professional with 7+ years of transferable experience related to Demo readiness, Reusable demos, kits, and handoff materials, Agentic AI delivery, Responsible AI. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Demo readiness
+  * Reusable demos, kits, and handoff materials
+  * Agentic AI delivery
+  * Responsible AI
+  * Product management
+  * Builder mindset
+  * Human-AI collaboration
+
+CORE SKILLS
+implementation playbooks, product strategy, agentic AI, AI ethics, low-code platforms, executive demos, demo packaging, replication kits, transparency, review loops, human-AI handoffs, demo rehearsal, user stories, roadmaps, multi-agent systems, showcase artifacts
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Hicks, Howell and Jones
+2019 - 2022
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: reduced operational handoffs by 20%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: reduced prototype-to-production cycle time by 19%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: reduced operational handoffs by 20%.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: delivered $6M in AI program value cases.
+
+Product Owner - Foster-White
+2022 - 2023
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: coached a team of 5 consultants and engineers.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: delivered $10M in AI program value cases.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: delivered $11M in AI program value cases.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: delivered $12M in AI program value cases.
+
+Analytics Delivery Lead - Lopez-Mathis
+2023 - Present
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced operational handoffs by 18%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: coached a team of 10 consultants and engineers.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced operational handoffs by 15%.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: delivered $6M in AI program value cases.
+
+SELECTED ACHIEVEMENTS
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Result: reduced operational handoffs by 14%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Result: delivered $14M in AI program value cases.
+
+SELECTED PROJECTS
+  * Led prototype work across Responsible AI, Low-code, API, and orchestration tools, Reusable demos, kits, and handoff materials.
+  * Led discovery work across Responsible AI, Agentic AI delivery, Demo readiness, Reusable demos, kits, and handoff materials, Product management.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/danny-matthews/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+implementation playbooks, product strategy, agentic AI, AI ethics, low-code platforms, executive demos, demo packaging, replication kits, transparency, review loops, human-AI handoffs, demo rehearsal, user stories, roadmaps, AWS Certified Machine Learning - Specialty, Certified ScrumMaster
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Science, Statistics
+New Catherineberg University - Class of 2016

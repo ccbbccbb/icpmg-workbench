@@ -1,0 +1,64 @@
+=========================================
+ANTONIO OWEN
+New Aaron, NJ | 237.548.7286 | antonio.owen@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Antonio Owen is a business and analytics professional with 5+ years of transferable experience related to Evaluation design, Productionization, Low-code, API, and orchestration tools, Automation. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Productionization
+  * Low-code, API, and orchestration tools
+  * Automation
+  * Client workshops
+  * Internal Transformation production path
+  * Builder community contribution
+
+CORE SKILLS
+builder community, enterprise rollout, eval harnesses, test sets, iteration, internal transformation, executive demos, RPA integration, journey mapping, agent evaluation, process mining, configuration, reuse, discovery workshops, shared assets, ambiguity, deployment controls
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Garcia, Bryant and Martin
+2021 - 2022
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced manual analysis effort by 20%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced operational handoffs by 17%.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: improved model quality by 24%.
+
+Business Analyst - Kramer LLC
+2022 - 2024
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: standardized reporting for 3 stakeholder groups.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: reduced manual analysis effort by 41%.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: processed 25M records through reusable pipelines.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced operational handoffs by 14%.
+
+Automation Specialist - Bishop Group
+2024 - Present
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: processed 9M records through reusable pipelines.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: standardized reporting for 7 stakeholder groups.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: standardized reporting for 4 stakeholder groups.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 8 days to 1 day.
+
+SELECTED ACHIEVEMENTS
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: improved model quality by 17%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Result: cut evaluation turnaround from 11 days to 1 day.
+
+SELECTED PROJECTS
+  * Led roadmap work across Builder community contribution, Productionization, Low-code, API, and orchestration tools.
+  * Led roadmap work across Ambiguity and execution, Client workshops, Productionization, Automation, Human-AI collaboration.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/antonio-owen/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+builder community, enterprise rollout, eval harnesses, test sets, iteration, internal transformation, executive demos, RPA integration, journey mapping, agent evaluation, process mining, configuration, reuse, discovery workshops, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Mathematics
+Walkerhaven Polytechnic - Class of 2016

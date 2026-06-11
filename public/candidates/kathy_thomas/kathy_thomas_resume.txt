@@ -1,0 +1,76 @@
+=========================================
+KATHY THOMAS
+Mcdonaldland, TN | 801-734-0973 | kathy.thomas@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kathy Thomas is a data and technology consulting professional with 6+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Demo safety and governance checks, Demo readiness, Evaluation design, Validated outcomes, Internal Transformation production path, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Demo safety and governance checks
+  * Demo readiness
+  * Evaluation design
+  * Validated outcomes
+  * Internal Transformation production path
+  * Productionization
+  * Full AI build lifecycle
+  * Agents, plugins, skills, and tools
+  * MLOps
+  * Workflow and operating-model redesign
+
+CORE SKILLS
+operating model design, test sets, quality gates, reliability engineering, feature stores, release planning, safe showcase, plugin design, Airflow, maintainability, dbt, ELT, Spark, discovery workshops, prototype lifecycle, skills, secure SDLC, journey mapping, production readiness, risk review, tool calling
+
+PROFESSIONAL EXPERIENCE
+Generative AI Program Manager - Allison-Parks
+2020 - 2022
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: improved delivery predictability by 22%.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: reduced prototype-to-production cycle time by 22%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved delivery predictability by 25%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: delivered $9M in AI program value cases.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: coached a team of 7 consultants and engineers.
+
+Applied AI Manager - Perez-Matthews
+2022 - 2024
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: delivered $14M in AI program value cases.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved delivery predictability by 29%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved delivery predictability by 15%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: reduced prototype-to-production cycle time by 25%.
+  * Implemented MLOps practices for versioning, deployment, monitoring, and retraining workflows. Outcome: coached a team of 6 consultants and engineers.
+
+AI Delivery Manager - White-Johnson
+2024 - Present
+  * Defined operational checks for model drift, data freshness, latency, and incident response. Outcome: improved delivery predictability by 25%.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Outcome: improved delivery predictability by 28%.
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Outcome: improved delivery predictability by 22%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: delivered $5M in AI program value cases.
+  * Worked with security teams to close architecture and deployment risks before launch. Outcome: coached a team of 5 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Result: reduced prototype-to-production cycle time by 40%.
+  * Reviewed AI architecture for identity, access, logging, secrets management, and data protection needs. Result: improved delivery predictability by 24%.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Result: improved delivery predictability by 27%.
+
+SELECTED PROJECTS
+  * Led enablement work across Security, Productionization, Internal Transformation production path.
+  * Led prototype work across Internal Transformation production path, Workflow and operating-model redesign, Client workshops, Productionization.
+  * Led implementation work across Agents, plugins, skills, and tools, Full AI build lifecycle, Internal Transformation production path, Demo safety and governance checks.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/kathy-thomas/agentic-ai-builds
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+
+TOOLS, PLATFORMS, AND METHODS
+operating model design, test sets, quality gates, reliability engineering, feature stores, release planning, safe showcase, plugin design, Airflow, maintainability, dbt, ELT, Spark, discovery workshops, IAPP Certified Information Privacy Professional, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+  * Databricks Machine Learning Associate
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+Port Henryside School of Business - Class of 2016

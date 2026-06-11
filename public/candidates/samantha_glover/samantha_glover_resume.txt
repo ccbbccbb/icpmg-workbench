@@ -1,0 +1,63 @@
+=========================================
+SAMANTHA GLOVER
+New Elizabethport, NM | +1 (650) 515-3672 | samantha.glover@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Samantha Glover is a business and analytics professional with 8+ years of transferable experience related to Agentic AI delivery, Full AI build lifecycle, Demo safety and governance checks, Trade-off judgment. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Full AI build lifecycle
+  * Demo safety and governance checks
+  * Trade-off judgment
+  * Service line leadership engagement
+  * Human-AI collaboration
+
+CORE SKILLS
+safe showcase, human-AI handoffs, governance checks, senior manager alignment, demo safety, prioritization, trade-off decisions, autonomous agents, internal stakeholders, autonomy design, executive engagement, prototype lifecycle, lifecycle ownership, service line leaders, solution maintenance, decision boundaries, agent workflows, multi-agent systems
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Clarke, Graves and Lin
+2018 - 2021
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced operational handoffs by 11%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: coached a team of 13 consultants and engineers.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: standardized reporting for 6 stakeholder groups.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced operational handoffs by 17%.
+
+Analytics Delivery Lead - Ayala, Knapp and Evans
+2021 - 2023
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: reduced prototype-to-production cycle time by 15%.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: coached a team of 6 consultants and engineers.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced prototype-to-production cycle time by 23%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: coached a team of 9 consultants and engineers.
+
+Product Owner - Hawkins, Johnson and Trujillo
+2023 - Present
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced prototype-to-production cycle time by 19%.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: coached a team of 4 consultants and engineers.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: standardized reporting for 10 stakeholder groups.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced prototype-to-production cycle time by 25%.
+
+SELECTED ACHIEVEMENTS
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Result: improved delivery predictability by 23%.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Result: reduced prototype-to-production cycle time by 27%.
+
+SELECTED PROJECTS
+  * Led discovery work across Full AI build lifecycle, Service line leadership engagement, Agentic AI delivery.
+  * Led prototype work across Human-AI collaboration, Demo safety and governance checks, Trade-off judgment, Agentic AI delivery.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/samantha-glover/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+
+TOOLS, PLATFORMS, AND METHODS
+safe showcase, human-AI handoffs, governance checks, senior manager alignment, demo safety, prioritization, trade-off decisions, autonomous agents, internal stakeholders, autonomy design, executive engagement, prototype lifecycle, lifecycle ownership, service line leaders, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Bachelor of Mathematics
+Brittanystad Polytechnic - Class of 2015

@@ -1,0 +1,74 @@
+=========================================
+TIMOTHY WASHINGTON
+Lake Johnville, WA | 586-960-9460 x923 | timothy.washington@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Timothy Washington is a data and technology consulting professional with 7+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Evaluation design, Prototype portfolio, Cloud and engineering partnership, Approved AI and engineering stack, Security and scalability, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Prototype portfolio
+  * Cloud and engineering partnership
+  * Approved AI and engineering stack
+  * Security and scalability
+  * Human-AI collaboration
+  * Validated outcomes
+  * Reusable demos, kits, and handoff materials
+  * Compliance
+  * Revenue origination
+
+CORE SKILLS
+Power BI, audit readiness, human-AI handoffs, GitHub demos, replication kits, policy interpretation, data protection, eval harnesses, opportunity creation, identity controls, agent evaluation, build case, rapid prototyping, secure platforms, secure architecture, prototype portfolio, semantic search, Tableau, implementation playbooks, data storytelling, regulatory requirements, quality gates, experiment tracking, new business origination
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Simon Group
+2019 - 2022
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved model quality by 20%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: reduced manual analysis effort by 29%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 37M records through reusable pipelines.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: processed 13M records through reusable pipelines.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: reduced manual analysis effort by 21%.
+
+Applied AI Consultant - Kennedy, Rodriguez and Maldonado
+2022 - 2023
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: cut evaluation turnaround from 10 days to 3 days.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: improved model quality by 11%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: improved model quality by 26%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Documented compliance requirements for data retention, consent, and auditability. Outcome: cut evaluation turnaround from 6 days to 2 days.
+
+Data Science Consultant - Schneider, Green and Garcia
+2023 - Present
+  * Worked with legal and risk teams to align AI workflows with internal policy requirements. Outcome: cut evaluation turnaround from 9 days to 3 days.
+  * Created revenue growth plans with specific account targets, partner motions, and qualification criteria. Outcome: reduced manual analysis effort by 37%.
+  * Created dashboards for adoption, model performance, pipeline health, and executive reporting. Outcome: improved model quality by 10%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: improved model quality by 27%.
+  * Built vector-search prototypes for policy, knowledge-base, and case-document retrieval. Outcome: reduced manual analysis effort by 18%.
+
+SELECTED ACHIEVEMENTS
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Result: cut evaluation turnaround from 10 days to 2 days.
+  * Created revenue growth plans with specific account targets, partner motions, and qualification criteria. Result: cut evaluation turnaround from 10 days to 3 days.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Result: processed 4M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led discovery work across Revenue origination, Reusable demos, kits, and handoff materials, Vector search, Human-AI collaboration, Approved AI and engineering stack.
+  * Led roadmap work across Vector search, Compliance, Cloud and engineering partnership, Visualization, Builder mindset.
+  * Led enablement work across Human-AI collaboration, Evaluation design, Prototype portfolio, Security and scalability, Visualization.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/timothy-washington/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+Power BI, audit readiness, human-AI handoffs, GitHub demos, replication kits, policy interpretation, data protection, eval harnesses, opportunity creation, identity controls, agent evaluation, build case, rapid prototyping, secure platforms, IAPP Certified Information Privacy Professional, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Master of Applied Computing
+New Timothyview School of Business - Class of 2017

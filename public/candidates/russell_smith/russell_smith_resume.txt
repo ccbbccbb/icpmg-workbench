@@ -1,0 +1,76 @@
+=========================================
+RUSSELL SMITH
+Port David, GU | 383.085.6791 | russell.smith@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Russell Smith is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Human-AI collaboration, Agentic AI delivery, Evaluation design, Productionization, AI Lab experimentation, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Agentic AI delivery
+  * Evaluation design
+  * Productionization
+  * AI Lab experimentation
+  * MLOps
+  * Prototype portfolio
+  * Compliance
+  * Agents, plugins, skills, and tools
+  * Validated outcomes
+
+CORE SKILLS
+model registry, LlamaIndex, eval harnesses, feature stores, agentic AI, LangChain, scikit-learn, policy interpretation, agent evaluation, autonomous agents, skills, enterprise architecture, demo write-ups, review loops, decision boundaries, build case, regulatory requirements, outcome validation, model training, agent workflows, code review, pytest, pandas
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Phillips-Thomas
+2020 - 2023
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced manual analysis effort by 32%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: improved model quality by 21%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved model quality by 21%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: processed 15M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: processed 10M records through reusable pipelines.
+
+Data Science Consultant - Graham Inc
+2023 - 2025
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Implemented MLOps practices for versioning, deployment, monitoring, and retraining workflows. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Worked with legal and risk teams to align AI workflows with internal policy requirements. Outcome: reduced manual analysis effort by 20%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: cut evaluation turnaround from 12 days to 2 days.
+
+Applied AI Consultant - Smith, Young and Brown
+2025 - Present
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: processed 8M records through reusable pipelines.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Packaged AI offerings into sales plays with target personas, triggers, proof points, and demo assets. Outcome: cut evaluation turnaround from 5 days to 1 day.
+  * Developed machine learning models for classification, forecasting, prioritization, and anomaly detection. Outcome: processed 10M records through reusable pipelines.
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Outcome: reduced manual analysis effort by 25%.
+
+SELECTED ACHIEVEMENTS
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Result: cut evaluation turnaround from 4 days to 1 day.
+  * Developed machine learning models for classification, forecasting, prioritization, and anomaly detection. Result: reduced manual analysis effort by 30%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: improved model quality by 19%.
+
+SELECTED PROJECTS
+  * Led implementation work across Partner pipeline creation, Python, Code quality and reliability, Compliance, Agents, plugins, skills, and tools.
+  * Led prototype work across Evaluation design, Productionization, Enterprise architecture.
+  * Led prototype work across Code quality and reliability, Validated outcomes, Evaluation design, Compliance, Agentic AI delivery.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/russell-smith/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+model registry, LlamaIndex, eval harnesses, feature stores, agentic AI, LangChain, scikit-learn, policy interpretation, agent evaluation, autonomous agents, skills, enterprise architecture, demo write-ups, review loops, Project Management Professional, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * Project Management Professional
+  * AWS Certified Machine Learning - Specialty
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Master of Data Science
+West Alexshire Institute of Technology - Class of 2014

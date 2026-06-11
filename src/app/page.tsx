@@ -1,7 +1,9 @@
 "use client";
 
+import { motion } from "framer-motion";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
+import { UI_SLIDE_REVEAL_MS } from "@/components/animate-section-on-reveal";
 import { GoogleIcon } from "@/components/auth/google-icon";
 import { Button } from "@/components/ui/button";
 import {
@@ -23,47 +25,54 @@ export default function Home() {
   const { user, isHydrated, isPending, signIn, signOut } = useMockAuth();
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center gap-10 bg-gradient-to-br from-kpmgDarkBlue via-kpmgBlue to-kpmgCobaltBlue p-6">
-      <Image alt="KPMG" height={44} priority src="/assets/kpmg-white.svg" width={110} />
-      <div className="w-full max-w-sm rounded-xl bg-background p-8 text-center shadow-2xl">
-        <h1 className="font-semibold text-2xl text-foreground">
-          iCPMG Workbench
-          <sup className="ml-1.5 font-normal text-kpmgCobaltBlue text-xs uppercase tracking-wide">
-            alpha
-          </sup>
-        </h1>
-        <p className="mt-1 text-muted-foreground text-sm">
-          KPMG&apos;s candidate intelligence layer for iCIMS.
-        </p>
+    <main className="flex min-h-screen items-center justify-center bg-gradient-to-br from-kpmgDarkBlue via-kpmgBlue to-kpmgCobaltBlue p-6">
+      <motion.div
+        animate={{ opacity: 1, y: 0 }}
+        className="flex w-full flex-col items-center gap-10"
+        initial={{ opacity: 0, y: 12 }}
+        transition={{ duration: UI_SLIDE_REVEAL_MS / 1000, ease: "easeOut" }}
+      >
+        <Image alt="KPMG" height={44} priority src="/assets/kpmg-white.svg" width={110} />
+        <div className="w-full max-w-sm rounded-xl bg-background p-8 text-center shadow-2xl">
+          <h1 className="font-semibold text-2xl text-foreground">
+            iCPMG Workbench
+            <sup className="ml-1.5 font-normal text-kpmgCobaltBlue text-xs uppercase tracking-wide">
+              alpha
+            </sup>
+          </h1>
+          <p className="mt-1 text-muted-foreground text-sm">
+            KPMG&apos;s candidate intelligence layer for iCIMS.
+          </p>
 
-        <div className="mt-8">
-          {!isHydrated ? (
-            <Skeleton className="h-10 w-full" />
-          ) : user ? (
-            <SignedIn email={user.email} name={user.name} onSignOut={signOut} />
-          ) : (
-            <Button
-              className="w-full"
-              disabled={isPending}
-              onClick={signIn}
-              size="lg"
-              variant="outline"
-            >
-              {isPending ? <Spinner size="sm" /> : <GoogleIcon />}
-              {isPending ? "Redirecting…" : "Continue with Google"}
-            </Button>
-          )}
+          <div className="mt-8">
+            {!isHydrated ? (
+              <Skeleton className="h-10 w-full" />
+            ) : user ? (
+              <SignedIn email={user.email} name={user.name} onSignOut={signOut} />
+            ) : (
+              <Button
+                className="w-full"
+                disabled={isPending}
+                onClick={signIn}
+                size="lg"
+                variant="outline"
+              >
+                {isPending ? <Spinner size="sm" /> : <GoogleIcon />}
+                {isPending ? "Redirecting…" : "Continue with Google"}
+              </Button>
+            )}
+          </div>
+
+          <Separator className="my-6" />
+          <Image
+            alt="iCIMS"
+            className="mx-auto"
+            height={17}
+            src="/assets/icims-black.svg"
+            width={100}
+          />
         </div>
-
-        <Separator className="my-6" />
-        <Image
-          alt="iCIMS"
-          className="mx-auto"
-          height={17}
-          src="/assets/icims-black.svg"
-          width={100}
-        />
-      </div>
+      </motion.div>
     </main>
   );
 }

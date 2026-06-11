@@ -1,0 +1,64 @@
+=========================================
+JILL WHITE
+North Timothyfort, ME | (927) 048-7130 x544 | jill.white@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jill White is a business and analytics professional with 2+ years of transferable experience related to Agents, plugins, skills, and tools, Security and scalability, AI Lab experimentation, Internal Transformation production path. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Security and scalability
+  * AI Lab experimentation
+  * Internal Transformation production path
+  * Client workshops
+  * Validated outcomes
+
+CORE SKILLS
+adoption metrics, skills, benefit measurement, enterprise rollout, plugin design, applied research, rapid experimentation, discovery workshops, success metrics, operating model change, AI Lab prototyping, internal transformation
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Mitchell and Sons
+2023 - 2024
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: cut evaluation turnaround from 6 days to 3 days.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: reduced operational handoffs by 9%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: improved model quality by 13%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: cut evaluation turnaround from 5 days to 2 days.
+
+Business Analyst - Deleon-Smith
+2024 - 2025
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: standardized reporting for 8 stakeholder groups.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced operational handoffs by 20%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: processed 10M records through reusable pipelines.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: improved model quality by 20%.
+
+Business Analyst - Mendoza-Heath
+2025 - Present
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced operational handoffs by 9%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 47%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: standardized reporting for 7 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Result: processed 16M records through reusable pipelines.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Result: standardized reporting for 8 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led enablement work across Agents, plugins, skills, and tools, AI Lab experimentation, Internal Transformation production path, Security and scalability.
+  * Led discovery work across Client workshops, Internal Transformation production path, AI Lab experimentation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/jill-white/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+adoption metrics, skills, benefit measurement, enterprise rollout, plugin design, applied research, rapid experimentation, discovery workshops, success metrics, operating model change, AI Lab prototyping, internal transformation, Prosci Change Management Certification, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Bachelor of Mathematics
+Dawnburgh Polytechnic - Class of 2019

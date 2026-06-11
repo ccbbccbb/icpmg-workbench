@@ -1,0 +1,76 @@
+=========================================
+KELLY SOTO
+Lisahaven, WV | 1-235-926-1502 | kelly.soto@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kelly Soto is a data and technology consulting professional with 6+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Evaluation design, Security and scalability, Workflow and operating-model redesign, Cloud and engineering partnership, Demo readiness, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Security and scalability
+  * Workflow and operating-model redesign
+  * Cloud and engineering partnership
+  * Demo readiness
+  * Reusable demos, kits, and handoff materials
+  * Technical pre-sales
+  * Builder mindset
+  * Validated outcomes
+  * Prompt engineering
+
+CORE SKILLS
+rapid prototyping, eval harnesses, few-shot examples, demo safety, solution demos, risk assessment, demo rehearsal, adoption planning, secure deployment, identity controls, operating model design, workflow redesign, system prompts, demo packaging, platform teams, outcome validation, technical discovery, cloud engineering, build mindset, executive demos, hands-on execution, internal transformation, data protection, prompt design, handoff kits
+
+PROFESSIONAL EXPERIENCE
+AI Product Engineering Manager - Brown-King
+2020 - 2021
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved delivery predictability by 17%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: coached a team of 8 consultants and engineers.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: coached a team of 5 consultants and engineers.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: delivered $2M in AI program value cases.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: delivered $4M in AI program value cases.
+
+AI Product Engineering Manager - Sanchez, Russell and Adams
+2021 - 2023
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: improved delivery predictability by 13%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: delivered $7M in AI program value cases.
+  * Supported technical discovery and proposal shaping with architecture options, assumptions, and effort estimates. Outcome: coached a team of 10 consultants and engineers.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: coached a team of 14 consultants and engineers.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: improved delivery predictability by 14%.
+
+Generative AI Program Manager - Duran-Nicholson
+2023 - Present
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: coached a team of 9 consultants and engineers.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Outcome: reduced prototype-to-production cycle time by 34%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced prototype-to-production cycle time by 30%.
+  * Maintained risk registers and mitigation plans for AI delivery initiatives. Outcome: reduced prototype-to-production cycle time by 39%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: coached a team of 5 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Result: improved delivery predictability by 31%.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Result: reduced prototype-to-production cycle time by 35%.
+  * Designed controls for data access, model approval, output review, and exception handling. Result: improved delivery predictability by 20%.
+
+SELECTED PROJECTS
+  * Led enablement work across Demo safety and governance checks, Builder mindset, Evaluation design, Risk controls, Validated outcomes.
+  * Led implementation work across Builder mindset, Internal Transformation production path, Cloud and engineering partnership, Risk controls, Demo readiness.
+  * Led discovery work across Cloud and engineering partnership, Security and scalability, Demo readiness, Internal Transformation production path.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/kelly-soto/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+
+TOOLS, PLATFORMS, AND METHODS
+rapid prototyping, eval harnesses, few-shot examples, demo safety, solution demos, risk assessment, demo rehearsal, adoption planning, secure deployment, identity controls, operating model design, workflow redesign, system prompts, demo packaging, Certified ScrumMaster, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * IAPP Certified Information Privacy Professional
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Master of Information Systems
+Cantrellside Polytechnic - Class of 2016

@@ -1,0 +1,64 @@
+=========================================
+MICHELLE MACIAS
+North Laurenport, TN | 362 520 5116 | michelle.macias@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Michelle Macias is a business and analytics professional with 3+ years of transferable experience related to Agentic AI delivery, Approved AI and engineering stack, Agents, plugins, skills, and tools, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Approved AI and engineering stack
+  * Agents, plugins, skills, and tools
+  * Low-code, API, and orchestration tools
+  * Reusable demos, kits, and handoff materials
+  * Ambiguity and execution
+  * Client workshops
+
+CORE SKILLS
+structured assumptions, executive demos, plugin design, engineering standards, handoff kits, delivery momentum, iteration, demo packaging, secure platforms, facilitation, agent tools, agentic AI, tool calling, replication kits, implementation playbooks, multi-agent systems, configuration
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Ross-Stafford
+2023 - 2024
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: processed 30M records through reusable pipelines.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved model quality by 22%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced manual analysis effort by 48%.
+
+Business Analyst - Ferrell, Stewart and Meyer
+2024 - 2025
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: standardized reporting for 10 stakeholder groups.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced manual analysis effort by 42%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: improved model quality by 12%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: cut evaluation turnaround from 10 days to 1 day.
+
+Analytics Consultant - Walker, Gardner and Padilla
+2025 - Present
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced manual analysis effort by 43%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: standardized reporting for 8 stakeholder groups.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced operational handoffs by 9%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: reduced operational handoffs by 15%.
+
+SELECTED ACHIEVEMENTS
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Result: reduced operational handoffs by 10%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Result: standardized reporting for 9 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led enablement work across Client workshops, Low-code, API, and orchestration tools, Agents, plugins, skills, and tools, Agentic AI delivery.
+  * Led enablement work across Client workshops, Approved AI and engineering stack, Agents, plugins, skills, and tools, Low-code, API, and orchestration tools.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/michelle-macias/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+structured assumptions, executive demos, plugin design, engineering standards, handoff kits, delivery momentum, iteration, demo packaging, secure platforms, facilitation, agent tools, agentic AI, tool calling, replication kits, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Science, Statistics
+Bradleyhaven Institute of Technology - Class of 2019

@@ -1,0 +1,75 @@
+=========================================
+STEVEN SCHROEDER
+Gordonbury, CT | 1 (952) 976-3002 | steven.schroeder@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Steven Schroeder is a data and technology consulting professional with 4+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Human-AI collaboration, Code quality and reliability, Cloud and engineering partnership, Prototype portfolio, Full AI build lifecycle, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Code quality and reliability
+  * Cloud and engineering partnership
+  * Prototype portfolio
+  * Full AI build lifecycle
+  * AI Lab experimentation
+  * Security and scalability
+  * Productionization
+  * Visualization
+  * Approved AI and engineering stack
+
+CORE SKILLS
+rapid experimentation, AI Lab prototyping, executive demos, platform teams, production readiness, FastAPI, operational support, monitoring, Power BI, data storytelling, prototype portfolio, release planning, ROI modelling, production handoff, review loops, decision boundaries, lifecycle ownership, platform constraints, NumPy, build case, engineering standards, secure platforms, frontier models, Python, journey mapping, investment cases, discovery workshops
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Tran, Gill and Carroll
+2022 - 2023
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: processed 3M records through reusable pipelines.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: cut evaluation turnaround from 10 days to 1 day.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced manual analysis effort by 41%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: reduced manual analysis effort by 38%.
+
+Data Science Consultant - Wilson-Singh
+2023 - 2024
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: processed 39M records through reusable pipelines.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced manual analysis effort by 44%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Created dashboards for adoption, model performance, pipeline health, and executive reporting. Outcome: improved model quality by 24%.
+
+Applied AI Consultant - Allen, Burke and Nicholson
+2024 - Present
+  * Created dashboards for adoption, model performance, pipeline health, and executive reporting. Outcome: reduced manual analysis effort by 29%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: processed 21M records through reusable pipelines.
+  * Created benefits trackers to compare forecast savings against realized delivery outcomes. Outcome: cut evaluation turnaround from 6 days to 3 days.
+  * Built Python services and notebooks for ingestion, modelling, evaluation, and reporting. Outcome: improved model quality by 13%.
+  * Defined operational checks for model drift, data freshness, latency, and incident response. Outcome: reduced manual analysis effort by 36%.
+
+SELECTED ACHIEVEMENTS
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Result: processed 33M records through reusable pipelines.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Result: reduced manual analysis effort by 39%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: improved model quality by 22%.
+
+SELECTED PROJECTS
+  * Led discovery work across Human-AI collaboration, AI Lab experimentation, Client workshops, Visualization, Prototype portfolio.
+  * Led roadmap work across Approved AI and engineering stack, Business case development, Human-AI collaboration.
+  * Led roadmap work across Python, Code quality and reliability, Prototype portfolio, Approved AI and engineering stack.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/steven-schroeder/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+rapid experimentation, AI Lab prototyping, executive demos, platform teams, production readiness, FastAPI, operational support, monitoring, Power BI, data storytelling, prototype portfolio, release planning, ROI modelling, production handoff, Prosci Change Management Certification, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * Databricks Machine Learning Associate
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+North Frederick University - Class of 2018

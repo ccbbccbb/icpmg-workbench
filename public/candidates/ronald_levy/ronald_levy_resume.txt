@@ -1,0 +1,75 @@
+=========================================
+RONALD LEVY
+Paynefort, MO | 1-198-683-6699 | ronald.levy@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Ronald Levy is a data and technology consulting professional with 11+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Demo readiness, Agents, plugins, skills, and tools, Productionization, Agentic AI delivery, Full AI build lifecycle, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Demo readiness
+  * Agents, plugins, skills, and tools
+  * Productionization
+  * Agentic AI delivery
+  * Full AI build lifecycle
+  * Evaluation design
+  * Security and scalability
+  * Service line leadership engagement
+  * Team leadership
+  * Prompt engineering
+
+CORE SKILLS
+test sets, investment cases, agent workflows, resource planning, Google Cloud, performance feedback, safe showcase, solution maintenance, prompt design, deployment controls, secure architecture, Snowflake, Azure AI, multi-agent systems, lifecycle ownership, autonomous agents, prototype lifecycle, agent tools, production readiness, identity controls
+
+PROFESSIONAL EXPERIENCE
+AI Product Engineering Manager - Collier-Knox
+2015 - 2017
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: improved delivery predictability by 17%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: reduced prototype-to-production cycle time by 36%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved delivery predictability by 34%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: delivered $14M in AI program value cases.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: coached a team of 10 consultants and engineers.
+
+Data & AI Consulting Manager - Williams-Morris
+2017 - 2021
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: delivered $6M in AI program value cases.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced prototype-to-production cycle time by 28%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: reduced prototype-to-production cycle time by 27%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced prototype-to-production cycle time by 20%.
+  * Led mixed teams of consultants, engineers, and analysts through discovery, build, and rollout phases. Outcome: delivered $12M in AI program value cases.
+
+AI Delivery Manager - Armstrong LLC
+2021 - Present
+  * Coached junior team members on consulting communication, solution design, and delivery discipline. Outcome: delivered $8M in AI program value cases.
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Outcome: reduced prototype-to-production cycle time by 25%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced prototype-to-production cycle time by 17%.
+  * Delivered AI workloads on cloud platforms using managed model endpoints, storage, and observability services. Outcome: improved delivery predictability by 24%.
+  * Built business cases that connected AI use cases to cost reduction, cycle-time gains, and risk reduction. Outcome: improved delivery predictability by 24%.
+
+SELECTED ACHIEVEMENTS
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Result: delivered $9M in AI program value cases.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Result: delivered $2M in AI program value cases.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Result: reduced prototype-to-production cycle time by 39%.
+
+SELECTED PROJECTS
+  * Led prototype work across Security and scalability, Service line leadership engagement, Demo safety and governance checks, Full AI build lifecycle, Internal Transformation production path.
+  * Led implementation work across Demo safety and governance checks, Productionization, Full AI build lifecycle, Business case development.
+  * Led discovery work across Agentic AI delivery, Agents, plugins, skills, and tools, Business case development, Cloud AI platforms.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/ronald-levy/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+
+TOOLS, PLATFORMS, AND METHODS
+test sets, investment cases, agent workflows, resource planning, Google Cloud, performance feedback, safe showcase, solution maintenance, prompt design, deployment controls, secure architecture, Snowflake, Azure AI, multi-agent systems, AWS Certified Machine Learning - Specialty, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Prosci Change Management Certification
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+Freemantown University - Class of 2010

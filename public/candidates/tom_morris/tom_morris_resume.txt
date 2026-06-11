@@ -1,0 +1,65 @@
+=========================================
+TOM MORRIS
+West Andrechester, MI | (717) 849-4790 x970 | tom.morris@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Tom Morris is a business and analytics professional with 9+ years of transferable experience related to Validated outcomes, Cloud and engineering partnership, Service line leadership engagement, Responsible AI. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Validated outcomes
+  * Cloud and engineering partnership
+  * Service line leadership engagement
+  * Responsible AI
+  * Change management
+  * AI literacy artifacts
+  * Partner pipeline creation
+
+CORE SKILLS
+senior manager alignment, benefit measurement, build mindset, operational support, cloud engineering, one-pagers, hands-on execution, training design, secure deployment, adoption planning, success metrics, pipeline creation, pipeline expansion
+
+PROFESSIONAL EXPERIENCE
+Product Owner - Hill-Conner
+2017 - 2018
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced operational handoffs by 8%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: standardized reporting for 5 stakeholder groups.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: reduced operational handoffs by 8%.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: delivered $6M in AI program value cases.
+
+Analytics Delivery Lead - Rasmussen-Williamson
+2018 - 2019
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: reduced prototype-to-production cycle time by 15%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: improved delivery predictability by 13%.
+  * Managed opportunities against quarterly targets with clear next steps, stage movement, and executive visibility. Outcome: delivered $12M in AI program value cases.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: reduced operational handoffs by 15%.
+
+Technology Project Manager - Shelton-Castillo
+2019 - Present
+  * Managed opportunities against quarterly targets with clear next steps, stage movement, and executive visibility. Outcome: delivered $10M in AI program value cases.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: coached a team of 12 consultants and engineers.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: standardized reporting for 10 stakeholder groups.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: coached a team of 14 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Result: delivered $13M in AI program value cases.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Result: coached a team of 7 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led roadmap work across Responsible AI, AI literacy artifacts, Builder mindset, Cloud and engineering partnership, Productionization.
+  * Led prototype work across Change management, Responsible AI, Cloud and engineering partnership, Partner pipeline creation.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/tom-morris/agentic-ai-builds
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+senior manager alignment, benefit measurement, build mindset, operational support, cloud engineering, one-pagers, hands-on execution, training design, secure deployment, adoption planning, success metrics, pipeline creation, pipeline expansion, Project Management Professional, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Project Management Professional
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Business Administration
+Lake Josephton University - Class of 2013

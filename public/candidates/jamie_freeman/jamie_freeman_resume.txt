@@ -1,0 +1,74 @@
+=========================================
+JAMIE FREEMAN
+Maddenhaven, VA | 568-200-1565 | jamie.freeman@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jamie Freeman is a data and technology consulting professional with 4+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Approved AI and engineering stack, Cloud and engineering partnership, Productionization, Agentic AI delivery, Code quality and reliability, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Cloud and engineering partnership
+  * Productionization
+  * Agentic AI delivery
+  * Code quality and reliability
+  * Human-AI collaboration
+  * Prototype portfolio
+  * Security and scalability
+  * LLM applications
+  * AI literacy artifacts
+
+CORE SKILLS
+autonomy design, production readiness, tool calling, platform constraints, operational support, reliability engineering, OpenAPI, release planning, demo write-ups, LangChain, engineering standards, secure platforms, chat applications, decision boundaries, secure deployment, document AI, secure architecture, DevOps collaboration, agent evaluation, approved AI stack, prototype portfolio, REST APIs, scalability, code review, test sets, autonomous agents, identity controls
+
+PROFESSIONAL EXPERIENCE
+GenAI Solution Consultant - Perez-Clark
+2022 - 2023
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved model quality by 16%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: reduced manual analysis effort by 35%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced manual analysis effort by 38%.
+
+GenAI Solution Consultant - Cunningham, Martinez and Rivas
+2023 - 2025
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: processed 2M records through reusable pipelines.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced manual analysis effort by 31%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: improved model quality by 22%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: improved model quality by 26%.
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Outcome: cut evaluation turnaround from 8 days to 3 days.
+
+AI Builder Senior Consultant - Howard LLC
+2025 - Present
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Outcome: improved model quality by 10%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: reduced manual analysis effort by 38%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Packaged reusable services with typed contracts, validation, and deployment documentation. Outcome: reduced manual analysis effort by 31%.
+
+SELECTED ACHIEVEMENTS
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Result: cut evaluation turnaround from 9 days to 2 days.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Result: reduced manual analysis effort by 43%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: reduced manual analysis effort by 46%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Approved AI and engineering stack, Agentic AI delivery, APIs and microservices, AI literacy artifacts, Security and scalability.
+  * Led enablement work across Cloud and engineering partnership, Human-AI collaboration, LLM applications, Evaluation design.
+  * Led implementation work across APIs and microservices, Security and scalability, Approved AI and engineering stack, Code quality and reliability.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/jamie-freeman/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+autonomy design, production readiness, tool calling, platform constraints, operational support, reliability engineering, OpenAPI, release planning, demo write-ups, LangChain, engineering standards, secure platforms, chat applications, decision boundaries, TOGAF Foundation, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * TOGAF Foundation
+  * Databricks Machine Learning Associate
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+Moorechester School of Business - Class of 2019

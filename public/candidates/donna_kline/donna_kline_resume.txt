@@ -1,0 +1,77 @@
+=========================================
+DONNA KLINE
+Hillmouth, FM | 1-782-237-4401 | donna.kline@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Donna Kline is a data and technology consulting professional with 6+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Evaluation design, Workflow and operating-model redesign, Internal Transformation production path, Demo safety and governance checks, Agents, plugins, skills, and tools, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Workflow and operating-model redesign
+  * Internal Transformation production path
+  * Demo safety and governance checks
+  * Agents, plugins, skills, and tools
+  * Validated outcomes
+  * Code quality and reliability
+  * Agentic AI delivery
+  * Business case development
+  * MLOps
+
+CORE SKILLS
+CI/CD, adoption metrics, governance checks, monitoring, data protection, channel strategy, partner enablement, process decomposition, demo safety, maintainability, partner channels, applied research, workflow redesign, secure platforms, field sales, investment cases, secure architecture, ecosystem management, lead sharing, automated testing, rapid experimentation, scalability, frontier models
+
+PROFESSIONAL EXPERIENCE
+Data & AI Consulting Manager - Guerra Inc
+2020 - 2021
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved delivery predictability by 27%.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: delivered $2M in AI program value cases.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: reduced prototype-to-production cycle time by 37%.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: reduced prototype-to-production cycle time by 35%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved delivery predictability by 14%.
+
+Generative AI Program Manager - Henderson and Sons
+2021 - 2023
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved delivery predictability by 31%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced prototype-to-production cycle time by 36%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: improved delivery predictability by 15%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: improved delivery predictability by 28%.
+  * Created benefits trackers to compare forecast savings against realized delivery outcomes. Outcome: delivered $8M in AI program value cases.
+
+Generative AI Program Manager - Vang LLC
+2023 - Present
+  * Built business cases that connected AI use cases to cost reduction, cycle-time gains, and risk reduction. Outcome: reduced prototype-to-production cycle time by 23%.
+  * Defined operational checks for model drift, data freshness, latency, and incident response. Outcome: delivered $13M in AI program value cases.
+  * Connected partner capabilities to client needs and internal delivery capacity. Outcome: improved delivery predictability by 25%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: coached a team of 6 consultants and engineers.
+  * Collaborated with partner field sales teams, channels, and customers to generate and qualify leads. Outcome: coached a team of 13 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Result: reduced prototype-to-production cycle time by 23%.
+  * Delivered AI workloads on cloud platforms using managed model endpoints, storage, and observability services. Result: delivered $7M in AI program value cases.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Result: reduced prototype-to-production cycle time by 16%.
+
+SELECTED PROJECTS
+  * Led prototype work across Productionization, Code quality and reliability, Business case development.
+  * Led prototype work across Productionization, Internal Transformation production path, Agentic AI delivery, Partner ecosystem, MLOps.
+  * Led prototype work across Agents, plugins, skills, and tools, Business case development, AI Lab experimentation.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/donna-kline/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+CI/CD, adoption metrics, governance checks, monitoring, data protection, channel strategy, partner enablement, process decomposition, demo safety, maintainability, partner channels, applied research, workflow redesign, secure platforms, Microsoft Certified: Azure AI Engineer Associate, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * IAPP Certified Information Privacy Professional
+  * Prosci Change Management Certification
+  * Certified ScrumMaster
+
+EDUCATION
+Master of Information Systems
+Garrettborough University - Class of 2018

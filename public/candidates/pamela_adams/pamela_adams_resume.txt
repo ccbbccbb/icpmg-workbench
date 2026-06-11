@@ -1,0 +1,64 @@
+=========================================
+PAMELA ADAMS
+West Michaelfort, OK | 544-331-8534 x985 | pamela.adams@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Pamela Adams is a business and analytics professional with 6+ years of transferable experience related to Prototype portfolio, Trade-off judgment, Automation, Validated outcomes. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Prototype portfolio
+  * Trade-off judgment
+  * Automation
+  * Validated outcomes
+  * Builder mindset
+  * Reusable demos, kits, and handoff materials
+
+CORE SKILLS
+replication kits, demo write-ups, adoption metrics, Python automation, benefit measurement, structured thinking, handoff kits, hands-on execution, prioritization, GitHub demos, implementation playbooks, build mindset, trade-off decisions, outcome validation
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Silva and Sons
+2020 - 2022
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: standardized reporting for 5 stakeholder groups.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced operational handoffs by 18%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: improved model quality by 26%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: improved model quality by 20%.
+
+Analytics Consultant - Garcia, Caldwell and Santos
+2022 - 2025
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced manual analysis effort by 38%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: improved model quality by 20%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: standardized reporting for 8 stakeholder groups.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced operational handoffs by 16%.
+
+Analytics Consultant - Parks Inc
+2025 - Present
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: processed 32M records through reusable pipelines.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: standardized reporting for 5 stakeholder groups.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: processed 17M records through reusable pipelines.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: standardized reporting for 3 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Result: cut evaluation turnaround from 11 days to 1 day.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: cut evaluation turnaround from 11 days to 2 days.
+
+SELECTED PROJECTS
+  * Led implementation work across Reusable demos, kits, and handoff materials, Prototype portfolio, Trade-off judgment, Validated outcomes, Automation.
+  * Led implementation work across Builder mindset, Validated outcomes, Prototype portfolio, Automation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/pamela-adams/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+replication kits, demo write-ups, adoption metrics, Python automation, benefit measurement, structured thinking, handoff kits, hands-on execution, prioritization, GitHub demos, implementation playbooks, build mindset, trade-off decisions, outcome validation, SnowPro Core Certification, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Bachelor of Science, Statistics
+Gregorybury University - Class of 2014

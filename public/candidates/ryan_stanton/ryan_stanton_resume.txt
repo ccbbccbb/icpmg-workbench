@@ -1,0 +1,64 @@
+=========================================
+RYAN STANTON
+Davidbury, PA | 233-487-5206 | ryan.stanton@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Ryan Stanton is a business and analytics professional with 9+ years of transferable experience related to Security and scalability, Evaluation design, Internal Transformation production path, AI literacy artifacts. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Evaluation design
+  * Internal Transformation production path
+  * AI literacy artifacts
+  * Change management
+  * Responsible AI
+  * Ambiguity and execution
+
+CORE SKILLS
+internal transformation, operating model change, identity controls, scalability, responsible AI, quality gates, human oversight, training design, eval harnesses, delivery momentum, data protection, internal stakeholders, low-code platforms, API integration, executive engagement, test sets
+
+PROFESSIONAL EXPERIENCE
+Product Owner - Thompson Ltd
+2017 - 2018
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced prototype-to-production cycle time by 18%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: coached a team of 6 consultants and engineers.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: delivered $3M in AI program value cases.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: standardized reporting for 5 stakeholder groups.
+
+Product Owner - Lyons-Huang
+2018 - 2020
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: reduced prototype-to-production cycle time by 27%.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: reduced operational handoffs by 8%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: reduced prototype-to-production cycle time by 28%.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: improved delivery predictability by 33%.
+
+Technology Project Manager - Smith, Schultz and Turner
+2020 - Present
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: coached a team of 9 consultants and engineers.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced prototype-to-production cycle time by 23%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: coached a team of 9 consultants and engineers.
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: reduced prototype-to-production cycle time by 37%.
+
+SELECTED ACHIEVEMENTS
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Result: delivered $3M in AI program value cases.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Result: coached a team of 10 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led discovery work across Evaluation design, Low-code, API, and orchestration tools, Service line leadership engagement, AI literacy artifacts.
+  * Led prototype work across Low-code, API, and orchestration tools, Ambiguity and execution, Responsible AI, Evaluation design, Change management.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/ryan-stanton/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+internal transformation, operating model change, identity controls, scalability, responsible AI, quality gates, human oversight, training design, eval harnesses, delivery momentum, data protection, internal stakeholders, low-code platforms, API integration, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Diploma in Business Analytics
+Brownfurt Polytechnic - Class of 2012

@@ -1,0 +1,76 @@
+=========================================
+FRANK PEREZ
+Frosthaven, ND | 270 944 3770 | frank.perez@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Frank Perez is a data and technology consulting professional with 7+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Agentic AI delivery, Code quality and reliability, Security and scalability, Productionization, Cloud and engineering partnership, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Code quality and reliability
+  * Security and scalability
+  * Productionization
+  * Cloud and engineering partnership
+  * Evaluation design
+  * Full AI build lifecycle
+  * Demo safety and governance checks
+  * Reusable demos, kits, and handoff materials
+  * Builder mindset
+
+CORE SKILLS
+skills, risk review, workflow automation, cloud engineering, governance checks, RPA integration, identity access management, secure SDLC, implementation playbooks, rapid prototyping, operational support, lifecycle ownership, solution maintenance, quality gates, agent workflows, autonomous agents, working systems, AI copilots, multi-agent systems, release planning, orchestration, test sets, agent evaluation, handoff kits, agent tools, DevOps collaboration, retrieval augmented generation, production readiness, demo safety, secure architecture
+
+PROFESSIONAL EXPERIENCE
+Data Science Consultant - Castillo, Wilson and Drake
+2019 - 2020
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: cut evaluation turnaround from 9 days to 2 days.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: cut evaluation turnaround from 7 days to 3 days.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced manual analysis effort by 26%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: improved model quality by 12%.
+
+GenAI Solution Consultant - King, Ewing and Taylor
+2020 - 2022
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: processed 12M records through reusable pipelines.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: cut evaluation turnaround from 4 days to 3 days.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: improved model quality by 14%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: reduced manual analysis effort by 44%.
+
+GenAI Solution Consultant - Miller Group
+2022 - Present
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: processed 29M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: improved model quality by 8%.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: improved model quality by 21%.
+  * Reviewed AI architecture for identity, access, logging, secrets management, and data protection needs. Outcome: processed 40M records through reusable pipelines.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: processed 11M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Reviewed AI architecture for identity, access, logging, secrets management, and data protection needs. Result: reduced manual analysis effort by 42%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Result: reduced manual analysis effort by 24%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Result: cut evaluation turnaround from 10 days to 3 days.
+
+SELECTED PROJECTS
+  * Led enablement work across Cloud and engineering partnership, Reusable demos, kits, and handoff materials, Automation, Full AI build lifecycle.
+  * Led enablement work across Cloud and engineering partnership, Agents, plugins, skills, and tools, Demo safety and governance checks, Code quality and reliability, Reusable demos, kits, and handoff materials.
+  * Led prototype work across Agentic AI delivery, Security and scalability, Demo safety and governance checks.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/frank-perez/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+skills, risk review, workflow automation, cloud engineering, governance checks, RPA integration, identity access management, secure SDLC, implementation playbooks, rapid prototyping, operational support, lifecycle ownership, solution maintenance, quality gates, Certified ScrumMaster, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * Prosci Change Management Certification
+  * TOGAF Foundation
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Bachelor of Computer Science
+Gutierrezside School of Business - Class of 2015

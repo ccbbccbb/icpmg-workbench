@@ -1,0 +1,65 @@
+=========================================
+BRITTANY BOYD
+Port Kirsten, CT | (162) 371-5759 x079 | brittany.boyd@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Brittany Boyd is a business and analytics professional with 9+ years of transferable experience related to Security and scalability, Code quality and reliability, Trade-off judgment, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Code quality and reliability
+  * Trade-off judgment
+  * Low-code, API, and orchestration tools
+  * Builder mindset
+  * Ambiguity and execution
+  * Revenue origination
+
+CORE SKILLS
+scalability, delivery judgment, secure architecture, structured assumptions, facilitation, configuration, low-code platforms, build mindset, revenue growth, code review, prioritization, structured thinking, deal sourcing
+
+PROFESSIONAL EXPERIENCE
+Product Owner - Brown Ltd
+2017 - 2020
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: standardized reporting for 7 stakeholder groups.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced prototype-to-production cycle time by 35%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: delivered $12M in AI program value cases.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: delivered $14M in AI program value cases.
+
+Product Owner - Moon PLC
+2020 - 2021
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: coached a team of 6 consultants and engineers.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: reduced operational handoffs by 18%.
+  * Created revenue growth plans with specific account targets, partner motions, and qualification criteria. Outcome: improved delivery predictability by 23%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: delivered $3M in AI program value cases.
+
+Technology Project Manager - Cox-Robinson
+2021 - Present
+  * Originated new Data and AI opportunities by connecting partner capabilities with client business priorities. Outcome: coached a team of 10 consultants and engineers.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: delivered $5M in AI program value cases.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: delivered $14M in AI program value cases.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced operational handoffs by 8%.
+
+SELECTED ACHIEVEMENTS
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Result: coached a team of 7 consultants and engineers.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Result: coached a team of 4 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led implementation work across Security and scalability, Code quality and reliability, Low-code, API, and orchestration tools, Ambiguity and execution.
+  * Led implementation work across Code quality and reliability, Revenue origination, Builder mindset.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/brittany-boyd/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+
+TOOLS, PLATFORMS, AND METHODS
+scalability, delivery judgment, secure architecture, structured assumptions, facilitation, configuration, low-code platforms, build mindset, revenue growth, code review, prioritization, structured thinking, deal sourcing, AWS Certified Machine Learning - Specialty, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Diploma in Business Analytics
+West Jamesside School of Business - Class of 2014

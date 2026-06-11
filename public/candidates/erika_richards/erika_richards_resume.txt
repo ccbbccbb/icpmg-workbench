@@ -1,0 +1,65 @@
+=========================================
+ERIKA RICHARDS
+East Joseph, OH | 333-596-3613 | erika.richards@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Erika Richards is a business and analytics professional with 2+ years of transferable experience related to Security and scalability, Agentic AI delivery, Human-AI collaboration, Validated outcomes. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Agentic AI delivery
+  * Human-AI collaboration
+  * Validated outcomes
+  * Reusable demos, kits, and handoff materials
+  * Builder mindset
+  * Trade-off judgment
+
+CORE SKILLS
+trade-off decisions, autonomous agents, agentic AI, rapid prototyping, build mindset, multi-agent systems, prioritization, human-AI handoffs, DevOps collaboration, relationship management, agent workflows, data protection
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Sherman, Webster and Villanueva
+2023 - 2024
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: cut evaluation turnaround from 8 days to 1 day.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced operational handoffs by 14%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced manual analysis effort by 29%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced manual analysis effort by 27%.
+
+Automation Specialist - Green-Peters
+2024 - 2025
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved model quality by 21%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: processed 30M records through reusable pipelines.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: standardized reporting for 8 stakeholder groups.
+
+Automation Specialist - Hunter, Wood and Hudson
+2025 - Present
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 21M records through reusable pipelines.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced manual analysis effort by 27%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced operational handoffs by 13%.
+
+SELECTED ACHIEVEMENTS
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Result: processed 27M records through reusable pipelines.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Result: cut evaluation turnaround from 6 days to 1 day.
+
+SELECTED PROJECTS
+  * Led enablement work across Security and scalability, Partner ecosystem, Builder mindset.
+  * Led discovery work across Builder mindset, Agentic AI delivery, Cloud and engineering partnership, Low-code, API, and orchestration tools.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/erika-richards/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+trade-off decisions, autonomous agents, agentic AI, rapid prototyping, build mindset, multi-agent systems, prioritization, human-AI handoffs, DevOps collaboration, relationship management, agent workflows, data protection, AWS Certified Machine Learning - Specialty, Project Management Professional
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Project Management Professional
+
+EDUCATION
+Diploma in Business Analytics
+South Brooke University - Class of 2018

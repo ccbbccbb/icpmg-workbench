@@ -1,0 +1,65 @@
+=========================================
+JENNIFER LONG
+Lake Vanessa, ID | +1 (567) 396-2146 | jennifer.long@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jennifer Long is a business and analytics professional with 8+ years of transferable experience related to Partner pipeline creation, Contract negotiation and legal liaison, Stakeholder management, Commercial negotiation. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Partner pipeline creation
+  * Contract negotiation and legal liaison
+  * Stakeholder management
+  * Commercial negotiation
+  * Market development
+  * Account planning
+  * Vector search
+
+CORE SKILLS
+pipeline expansion, opportunity management, executive briefings, embeddings, commercial strategy, deal governance, competitive positioning, relationship mapping, offer development, pricing, decision facilitation, status updates, decision logs
+
+PROFESSIONAL EXPERIENCE
+Partner Program Manager - Miles-Thomas
+2018 - 2021
+  * Managed opportunities against quarterly targets with clear next steps, stage movement, and executive visibility. Outcome: reduced pursuit cycle time by 12%.
+  * Participated in complex contract negotiations and coordinated legal review for new business deals. Outcome: enabled 14 joint account pursuits.
+  * Resolved delivery ambiguity by documenting assumptions, owners, and next steps. Outcome: reduced pursuit cycle time by 24%.
+  * Prepared executive deal summaries covering pricing assumptions, delivery risk, and partner commitments. Outcome: increased partner-sourced opportunities by 41%.
+
+Business Development Manager - Crawford-Ayala
+2021 - 2025
+  * Identified market demand themes and translated them into AI solution themes and partner campaigns. Outcome: enabled 15 joint account pursuits.
+  * Created account plans connecting technical use cases to executive priorities. Outcome: enabled 23 joint account pursuits.
+  * Built vector-search prototypes for policy, knowledge-base, and case-document retrieval. Outcome: standardized reporting for 5 stakeholder groups.
+  * Prepared executive briefings that translated AI capabilities into strategic choices and investment decisions. Outcome: standardized reporting for 7 stakeholder groups.
+
+Partner Program Manager - Bennett-Warren
+2025 - Present
+  * Mapped target accounts by buying centre, AI maturity, and renewal timing. Outcome: enabled 21 joint account pursuits.
+  * Created competitive positioning notes for AI offerings across platforms and industries. Outcome: standardized reporting for 4 stakeholder groups.
+  * Tuned chunking, metadata filters, and ranking logic to improve retrieval precision. Outcome: supported $16M in qualified alliance pipeline.
+  * Prepared executive briefings that translated AI capabilities into strategic choices and investment decisions. Outcome: enabled 17 joint account pursuits.
+
+SELECTED ACHIEVEMENTS
+  * Prepared executive deal summaries covering pricing assumptions, delivery risk, and partner commitments. Result: standardized reporting for 8 stakeholder groups.
+  * Created account plans connecting technical use cases to executive priorities. Result: increased partner-sourced opportunities by 28%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Partner pipeline creation, Vector search, Account planning, Market development, Stakeholder management.
+  * Led prototype work across Commercial negotiation, Contract negotiation and legal liaison, Executive stakeholder management, Market development, Partner pipeline creation.
+
+REVENUE AND ALLIANCE IMPACT
+  * Built a Data and AI partner plan covering Microsoft, Databricks, Snowflake, target accounts, quarterly pipeline goals, and field-sales actions.
+  * Shaped joint value propositions for enterprise Data and AI services using platform capabilities, adoption paths, and commercial value drivers.
+  * Maintained CRM forecast views for sourced and influenced pipeline, with stage hygiene, next actions, and partner attribution.
+
+TOOLS, PLATFORMS, AND METHODS
+pipeline expansion, opportunity management, executive briefings, embeddings, commercial strategy, deal governance, competitive positioning, relationship mapping, offer development, pricing, decision facilitation, status updates, decision logs, Databricks Machine Learning Associate, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Diploma in Business Analytics
+Darryltown School of Business - Class of 2013

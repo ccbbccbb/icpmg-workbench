@@ -1,0 +1,65 @@
+=========================================
+KURT BROOKS
+East Kylie, LA | (506) 672-7929 x892 | kurt.brooks@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kurt Brooks is a business and analytics professional with 7+ years of transferable experience related to Security and scalability, Product management, Responsible AI, Change management. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Product management
+  * Responsible AI
+  * Change management
+  * Compliance
+  * Market development
+  * Enterprise operations fluency
+
+CORE SKILLS
+low-code platforms, user stories, training design, operating model change, policy interpretation, market analysis, audit readiness, configuration, data protection, privacy, human oversight, acceptance criteria, responsible AI, scalability, decision systems, process decomposition, Airflow, enterprise operations
+
+PROFESSIONAL EXPERIENCE
+Product Owner - Gill, Taylor and Arias
+2019 - 2022
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: standardized reporting for 3 stakeholder groups.
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: standardized reporting for 7 stakeholder groups.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: standardized reporting for 8 stakeholder groups.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: reduced prototype-to-production cycle time by 21%.
+
+Technology Project Manager - Price Group
+2022 - 2024
+  * Worked with legal and risk teams to align AI workflows with internal policy requirements. Outcome: reduced prototype-to-production cycle time by 39%.
+  * Created competitive positioning notes for AI offerings across platforms and industries. Outcome: reduced prototype-to-production cycle time by 24%.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: standardized reporting for 7 stakeholder groups.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced operational handoffs by 11%.
+
+Technology Project Manager - Russell, Perry and Gentry
+2024 - Present
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced prototype-to-production cycle time by 28%.
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Outcome: reduced operational handoffs by 11%.
+  * Created competitive positioning notes for AI offerings across platforms and industries. Outcome: delivered $12M in AI program value cases.
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: coached a team of 8 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Result: standardized reporting for 9 stakeholder groups.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Result: coached a team of 6 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led discovery work across Change management, Compliance, Low-code, API, and orchestration tools, Data engineering.
+  * Led prototype work across Responsible AI, Change management, Low-code, API, and orchestration tools.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/kurt-brooks/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+low-code platforms, user stories, training design, operating model change, policy interpretation, market analysis, audit readiness, configuration, data protection, privacy, human oversight, acceptance criteria, responsible AI, scalability, Prosci Change Management Certification, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Bachelor of Mathematics
+Port Jennifermouth Institute of Technology - Class of 2013

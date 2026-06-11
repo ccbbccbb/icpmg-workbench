@@ -1,0 +1,64 @@
+=========================================
+ABIGAIL FISHER
+South Loganside, NE | 977-045-7942 x378 | abigail.fisher@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Abigail Fisher is a business and analytics professional with 6+ years of transferable experience related to Full AI build lifecycle, Agents, plugins, skills, and tools, Ambiguity and execution, Reusable demos, kits, and handoff materials. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Full AI build lifecycle
+  * Agents, plugins, skills, and tools
+  * Ambiguity and execution
+  * Reusable demos, kits, and handoff materials
+  * Validated outcomes
+  * Builder mindset
+  * Builder community contribution
+
+CORE SKILLS
+lifecycle ownership, handoff kits, enterprise rollout, structured assumptions, build mindset, adoption planning, builder community, solution maintenance, community demos, lead sharing, shared assets, operating model change, benefit measurement, tool calling, skills, orchestration, hands-on execution
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Davis PLC
+2020 - 2024
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: processed 36M records through reusable pipelines.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: processed 8M records through reusable pipelines.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced operational handoffs by 18%.
+
+Business Analyst - Shepherd, Diaz and Reese
+2024 - 2025
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: improved model quality by 21%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved model quality by 24%.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: processed 35M records through reusable pipelines.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: standardized reporting for 4 stakeholder groups.
+
+Automation Specialist - Johnson-Howell
+2025 - Present
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced manual analysis effort by 46%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced manual analysis effort by 43%.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: processed 18M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Result: cut evaluation turnaround from 12 days to 2 days.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Result: improved model quality by 20%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Full AI build lifecycle, Partner field sales collaboration, Builder community contribution.
+  * Led enablement work across Builder community contribution, Partner field sales collaboration, Reusable demos, kits, and handoff materials.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/abigail-fisher/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+lifecycle ownership, handoff kits, enterprise rollout, structured assumptions, build mindset, adoption planning, builder community, solution maintenance, community demos, lead sharing, shared assets, operating model change, benefit measurement, tool calling, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+
+EDUCATION
+Diploma in Business Analytics
+Brandtview University - Class of 2014

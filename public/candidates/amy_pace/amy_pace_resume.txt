@@ -1,0 +1,74 @@
+=========================================
+AMY PACE
+North Spencer, DC | +1 (298) 077-4606 | amy.pace@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Amy Pace is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Security and scalability, Productionization, Approved AI and engineering stack, Human-AI collaboration, AI Lab experimentation, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Productionization
+  * Approved AI and engineering stack
+  * Human-AI collaboration
+  * AI Lab experimentation
+  * Cloud and engineering partnership
+  * Code quality and reliability
+  * Agents, plugins, skills, and tools
+  * Machine learning
+  * Evaluation design
+
+CORE SKILLS
+process mining, identity controls, scalability, approved AI stack, decision boundaries, deployment controls, platform teams, frontier models, review loops, cloud engineering, tool calling, maintainability, automated testing, test sets, platform constraints, release planning, OpenAPI, engineering standards, plugin design, RPA integration, production readiness, FastAPI, AI Lab prototyping, agent tools
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Raymond, Vaughn and Moran
+2020 - 2023
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: reduced manual analysis effort by 42%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: cut evaluation turnaround from 7 days to 3 days.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: processed 17M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: processed 20M records through reusable pipelines.
+
+GenAI Solution Consultant - Odonnell, Smith and Scott
+2023 - 2024
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: improved model quality by 25%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved model quality by 20%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced manual analysis effort by 40%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: processed 11M records through reusable pipelines.
+  * Developed machine learning models for classification, forecasting, prioritization, and anomaly detection. Outcome: processed 38M records through reusable pipelines.
+
+Applied AI Consultant - Hopkins-Diaz
+2024 - Present
+  * Developed machine learning models for classification, forecasting, prioritization, and anomaly detection. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced manual analysis effort by 19%.
+  * Packaged reusable services with typed contracts, validation, and deployment documentation. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: cut evaluation turnaround from 5 days to 3 days.
+
+SELECTED ACHIEVEMENTS
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: improved model quality by 9%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Result: reduced manual analysis effort by 38%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Result: processed 25M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led roadmap work across AI Lab experimentation, Cloud and engineering partnership, Security and scalability, Approved AI and engineering stack, APIs and microservices.
+  * Led enablement work across APIs and microservices, Evaluation design, Automation, Code quality and reliability, Approved AI and engineering stack.
+  * Led implementation work across Productionization, APIs and microservices, Evaluation design, Code quality and reliability.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/amy-pace/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+process mining, identity controls, scalability, approved AI stack, decision boundaries, deployment controls, platform teams, frontier models, review loops, cloud engineering, tool calling, maintainability, automated testing, test sets, Certified ScrumMaster, Project Management Professional
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * Project Management Professional
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Bachelor of Computer Science
+Lake Rachelhaven University - Class of 2018

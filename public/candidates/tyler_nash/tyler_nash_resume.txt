@@ -1,0 +1,97 @@
+=========================================
+TYLER NASH
+North Deborahmouth, MP | 1-510-410-0432 | tyler.nash@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Tyler Nash is an AI Builder Senior Consultant with 8+ years of direct Data and AI experience, including Productionization, Security and scalability, Full AI build lifecycle, Agents, plugins, skills, and tools, Agentic AI delivery, Cloud and engineering partnership. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Security and scalability
+  * Full AI build lifecycle
+  * Agents, plugins, skills, and tools
+  * Agentic AI delivery
+  * Cloud and engineering partnership
+  * Evaluation design
+  * Approved AI and engineering stack
+  * AI Lab experimentation
+  * Prototype portfolio
+  * Service line leadership engagement
+  * SQL and analytics
+  * Generative AI
+  * LLM applications
+
+CORE SKILLS
+maintainability, frontier models, plugin design, autonomous agents, secure deployment, DevOps collaboration, semantic search, rapid experimentation, tool calling, analytics engineering, secure platforms, ELT, ETL, lifecycle ownership, vector databases, LLMs, identity controls, Spark, applied research, pipeline reporting, prototype portfolio, Airflow, prototype lifecycle, business reviews, code review, dbt, orchestration, KPI design, data profiling, platform constraints, AI Lab prototyping, production handoff
+
+PROFESSIONAL EXPERIENCE
+AI Builder Senior Consultant - Collins-Dean
+2018 - 2019
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced manual analysis effort by 24%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: reduced manual analysis effort by 24%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: processed 7M records through reusable pipelines.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: processed 24M records through reusable pipelines.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced manual analysis effort by 41%.
+
+Data Science Consultant - Griffin, Cruz and Medina
+2019 - 2023
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced manual analysis effort by 43%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced manual analysis effort by 28%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: processed 19M records through reusable pipelines.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: improved model quality by 14%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: reduced manual analysis effort by 40%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: cut evaluation turnaround from 10 days to 2 days.
+
+GenAI Solution Consultant - Mckinney, Chapman and Walker
+2023 - 2024
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: improved model quality by 16%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: improved model quality by 19%.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: reduced manual analysis effort by 18%.
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: cut evaluation turnaround from 9 days to 3 days.
+  * Built generative AI prototypes for knowledge search, summarization, intake triage, and analyst assistance. Outcome: reduced manual analysis effort by 42%.
+  * Integrated language models into business workflows through APIs, queues, and review interfaces. Outcome: reduced manual analysis effort by 47%.
+
+Applied AI Consultant - Torres-Garrett
+2024 - Present
+  * Built generative AI prototypes for knowledge search, summarization, intake triage, and analyst assistance. Outcome: improved model quality by 13%.
+  * Integrated language models into business workflows through APIs, queues, and review interfaces. Outcome: reduced manual analysis effort by 46%.
+  * Built Python services and notebooks for ingestion, modelling, evaluation, and reporting. Outcome: reduced manual analysis effort by 36%.
+  * Reported progress to senior management with clear metrics, blockers, and revenue implications. Outcome: reduced manual analysis effort by 37%.
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Tuned chunking, metadata filters, and ranking logic to improve retrieval precision. Outcome: processed 10M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: improved model quality by 24%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: processed 4M records through reusable pipelines.
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Result: processed 24M records through reusable pipelines.
+  * Prepared partner and internal business reviews covering pipeline movement, forecast risks, and action owners. Result: cut evaluation turnaround from 7 days to 2 days.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Result: processed 8M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led enablement work across Evaluation design, Data engineering, Prototype portfolio, Agents, plugins, skills, and tools.
+  * Led discovery work across Approved AI and engineering stack, AI Lab experimentation, Data engineering, Vector search.
+  * Led prototype work across LLM applications, Python, Service line leadership engagement.
+  * Led implementation work across Cloud and engineering partnership, Generative AI, Data engineering.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/tyler-nash/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+maintainability, frontier models, plugin design, autonomous agents, secure deployment, DevOps collaboration, semantic search, rapid experimentation, tool calling, analytics engineering, secure platforms, ELT, ETL, lifecycle ownership, SnowPro Core Certification, Certified ScrumMaster
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * Certified ScrumMaster
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Databricks Machine Learning Associate
+  * Project Management Professional
+
+EDUCATION
+Master of Applied Computing
+Romerohaven Polytechnic - Class of 2016

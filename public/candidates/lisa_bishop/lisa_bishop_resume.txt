@@ -1,0 +1,64 @@
+=========================================
+LISA BISHOP
+Stricklandville, IN | (240) 467-5049 x570 | lisa.bishop@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Lisa Bishop is a business and analytics professional with 5+ years of transferable experience related to Prototype portfolio, Builder mindset, Automation, Client workshops. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Prototype portfolio
+  * Builder mindset
+  * Automation
+  * Client workshops
+  * Trade-off judgment
+  * Validated outcomes
+  * Internal Transformation production path
+
+CORE SKILLS
+automated testing, working systems, operating model change, maintainability, RPA integration, adoption planning, outcome validation, journey mapping, process mining, internal transformation, prioritization, enterprise rollout, adoption metrics, GitHub demos, delivery judgment, prototype portfolio
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Bishop, Long and Walker
+2021 - 2022
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: cut evaluation turnaround from 9 days to 2 days.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced manual analysis effort by 28%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced manual analysis effort by 20%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: cut evaluation turnaround from 8 days to 3 days.
+
+Automation Specialist - Gray, Stevens and Smith
+2022 - 2024
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: processed 35M records through reusable pipelines.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: standardized reporting for 10 stakeholder groups.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: processed 35M records through reusable pipelines.
+
+Business Analyst - Ballard-Mason
+2024 - Present
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: reduced operational handoffs by 13%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: reduced manual analysis effort by 35%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: processed 22M records through reusable pipelines.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: cut evaluation turnaround from 10 days to 1 day.
+
+SELECTED ACHIEVEMENTS
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Result: improved model quality by 22%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Result: reduced manual analysis effort by 30%.
+
+SELECTED PROJECTS
+  * Led discovery work across Code quality and reliability, Client workshops, Internal Transformation production path, Builder mindset.
+  * Led implementation work across Validated outcomes, Internal Transformation production path, Builder mindset.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/lisa-bishop/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+automated testing, working systems, operating model change, maintainability, RPA integration, adoption planning, outcome validation, journey mapping, process mining, internal transformation, prioritization, enterprise rollout, adoption metrics, GitHub demos, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Science, Statistics
+Heathershire University - Class of 2019

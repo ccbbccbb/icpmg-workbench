@@ -1,0 +1,98 @@
+=========================================
+ALLISON ARNOLD
+Christyton, DC | 159 337 3070 | allison.arnold@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Allison Arnold is an AI Builder Manager with 11+ years of direct Data and AI experience, including Builder team coaching, Demo readiness, Reusable demos, kits, and handoff materials, Workflow and operating-model redesign, Full AI build lifecycle, Cloud and engineering partnership. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Builder team coaching
+  * Demo readiness
+  * Reusable demos, kits, and handoff materials
+  * Workflow and operating-model redesign
+  * Full AI build lifecycle
+  * Cloud and engineering partnership
+  * Productionization
+  * Agentic AI delivery
+  * Low-code, API, and orchestration tools
+  * Enterprise operations fluency
+  * Security and scalability
+  * Generative AI
+  * Commercial negotiation
+  * Contract negotiation and legal liaison
+
+CORE SKILLS
+team development, executive demos, lead sharing, controls, operational support, agent workflows, implementation playbooks, agent evaluation, data protection, field sales, eval harnesses, model risk management, process decomposition, scalability, autonomous agents, process fluency, work review, cost estimation, demo rehearsal, co-selling, prototype lifecycle, AI copilots, enterprise operations, low-code platforms, LLMs, ROI modelling, quality gates, deal governance
+
+PROFESSIONAL EXPERIENCE
+Generative AI Program Manager - Mclaughlin and Sons
+2015 - 2018
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: improved delivery predictability by 34%.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: improved delivery predictability by 19%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: coached a team of 14 consultants and engineers.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Outcome: delivered $14M in AI program value cases.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: coached a team of 9 consultants and engineers.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved delivery predictability by 15%.
+
+AI Delivery Manager - White, Collins and Peterson
+2018 - 2020
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved delivery predictability by 28%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: coached a team of 8 consultants and engineers.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: delivered $6M in AI program value cases.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: coached a team of 9 consultants and engineers.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: improved delivery predictability by 27%.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: improved delivery predictability by 20%.
+
+Generative AI Program Manager - Ramirez-Gallagher
+2020 - 2021
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: improved delivery predictability by 31%.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: coached a team of 7 consultants and engineers.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: improved delivery predictability by 14%.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: reduced prototype-to-production cycle time by 37%.
+  * Supported commercial negotiations by clarifying scope, value drivers, dependencies, and success metrics. Outcome: improved delivery predictability by 12%.
+  * Clarified commercial terms, scope assumptions, data obligations, and partner responsibilities. Outcome: improved delivery predictability by 31%.
+
+AI Delivery Manager - Black, Foster and Rogers
+2021 - Present
+  * Supported commercial negotiations by clarifying scope, value drivers, dependencies, and success metrics. Outcome: improved delivery predictability by 25%.
+  * Participated in complex contract negotiations and coordinated legal review for new business deals. Outcome: improved delivery predictability by 26%.
+  * Built account pursuit cadences with partner sellers, internal account teams, and solution leads. Outcome: coached a team of 8 consultants and engineers.
+  * Designed governance checkpoints for use-case intake, validation, approval, and post-launch review. Outcome: improved delivery predictability by 32%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced prototype-to-production cycle time by 30%.
+  * Created benefits trackers to compare forecast savings against realized delivery outcomes. Outcome: reduced prototype-to-production cycle time by 17%.
+
+SELECTED ACHIEVEMENTS
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Result: reduced prototype-to-production cycle time by 34%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Result: reduced prototype-to-production cycle time by 18%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Result: reduced prototype-to-production cycle time by 31%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Result: reduced prototype-to-production cycle time by 19%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Result: coached a team of 13 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led implementation work across Enterprise operations fluency, Commercial negotiation, Security and scalability.
+  * Led enablement work across Productionization, Enterprise operations fluency, Cloud and engineering partnership.
+  * Led enablement work across Low-code, API, and orchestration tools, Enterprise operations fluency, Reusable demos, kits, and handoff materials, Agentic AI delivery.
+  * Led enablement work across Cloud and engineering partnership, Business case development, Evaluation design, Enterprise operations fluency.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/allison-arnold/agentic-ai-builds
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+team development, executive demos, lead sharing, controls, operational support, agent workflows, implementation playbooks, agent evaluation, data protection, field sales, eval harnesses, model risk management, process decomposition, scalability, TOGAF Foundation, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * TOGAF Foundation
+  * Prosci Change Management Certification
+  * Certified ScrumMaster
+  * Project Management Professional
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Master of Data Science
+Paynebury University - Class of 2009

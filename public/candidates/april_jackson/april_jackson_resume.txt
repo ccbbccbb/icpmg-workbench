@@ -1,0 +1,65 @@
+=========================================
+APRIL JACKSON
+North Haleyborough, PR | (404) 951-4547 x740 | april.jackson@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+April Jackson is a business and analytics professional with 6+ years of transferable experience related to Code quality and reliability, Automation, Builder community contribution, Internal Transformation production path. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Automation
+  * Builder community contribution
+  * Internal Transformation production path
+  * Ambiguity and execution
+  * Trade-off judgment
+  * LLM applications
+
+CORE SKILLS
+tool calling, RPA integration, workflow automation, maintainability, document AI, builder community, internal transformation, prioritization, delivery momentum, LangChain, LlamaIndex, automated testing
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - James LLC
+2020 - 2022
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: improved model quality by 19%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: cut evaluation turnaround from 4 days to 3 days.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: improved model quality by 24%.
+
+Business Analyst - Alvarez-Jones
+2022 - 2024
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: processed 5M records through reusable pipelines.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: processed 18M records through reusable pipelines.
+  * Integrated language models into business workflows through APIs, queues, and review interfaces. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: processed 11M records through reusable pipelines.
+
+Analytics Consultant - Cummings PLC
+2024 - Present
+  * Integrated language models into business workflows through APIs, queues, and review interfaces. Outcome: reduced operational handoffs by 14%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: reduced operational handoffs by 18%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: processed 15M records through reusable pipelines.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: improved model quality by 22%.
+
+SELECTED ACHIEVEMENTS
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Result: cut evaluation turnaround from 12 days to 2 days.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Result: reduced manual analysis effort by 24%.
+
+SELECTED PROJECTS
+  * Led implementation work across LLM applications, Ambiguity and execution, Builder community contribution, Agentic AI delivery, Code quality and reliability.
+  * Led implementation work across LLM applications, Ambiguity and execution, Trade-off judgment.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/april-jackson/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+tool calling, RPA integration, workflow automation, maintainability, document AI, builder community, internal transformation, prioritization, delivery momentum, LangChain, LlamaIndex, automated testing, Project Management Professional, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Project Management Professional
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Science, Statistics
+Floydfort Institute of Technology - Class of 2015

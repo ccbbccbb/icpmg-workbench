@@ -1,0 +1,64 @@
+=========================================
+LINDSAY MARTINEZ
+Grahamborough, OK | 684.159.2357 | lindsay.martinez@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Lindsay Martinez is a business and analytics professional with 5+ years of transferable experience related to Approved AI and engineering stack, Internal Transformation production path, Client workshops, Trade-off judgment. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Internal Transformation production path
+  * Client workshops
+  * Trade-off judgment
+  * Builder mindset
+  * Partner pipeline creation
+  * SQL and analytics
+
+CORE SKILLS
+structured thinking, executive demos, discovery workshops, journey mapping, build mindset, facilitation, delivery judgment, KPI design, secure platforms, enterprise rollout, analytics engineering, prioritization, operating model change, trade-off decisions, engineering standards, platform constraints, quarterly targets
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Harris Inc
+2021 - 2023
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: standardized reporting for 5 stakeholder groups.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: reduced manual analysis effort by 26%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: processed 38M records through reusable pipelines.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: improved model quality by 17%.
+
+Analytics Consultant - Davis, Williams and Ramirez
+2023 - 2025
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced operational handoffs by 13%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: processed 33M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: processed 17M records through reusable pipelines.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: standardized reporting for 9 stakeholder groups.
+
+Business Analyst - Simmons and Sons
+2025 - Present
+  * Built and expanded partner-led pipeline through campaign follow-up, account mapping, and sales funnel discipline. Outcome: improved model quality by 26%.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: reduced operational handoffs by 17%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced manual analysis effort by 40%.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Outcome: processed 38M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Result: reduced manual analysis effort by 25%.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Result: standardized reporting for 6 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led discovery work across SQL and analytics, Internal Transformation production path, Approved AI and engineering stack, Trade-off judgment.
+  * Led roadmap work across Builder mindset, Partner pipeline creation, Client workshops.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/lindsay-martinez/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+structured thinking, executive demos, discovery workshops, journey mapping, build mindset, facilitation, delivery judgment, KPI design, secure platforms, enterprise rollout, analytics engineering, prioritization, operating model change, trade-off decisions, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Diploma in Business Analytics
+New Sarahaven Institute of Technology - Class of 2016

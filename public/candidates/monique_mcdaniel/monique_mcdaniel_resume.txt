@@ -1,0 +1,73 @@
+=========================================
+MONIQUE MCDANIEL
+East Dave, AR | (370) 437-6846 x095 | monique.mcdaniel@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Monique Mcdaniel is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Productionization, AI Lab experimentation, Approved AI and engineering stack, Agentic AI delivery, Human-AI collaboration, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * AI Lab experimentation
+  * Approved AI and engineering stack
+  * Agentic AI delivery
+  * Human-AI collaboration
+  * Machine learning
+  * APIs and microservices
+  * Executive stakeholder management
+  * Joint value propositions
+  * Builder mindset
+
+CORE SKILLS
+working systems, operational support, build mindset, human-AI handoffs, AI Lab prototyping, hands-on execution, board materials, stakeholder alignment, autonomy design, production readiness, offer positioning, review loops, decision facilitation, microservices, model training, autonomous agents, frontier models, forecasting, FastAPI, executive briefings, REST APIs, agentic AI, OpenAPI, release planning
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - White, Todd and Johnson
+2020 - 2024
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: processed 32M records through reusable pipelines.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: improved model quality by 9%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: processed 8M records through reusable pipelines.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: processed 26M records through reusable pipelines.
+
+GenAI Solution Consultant - Thompson LLC
+2024 - 2025
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: improved model quality by 10%.
+  * Developed machine learning models for classification, forecasting, prioritization, and anomaly detection. Outcome: reduced manual analysis effort by 33%.
+  * Packaged reusable services with typed contracts, validation, and deployment documentation. Outcome: reduced manual analysis effort by 22%.
+  * Managed senior stakeholder expectations through clear decision points, risks, and value narratives. Outcome: reduced manual analysis effort by 46%.
+  * Developed joint value propositions with partners that clarified business outcomes, platform fit, and delivery model. Outcome: improved model quality by 8%.
+
+Applied AI Consultant - Burns, Rhodes and King
+2025 - Present
+  * Built API services for model inference, batch scoring, and human review queues. Outcome: processed 2M records through reusable pipelines.
+  * Managed senior stakeholder expectations through clear decision points, risks, and value narratives. Outcome: processed 9M records through reusable pipelines.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: processed 24M records through reusable pipelines.
+  * Positioned Data and AI services as preferred go-to-market offerings for partner-led customer conversations. Outcome: cut evaluation turnaround from 8 days to 1 day.
+
+SELECTED ACHIEVEMENTS
+  * Prepared executive briefings that translated AI capabilities into strategic choices and investment decisions. Result: reduced manual analysis effort by 29%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: processed 18M records through reusable pipelines.
+  * Built API services for model inference, batch scoring, and human review queues. Result: reduced manual analysis effort by 18%.
+
+SELECTED PROJECTS
+  * Led enablement work across Approved AI and engineering stack, Executive stakeholder management, Machine learning, Agentic AI delivery, Joint value propositions.
+  * Led enablement work across AI Lab experimentation, Joint value propositions, Executive stakeholder management, Machine learning.
+  * Led discovery work across Builder mindset, Executive stakeholder management, Agentic AI delivery, APIs and microservices, Joint value propositions.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/monique-mcdaniel/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+working systems, operational support, build mindset, human-AI handoffs, AI Lab prototyping, hands-on execution, board materials, stakeholder alignment, autonomy design, production readiness, offer positioning, review loops, decision facilitation, microservices, Databricks Machine Learning Associate, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Master of Applied Computing
+Jamesshire Institute of Technology - Class of 2015

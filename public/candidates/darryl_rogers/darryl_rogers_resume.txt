@@ -1,0 +1,65 @@
+=========================================
+DARRYL ROGERS
+Martinezbury, CT | 976-368-7269 x786 | darryl.rogers@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Darryl Rogers is a business and analytics professional with 9+ years of transferable experience related to Reusable demos, kits, and handoff materials, Trade-off judgment, AI literacy artifacts, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Reusable demos, kits, and handoff materials
+  * Trade-off judgment
+  * AI literacy artifacts
+  * Low-code, API, and orchestration tools
+  * Service line leadership engagement
+  * Change management
+  * Account planning
+
+CORE SKILLS
+prioritization, handoff kits, demo packaging, trade-off decisions, learning artifacts, adoption planning, account strategy, internal stakeholders, configuration, API integration, implementation playbooks, low-code platforms, communications, delivery judgment, internal enablement, opportunity qualification
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - Johnson-King
+2017 - 2020
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: reduced prototype-to-production cycle time by 40%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: improved delivery predictability by 15%.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: improved delivery predictability by 26%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced operational handoffs by 9%.
+
+Technology Project Manager - Curtis-Hunter
+2020 - 2022
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: improved delivery predictability by 33%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: standardized reporting for 9 stakeholder groups.
+  * Mapped target accounts by buying centre, AI maturity, and renewal timing. Outcome: reduced prototype-to-production cycle time by 31%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: delivered $7M in AI program value cases.
+
+Technology Project Manager - Reynolds PLC
+2022 - Present
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: standardized reporting for 9 stakeholder groups.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: reduced prototype-to-production cycle time by 29%.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: reduced operational handoffs by 9%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: standardized reporting for 8 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Result: reduced prototype-to-production cycle time by 17%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Result: improved delivery predictability by 17%.
+
+SELECTED PROJECTS
+  * Led discovery work across Account planning, Low-code, API, and orchestration tools, Change management, Reusable demos, kits, and handoff materials, Service line leadership engagement.
+  * Led implementation work across Account planning, Trade-off judgment, Service line leadership engagement.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/darryl-rogers/agentic-ai-builds
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+prioritization, handoff kits, demo packaging, trade-off decisions, learning artifacts, adoption planning, account strategy, internal stakeholders, configuration, API integration, implementation playbooks, low-code platforms, communications, delivery judgment, Databricks Machine Learning Associate, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Science, Statistics
+Port Lynnfurt School of Business - Class of 2013

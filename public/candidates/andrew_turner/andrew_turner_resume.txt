@@ -1,0 +1,64 @@
+=========================================
+ANDREW TURNER
+North Bradley, WV | (121) 480-0481 x965 | andrew.turner@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Andrew Turner is a business and analytics professional with 6+ years of transferable experience related to Security and scalability, Product management, Trade-off judgment, Change management. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Product management
+  * Trade-off judgment
+  * Change management
+  * Reusable demos, kits, and handoff materials
+  * Builder mindset
+  * Data and AI solution evangelism
+
+CORE SKILLS
+prioritization, data protection, handoff kits, Scrum, market awareness, trade-off decisions, hands-on execution, secure architecture, user stories, operating model change, structured thinking, build mindset, identity controls, review loops, autonomy design, sprint planning, adoption planning, scalability, demo rehearsal
+
+PROFESSIONAL EXPERIENCE
+Product Owner - Phillips-Brown
+2020 - 2024
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: delivered $12M in AI program value cases.
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: delivered $7M in AI program value cases.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: coached a team of 10 consultants and engineers.
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: delivered $2M in AI program value cases.
+
+Technology Project Manager - Garcia, Hogan and Stephens
+2024 - 2025
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: standardized reporting for 7 stakeholder groups.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: improved delivery predictability by 21%.
+  * Evangelized Data and AI solution value propositions to build awareness with partners and potential customers. Outcome: reduced operational handoffs by 13%.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: reduced operational handoffs by 13%.
+
+Product Owner - Hamilton, Wiggins and Vazquez
+2025 - Present
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: reduced prototype-to-production cycle time by 40%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: improved delivery predictability by 16%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: standardized reporting for 7 stakeholder groups.
+  * Evangelized Data and AI solution value propositions to build awareness with partners and potential customers. Outcome: reduced prototype-to-production cycle time by 28%.
+
+SELECTED ACHIEVEMENTS
+  * Quantified AI value cases using baseline costs, expected adoption, quality impact, and time savings. Result: standardized reporting for 10 stakeholder groups.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Result: improved delivery predictability by 21%.
+
+SELECTED PROJECTS
+  * Led prototype work across Builder mindset, Security and scalability, Reusable demos, kits, and handoff materials.
+  * Led implementation work across Data and AI solution evangelism, Demo readiness, Trade-off judgment, Agile delivery, Change management.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/andrew-turner/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+
+TOOLS, PLATFORMS, AND METHODS
+prioritization, data protection, handoff kits, Scrum, market awareness, trade-off decisions, hands-on execution, secure architecture, user stories, operating model change, structured thinking, build mindset, identity controls, review loops, TOGAF Foundation
+
+CERTIFICATIONS
+  * TOGAF Foundation
+
+EDUCATION
+Graduate Certificate in Project Management
+Amandaville Polytechnic - Class of 2015

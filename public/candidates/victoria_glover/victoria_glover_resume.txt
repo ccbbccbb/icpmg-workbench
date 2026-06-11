@@ -1,0 +1,76 @@
+=========================================
+VICTORIA GLOVER
+Port Alex, OK | 302-629-4414 | victoria.glover@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Victoria Glover is a data and technology consulting professional with 11+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Agentic AI delivery, Builder team coaching, Code quality and reliability, Security and scalability, Workflow and operating-model redesign, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Builder team coaching
+  * Code quality and reliability
+  * Security and scalability
+  * Workflow and operating-model redesign
+  * Agents, plugins, skills, and tools
+  * Full AI build lifecycle
+  * Demo readiness
+  * Enterprise operations fluency
+  * Validated outcomes
+
+CORE SKILLS
+policy interpretation, agentic AI, decision logs, quality assurance, regulated enterprise, workflow redesign, builder coaching, agent workflows, risk assessment, status updates, frontier models, audit readiness, process fluency, prototype lifecycle, data protection, applied research, controls design, outcome validation, adoption metrics, executive demos, privacy, operating model design
+
+PROFESSIONAL EXPERIENCE
+Data & AI Consulting Manager - Kent, Love and Flores
+2015 - 2018
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced prototype-to-production cycle time by 40%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: delivered $12M in AI program value cases.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: coached a team of 12 consultants and engineers.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: reduced prototype-to-production cycle time by 20%.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Outcome: improved delivery predictability by 24%.
+
+AI Product Engineering Manager - Bean Inc
+2018 - 2020
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: reduced prototype-to-production cycle time by 29%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved delivery predictability by 15%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: delivered $10M in AI program value cases.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: coached a team of 9 consultants and engineers.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: reduced prototype-to-production cycle time by 39%.
+
+Applied AI Manager - Nunez-Nolan
+2020 - Present
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: improved delivery predictability by 31%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: improved delivery predictability by 21%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: improved delivery predictability by 16%.
+  * Worked with security teams to close architecture and deployment risks before launch. Outcome: delivered $12M in AI program value cases.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: delivered $2M in AI program value cases.
+
+SELECTED ACHIEVEMENTS
+  * Documented compliance requirements for data retention, consent, and auditability. Result: coached a team of 7 consultants and engineers.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Result: delivered $4M in AI program value cases.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Result: improved delivery predictability by 28%.
+
+SELECTED PROJECTS
+  * Led implementation work across Agentic AI delivery, Security, Cloud and engineering partnership, Security and scalability.
+  * Led discovery work across Code quality and reliability, Security, Enterprise operations fluency.
+  * Led enablement work across Agentic AI delivery, Enterprise operations fluency, Security.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/victoria-glover/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+policy interpretation, agentic AI, decision logs, quality assurance, regulated enterprise, workflow redesign, builder coaching, agent workflows, risk assessment, status updates, frontier models, audit readiness, process fluency, prototype lifecycle, Microsoft Certified: Azure AI Engineer Associate, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Google Cloud Professional Machine Learning Engineer
+  * Prosci Change Management Certification
+
+EDUCATION
+Master of Data Science
+Patrickland Polytechnic - Class of 2010

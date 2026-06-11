@@ -1,0 +1,75 @@
+=========================================
+JEFFREY MARTINEZ
+Adamsstad, KS | 203-643-4564 x139 | jeffrey.martinez@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jeffrey Martinez is a data and technology consulting professional with 5+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Productionization, Agentic AI delivery, AI Lab experimentation, Human-AI collaboration, Prototype portfolio, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Agentic AI delivery
+  * AI Lab experimentation
+  * Human-AI collaboration
+  * Prototype portfolio
+  * Approved AI and engineering stack
+  * Low-code, API, and orchestration tools
+  * Internal Transformation production path
+  * Builder mindset
+  * Full AI build lifecycle
+
+CORE SKILLS
+RPA integration, scalability, GitHub demos, human oversight, autonomy design, multi-agent systems, API integration, workflow orchestration, deployment controls, shared assets, build case, production readiness, prototype lifecycle, outcome validation, prototype portfolio, operating model change, production handoff, monitoring, campaign planning, rapid prototyping, community demos, demo packaging, replication kits, workflow automation
+
+PROFESSIONAL EXPERIENCE
+GenAI Solution Consultant - Blake Group
+2021 - 2024
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: cut evaluation turnaround from 10 days to 2 days.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: processed 16M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: processed 33M records through reusable pipelines.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced manual analysis effort by 47%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: reduced manual analysis effort by 29%.
+
+Machine Learning Engineer - Brown LLC
+2024 - 2025
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: improved model quality by 12%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: improved model quality by 13%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced manual analysis effort by 23%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced manual analysis effort by 29%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 7 days to 2 days.
+
+Applied AI Consultant - Alexander-Jackson
+2025 - Present
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: processed 36M records through reusable pipelines.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: processed 35M records through reusable pipelines.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: processed 24M records through reusable pipelines.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: reduced manual analysis effort by 34%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: cut evaluation turnaround from 5 days to 2 days.
+
+SELECTED ACHIEVEMENTS
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Result: cut evaluation turnaround from 6 days to 3 days.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Result: cut evaluation turnaround from 6 days to 1 day.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Result: improved model quality by 13%.
+
+SELECTED PROJECTS
+  * Led enablement work across MLOps, Responsible AI, Approved AI and engineering stack.
+  * Led prototype work across Agentic AI delivery, Security and scalability, AI Lab experimentation, Builder community contribution.
+  * Led roadmap work across Go-to-market, Responsible AI, Internal Transformation production path, Approved AI and engineering stack.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/jeffrey-martinez/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+RPA integration, scalability, GitHub demos, human oversight, autonomy design, multi-agent systems, API integration, workflow orchestration, deployment controls, shared assets, build case, production readiness, prototype lifecycle, outcome validation, Google Cloud Professional Machine Learning Engineer, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * Databricks Machine Learning Associate
+  * SnowPro Core Certification
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+Longside Polytechnic - Class of 2019

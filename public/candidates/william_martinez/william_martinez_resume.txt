@@ -1,0 +1,96 @@
+=========================================
+WILLIAM MARTINEZ
+Maryfort, NH | 369.132.1249 | william.martinez@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+William Martinez is an AI Builder Manager with 11+ years of direct Data and AI experience, including Evaluation design, Demo readiness, Reusable demos, kits, and handoff materials, Agentic AI delivery, Builder team coaching, Security and scalability. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Demo readiness
+  * Reusable demos, kits, and handoff materials
+  * Agentic AI delivery
+  * Builder team coaching
+  * Security and scalability
+  * Demo safety and governance checks
+  * Productionization
+  * Team leadership
+  * AI Lab experimentation
+  * Data and AI strategy
+  * Workflow and operating-model redesign
+  * Builder mindset
+  * Agents, plugins, skills, and tools
+
+CORE SKILLS
+decision systems, production handoff, showcase artifacts, senior reporting, agent evaluation, one-pagers, approved AI stack, plugin design, technical leadership, demo narrative, identity controls, user stories, work review, opportunity shaping, governance checks, scalability, rapid experimentation, roadmaps, demo rehearsal, production readiness, release planning, AI literacy, workflow redesign, operational support, internal enablement, acceptance criteria, rapid prototyping
+
+PROFESSIONAL EXPERIENCE
+Generative AI Program Manager - Cline, Woods and Castro
+2015 - 2016
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: coached a team of 13 consultants and engineers.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: delivered $2M in AI program value cases.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: coached a team of 11 consultants and engineers.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: reduced prototype-to-production cycle time by 37%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: improved delivery predictability by 27%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: delivered $7M in AI program value cases.
+
+Data & AI Consulting Manager - Davis-Brady
+2016 - 2020
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: delivered $3M in AI program value cases.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: improved delivery predictability by 12%.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: reduced prototype-to-production cycle time by 32%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced prototype-to-production cycle time by 30%.
+  * Coached junior team members on consulting communication, solution design, and delivery discipline. Outcome: reduced prototype-to-production cycle time by 39%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: coached a team of 10 consultants and engineers.
+
+Data & AI Consulting Manager - Perry, Thomas and Wilson
+2020 - 2021
+  * Coached junior team members on consulting communication, solution design, and delivery discipline. Outcome: improved delivery predictability by 23%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: delivered $9M in AI program value cases.
+  * Assessed data and AI maturity across operating model, tooling, controls, and delivery capability. Outcome: improved delivery predictability by 25%.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: coached a team of 13 consultants and engineers.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: coached a team of 9 consultants and engineers.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: coached a team of 11 consultants and engineers.
+
+AI Product Engineering Manager - Russell-Brown
+2021 - Present
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced prototype-to-production cycle time by 33%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: coached a team of 8 consultants and engineers.
+  * Defined operational checks for model drift, data freshness, latency, and incident response. Outcome: improved delivery predictability by 26%.
+  * Tracked sourced and influenced opportunities by stage, partner, industry, and expected value. Outcome: improved delivery predictability by 25%.
+  * Prepared partner and internal business reviews covering pipeline movement, forecast risks, and action owners. Outcome: reduced prototype-to-production cycle time by 22%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: improved delivery predictability by 20%.
+
+SELECTED ACHIEVEMENTS
+  * Built pipeline reports and follow-up cadences to convert AI interest into qualified pursuits. Result: coached a team of 14 consultants and engineers.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Result: improved delivery predictability by 19%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Result: coached a team of 10 consultants and engineers.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Result: improved delivery predictability by 26%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Result: coached a team of 14 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led enablement work across Demo readiness, Team leadership, AI Lab experimentation, Workflow and operating-model redesign, Data and AI strategy.
+  * Led implementation work across Productionization, Agentic AI delivery, AI literacy artifacts, Product management.
+  * Led prototype work across Data and AI strategy, Partner and internal business reviews, MLOps, Agentic AI delivery.
+  * Led enablement work across Team leadership, AI Lab experimentation, Data and AI strategy, Builder team coaching.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/william-martinez/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+decision systems, production handoff, showcase artifacts, senior reporting, agent evaluation, one-pagers, approved AI stack, plugin design, technical leadership, demo narrative, identity controls, user stories, work review, opportunity shaping, SnowPro Core Certification, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * IAPP Certified Information Privacy Professional
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+East Carlos School of Business - Class of 2011

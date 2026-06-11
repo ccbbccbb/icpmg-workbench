@@ -1,0 +1,75 @@
+=========================================
+GABRIEL PRICE
+Meyerfurt, RI | 1-288-598-9990 | gabriel.price@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Gabriel Price is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Full AI build lifecycle, Approved AI and engineering stack, AI Lab experimentation, Productionization, Prototype portfolio, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Full AI build lifecycle
+  * Approved AI and engineering stack
+  * AI Lab experimentation
+  * Productionization
+  * Prototype portfolio
+  * Security and scalability
+  * Agentic AI delivery
+  * Agents, plugins, skills, and tools
+  * Prompt engineering
+  * Python
+
+CORE SKILLS
+quality gates, agent evaluation, prototype lifecycle, Azure AI, code review, eval harnesses, Databricks, production handoff, prototype portfolio, fairness, secure architecture, tool calling, data protection, responsible AI, prompt evaluation, frontier models, pandas, plugin design, build case, test sets, maintainability, orchestration, Snowflake, solution maintenance, operational support, AI Lab prototyping
+
+PROFESSIONAL EXPERIENCE
+AI Builder Senior Consultant - Vargas-Brown
+2020 - 2024
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: reduced manual analysis effort by 29%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced manual analysis effort by 39%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 25%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: cut evaluation turnaround from 11 days to 1 day.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: reduced manual analysis effort by 19%.
+
+Data Science Consultant - Gomez PLC
+2024 - 2025
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: processed 15M records through reusable pipelines.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: reduced manual analysis effort by 39%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced manual analysis effort by 23%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Outcome: reduced manual analysis effort by 20%.
+
+Machine Learning Engineer - Taylor Group
+2025 - Present
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Outcome: cut evaluation turnaround from 11 days to 1 day.
+  * Built Python services and notebooks for ingestion, modelling, evaluation, and reporting. Outcome: improved model quality by 11%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: processed 27M records through reusable pipelines.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: improved model quality by 14%.
+
+SELECTED ACHIEVEMENTS
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Result: improved model quality by 18%.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Result: processed 37M records through reusable pipelines.
+  * Built Python services and notebooks for ingestion, modelling, evaluation, and reporting. Result: reduced manual analysis effort by 34%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Prompt engineering, Full AI build lifecycle, Cloud AI platforms, Productionization, Agentic AI delivery.
+  * Led enablement work across Agentic AI delivery, Cloud AI platforms, Evaluation design.
+  * Led implementation work across Security and scalability, Prompt engineering, Internal Transformation production path.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/gabriel-price/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+quality gates, agent evaluation, prototype lifecycle, Azure AI, code review, eval harnesses, Databricks, production handoff, prototype portfolio, fairness, secure architecture, tool calling, data protection, responsible AI, Google Cloud Professional Machine Learning Engineer, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * Databricks Machine Learning Associate
+  * SnowPro Core Certification
+
+EDUCATION
+Master of Applied Computing
+Darrylville University - Class of 2014

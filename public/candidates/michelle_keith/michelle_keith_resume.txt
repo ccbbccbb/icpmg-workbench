@@ -1,0 +1,96 @@
+=========================================
+MICHELLE KEITH
+Wendyfurt, UT | 990.684.9591 | michelle.keith@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Michelle Keith is an AI Builder Senior Consultant with 7+ years of direct Data and AI experience, including Prototype portfolio, Evaluation design, Human-AI collaboration, AI Lab experimentation, Code quality and reliability, Security and scalability. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Prototype portfolio
+  * Evaluation design
+  * Human-AI collaboration
+  * AI Lab experimentation
+  * Code quality and reliability
+  * Security and scalability
+  * Agentic AI delivery
+  * Approved AI and engineering stack
+  * Cloud and engineering partnership
+  * Productionization
+  * Prompt engineering
+  * Generative AI
+  * SQL and analytics
+  * Model evaluation
+
+CORE SKILLS
+frontier models, release planning, data protection, autonomy design, workflow orchestration, identity controls, operational support, working systems, secure platforms, prompt evaluation, few-shot examples, test sets, LLMs, eval harnesses, applied research, benefit measurement, outcome validation, low-code platforms, KPI design, deployment controls, agent workflows, reliability engineering, evaluation datasets, build mindset, API integration, secure deployment
+
+PROFESSIONAL EXPERIENCE
+GenAI Solution Consultant - Osborne LLC
+2019 - 2023
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: cut evaluation turnaround from 9 days to 2 days.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced manual analysis effort by 22%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: cut evaluation turnaround from 9 days to 1 day.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: processed 36M records through reusable pipelines.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: processed 2M records through reusable pipelines.
+
+AI Builder Senior Consultant - Johnson-Good
+2023 - 2024
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: processed 4M records through reusable pipelines.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 27M records through reusable pipelines.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: improved model quality by 23%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced manual analysis effort by 18%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced manual analysis effort by 32%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved model quality by 16%.
+
+Applied AI Consultant - Gonzalez, Suarez and Campbell
+2024 - 2025
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 22M records through reusable pipelines.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved model quality by 12%.
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Built generative AI prototypes for knowledge search, summarization, intake triage, and analyst assistance. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: processed 25M records through reusable pipelines.
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Outcome: processed 15M records through reusable pipelines.
+
+GenAI Solution Consultant - Smith, Hughes and Lopez
+2025 - Present
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: cut evaluation turnaround from 6 days to 3 days.
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Outcome: processed 5M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: cut evaluation turnaround from 8 days to 1 day.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: cut evaluation turnaround from 5 days to 2 days.
+
+SELECTED ACHIEVEMENTS
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Result: improved model quality by 8%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Result: reduced manual analysis effort by 30%.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Result: reduced manual analysis effort by 37%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: cut evaluation turnaround from 10 days to 3 days.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Result: processed 34M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led prototype work across Builder mindset, Low-code, API, and orchestration tools, Evaluation design.
+  * Led roadmap work across Model evaluation, Generative AI, Code quality and reliability.
+  * Led enablement work across Prototype portfolio, Prompt engineering, Cloud and engineering partnership.
+  * Led roadmap work across AI Lab experimentation, Model evaluation, Builder mindset.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/michelle-keith/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+frontier models, release planning, data protection, autonomy design, workflow orchestration, identity controls, operational support, working systems, secure platforms, prompt evaluation, few-shot examples, test sets, LLMs, eval harnesses, SnowPro Core Certification, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * Google Cloud Professional Machine Learning Engineer
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Project Management Professional
+  * TOGAF Foundation
+
+EDUCATION
+Master of Data Science
+Anitabury Institute of Technology - Class of 2015

@@ -1,0 +1,64 @@
+=========================================
+MICHELLE POLLARD
+East Timothymouth, AK | 762.202.6905 | michelle.pollard@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Michelle Pollard is a business and analytics professional with 3+ years of transferable experience related to Prototype portfolio, Cloud and engineering partnership, Ambiguity and execution, Reusable demos, kits, and handoff materials. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Prototype portfolio
+  * Cloud and engineering partnership
+  * Ambiguity and execution
+  * Reusable demos, kits, and handoff materials
+  * Trade-off judgment
+  * Builder mindset
+  * Internal Transformation production path
+
+CORE SKILLS
+operating model change, ambiguity, implementation playbooks, replication kits, hands-on execution, trade-off decisions, structured thinking, platform teams, cloud engineering, delivery judgment, handoff kits, enterprise rollout, prioritization, build mindset, internal transformation
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Murray-Burns
+2023 - 2024
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: reduced manual analysis effort by 31%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: improved model quality by 27%.
+
+Business Analyst - Donovan, Rollins and Callahan
+2024 - 2025
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced operational handoffs by 15%.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: standardized reporting for 8 stakeholder groups.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved model quality by 12%.
+
+Business Analyst - Hogan-Mcdonald
+2025 - Present
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: cut evaluation turnaround from 4 days to 3 days.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: standardized reporting for 8 stakeholder groups.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: improved model quality by 25%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: reduced operational handoffs by 8%.
+
+SELECTED ACHIEVEMENTS
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Result: improved model quality by 9%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Result: processed 40M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led roadmap work across Ambiguity and execution, Prototype portfolio, Reusable demos, kits, and handoff materials.
+  * Led roadmap work across Prototype portfolio, Ambiguity and execution, Reusable demos, kits, and handoff materials.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/michelle-pollard/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+operating model change, ambiguity, implementation playbooks, replication kits, hands-on execution, trade-off decisions, structured thinking, platform teams, cloud engineering, delivery judgment, handoff kits, enterprise rollout, prioritization, build mindset, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Business Administration
+New Jessicaview University - Class of 2018

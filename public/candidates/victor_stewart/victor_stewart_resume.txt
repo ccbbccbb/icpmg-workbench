@@ -1,0 +1,65 @@
+=========================================
+VICTOR STEWART
+West Christopher, AR | 1 (204) 653-1496 | victor.stewart@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Victor Stewart is a business and analytics professional with 5+ years of transferable experience related to Prototype portfolio, Reusable demos, kits, and handoff materials, Internal Transformation production path, Builder mindset. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Prototype portfolio
+  * Reusable demos, kits, and handoff materials
+  * Internal Transformation production path
+  * Builder mindset
+  * Automation
+  * Builder community contribution
+  * Delivery leadership
+
+CORE SKILLS
+operating model change, hands-on execution, deal sourcing, delivery governance, program delivery, GitHub demos, builder community, demo write-ups, revenue growth, Python automation, reuse, community demos, workflow automation
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Baldwin, Pruitt and Benson
+2021 - 2023
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: processed 12M records through reusable pipelines.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: standardized reporting for 10 stakeholder groups.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: processed 17M records through reusable pipelines.
+
+Automation Specialist - Potts LLC
+2023 - 2025
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: processed 12M records through reusable pipelines.
+  * Unblocked delivery teams by clarifying scope, decision owners, and acceptance criteria. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Mapped target accounts by buying centre, AI maturity, and renewal timing. Outcome: processed 40M records through reusable pipelines.
+
+Automation Specialist - Bernard, Castillo and Quinn
+2025 - Present
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: standardized reporting for 10 stakeholder groups.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: processed 25M records through reusable pipelines.
+  * Originated new Data and AI opportunities by connecting partner capabilities with client business priorities. Outcome: standardized reporting for 10 stakeholder groups.
+  * Mapped target accounts by buying centre, AI maturity, and renewal timing. Outcome: reduced operational handoffs by 18%.
+
+SELECTED ACHIEVEMENTS
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: improved model quality by 14%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Result: cut evaluation turnaround from 9 days to 2 days.
+
+SELECTED PROJECTS
+  * Led discovery work across Delivery leadership, Account planning, AI Lab experimentation.
+  * Led implementation work across Builder community contribution, Revenue origination, Prototype portfolio, Reusable demos, kits, and handoff materials.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/victor-stewart/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+operating model change, hands-on execution, deal sourcing, delivery governance, program delivery, GitHub demos, builder community, demo write-ups, revenue growth, Python automation, reuse, community demos, workflow automation, Microsoft Certified: Azure AI Engineer Associate, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Economics
+South Theresa Polytechnic - Class of 2015

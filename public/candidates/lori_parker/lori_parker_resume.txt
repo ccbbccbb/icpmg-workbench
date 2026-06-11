@@ -1,0 +1,65 @@
+=========================================
+LORI PARKER
+Lake Thomasland, LA | 684-495-2724 x543 | lori.parker@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Lori Parker is a business and analytics professional with 3+ years of transferable experience related to Code quality and reliability, AI Lab experimentation, Reusable demos, kits, and handoff materials, Ambiguity and execution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * AI Lab experimentation
+  * Reusable demos, kits, and handoff materials
+  * Ambiguity and execution
+  * Trade-off judgment
+  * Automation
+  * Builder mindset
+
+CORE SKILLS
+maintainability, executive demos, pricing, replication kits, rapid experimentation, demo narrative, implementation playbooks, Python automation, demo packaging, hands-on execution, demo rehearsal, delivery momentum, handoff kits, frontier models, showcase artifacts, rapid prototyping
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Gonzalez-Smith
+2023 - 2024
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: improved model quality by 19%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 34%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: cut evaluation turnaround from 12 days to 3 days.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: cut evaluation turnaround from 10 days to 3 days.
+
+Automation Specialist - Hoffman Ltd
+2024 - 2025
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: reduced operational handoffs by 10%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: processed 28M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced manual analysis effort by 23%.
+  * Integrated language models into business workflows through APIs, queues, and review interfaces. Outcome: reduced operational handoffs by 19%.
+
+Automation Specialist - Ryan, Wilson and White
+2025 - Present
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced operational handoffs by 10%.
+  * Prepared executive deal summaries covering pricing assumptions, delivery risk, and partner commitments. Outcome: reduced operational handoffs by 13%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: standardized reporting for 7 stakeholder groups.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: processed 22M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: standardized reporting for 4 stakeholder groups.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Result: processed 21M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led prototype work across Trade-off judgment, Commercial negotiation, Automation, AI Lab experimentation, LLM applications.
+  * Led discovery work across AI Lab experimentation, Trade-off judgment, Ambiguity and execution.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/lori-parker/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+maintainability, executive demos, pricing, replication kits, rapid experimentation, demo narrative, implementation playbooks, Python automation, demo packaging, hands-on execution, demo rehearsal, delivery momentum, handoff kits, frontier models, SnowPro Core Certification, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Diploma in Business Analytics
+New Toddbury University - Class of 2020

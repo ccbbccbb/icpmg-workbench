@@ -1,0 +1,64 @@
+=========================================
+THOMAS REYES
+Madelineland, AS | 140.594.4230 | thomas.reyes@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Thomas Reyes is a business and analytics professional with 5+ years of transferable experience related to Evaluation design, Security and scalability, Validated outcomes, Automation. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Security and scalability
+  * Validated outcomes
+  * Automation
+  * Builder mindset
+  * Builder community contribution
+  * Trade-off judgment
+
+CORE SKILLS
+builder community, agent evaluation, secure architecture, workflow automation, reuse, outcome validation, scalability, eval harnesses, community demos, working systems, prioritization, adoption metrics, structured thinking, trade-off decisions, success metrics, hands-on execution
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Monroe-Brown
+2021 - 2022
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: standardized reporting for 5 stakeholder groups.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced manual analysis effort by 21%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: processed 15M records through reusable pipelines.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: improved model quality by 19%.
+
+Automation Specialist - Allen Group
+2022 - 2024
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: standardized reporting for 8 stakeholder groups.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced operational handoffs by 12%.
+
+Business Analyst - Moyer, Lopez and Thompson
+2024 - Present
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved model quality by 8%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: processed 19M records through reusable pipelines.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: standardized reporting for 7 stakeholder groups.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced operational handoffs by 10%.
+
+SELECTED ACHIEVEMENTS
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Result: cut evaluation turnaround from 4 days to 1 day.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Result: standardized reporting for 7 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led implementation work across Security and scalability, Automation, Trade-off judgment.
+  * Led discovery work across Builder community contribution, Validated outcomes, Evaluation design.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/thomas-reyes/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+builder community, agent evaluation, secure architecture, workflow automation, reuse, outcome validation, scalability, eval harnesses, community demos, working systems, prioritization, adoption metrics, structured thinking, trade-off decisions, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Science, Statistics
+Matthewmouth School of Business - Class of 2017

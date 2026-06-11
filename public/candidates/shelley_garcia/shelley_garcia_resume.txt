@@ -1,0 +1,64 @@
+=========================================
+SHELLEY GARCIA
+Harperborough, MI | (895) 736-7883 x975 | shelley.garcia@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Shelley Garcia is a business and analytics professional with 5+ years of transferable experience related to Reusable demos, kits, and handoff materials, Trade-off judgment, Service line leadership engagement, Change management. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Reusable demos, kits, and handoff materials
+  * Trade-off judgment
+  * Service line leadership engagement
+  * Change management
+  * Human-AI collaboration
+  * Enterprise operations fluency
+  * Builder mindset
+
+CORE SKILLS
+user stories, working systems, decision facilitation, enterprise operations, operating model, acceptance criteria, vector databases, operating model change, service line leaders, build mindset, solution architecture, hands-on execution, executive briefings, product strategy, reference architectures
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Torres-Cochran
+2021 - 2022
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: delivered $8M in AI program value cases.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: improved delivery predictability by 20%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced prototype-to-production cycle time by 30%.
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: delivered $10M in AI program value cases.
+
+Analytics Delivery Lead - Byrd PLC
+2022 - 2023
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: delivered $10M in AI program value cases.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: delivered $12M in AI program value cases.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved delivery predictability by 20%.
+  * Built vector-search prototypes for policy, knowledge-base, and case-document retrieval. Outcome: reduced prototype-to-production cycle time by 38%.
+
+Analytics Delivery Lead - Rivera-Kane
+2023 - Present
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: reduced prototype-to-production cycle time by 23%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: delivered $2M in AI program value cases.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: reduced prototype-to-production cycle time by 22%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: improved delivery predictability by 27%.
+
+SELECTED ACHIEVEMENTS
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: delivered $7M in AI program value cases.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: coached a team of 4 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led implementation work across Trade-off judgment, AI solution architecture, Human-AI collaboration, Product management, Enterprise operations fluency.
+  * Led prototype work across Reusable demos, kits, and handoff materials, Product management, Enterprise operations fluency, Vector search.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/shelley-garcia/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+user stories, working systems, decision facilitation, enterprise operations, operating model, acceptance criteria, vector databases, operating model change, service line leaders, build mindset, solution architecture, hands-on execution, executive briefings, product strategy, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Bachelor of Business Administration
+Nortonland School of Business - Class of 2018

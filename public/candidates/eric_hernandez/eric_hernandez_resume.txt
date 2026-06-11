@@ -1,0 +1,65 @@
+=========================================
+ERIC HERNANDEZ
+Boltonbury, PA | 131.358.8663 | eric.hernandez@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Eric Hernandez is a business and analytics professional with 2+ years of transferable experience related to Prototype portfolio, Code quality and reliability, Automation, Trade-off judgment. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Prototype portfolio
+  * Code quality and reliability
+  * Automation
+  * Trade-off judgment
+  * Low-code, API, and orchestration tools
+  * Client workshops
+  * Ambiguity and execution
+
+CORE SKILLS
+RPA integration, facilitation, discovery workshops, API integration, low-code platforms, code review, user stories, maintainability, roadmaps, structured assumptions, ambiguity, demo write-ups, GitHub demos
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Sharp-Smith
+2023 - 2024
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: reduced operational handoffs by 9%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: cut evaluation turnaround from 9 days to 3 days.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: reduced operational handoffs by 13%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced operational handoffs by 15%.
+
+Automation Specialist - Martin Ltd
+2024 - 2025
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced operational handoffs by 11%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: improved model quality by 23%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: improved model quality by 8%.
+
+Analytics Consultant - Stark Inc
+2025 - Present
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: standardized reporting for 5 stakeholder groups.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced operational handoffs by 19%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: standardized reporting for 10 stakeholder groups.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: reduced manual analysis effort by 30%.
+
+SELECTED ACHIEVEMENTS
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Result: processed 22M records through reusable pipelines.
+  * Automated recurring data quality checks and exception routing for operations teams. Result: reduced manual analysis effort by 48%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Product management, Automation, Client workshops.
+  * Led enablement work across Low-code, API, and orchestration tools, Ambiguity and execution, Code quality and reliability.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/eric-hernandez/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+RPA integration, facilitation, discovery workshops, API integration, low-code platforms, code review, user stories, maintainability, roadmaps, structured assumptions, ambiguity, demo write-ups, GitHub demos, Google Cloud Professional Machine Learning Engineer, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Bachelor of Business Administration
+Jeffreyborough Polytechnic - Class of 2018

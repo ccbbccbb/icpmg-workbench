@@ -1,0 +1,64 @@
+=========================================
+NICHOLE SHAFFER
+Shannonborough, NJ | (757) 045-3930 x294 | nichole.shaffer@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Nichole Shaffer is a business and analytics professional with 3+ years of transferable experience related to Evaluation design, Approved AI and engineering stack, Validated outcomes, Ambiguity and execution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Approved AI and engineering stack
+  * Validated outcomes
+  * Ambiguity and execution
+  * Client workshops
+  * Builder community contribution
+  * Builder mindset
+
+CORE SKILLS
+community demos, success metrics, delivery momentum, working systems, benefit measurement, agent evaluation, adoption metrics, ambiguity, executive demos, build mindset, engineering standards, shared assets, platform constraints, journey mapping, test sets, approved AI stack, facilitation
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Sexton PLC
+2023 - 2024
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: standardized reporting for 10 stakeholder groups.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: improved model quality by 8%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: standardized reporting for 5 stakeholder groups.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: improved model quality by 9%.
+
+Business Analyst - Medina Ltd
+2024 - 2025
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: standardized reporting for 7 stakeholder groups.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: standardized reporting for 6 stakeholder groups.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: reduced manual analysis effort by 37%.
+
+Business Analyst - Collins-Clay
+2025 - Present
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: improved model quality by 13%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced operational handoffs by 15%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: standardized reporting for 7 stakeholder groups.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: processed 33M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Result: processed 3M records through reusable pipelines.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Result: standardized reporting for 9 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led enablement work across Validated outcomes, Builder community contribution, Approved AI and engineering stack, Evaluation design, Builder mindset.
+  * Led prototype work across Approved AI and engineering stack, Evaluation design, Ambiguity and execution, Client workshops.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/nichole-shaffer/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+community demos, success metrics, delivery momentum, working systems, benefit measurement, agent evaluation, adoption metrics, ambiguity, executive demos, build mindset, engineering standards, shared assets, platform constraints, journey mapping, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Business Administration
+South Curtismouth School of Business - Class of 2020

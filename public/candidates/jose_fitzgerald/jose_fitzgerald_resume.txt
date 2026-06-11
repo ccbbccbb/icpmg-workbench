@@ -1,0 +1,74 @@
+=========================================
+JOSE FITZGERALD
+Dylanchester, GU | (638) 692-2808 | jose.fitzgerald@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jose Fitzgerald is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Full AI build lifecycle, AI Lab experimentation, Code quality and reliability, Security and scalability, Human-AI collaboration, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Full AI build lifecycle
+  * AI Lab experimentation
+  * Code quality and reliability
+  * Security and scalability
+  * Human-AI collaboration
+  * Machine learning
+  * Reusable demos, kits, and handoff materials
+  * Prototype portfolio
+  * Agentic AI delivery
+  * Executive stakeholder management
+
+CORE SKILLS
+DevOps collaboration, hands-on execution, data protection, reliability engineering, AI Lab prototyping, secure platforms, quality metrics, handoff kits, LLMs, decision facilitation, maintainability, cloud engineering, multi-agent systems, build case, LLM evaluation, prototype portfolio, precision and recall, review loops, rapid prototyping, demo write-ups, implementation playbooks, platform constraints, operational support, solution maintenance
+
+PROFESSIONAL EXPERIENCE
+AI Builder Senior Consultant - Graham LLC
+2018 - 2020
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: processed 29M records through reusable pipelines.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: improved model quality by 12%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: processed 38M records through reusable pipelines.
+
+AI Builder Senior Consultant - Mitchell-Lopez
+2020 - 2022
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 8 days to 1 day.
+  * Improved model performance through feature engineering, validation splits, and error analysis. Outcome: processed 33M records through reusable pipelines.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: cut evaluation turnaround from 6 days to 3 days.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: reduced manual analysis effort by 36%.
+
+AI Builder Senior Consultant - Johnson, Scott and Castro
+2022 - Present
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: cut evaluation turnaround from 11 days to 1 day.
+  * Prepared executive briefings that translated AI capabilities into strategic choices and investment decisions. Outcome: improved model quality by 12%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved model quality by 20%.
+
+SELECTED ACHIEVEMENTS
+  * Developed machine learning models for classification, forecasting, prioritization, and anomaly detection. Result: processed 6M records through reusable pipelines.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Result: cut evaluation turnaround from 5 days to 2 days.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: improved model quality by 9%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Security and scalability, Agentic AI delivery, Human-AI collaboration, Executive stakeholder management.
+  * Led roadmap work across Approved AI and engineering stack, Executive stakeholder management, AI Lab experimentation, Full AI build lifecycle, Cloud and engineering partnership.
+  * Led enablement work across Security and scalability, Generative AI, Productionization, Human-AI collaboration.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/jose-fitzgerald/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+DevOps collaboration, hands-on execution, data protection, reliability engineering, AI Lab prototyping, secure platforms, quality metrics, handoff kits, LLMs, decision facilitation, maintainability, cloud engineering, multi-agent systems, build case, Databricks Machine Learning Associate, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Master of Applied Computing
+North Nicholasburgh Institute of Technology - Class of 2016

@@ -1,0 +1,96 @@
+=========================================
+MALLORY BANKS
+Spencetown, NY | (510) 815-6814 | mallory.banks@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Mallory Banks is an AI Builder Manager with 15+ years of direct Data and AI experience, including Validated outcomes, Full AI build lifecycle, Cloud and engineering partnership, Demo readiness, Code quality and reliability, Demo safety and governance checks. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Validated outcomes
+  * Full AI build lifecycle
+  * Cloud and engineering partnership
+  * Demo readiness
+  * Code quality and reliability
+  * Demo safety and governance checks
+  * Reusable demos, kits, and handoff materials
+  * Agentic AI delivery
+  * Security and scalability
+  * Evaluation design
+  * Workflow and operating-model redesign
+  * Data engineering
+  * Prompt engineering
+  * Service line leadership engagement
+
+CORE SKILLS
+operating model design, agent evaluation, showcase artifacts, workflow redesign, agent workflows, cloud engineering, handoff kits, production handoff, autonomous agents, few-shot examples, retrieval augmented generation, DevOps collaboration, identity controls, hypothesis design, data modelling, platform teams, AI copilots, demo safety, lifecycle ownership, data protection, adoption metrics, decision systems, service line leaders, solution maintenance, agentic AI, facilitation, demo packaging, multi-agent systems
+
+PROFESSIONAL EXPERIENCE
+Applied AI Manager - Singh-Callahan
+2011 - 2013
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: coached a team of 13 consultants and engineers.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: reduced prototype-to-production cycle time by 27%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: coached a team of 5 consultants and engineers.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: coached a team of 4 consultants and engineers.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: delivered $7M in AI program value cases.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: delivered $14M in AI program value cases.
+
+AI Delivery Manager - Perez, Murillo and Rosario
+2013 - 2017
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced prototype-to-production cycle time by 34%.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: improved delivery predictability by 22%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced prototype-to-production cycle time by 25%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: delivered $8M in AI program value cases.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: improved delivery predictability by 33%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: coached a team of 6 consultants and engineers.
+
+AI Product Engineering Manager - Ball PLC
+2017 - 2021
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: reduced prototype-to-production cycle time by 32%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: coached a team of 13 consultants and engineers.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: delivered $12M in AI program value cases.
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Outcome: coached a team of 10 consultants and engineers.
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Outcome: reduced prototype-to-production cycle time by 37%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: delivered $2M in AI program value cases.
+
+AI Delivery Manager - Hernandez-White
+2021 - Present
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Outcome: reduced prototype-to-production cycle time by 21%.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: delivered $4M in AI program value cases.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: improved delivery predictability by 34%.
+  * Tracked experiment results and documented tradeoffs before production rollout. Outcome: reduced prototype-to-production cycle time by 24%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: coached a team of 8 consultants and engineers.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: improved delivery predictability by 24%.
+
+SELECTED ACHIEVEMENTS
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Result: delivered $6M in AI program value cases.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Result: reduced prototype-to-production cycle time by 16%.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Result: reduced prototype-to-production cycle time by 21%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Result: reduced prototype-to-production cycle time by 23%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Result: coached a team of 9 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led discovery work across Cloud and engineering partnership, Generative AI, Ambiguity and execution.
+  * Led prototype work across Reusable demos, kits, and handoff materials, Validated outcomes, Full AI build lifecycle.
+  * Led roadmap work across Agentic AI delivery, Validated outcomes, Demo safety and governance checks, Evaluation design, Full AI build lifecycle.
+  * Led roadmap work across Client workshops, Full AI build lifecycle, Agentic AI delivery.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/mallory-banks/agentic-ai-builds
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+operating model design, agent evaluation, showcase artifacts, workflow redesign, agent workflows, cloud engineering, handoff kits, production handoff, autonomous agents, few-shot examples, retrieval augmented generation, DevOps collaboration, identity controls, hypothesis design, AWS Certified Machine Learning - Specialty, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Prosci Change Management Certification
+
+EDUCATION
+Master of Business Administration, Analytics
+Melissaburgh Polytechnic - Class of 2009

@@ -1,0 +1,65 @@
+=========================================
+SARAH KLEIN
+Morrismouth, MS | 226 146 8171 | sarah.klein@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Sarah Klein is a business and analytics professional with 4+ years of transferable experience related to Cloud and engineering partnership, Agentic AI delivery, Evaluation design, Client workshops. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Agentic AI delivery
+  * Evaluation design
+  * Client workshops
+  * Automation
+  * Validated outcomes
+  * Internal Transformation production path
+
+CORE SKILLS
+platform teams, secure deployment, cloud engineering, multi-agent systems, executive demos, eval harnesses, workflow automation, process mining, agentic AI, test sets, adoption planning, autonomous agents, DevOps collaboration, agent evaluation, success metrics, outcome validation, Python automation, discovery workshops, joint value propositions
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Rowe Inc
+2022 - 2024
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced operational handoffs by 13%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: reduced manual analysis effort by 24%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced manual analysis effort by 28%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: improved model quality by 12%.
+
+Analytics Consultant - Kim, Kim and Hanson
+2024 - 2025
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: processed 3M records through reusable pipelines.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: cut evaluation turnaround from 10 days to 2 days.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: improved model quality by 9%.
+  * Positioned Data and AI services as preferred go-to-market offerings for partner-led customer conversations. Outcome: cut evaluation turnaround from 8 days to 2 days.
+
+Business Analyst - Gonzalez, Wilson and Johnson
+2025 - Present
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced operational handoffs by 19%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced operational handoffs by 10%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: processed 24M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Result: processed 17M records through reusable pipelines.
+  * Positioned Data and AI services as preferred go-to-market offerings for partner-led customer conversations. Result: improved model quality by 19%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Client workshops, Evaluation design, Joint value propositions, Cloud and engineering partnership, Automation.
+  * Led discovery work across Client workshops, Evaluation design, Validated outcomes.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/sarah-klein/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+platform teams, secure deployment, cloud engineering, multi-agent systems, executive demos, eval harnesses, workflow automation, process mining, agentic AI, test sets, adoption planning, autonomous agents, DevOps collaboration, agent evaluation, Certified ScrumMaster, TOGAF Foundation
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * TOGAF Foundation
+
+EDUCATION
+Diploma in Business Analytics
+Tiffanymouth University - Class of 2018

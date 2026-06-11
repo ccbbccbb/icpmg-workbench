@@ -1,0 +1,62 @@
+=========================================
+EMILY COFFEY
+Robinsonport, SD | 631.001.5450 | emily.coffey@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Emily Coffey is a business and analytics professional with 5+ years of transferable experience related to Agents, plugins, skills, and tools, Builder team coaching, Service line leadership engagement, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Builder team coaching
+  * Service line leadership engagement
+  * Low-code, API, and orchestration tools
+  * AI literacy artifacts
+
+CORE SKILLS
+skills, agent tools, service line leaders, tool calling, plugin design, work review, team development, internal stakeholders, AI literacy, learning artifacts, internal enablement, one-pagers, configuration, executive engagement, orchestration, API integration, builder coaching
+
+PROFESSIONAL EXPERIENCE
+Product Owner - Vang, Hoover and Barnett
+2021 - 2022
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: reduced operational handoffs by 18%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: reduced operational handoffs by 15%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced prototype-to-production cycle time by 35%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced prototype-to-production cycle time by 15%.
+
+Product Owner - Marquez-Duke
+2022 - 2025
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: coached a team of 6 consultants and engineers.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: improved delivery predictability by 22%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: delivered $5M in AI program value cases.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: improved delivery predictability by 15%.
+
+Product Owner - Simmons, Johnson and Anderson
+2025 - Present
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: coached a team of 11 consultants and engineers.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: improved delivery predictability by 15%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: standardized reporting for 4 stakeholder groups.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: delivered $10M in AI program value cases.
+
+SELECTED ACHIEVEMENTS
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Result: reduced operational handoffs by 12%.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Result: coached a team of 13 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led prototype work across Builder team coaching, Low-code, API, and orchestration tools, AI literacy artifacts, Service line leadership engagement.
+  * Led prototype work across Service line leadership engagement, Builder team coaching, Low-code, API, and orchestration tools.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/emily-coffey/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+skills, agent tools, service line leaders, tool calling, plugin design, work review, team development, internal stakeholders, AI literacy, learning artifacts, internal enablement, one-pagers, configuration, executive engagement, Project Management Professional
+
+CERTIFICATIONS
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Business Administration
+East Sandy Polytechnic - Class of 2016

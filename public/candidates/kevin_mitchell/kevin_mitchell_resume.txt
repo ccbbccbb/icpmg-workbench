@@ -1,0 +1,75 @@
+=========================================
+KEVIN MITCHELL
+Laurabury, WY | 444-575-4511 x248 | kevin.mitchell@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kevin Mitchell is a data and technology consulting professional with 4+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Cloud and engineering partnership, AI Lab experimentation, Code quality and reliability, Full AI build lifecycle, Human-AI collaboration, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * AI Lab experimentation
+  * Code quality and reliability
+  * Full AI build lifecycle
+  * Human-AI collaboration
+  * Security and scalability
+  * Productionization
+  * Builder community contribution
+  * Thought leadership
+  * Automation
+
+CORE SKILLS
+Python automation, prototype lifecycle, reuse, builder community, reliability engineering, RPA integration, shared assets, replication kits, demo packaging, applied research, workflow automation, webinars, secure deployment, review loops, deployment controls, executive engagement, workflow orchestration, implementation playbooks, DevOps collaboration, orchestration, release planning, secure architecture, skills, plugin design
+
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer - Lee-Paul
+2022 - 2023
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: processed 9M records through reusable pipelines.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved model quality by 9%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced manual analysis effort by 19%.
+
+Machine Learning Engineer - Le-Anderson
+2023 - 2025
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: improved model quality by 12%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: improved model quality by 27%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: processed 14M records through reusable pipelines.
+  * Presented market insights and practical AI adoption lessons to senior business audiences. Outcome: improved model quality by 25%.
+
+GenAI Solution Consultant - Patel-Baldwin
+2025 - Present
+  * Presented market insights and practical AI adoption lessons to senior business audiences. Outcome: reduced manual analysis effort by 44%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced manual analysis effort by 22%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: processed 30M records through reusable pipelines.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: improved model quality by 24%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced manual analysis effort by 47%.
+
+SELECTED ACHIEVEMENTS
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Result: processed 37M records through reusable pipelines.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Result: cut evaluation turnaround from 6 days to 2 days.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Result: processed 23M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led implementation work across Service line leadership engagement, Full AI build lifecycle, Reusable demos, kits, and handoff materials, Automation, Code quality and reliability.
+  * Led implementation work across Cloud and engineering partnership, Code quality and reliability, Automation, Human-AI collaboration.
+  * Led prototype work across Productionization, Agents, plugins, skills, and tools, Builder community contribution.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/kevin-mitchell/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+Python automation, prototype lifecycle, reuse, builder community, reliability engineering, RPA integration, shared assets, replication kits, demo packaging, applied research, workflow automation, webinars, secure deployment, review loops, AWS Certified Machine Learning - Specialty, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Microsoft Certified: Azure AI Engineer Associate
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Master of Applied Computing
+Kristinbury University - Class of 2019

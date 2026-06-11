@@ -1,0 +1,65 @@
+=========================================
+MACKENZIE ALVAREZ
+South Kennethfurt, NJ | 100 850 7321 | mackenzie.alvarez@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Mackenzie Alvarez is a business and analytics professional with 9+ years of transferable experience related to Demo safety and governance checks, Internal Transformation production path, Trade-off judgment, AI literacy artifacts. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Demo safety and governance checks
+  * Internal Transformation production path
+  * Trade-off judgment
+  * AI literacy artifacts
+  * Service line leadership engagement
+  * Enterprise operations fluency
+  * Human-AI collaboration
+
+CORE SKILLS
+internal stakeholders, review loops, low-code platforms, demo safety, governance checks, delivery judgment, operating model, senior manager alignment, service line leaders, autonomy design, process fluency, risk review, adoption planning, internal transformation
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Davis-Meza
+2017 - 2018
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: delivered $6M in AI program value cases.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: coached a team of 5 consultants and engineers.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: delivered $11M in AI program value cases.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: delivered $10M in AI program value cases.
+
+Product Owner - Campbell-Johnson
+2018 - 2022
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: improved delivery predictability by 29%.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: improved delivery predictability by 29%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced operational handoffs by 19%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: standardized reporting for 8 stakeholder groups.
+
+Technology Project Manager - Thompson, Gutierrez and Wood
+2022 - Present
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: delivered $14M in AI program value cases.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced prototype-to-production cycle time by 32%.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: coached a team of 9 consultants and engineers.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced prototype-to-production cycle time by 35%.
+
+SELECTED ACHIEVEMENTS
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Result: coached a team of 6 consultants and engineers.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Result: reduced prototype-to-production cycle time by 34%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Low-code, API, and orchestration tools, Trade-off judgment, Internal Transformation production path, AI literacy artifacts.
+  * Led roadmap work across Trade-off judgment, Internal Transformation production path, AI literacy artifacts.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/mackenzie-alvarez/agentic-ai-builds
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+internal stakeholders, review loops, low-code platforms, demo safety, governance checks, delivery judgment, operating model, senior manager alignment, service line leaders, autonomy design, process fluency, risk review, adoption planning, internal transformation, Prosci Change Management Certification, TOGAF Foundation
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Science, Statistics
+Jonestown Polytechnic - Class of 2011

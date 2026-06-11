@@ -1,0 +1,75 @@
+=========================================
+JULIA MURPHY
+Lake Tinashire, CA | 226-376-9193 | julia.murphy@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Julia Murphy is a data and technology consulting professional with 5+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Productionization, Prototype portfolio, Agentic AI delivery, Approved AI and engineering stack, AI Lab experimentation, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Prototype portfolio
+  * Agentic AI delivery
+  * Approved AI and engineering stack
+  * AI Lab experimentation
+  * Code quality and reliability
+  * Cloud and engineering partnership
+  * LLM applications
+  * Data and AI solution evangelism
+  * Low-code, API, and orchestration tools
+
+CORE SKILLS
+LangChain, engineering standards, reuse, eval harnesses, GitHub demos, document AI, platform constraints, solution evangelism, decision boundaries, deployment controls, internal stakeholders, value proposition, prototype portfolio, code review, plugin design, model registry, orchestration, operational support, tool calling, test sets, demo write-ups, market awareness, quality gates
+
+PROFESSIONAL EXPERIENCE
+Data Science Consultant - Kidd-Wilson
+2021 - 2024
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved model quality by 22%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: processed 17M records through reusable pipelines.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: improved model quality by 17%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: cut evaluation turnaround from 9 days to 3 days.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: improved model quality by 27%.
+
+Applied AI Consultant - Benton Inc
+2024 - 2025
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: improved model quality by 20%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: improved model quality by 20%.
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Created executive narratives that linked emerging AI capabilities to measurable client outcomes. Outcome: reduced manual analysis effort by 18%.
+
+Machine Learning Engineer - Swanson, Harding and Briggs
+2025 - Present
+  * Evangelized Data and AI solution value propositions to build awareness with partners and potential customers. Outcome: processed 12M records through reusable pipelines.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: cut evaluation turnaround from 12 days to 3 days.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced manual analysis effort by 28%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: cut evaluation turnaround from 11 days to 2 days.
+
+SELECTED ACHIEVEMENTS
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Result: cut evaluation turnaround from 6 days to 1 day.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Result: improved model quality by 8%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: cut evaluation turnaround from 9 days to 3 days.
+
+SELECTED PROJECTS
+  * Led prototype work across Agents, plugins, skills, and tools, Cloud and engineering partnership, MLOps.
+  * Led prototype work across Cloud and engineering partnership, Productionization, Approved AI and engineering stack, Service line leadership engagement.
+  * Led prototype work across MLOps, LLM applications, AI Lab experimentation, Data and AI solution evangelism, Cloud and engineering partnership.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/julia-murphy/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+LangChain, engineering standards, reuse, eval harnesses, GitHub demos, document AI, platform constraints, solution evangelism, decision boundaries, deployment controls, internal stakeholders, value proposition, prototype portfolio, code review, TOGAF Foundation, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * TOGAF Foundation
+  * IAPP Certified Information Privacy Professional
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Bachelor of Computer Science
+East Cherylfort Polytechnic - Class of 2016

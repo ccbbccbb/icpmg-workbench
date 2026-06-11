@@ -1,0 +1,76 @@
+=========================================
+HENRY SANTOS
+East Bethany, DC | 240-668-1438 | henry.santos@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Henry Santos is a data and technology consulting professional with 10+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Agents, plugins, skills, and tools, Code quality and reliability, Agentic AI delivery, Demo readiness, Reusable demos, kits, and handoff materials, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Code quality and reliability
+  * Agentic AI delivery
+  * Demo readiness
+  * Reusable demos, kits, and handoff materials
+  * Workflow and operating-model redesign
+  * Human-AI collaboration
+  * Client workshops
+  * Delivery leadership
+  * Change management
+
+CORE SKILLS
+facilitation, executive demos, showcase artifacts, reliability engineering, multi-agent systems, demo rehearsal, operating model change, implementation playbooks, demo narrative, status reporting, production handoff, human-AI handoffs, sales funnel, code review, delivery governance, adoption planning, agent tools, autonomous agents, program delivery, training design, autonomy design, communications, discovery workshops, AI governance, decision systems, solution maintenance
+
+PROFESSIONAL EXPERIENCE
+AI Delivery Manager - Paul, Lloyd and Anderson
+2016 - 2017
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: delivered $14M in AI program value cases.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: delivered $11M in AI program value cases.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: coached a team of 12 consultants and engineers.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: reduced prototype-to-production cycle time by 22%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: coached a team of 7 consultants and engineers.
+
+Applied AI Manager - Garcia-Davis
+2017 - 2018
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: delivered $14M in AI program value cases.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: reduced prototype-to-production cycle time by 18%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: coached a team of 11 consultants and engineers.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: improved delivery predictability by 29%.
+  * Unblocked delivery teams by clarifying scope, decision owners, and acceptance criteria. Outcome: reduced prototype-to-production cycle time by 16%.
+
+Data & AI Consulting Manager - Martinez-Mcintyre
+2018 - Present
+  * Unblocked delivery teams by clarifying scope, decision owners, and acceptance criteria. Outcome: coached a team of 7 consultants and engineers.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: delivered $14M in AI program value cases.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved delivery predictability by 27%.
+  * Nurtured early-stage opportunities with targeted follow-up, stakeholder mapping, and solution education. Outcome: coached a team of 9 consultants and engineers.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: coached a team of 12 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Led multi-stream AI delivery plans with milestones, dependencies, risk logs, and executive reporting. Result: reduced prototype-to-production cycle time by 15%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Result: coached a team of 7 consultants and engineers.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Result: improved delivery predictability by 14%.
+
+SELECTED PROJECTS
+  * Led discovery work across Agents, plugins, skills, and tools, Model governance, Internal Transformation production path, Agentic AI delivery, Demo readiness.
+  * Led implementation work across Change management, Client workshops, Human-AI collaboration.
+  * Led prototype work across Human-AI collaboration, Agents, plugins, skills, and tools, Agentic AI delivery.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/henry-santos/agentic-ai-builds
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+facilitation, executive demos, showcase artifacts, reliability engineering, multi-agent systems, demo rehearsal, operating model change, implementation playbooks, demo narrative, status reporting, production handoff, human-AI handoffs, sales funnel, code review, Microsoft Certified: Azure AI Engineer Associate, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * AWS Certified Machine Learning - Specialty
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Master of Information Systems
+West Rodneystad Institute of Technology - Class of 2013

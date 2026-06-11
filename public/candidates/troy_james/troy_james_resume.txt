@@ -1,0 +1,65 @@
+=========================================
+TROY JAMES
+South Mauriceport, IL | 1 (717) 507-4950 | troy.james@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Troy James is a business and analytics professional with 5+ years of transferable experience related to Full AI build lifecycle, Code quality and reliability, Reusable demos, kits, and handoff materials, Human-AI collaboration. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Full AI build lifecycle
+  * Code quality and reliability
+  * Reusable demos, kits, and handoff materials
+  * Human-AI collaboration
+  * Service line leadership engagement
+  * Ambiguity and execution
+  * Builder mindset
+
+CORE SKILLS
+autonomy design, decision boundaries, acceptance criteria, handoff kits, user stories, build mindset, human oversight, code review, lifecycle ownership, AI ethics, product strategy, implementation playbooks, internal stakeholders, solution maintenance
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Brown, Shaw and Wright
+2021 - 2024
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: reduced prototype-to-production cycle time by 24%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: coached a team of 4 consultants and engineers.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: standardized reporting for 4 stakeholder groups.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced operational handoffs by 15%.
+
+Product Owner - Snyder PLC
+2024 - 2025
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: improved delivery predictability by 28%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: reduced operational handoffs by 8%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: standardized reporting for 6 stakeholder groups.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: standardized reporting for 8 stakeholder groups.
+
+Product Owner - Graves LLC
+2025 - Present
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: improved delivery predictability by 22%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved delivery predictability by 25%.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: delivered $2M in AI program value cases.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: standardized reporting for 10 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Result: reduced operational handoffs by 11%.
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Result: coached a team of 8 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led roadmap work across Code quality and reliability, Full AI build lifecycle, Cloud AI platforms.
+  * Led implementation work across Reusable demos, kits, and handoff materials, Full AI build lifecycle, Cloud AI platforms.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/troy-james/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+autonomy design, decision boundaries, acceptance criteria, handoff kits, user stories, build mindset, human oversight, code review, lifecycle ownership, AI ethics, product strategy, implementation playbooks, internal stakeholders, solution maintenance, Databricks Machine Learning Associate, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Prosci Change Management Certification
+
+EDUCATION
+Bachelor of Science, Statistics
+West Tina School of Business - Class of 2015

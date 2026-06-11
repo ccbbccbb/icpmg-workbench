@@ -1,0 +1,65 @@
+=========================================
+MADISON HUFFMAN
+West John, NM | 870 820 0782 | madison.huffman@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Madison Huffman is a business and analytics professional with 6+ years of transferable experience related to Code quality and reliability, Security and scalability, Ambiguity and execution, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Security and scalability
+  * Ambiguity and execution
+  * Low-code, API, and orchestration tools
+  * Client workshops
+  * Trade-off judgment
+  * Account planning
+
+CORE SKILLS
+automated testing, AI strategy, prioritization, ambiguity, identity controls, structured thinking, relationship mapping, executive demos, account strategy, scalability, roadmapping, code review, structured assumptions, delivery judgment, low-code platforms, configuration, rapid prototyping
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Ballard and Sons
+2020 - 2022
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: standardized reporting for 10 stakeholder groups.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: processed 20M records through reusable pipelines.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: improved model quality by 13%.
+
+Automation Specialist - Howard, Cross and Rodriguez
+2022 - 2024
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced manual analysis effort by 41%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: improved model quality by 26%.
+  * Mapped target accounts by buying centre, AI maturity, and renewal timing. Outcome: reduced manual analysis effort by 29%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced manual analysis effort by 22%.
+
+Business Analyst - Beltran Inc
+2024 - Present
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: standardized reporting for 3 stakeholder groups.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced operational handoffs by 15%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: standardized reporting for 5 stakeholder groups.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced operational handoffs by 20%.
+
+SELECTED ACHIEVEMENTS
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Result: processed 12M records through reusable pipelines.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Result: processed 27M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led discovery work across Client workshops, Trade-off judgment, Account planning.
+  * Led enablement work across Account planning, Security and scalability, Trade-off judgment, Code quality and reliability, Builder mindset.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/madison-huffman/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+automated testing, AI strategy, prioritization, ambiguity, identity controls, structured thinking, relationship mapping, executive demos, account strategy, scalability, roadmapping, code review, structured assumptions, delivery judgment, Microsoft Certified: Azure AI Engineer Associate, TOGAF Foundation
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Business Administration
+East Brettbury University - Class of 2014

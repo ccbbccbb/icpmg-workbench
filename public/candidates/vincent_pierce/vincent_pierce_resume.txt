@@ -1,0 +1,65 @@
+=========================================
+VINCENT PIERCE
+Woodsstad, NC | 806-555-0028 x027 | vincent.pierce@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Vincent Pierce is a business and analytics professional with 6+ years of transferable experience related to Productionization, Agentic AI delivery, Human-AI collaboration, Builder community contribution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Agentic AI delivery
+  * Human-AI collaboration
+  * Builder community contribution
+  * Ambiguity and execution
+  * Validated outcomes
+  * Internal Transformation production path
+
+CORE SKILLS
+success metrics, reuse, human-AI handoffs, autonomy design, agent workflows, release planning, adoption planning, implementation playbooks, adoption metrics, structured assumptions, decision boundaries, delivery momentum, enterprise rollout, community demos, production readiness, ambiguity
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Jones Inc
+2020 - 2021
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: processed 14M records through reusable pipelines.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: improved model quality by 20%.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: cut evaluation turnaround from 11 days to 3 days.
+
+Automation Specialist - Mcgee-Garcia
+2021 - 2023
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: standardized reporting for 4 stakeholder groups.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: processed 3M records through reusable pipelines.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: reduced manual analysis effort by 36%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: standardized reporting for 8 stakeholder groups.
+
+Analytics Consultant - Potter Group
+2023 - Present
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced operational handoffs by 10%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: reduced manual analysis effort by 22%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: standardized reporting for 5 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Result: improved model quality by 12%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Result: improved model quality by 18%.
+
+SELECTED PROJECTS
+  * Led prototype work across Validated outcomes, Human-AI collaboration, Agentic AI delivery, Internal Transformation production path, Reusable demos, kits, and handoff materials.
+  * Led enablement work across Ambiguity and execution, Human-AI collaboration, Internal Transformation production path.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/vincent-pierce/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+success metrics, reuse, human-AI handoffs, autonomy design, agent workflows, release planning, adoption planning, implementation playbooks, adoption metrics, structured assumptions, decision boundaries, delivery momentum, enterprise rollout, community demos, Databricks Machine Learning Associate, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Mathematics
+East Jeremychester Polytechnic - Class of 2017

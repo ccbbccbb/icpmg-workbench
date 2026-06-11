@@ -1,0 +1,97 @@
+=========================================
+ERICA ZUNIGA
+Sellersmouth, VT | 530-521-8700 x005 | erica.zuniga@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Erica Zuniga is an AI Builder Manager with 13+ years of direct Data and AI experience, including Code quality and reliability, Builder team coaching, Internal Transformation production path, Demo readiness, Agentic AI delivery, Workflow and operating-model redesign. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Builder team coaching
+  * Internal Transformation production path
+  * Demo readiness
+  * Agentic AI delivery
+  * Workflow and operating-model redesign
+  * Evaluation design
+  * Demo safety and governance checks
+  * Productionization
+  * Agents, plugins, skills, and tools
+  * Go-to-market
+  * Security and scalability
+  * Data engineering
+  * Generative AI
+
+CORE SKILLS
+solution packaging, dbt, workflow redesign, work review, governance checks, builder coaching, data protection, agent evaluation, internal transformation, test sets, operating model design, operating model change, production readiness, lifecycle ownership, safe showcase, plugin design, showcase artifacts, prototype lifecycle, agent workflows, GTM strategy, ELT, quality gates, ETL, model risk management, team development, user stories, orchestration, secure SDLC, demo rehearsal, executive demos, scalability, operational support, technical direction
+
+PROFESSIONAL EXPERIENCE
+Applied AI Manager - Wood-Nelson
+2013 - 2015
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced prototype-to-production cycle time by 38%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: coached a team of 11 consultants and engineers.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced prototype-to-production cycle time by 38%.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: improved delivery predictability by 30%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: improved delivery predictability by 19%.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: improved delivery predictability by 24%.
+
+AI Delivery Manager - Johnson and Sons
+2015 - 2018
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: reduced prototype-to-production cycle time by 18%.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: improved delivery predictability by 15%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved delivery predictability by 14%.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: improved delivery predictability by 33%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: improved delivery predictability by 14%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: coached a team of 12 consultants and engineers.
+
+Applied AI Manager - Kelly and Sons
+2018 - 2022
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved delivery predictability by 25%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved delivery predictability by 32%.
+  * Packaged AI offerings into sales plays with target personas, triggers, proof points, and demo assets. Outcome: improved delivery predictability by 21%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: reduced prototype-to-production cycle time by 31%.
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Outcome: delivered $4M in AI program value cases.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: improved delivery predictability by 24%.
+
+Generative AI Program Manager - Ibarra, Hill and Lewis
+2022 - Present
+  * Improved pipeline reliability through validation, lineage notes, and scheduled quality checks. Outcome: improved delivery predictability by 14%.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: improved delivery predictability by 33%.
+  * Designed governance checkpoints for use-case intake, validation, approval, and post-launch review. Outcome: reduced prototype-to-production cycle time by 19%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: coached a team of 13 consultants and engineers.
+  * Built Python services and notebooks for ingestion, modelling, evaluation, and reporting. Outcome: delivered $5M in AI program value cases.
+  * Led mixed teams of consultants, engineers, and analysts through discovery, build, and rollout phases. Outcome: delivered $14M in AI program value cases.
+
+SELECTED ACHIEVEMENTS
+  * Improved pipeline reliability through validation, lineage notes, and scheduled quality checks. Result: improved delivery predictability by 18%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: delivered $4M in AI program value cases.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Result: reduced prototype-to-production cycle time by 34%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Result: coached a team of 13 consultants and engineers.
+  * Built generative AI prototypes for knowledge search, summarization, intake triage, and analyst assistance. Result: coached a team of 11 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led enablement work across Full AI build lifecycle, Product management, Productionization, Code quality and reliability.
+  * Led prototype work across Productionization, Agents, plugins, skills, and tools, Security, Demo safety and governance checks, Code quality and reliability.
+  * Led prototype work across Code quality and reliability, Internal Transformation production path, Product management, Security.
+  * Led enablement work across Code quality and reliability, Builder team coaching, Security and scalability, Agents, plugins, skills, and tools.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/erica-zuniga/agentic-ai-builds
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+solution packaging, dbt, workflow redesign, work review, governance checks, builder coaching, data protection, agent evaluation, internal transformation, test sets, operating model design, operating model change, production readiness, lifecycle ownership, Google Cloud Professional Machine Learning Engineer, TOGAF Foundation
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * TOGAF Foundation
+  * IAPP Certified Information Privacy Professional
+  * Certified ScrumMaster
+
+EDUCATION
+Master of Data Science
+Cochranfort School of Business - Class of 2007

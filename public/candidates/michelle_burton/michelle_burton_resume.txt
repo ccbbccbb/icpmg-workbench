@@ -1,0 +1,94 @@
+=========================================
+MICHELLE BURTON
+Dawnberg, NH | (731) 894-8744 | michelle.burton@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Michelle Burton is an AI Builder Senior Consultant with 7+ years of direct Data and AI experience, including AI Lab experimentation, Productionization, Evaluation design, Security and scalability, Full AI build lifecycle, Agents, plugins, skills, and tools. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * AI Lab experimentation
+  * Productionization
+  * Evaluation design
+  * Security and scalability
+  * Full AI build lifecycle
+  * Agents, plugins, skills, and tools
+  * Code quality and reliability
+  * Cloud and engineering partnership
+  * Low-code, API, and orchestration tools
+  * Service line leadership engagement
+  * Enterprise architecture
+  * Builder mindset
+  * Revenue origination
+  * Validated outcomes
+
+CORE SKILLS
+Spark, opportunity creation, new business origination, enterprise architecture, secure architecture, maintainability, automated testing, data protection, production readiness, revenue growth, service line leaders, code review, journey mapping, platform teams, agent evaluation, senior manager alignment, integration patterns, prototype lifecycle, test sets, adoption metrics, AI Lab prototyping, configuration, build mindset, operational support, deal sourcing, ELT, tool calling, facilitation, workflow orchestration, applied research, data modelling, solution maintenance, hands-on execution, reliability engineering, benefit measurement
+
+PROFESSIONAL EXPERIENCE
+Data Science Consultant - Tanner Inc
+2019 - 2020
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: cut evaluation turnaround from 4 days to 3 days.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced manual analysis effort by 29%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved model quality by 25%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: improved model quality by 15%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: reduced manual analysis effort by 25%.
+
+GenAI Solution Consultant - Moore, Summers and David
+2020 - 2021
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved model quality by 22%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: processed 7M records through reusable pipelines.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: improved model quality by 9%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: processed 9M records through reusable pipelines.
+
+GenAI Solution Consultant - Higgins, Torres and Hogan
+2021 - 2024
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced manual analysis effort by 24%.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Mapped AI solution options to enterprise architecture standards and existing integration patterns. Outcome: processed 19M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Originated new Data and AI opportunities by connecting partner capabilities with client business priorities. Outcome: improved model quality by 25%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: processed 18M records through reusable pipelines.
+
+AI Builder Senior Consultant - Anderson, Jones and Martinez
+2024 - Present
+  * Originated new Data and AI opportunities by connecting partner capabilities with client business priorities. Outcome: processed 28M records through reusable pipelines.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: processed 8M records through reusable pipelines.
+  * Improved pipeline reliability through validation, lineage notes, and scheduled quality checks. Outcome: reduced manual analysis effort by 38%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: processed 19M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: improved model quality by 10%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Result: processed 8M records through reusable pipelines.
+  * Mapped AI solution options to enterprise architecture standards and existing integration patterns. Result: cut evaluation turnaround from 6 days to 2 days.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Result: reduced manual analysis effort by 26%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Result: cut evaluation turnaround from 9 days to 3 days.
+
+SELECTED PROJECTS
+  * Led implementation work across Validated outcomes, Client workshops, Agents, plugins, skills, and tools.
+  * Led discovery work across Security and scalability, Cloud and engineering partnership, Enterprise architecture, Full AI build lifecycle, Evaluation design.
+  * Led enablement work across AI Lab experimentation, Client workshops, Low-code, API, and orchestration tools, Productionization, Evaluation design.
+  * Led implementation work across Security and scalability, Client workshops, Productionization.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/michelle-burton/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+Spark, opportunity creation, new business origination, enterprise architecture, secure architecture, maintainability, automated testing, data protection, production readiness, revenue growth, service line leaders, code review, journey mapping, platform teams, AWS Certified Machine Learning - Specialty, TOGAF Foundation
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * TOGAF Foundation
+  * Google Cloud Professional Machine Learning Engineer
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Bachelor of Computer Science
+Port Bonnie Institute of Technology - Class of 2014

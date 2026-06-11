@@ -1,0 +1,75 @@
+=========================================
+JUSTIN WHITE
+Port Tina, WY | 215-665-0095 x637 | justin.white@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Justin White is a data and technology consulting professional with 5+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Prototype portfolio, Code quality and reliability, Approved AI and engineering stack, Cloud and engineering partnership, Full AI build lifecycle, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Prototype portfolio
+  * Code quality and reliability
+  * Approved AI and engineering stack
+  * Cloud and engineering partnership
+  * Full AI build lifecycle
+  * Human-AI collaboration
+  * Reusable demos, kits, and handoff materials
+  * APIs and microservices
+  * Builder mindset
+  * Generative AI
+
+CORE SKILLS
+build mindset, quality gates, decision boundaries, DevOps collaboration, engineering standards, autonomy design, stakeholder alignment, replication kits, LLMs, demo packaging, production handoff, Python, approved AI stack, handoff kits, secure platforms, reliability engineering, eval harnesses, working systems, AI copilots, human-AI handoffs
+
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer - Wilson-Archer
+2021 - 2024
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: reduced manual analysis effort by 30%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: improved model quality by 20%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: reduced manual analysis effort by 29%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 31M records through reusable pipelines.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved model quality by 21%.
+
+GenAI Solution Consultant - Anderson-Smith
+2024 - 2025
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved model quality by 13%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 5 days to 1 day.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: processed 25M records through reusable pipelines.
+  * Built API services for model inference, batch scoring, and human review queues. Outcome: reduced manual analysis effort by 42%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 8 days to 2 days.
+
+Data Science Consultant - Johnson, Goodman and Carlson
+2025 - Present
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: processed 22M records through reusable pipelines.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: reduced manual analysis effort by 21%.
+  * Built Python services and notebooks for ingestion, modelling, evaluation, and reporting. Outcome: processed 37M records through reusable pipelines.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: processed 14M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Result: reduced manual analysis effort by 41%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: reduced manual analysis effort by 35%.
+  * Built generative AI prototypes for knowledge search, summarization, intake triage, and analyst assistance. Result: cut evaluation turnaround from 8 days to 1 day.
+
+SELECTED PROJECTS
+  * Led discovery work across Code quality and reliability, Cloud and engineering partnership, Service line leadership engagement.
+  * Led implementation work across Approved AI and engineering stack, Full AI build lifecycle, Human-AI collaboration, Reusable demos, kits, and handoff materials.
+  * Led discovery work across Executive stakeholder management, Python, Service line leadership engagement.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/justin-white/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+build mindset, quality gates, decision boundaries, DevOps collaboration, engineering standards, autonomy design, stakeholder alignment, replication kits, LLMs, demo packaging, production handoff, Python, approved AI stack, handoff kits, Certified ScrumMaster, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Prosci Change Management Certification
+
+EDUCATION
+Master of Applied Computing
+Lake Stephentown University - Class of 2018

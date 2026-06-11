@@ -1,0 +1,74 @@
+=========================================
+VINCENT GARCIA
+Thomashaven, PA | 1-357-350-9309 | vincent.garcia@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Vincent Garcia is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Security and scalability, Cloud and engineering partnership, Approved AI and engineering stack, Agentic AI delivery, Full AI build lifecycle, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Cloud and engineering partnership
+  * Approved AI and engineering stack
+  * Agentic AI delivery
+  * Full AI build lifecycle
+  * Machine learning
+  * Data engineering
+  * Code quality and reliability
+  * Productionization
+  * LLM applications
+
+CORE SKILLS
+solution maintenance, board materials, quality gates, community demos, DevOps collaboration, statistical analysis, LangChain, decision facilitation, test sets, reliability engineering, agentic AI, Airflow, Spark, release planning, agent evaluation, benefit measurement, A/B testing, feature engineering, LlamaIndex, executive briefings, data modelling
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Torres, Maxwell and Blake
+2020 - 2023
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 40M records through reusable pipelines.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved model quality by 19%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: processed 27M records through reusable pipelines.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: cut evaluation turnaround from 9 days to 3 days.
+
+Data Science Consultant - Brown Ltd
+2023 - 2024
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: processed 12M records through reusable pipelines.
+  * Improved model performance through feature engineering, validation splits, and error analysis. Outcome: cut evaluation turnaround from 11 days to 1 day.
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Outcome: improved model quality by 19%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced manual analysis effort by 27%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: reduced manual analysis effort by 34%.
+
+AI Builder Senior Consultant - Pineda and Sons
+2024 - Present
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: cut evaluation turnaround from 9 days to 2 days.
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Managed senior stakeholder expectations through clear decision points, risks, and value narratives. Outcome: improved model quality by 9%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: processed 25M records through reusable pipelines.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: improved model quality by 10%.
+
+SELECTED ACHIEVEMENTS
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: cut evaluation turnaround from 9 days to 3 days.
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Result: cut evaluation turnaround from 12 days to 2 days.
+  * Improved pipeline reliability through validation, lineage notes, and scheduled quality checks. Result: processed 21M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led roadmap work across Evaluation design, Experimentation, Validated outcomes, Machine learning, Code quality and reliability.
+  * Led roadmap work across Security and scalability, Code quality and reliability, Data engineering, Agentic AI delivery.
+  * Led roadmap work across Builder community contribution, Data engineering, Full AI build lifecycle, Experimentation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/vincent-garcia/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+solution maintenance, board materials, quality gates, community demos, DevOps collaboration, statistical analysis, LangChain, decision facilitation, test sets, reliability engineering, agentic AI, Airflow, Spark, release planning, Databricks Machine Learning Associate, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Prosci Change Management Certification
+
+EDUCATION
+Bachelor of Computer Science
+Port Normaborough Institute of Technology - Class of 2018

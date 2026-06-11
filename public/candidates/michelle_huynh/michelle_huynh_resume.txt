@@ -1,0 +1,76 @@
+=========================================
+MICHELLE HUYNH
+Jameshaven, ME | (102) 619-8039 x501 | michelle.huynh@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Michelle Huynh is a data and technology consulting professional with 4+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Human-AI collaboration, Security and scalability, Prototype portfolio, AI Lab experimentation, Productionization, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Security and scalability
+  * Prototype portfolio
+  * AI Lab experimentation
+  * Productionization
+  * Approved AI and engineering stack
+  * Code quality and reliability
+  * Cloud and engineering partnership
+  * Cloud AI platforms
+  * Data engineering
+
+CORE SKILLS
+Snowflake, platform constraints, secure SDLC, ELT, workflow orchestration, prototype portfolio, Azure AI, DevOps collaboration, decision boundaries, review loops, reliability engineering, prompt design, human-AI handoffs, FastAPI, AI Lab prototyping, low-code platforms, secure deployment, data modelling, microservices, demo write-ups, code review, data protection
+
+PROFESSIONAL EXPERIENCE
+Data Science Consultant - Smith-Sullivan
+2022 - 2024
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: processed 35M records through reusable pipelines.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 4M records through reusable pipelines.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: reduced manual analysis effort by 39%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: processed 5M records through reusable pipelines.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: cut evaluation turnaround from 6 days to 2 days.
+
+Data Science Consultant - Gill Inc
+2024 - 2025
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: cut evaluation turnaround from 10 days to 2 days.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: processed 19M records through reusable pipelines.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced manual analysis effort by 43%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: processed 21M records through reusable pipelines.
+  * Delivered AI workloads on cloud platforms using managed model endpoints, storage, and observability services. Outcome: improved model quality by 22%.
+
+Data Science Consultant - Espinoza Ltd
+2025 - Present
+  * Delivered AI workloads on cloud platforms using managed model endpoints, storage, and observability services. Outcome: reduced manual analysis effort by 24%.
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Outcome: processed 31M records through reusable pipelines.
+  * Built API services for model inference, batch scoring, and human review queues. Outcome: improved model quality by 21%.
+  * Worked with security teams to close architecture and deployment risks before launch. Outcome: processed 3M records through reusable pipelines.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: improved model quality by 21%.
+
+SELECTED ACHIEVEMENTS
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Result: improved model quality by 24%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: cut evaluation turnaround from 10 days to 1 day.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Result: reduced manual analysis effort by 21%.
+
+SELECTED PROJECTS
+  * Led implementation work across Prompt engineering, Code quality and reliability, Cloud and engineering partnership, Security, Productionization.
+  * Led roadmap work across Security and scalability, Cloud AI platforms, Human-AI collaboration.
+  * Led roadmap work across Cloud AI platforms, Prompt engineering, Code quality and reliability, APIs and microservices.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/michelle-huynh/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+Snowflake, platform constraints, secure SDLC, ELT, workflow orchestration, prototype portfolio, Azure AI, DevOps collaboration, decision boundaries, review loops, reliability engineering, prompt design, human-AI handoffs, FastAPI, Google Cloud Professional Machine Learning Engineer, SnowPro Core Certification
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * SnowPro Core Certification
+  * Certified ScrumMaster
+  * TOGAF Foundation
+
+EDUCATION
+Master of Applied Computing
+West Johnshire University - Class of 2018

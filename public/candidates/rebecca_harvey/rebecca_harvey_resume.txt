@@ -1,0 +1,76 @@
+=========================================
+REBECCA HARVEY
+Browntown, AS | 844.513.3014 | rebecca.harvey@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Rebecca Harvey is a data and technology consulting professional with 7+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Agents, plugins, skills, and tools, Cloud and engineering partnership, Productionization, Prototype portfolio, Code quality and reliability, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Cloud and engineering partnership
+  * Productionization
+  * Prototype portfolio
+  * Code quality and reliability
+  * Security and scalability
+  * Human-AI collaboration
+  * SQL and analytics
+  * Prompt engineering
+  * Generative AI
+
+CORE SKILLS
+LangChain, AWS, chat applications, Power BI, secure deployment, human-AI handoffs, review loops, Snowflake, SQL, dashboard design, retrieval augmented generation, demo write-ups, autonomous agents, GitHub demos, skills, agent workflows, system prompts, maintainability, LLMs, orchestration, dbt, plugin design, Spark, secure architecture, analytics engineering, Databricks, autonomy design, ETL, data profiling
+
+PROFESSIONAL EXPERIENCE
+GenAI Solution Consultant - Rodriguez, Daniels and Gibson
+2019 - 2023
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: reduced manual analysis effort by 25%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 30M records through reusable pipelines.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: improved model quality by 23%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: reduced manual analysis effort by 19%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced manual analysis effort by 30%.
+
+Data Science Consultant - Macias and Sons
+2023 - 2025
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: improved model quality by 17%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 3M records through reusable pipelines.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 10 days to 3 days.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Outcome: cut evaluation turnaround from 12 days to 3 days.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Outcome: processed 35M records through reusable pipelines.
+
+AI Builder Senior Consultant - Kim, Strong and Hensley
+2025 - Present
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Outcome: processed 7M records through reusable pipelines.
+  * Built generative AI prototypes for knowledge search, summarization, intake triage, and analyst assistance. Outcome: reduced manual analysis effort by 23%.
+  * Created dashboards for adoption, model performance, pipeline health, and executive reporting. Outcome: processed 14M records through reusable pipelines.
+  * Integrated language models into business workflows through APIs, queues, and review interfaces. Outcome: cut evaluation turnaround from 12 days to 3 days.
+  * Compared cloud AI services against client security, latency, and cost constraints. Outcome: improved model quality by 25%.
+
+SELECTED ACHIEVEMENTS
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Result: processed 21M records through reusable pipelines.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Result: processed 4M records through reusable pipelines.
+  * Improved pipeline reliability through validation, lineage notes, and scheduled quality checks. Result: processed 26M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led implementation work across Visualization, Code quality and reliability, Cloud and engineering partnership.
+  * Led prototype work across Prototype portfolio, Automation, LLM applications.
+  * Led implementation work across Automation, Human-AI collaboration, Code quality and reliability, Prototype portfolio.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/rebecca-harvey/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+LangChain, AWS, chat applications, Power BI, secure deployment, human-AI handoffs, review loops, Snowflake, SQL, dashboard design, retrieval augmented generation, demo write-ups, autonomous agents, GitHub demos, IAPP Certified Information Privacy Professional, Certified ScrumMaster
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+  * Certified ScrumMaster
+  * Databricks Machine Learning Associate
+  * Project Management Professional
+
+EDUCATION
+Master of Data Science
+Torreschester School of Business - Class of 2016

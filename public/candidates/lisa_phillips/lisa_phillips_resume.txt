@@ -1,0 +1,74 @@
+=========================================
+LISA PHILLIPS
+South Jennifer, WY | 283.697.5255 | lisa.phillips@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Lisa Phillips is a data and technology consulting professional with 5+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Code quality and reliability, Approved AI and engineering stack, Cloud and engineering partnership, Security and scalability, AI Lab experimentation, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Approved AI and engineering stack
+  * Cloud and engineering partnership
+  * Security and scalability
+  * AI Lab experimentation
+  * Prototype portfolio
+  * Full AI build lifecycle
+  * Visualization
+  * Alliance strategy
+  * Machine learning
+
+CORE SKILLS
+demo write-ups, AWS, model registry, scalability, approved AI stack, platform teams, evaluation datasets, build case, dashboard design, solution maintenance, data storytelling, rapid experimentation, technical leadership, Google Cloud, feature stores, prototype lifecycle, Databricks, code review, lifecycle ownership, CI/CD, reliability engineering, frontier models, production handoff, resource planning, model deployment, Azure AI
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Fernandez, Baker and May
+2021 - 2022
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: cut evaluation turnaround from 10 days to 2 days.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: cut evaluation turnaround from 11 days to 1 day.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced manual analysis effort by 38%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: cut evaluation turnaround from 10 days to 1 day.
+
+Machine Learning Engineer - Horton, Cordova and Pope
+2022 - 2023
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: improved model quality by 10%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: processed 17M records through reusable pipelines.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved model quality by 27%.
+  * Created dashboards for adoption, model performance, pipeline health, and executive reporting. Outcome: improved model quality by 21%.
+  * Defined alliance scorecards covering sourced pipeline, influenced revenue, certification progress, and campaign performance. Outcome: reduced manual analysis effort by 38%.
+
+GenAI Solution Consultant - Sherman-Thomas
+2023 - Present
+  * Built joint business plans with partner teams, including routes to market, capability gaps, and quarterly targets. Outcome: reduced manual analysis effort by 39%.
+  * Improved model performance through feature engineering, validation splits, and error analysis. Outcome: cut evaluation turnaround from 8 days to 1 day.
+  * Compared cloud AI services against client security, latency, and cost constraints. Outcome: processed 30M records through reusable pipelines.
+  * Defined operational checks for model drift, data freshness, latency, and incident response. Outcome: reduced manual analysis effort by 25%.
+  * Coached junior team members on consulting communication, solution design, and delivery discipline. Outcome: improved model quality by 14%.
+
+SELECTED ACHIEVEMENTS
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: reduced manual analysis effort by 48%.
+  * Presented analytical findings through concise visuals, narrative summaries, and recommended actions. Result: reduced manual analysis effort by 20%.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Result: improved model quality by 22%.
+
+SELECTED PROJECTS
+  * Led implementation work across Cloud AI platforms, Full AI build lifecycle, Approved AI and engineering stack.
+  * Led enablement work across Prototype portfolio, Team leadership, MLOps.
+  * Led discovery work across AI Lab experimentation, Cloud AI platforms, Machine learning, Approved AI and engineering stack, Code quality and reliability.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/lisa-phillips/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+demo write-ups, AWS, model registry, scalability, approved AI stack, platform teams, evaluation datasets, build case, dashboard design, solution maintenance, data storytelling, rapid experimentation, technical leadership, Google Cloud, Project Management Professional, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * Project Management Professional
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Master of Data Science
+West Todd Institute of Technology - Class of 2015

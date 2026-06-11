@@ -1,0 +1,65 @@
+=========================================
+JENNIFER MCDANIEL
+Lake Anne, MO | +1 (165) 227-6977 | jennifer.mcdaniel@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jennifer Mcdaniel is a business and analytics professional with 9+ years of transferable experience related to Validated outcomes, Service line leadership engagement, Product management, Human-AI collaboration. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Validated outcomes
+  * Service line leadership engagement
+  * Product management
+  * Human-AI collaboration
+  * Builder mindset
+  * Responsible AI
+  * AI literacy artifacts
+
+CORE SKILLS
+learning artifacts, human-AI handoffs, internal enablement, review loops, responsible AI, executive engagement, pytest, rapid prototyping, acceptance criteria, Python, NumPy, benefit measurement, user stories, service line leaders, hands-on execution
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Campbell-Zuniga
+2017 - 2020
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced operational handoffs by 8%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced prototype-to-production cycle time by 32%.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: reduced operational handoffs by 11%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: standardized reporting for 4 stakeholder groups.
+
+Analytics Delivery Lead - Campbell-Daniels
+2020 - 2022
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced operational handoffs by 16%.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: delivered $2M in AI program value cases.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: standardized reporting for 9 stakeholder groups.
+  * Built Python services and notebooks for ingestion, modelling, evaluation, and reporting. Outcome: delivered $8M in AI program value cases.
+
+Product Owner - Rodriguez, Villanueva and Johns
+2022 - Present
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: reduced operational handoffs by 11%.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: standardized reporting for 5 stakeholder groups.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: standardized reporting for 9 stakeholder groups.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: improved delivery predictability by 23%.
+
+SELECTED ACHIEVEMENTS
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Result: reduced prototype-to-production cycle time by 35%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Result: reduced prototype-to-production cycle time by 40%.
+
+SELECTED PROJECTS
+  * Led discovery work across Service line leadership engagement, Human-AI collaboration, Product management, Validated outcomes, AI literacy artifacts.
+  * Led implementation work across Service line leadership engagement, Python, Product management, Validated outcomes, Human-AI collaboration.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/jennifer-mcdaniel/agentic-ai-builds
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+learning artifacts, human-AI handoffs, internal enablement, review loops, responsible AI, executive engagement, pytest, rapid prototyping, acceptance criteria, Python, NumPy, benefit measurement, user stories, service line leaders, TOGAF Foundation, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * TOGAF Foundation
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Diploma in Business Analytics
+Hannahton Polytechnic - Class of 2012

@@ -1,0 +1,65 @@
+=========================================
+JONATHAN HARRIS
+East Josephstad, KY | 688.004.9522 | jonathan.harris@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jonathan Harris is a business and analytics professional with 6+ years of transferable experience related to Evaluation design, Builder community contribution, Internal Transformation production path, Trade-off judgment. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Builder community contribution
+  * Internal Transformation production path
+  * Trade-off judgment
+  * Automation
+  * Ambiguity and execution
+  * Builder mindset
+
+CORE SKILLS
+ambiguity, quality gates, governance checks, risk review, structured assumptions, internal transformation, test sets, operating model change, iteration, adoption planning, eval harnesses, reuse, agent evaluation, process mining, demo safety, hands-on execution, community demos
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Martinez LLC
+2020 - 2024
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: standardized reporting for 6 stakeholder groups.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: cut evaluation turnaround from 11 days to 1 day.
+
+Business Analyst - Kane PLC
+2024 - 2025
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: reduced manual analysis effort by 40%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: cut evaluation turnaround from 9 days to 1 day.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: standardized reporting for 10 stakeholder groups.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: standardized reporting for 6 stakeholder groups.
+
+Automation Specialist - Tanner, Taylor and Kelly
+2025 - Present
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: reduced operational handoffs by 17%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: improved model quality by 24%.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: reduced manual analysis effort by 25%.
+
+SELECTED ACHIEVEMENTS
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Result: cut evaluation turnaround from 7 days to 3 days.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Result: improved model quality by 25%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Automation, Builder mindset, Ambiguity and execution.
+  * Led enablement work across Builder mindset, Trade-off judgment, Demo safety and governance checks, Evaluation design, Automation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/jonathan-harris/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+ambiguity, quality gates, governance checks, risk review, structured assumptions, internal transformation, test sets, operating model change, iteration, adoption planning, eval harnesses, reuse, agent evaluation, process mining, IAPP Certified Information Privacy Professional, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Economics
+Vincentburgh Institute of Technology - Class of 2018

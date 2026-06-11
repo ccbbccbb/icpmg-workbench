@@ -1,0 +1,64 @@
+=========================================
+DAKOTA CHAVEZ
+South Veronica, TX | 1 (303) 410-6828 | dakota.chavez@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Dakota Chavez is a business and analytics professional with 7+ years of transferable experience related to Internal Transformation production path, Evaluation design, Full AI build lifecycle, AI literacy artifacts. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Internal Transformation production path
+  * Evaluation design
+  * Full AI build lifecycle
+  * AI literacy artifacts
+  * Enterprise operations fluency
+  * Service line leadership engagement
+  * Builder team coaching
+
+CORE SKILLS
+builder coaching, regulated enterprise, adoption planning, work review, operating model change, internal transformation, one-pagers, business reviews, prototype lifecycle, communications, learning artifacts, process fluency, AI literacy, team development, enterprise operations, pipeline reporting
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Lewis-Howard
+2019 - 2020
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced operational handoffs by 11%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: delivered $6M in AI program value cases.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: reduced prototype-to-production cycle time by 34%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: improved delivery predictability by 12%.
+
+Product Owner - Reid PLC
+2020 - 2024
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: reduced operational handoffs by 15%.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: improved delivery predictability by 32%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: reduced operational handoffs by 15%.
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: improved delivery predictability by 22%.
+
+Analytics Delivery Lead - Walker Inc
+2024 - Present
+  * Prepared partner and internal business reviews covering pipeline movement, forecast risks, and action owners. Outcome: reduced operational handoffs by 20%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved delivery predictability by 25%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: delivered $5M in AI program value cases.
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: coached a team of 10 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Result: standardized reporting for 10 stakeholder groups.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Result: standardized reporting for 9 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led enablement work across Full AI build lifecycle, Partner and internal business reviews, Enterprise operations fluency, Change management, Internal Transformation production path.
+  * Led discovery work across Enterprise operations fluency, Internal Transformation production path, Change management, Service line leadership engagement.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/dakota-chavez/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+
+TOOLS, PLATFORMS, AND METHODS
+builder coaching, regulated enterprise, adoption planning, work review, operating model change, internal transformation, one-pagers, business reviews, prototype lifecycle, communications, learning artifacts, process fluency, AI literacy, team development, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+
+EDUCATION
+Bachelor of Business Administration
+West Karen School of Business - Class of 2017

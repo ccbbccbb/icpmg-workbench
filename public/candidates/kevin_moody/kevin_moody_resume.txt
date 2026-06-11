@@ -1,0 +1,64 @@
+=========================================
+KEVIN MOODY
+Maxwellmouth, KS | 285-173-0882 | kevin.moody@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kevin Moody is a business and analytics professional with 2+ years of transferable experience related to Evaluation design, Agents, plugins, skills, and tools, Client workshops, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Agents, plugins, skills, and tools
+  * Client workshops
+  * Low-code, API, and orchestration tools
+  * Automation
+  * Validated outcomes
+  * Reusable demos, kits, and handoff materials
+
+CORE SKILLS
+replication kits, eval harnesses, orchestration, journey mapping, success metrics, demo packaging, low-code platforms, build mindset, white papers, benefit measurement, webinars, skills, Python automation, agent tools, process mining
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Huffman, Chambers and Montgomery
+2023 - 2024
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: processed 22M records through reusable pipelines.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced manual analysis effort by 45%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: improved model quality by 18%.
+
+Analytics Consultant - Simpson-Jones
+2024 - 2025
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced operational handoffs by 17%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: improved model quality by 11%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced operational handoffs by 18%.
+  * Presented market insights and practical AI adoption lessons to senior business audiences. Outcome: cut evaluation turnaround from 11 days to 2 days.
+
+Automation Specialist - Parker Group
+2025 - Present
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: processed 21M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced manual analysis effort by 30%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: standardized reporting for 9 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Result: improved model quality by 11%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Result: reduced operational handoffs by 17%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Validated outcomes, Agents, plugins, skills, and tools, Evaluation design, Client workshops.
+  * Led enablement work across Automation, Builder mindset, Thought leadership.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/kevin-moody/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+replication kits, eval harnesses, orchestration, journey mapping, success metrics, demo packaging, low-code platforms, build mindset, white papers, benefit measurement, webinars, skills, Python automation, agent tools, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+
+EDUCATION
+Diploma in Business Analytics
+Ryanstad University - Class of 2018

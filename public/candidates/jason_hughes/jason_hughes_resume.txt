@@ -1,0 +1,77 @@
+=========================================
+JASON HUGHES
+East Christopher, WA | 205.261.6878 | jason.hughes@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jason Hughes is a data and technology consulting professional with 10+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Demo safety and governance checks, Code quality and reliability, Internal Transformation production path, Full AI build lifecycle, Cloud and engineering partnership, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Demo safety and governance checks
+  * Code quality and reliability
+  * Internal Transformation production path
+  * Full AI build lifecycle
+  * Cloud and engineering partnership
+  * Productionization
+  * Cloud AI platforms
+  * Delivery leadership
+  * SQL and analytics
+  * Workflow and operating-model redesign
+
+CORE SKILLS
+decision systems, work review, regulated enterprise, operating model design, demo safety, builder coaching, reliability engineering, KPI design, team development, operating model, decision boundaries, maintainability, production readiness, SQL, training design, risk review, technical direction, human-AI handoffs, release planning, Snowflake, process decomposition, process fluency, program delivery, data profiling, rapid experimentation, Google Cloud, lifecycle ownership
+
+PROFESSIONAL EXPERIENCE
+Applied AI Manager - Barker PLC
+2016 - 2017
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: reduced prototype-to-production cycle time by 28%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced prototype-to-production cycle time by 33%.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: reduced prototype-to-production cycle time by 19%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: reduced prototype-to-production cycle time by 37%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced prototype-to-production cycle time by 32%.
+
+Data & AI Consulting Manager - Blanchard Ltd
+2017 - 2019
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: improved delivery predictability by 28%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: delivered $10M in AI program value cases.
+  * Compared cloud AI services against client security, latency, and cost constraints. Outcome: improved delivery predictability by 26%.
+  * Led multi-stream AI delivery plans with milestones, dependencies, risk logs, and executive reporting. Outcome: delivered $14M in AI program value cases.
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: coached a team of 7 consultants and engineers.
+
+Data & AI Consulting Manager - Brown Inc
+2019 - Present
+  * Used SQL to profile source data, define metrics, and validate model input quality. Outcome: delivered $5M in AI program value cases.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: coached a team of 12 consultants and engineers.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: coached a team of 8 consultants and engineers.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: delivered $10M in AI program value cases.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: improved delivery predictability by 29%.
+
+SELECTED ACHIEVEMENTS
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Result: improved delivery predictability by 24%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Result: reduced prototype-to-production cycle time by 26%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Result: reduced prototype-to-production cycle time by 20%.
+
+SELECTED PROJECTS
+  * Led implementation work across Enterprise operations fluency, Full AI build lifecycle, Delivery leadership, Code quality and reliability.
+  * Led enablement work across Cloud AI platforms, Internal Transformation production path, SQL and analytics, Productionization, Demo safety and governance checks.
+  * Led enablement work across Builder team coaching, Productionization, Workflow and operating-model redesign.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/jason-hughes/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+
+TOOLS, PLATFORMS, AND METHODS
+decision systems, work review, regulated enterprise, operating model design, demo safety, builder coaching, reliability engineering, KPI design, team development, operating model, decision boundaries, maintainability, production readiness, SQL, Prosci Change Management Certification, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * Microsoft Certified: Azure AI Engineer Associate
+  * SnowPro Core Certification
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+Colestad University - Class of 2012

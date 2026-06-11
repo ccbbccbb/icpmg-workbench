@@ -1,0 +1,76 @@
+=========================================
+ROBIN BURTON
+Tannerview, FL | 1-695-687-8731 | robin.burton@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Robin Burton is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Human-AI collaboration, Agents, plugins, skills, and tools, AI Lab experimentation, Productionization, Approved AI and engineering stack, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Agents, plugins, skills, and tools
+  * AI Lab experimentation
+  * Productionization
+  * Approved AI and engineering stack
+  * Cloud and engineering partnership
+  * Security and scalability
+  * Code quality and reliability
+  * Machine learning
+  * Builder mindset
+
+CORE SKILLS
+acceptance criteria, scalability, decision boundaries, tool calling, sales account management, ELT, ETL, secure platforms, review loops, deployment controls, automated testing, secure deployment, release planning, human-AI handoffs, reliability engineering, commercial terms, DevOps collaboration, product strategy, agent tools, classification, maintainability, legal liaison
+
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer - Jacobs, Meyer and Price
+2020 - 2023
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: improved model quality by 12%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: reduced manual analysis effort by 45%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: reduced manual analysis effort by 23%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: improved model quality by 17%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced manual analysis effort by 44%.
+
+Data Science Consultant - Parrish, Phillips and Garcia
+2023 - 2025
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced manual analysis effort by 32%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Developed machine learning models for classification, forecasting, prioritization, and anomaly detection. Outcome: improved model quality by 14%.
+
+Data Science Consultant - Mueller, Burnett and Allen
+2025 - Present
+  * Developed machine learning models for classification, forecasting, prioritization, and anomaly detection. Outcome: processed 4M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Managed alliance and sales account relationships across internal, external, and partner leadership groups. Outcome: reduced manual analysis effort by 24%.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Outcome: processed 29M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Result: processed 10M records through reusable pipelines.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Result: processed 39M records through reusable pipelines.
+  * Participated in complex contract negotiations and coordinated legal review for new business deals. Result: reduced manual analysis effort by 38%.
+
+SELECTED PROJECTS
+  * Led enablement work across Machine learning, AI Lab experimentation, Product management, Security and scalability.
+  * Led prototype work across Machine learning, Contract negotiation and legal liaison, Builder mindset, Data engineering.
+  * Led prototype work across Code quality and reliability, Human-AI collaboration, Security and scalability, Product management.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/robin-burton/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+acceptance criteria, scalability, decision boundaries, tool calling, sales account management, ELT, ETL, secure platforms, review loops, deployment controls, automated testing, secure deployment, release planning, human-AI handoffs, Certified ScrumMaster, SnowPro Core Certification
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * SnowPro Core Certification
+  * Databricks Machine Learning Associate
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+Michaelstad Institute of Technology - Class of 2017

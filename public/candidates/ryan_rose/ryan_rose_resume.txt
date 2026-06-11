@@ -1,0 +1,64 @@
+=========================================
+RYAN ROSE
+Evansfort, HI | 996-389-4378 x591 | ryan.rose@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Ryan Rose is a business and analytics professional with 6+ years of transferable experience related to Internal Transformation production path, Builder team coaching, Reusable demos, kits, and handoff materials, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Internal Transformation production path
+  * Builder team coaching
+  * Reusable demos, kits, and handoff materials
+  * Low-code, API, and orchestration tools
+  * AI literacy artifacts
+  * Builder mindset
+  * Human-AI collaboration
+
+CORE SKILLS
+AI literacy, senior manager alignment, operating model change, configuration, enterprise rollout, decision boundaries, build mindset, technical direction, autonomy design, human-AI handoffs, working systems, hands-on execution, workflow orchestration, API integration, internal stakeholders, adoption planning
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Johnson Group
+2020 - 2022
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: coached a team of 7 consultants and engineers.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: delivered $11M in AI program value cases.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: standardized reporting for 4 stakeholder groups.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced prototype-to-production cycle time by 25%.
+
+Analytics Delivery Lead - Martin Inc
+2022 - 2024
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: reduced prototype-to-production cycle time by 25%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: improved delivery predictability by 23%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced prototype-to-production cycle time by 16%.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced prototype-to-production cycle time by 34%.
+
+Analytics Delivery Lead - Fuentes Group
+2024 - Present
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: coached a team of 6 consultants and engineers.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: improved delivery predictability by 23%.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: delivered $9M in AI program value cases.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced operational handoffs by 8%.
+
+SELECTED ACHIEVEMENTS
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Result: coached a team of 9 consultants and engineers.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Result: coached a team of 14 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led enablement work across Low-code, API, and orchestration tools, Reusable demos, kits, and handoff materials, Service line leadership engagement, Internal Transformation production path, Builder mindset.
+  * Led implementation work across Builder team coaching, Service line leadership engagement, Internal Transformation production path, Human-AI collaboration.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/ryan-rose/agentic-ai-builds
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+AI literacy, senior manager alignment, operating model change, configuration, enterprise rollout, decision boundaries, build mindset, technical direction, autonomy design, human-AI handoffs, working systems, hands-on execution, workflow orchestration, API integration, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Bachelor of Business Administration
+Campbellchester University - Class of 2017

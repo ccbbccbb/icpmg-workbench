@@ -1,0 +1,65 @@
+=========================================
+BRIAN TAPIA
+Pamelaberg, KY | 460.802.2054 | brian.tapia@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Brian Tapia is a business and analytics professional with 3+ years of transferable experience related to Prototype portfolio, AI Lab experimentation, Automation, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Prototype portfolio
+  * AI Lab experimentation
+  * Automation
+  * Low-code, API, and orchestration tools
+  * Trade-off judgment
+  * Human-AI collaboration
+  * Agentic AI delivery
+
+CORE SKILLS
+applied research, workflow automation, GitHub demos, acceptance criteria, review loops, configuration, trade-off decisions, public sector, autonomy design, demo write-ups, human-AI handoffs, build case, API integration, workflow orchestration, healthcare, prototype portfolio
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Rice LLC
+2023 - 2024
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: improved model quality by 19%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: improved model quality by 12%.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: reduced operational handoffs by 16%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: standardized reporting for 10 stakeholder groups.
+
+Analytics Consultant - Morris-Yang
+2024 - 2025
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced manual analysis effort by 25%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: standardized reporting for 10 stakeholder groups.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: processed 25M records through reusable pipelines.
+
+Automation Specialist - Tucker, Thomas and Williams
+2025 - Present
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: improved model quality by 11%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: reduced operational handoffs by 9%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: improved model quality by 16%.
+
+SELECTED ACHIEVEMENTS
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: cut evaluation turnaround from 11 days to 1 day.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Result: improved model quality by 9%.
+
+SELECTED PROJECTS
+  * Led enablement work across Human-AI collaboration, Agentic AI delivery, Prototype portfolio, Trade-off judgment.
+  * Led roadmap work across Low-code, API, and orchestration tools, Automation, AI Lab experimentation, Agentic AI delivery, Industry solutions.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/brian-tapia/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+applied research, workflow automation, GitHub demos, acceptance criteria, review loops, configuration, trade-off decisions, public sector, autonomy design, demo write-ups, human-AI handoffs, build case, API integration, workflow orchestration, AWS Certified Machine Learning - Specialty, Project Management Professional
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Economics
+Knightton School of Business - Class of 2019

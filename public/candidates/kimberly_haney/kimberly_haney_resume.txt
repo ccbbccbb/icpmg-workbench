@@ -1,0 +1,64 @@
+=========================================
+KIMBERLY HANEY
+Lake Todd, NC | 600-887-4941 | kimberly.haney@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kimberly Haney is a business and analytics professional with 6+ years of transferable experience related to Agents, plugins, skills, and tools, Agentic AI delivery, Productionization, Client workshops. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Agentic AI delivery
+  * Productionization
+  * Client workshops
+  * Builder mindset
+  * Validated outcomes
+  * Model evaluation
+
+CORE SKILLS
+plugin design, autonomous agents, agent tools, quality metrics, journey mapping, orchestration, skills, production readiness, success metrics, multi-agent systems, precision and recall, rapid prototyping, executive demos, agentic AI, evaluation datasets, LLM evaluation, hands-on execution, adoption metrics, tool calling
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Farrell-Jones
+2020 - 2023
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: reduced operational handoffs by 20%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: standardized reporting for 5 stakeholder groups.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced manual analysis effort by 18%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: cut evaluation turnaround from 4 days to 2 days.
+
+Business Analyst - Vincent, Christian and Roberts
+2023 - 2025
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved model quality by 13%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: improved model quality by 24%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced manual analysis effort by 28%.
+
+Analytics Consultant - Gill Inc
+2025 - Present
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Outcome: reduced manual analysis effort by 21%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: processed 14M records through reusable pipelines.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced manual analysis effort by 47%.
+
+SELECTED ACHIEVEMENTS
+  * Built evaluation datasets and scorecards to compare model outputs against business acceptance criteria. Result: processed 7M records through reusable pipelines.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Result: standardized reporting for 6 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led discovery work across Validated outcomes, Agentic AI delivery, Client workshops.
+  * Led enablement work across Agents, plugins, skills, and tools, Agentic AI delivery, Validated outcomes, Client workshops, Builder mindset.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/kimberly-haney/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+plugin design, autonomous agents, agent tools, quality metrics, journey mapping, orchestration, skills, production readiness, success metrics, multi-agent systems, precision and recall, rapid prototyping, executive demos, agentic AI, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Bachelor of Economics
+Feliciaport Polytechnic - Class of 2018

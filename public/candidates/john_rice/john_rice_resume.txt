@@ -1,0 +1,76 @@
+=========================================
+JOHN RICE
+Osbornetown, CT | 639-699-8068 | john.rice@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+John Rice is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Prototype portfolio, Full AI build lifecycle, Security and scalability, AI Lab experimentation, Evaluation design, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Prototype portfolio
+  * Full AI build lifecycle
+  * Security and scalability
+  * AI Lab experimentation
+  * Evaluation design
+  * Approved AI and engineering stack
+  * Enterprise architecture
+  * Vector search
+  * Builder mindset
+  * Agents, plugins, skills, and tools
+
+CORE SKILLS
+build case, Azure AI, build mindset, platform constraints, operating model design, agent tools, pytest, rapid prototyping, engineering standards, orchestration, rapid experimentation, secure platforms, AI Lab prototyping, frontier models, platform strategy, prototype lifecycle, decision systems, quality gates, approved AI stack, NumPy, solution maintenance, production handoff, GitHub demos, Databricks
+
+PROFESSIONAL EXPERIENCE
+GenAI Solution Consultant - Miller LLC
+2018 - 2019
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: processed 32M records through reusable pipelines.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved model quality by 27%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 9M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 22%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced manual analysis effort by 20%.
+
+Machine Learning Engineer - Dawson Group
+2019 - 2021
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: processed 21M records through reusable pipelines.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: improved model quality by 13%.
+  * Created transition roadmaps from prototype architecture to production-ready platforms. Outcome: improved model quality by 19%.
+  * Built vector-search prototypes for policy, knowledge-base, and case-document retrieval. Outcome: cut evaluation turnaround from 12 days to 3 days.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced manual analysis effort by 40%.
+
+Data Science Consultant - Carter, White and Mckinney
+2021 - Present
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved model quality by 15%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: reduced manual analysis effort by 36%.
+  * Built Python services and notebooks for ingestion, modelling, evaluation, and reporting. Outcome: cut evaluation turnaround from 8 days to 1 day.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Outcome: reduced manual analysis effort by 42%.
+  * Delivered AI workloads on cloud platforms using managed model endpoints, storage, and observability services. Outcome: processed 31M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Result: reduced manual analysis effort by 19%.
+  * Wrote tested Python utilities for data validation, feature generation, and API integration. Result: cut evaluation turnaround from 8 days to 1 day.
+  * Compared cloud AI services against client security, latency, and cost constraints. Result: cut evaluation turnaround from 4 days to 1 day.
+
+SELECTED PROJECTS
+  * Led implementation work across Vector search, Evaluation design, Workflow and operating-model redesign, Agents, plugins, skills, and tools, Prototype portfolio.
+  * Led implementation work across Vector search, AI Lab experimentation, Workflow and operating-model redesign, Prototype portfolio, Enterprise architecture.
+  * Led discovery work across Prototype portfolio, Python, Cloud AI platforms, Builder mindset.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/john-rice/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+build case, Azure AI, build mindset, platform constraints, operating model design, agent tools, pytest, rapid prototyping, engineering standards, orchestration, rapid experimentation, secure platforms, AI Lab prototyping, frontier models, SnowPro Core Certification, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * Prosci Change Management Certification
+  * Project Management Professional
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Master of Data Science
+North Amy Institute of Technology - Class of 2013

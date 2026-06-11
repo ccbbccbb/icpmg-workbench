@@ -1,0 +1,65 @@
+=========================================
+ELIZABETH RIVAS
+Jonesmouth, LA | 504-907-4915 | elizabeth.rivas@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Elizabeth Rivas is a business and analytics professional with 6+ years of transferable experience related to Approved AI and engineering stack, Full AI build lifecycle, Client workshops, Builder community contribution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Full AI build lifecycle
+  * Client workshops
+  * Builder community contribution
+  * Builder mindset
+  * Low-code, API, and orchestration tools
+  * Internal Transformation production path
+
+CORE SKILLS
+API integration, configuration, solution maintenance, lifecycle ownership, builder community, structured thinking, journey mapping, adoption planning, low-code platforms, engineering standards, workflow orchestration, build mindset, enterprise rollout, hands-on execution, internal transformation, prioritization, working systems
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Saunders Inc
+2020 - 2022
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: processed 18M records through reusable pipelines.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: standardized reporting for 9 stakeholder groups.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced operational handoffs by 17%.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: reduced manual analysis effort by 40%.
+
+Analytics Consultant - Stewart-Jimenez
+2022 - 2023
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: improved model quality by 22%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: cut evaluation turnaround from 10 days to 1 day.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: processed 26M records through reusable pipelines.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced operational handoffs by 15%.
+
+Analytics Consultant - Vaughn Inc
+2023 - Present
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced manual analysis effort by 43%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced operational handoffs by 18%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved model quality by 25%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: reduced operational handoffs by 8%.
+
+SELECTED ACHIEVEMENTS
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Result: reduced manual analysis effort by 30%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Result: reduced manual analysis effort by 44%.
+
+SELECTED PROJECTS
+  * Led enablement work across Full AI build lifecycle, Client workshops, Builder community contribution, Builder mindset.
+  * Led roadmap work across Builder mindset, Trade-off judgment, Low-code, API, and orchestration tools.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/elizabeth-rivas/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+API integration, configuration, solution maintenance, lifecycle ownership, builder community, structured thinking, journey mapping, adoption planning, low-code platforms, engineering standards, workflow orchestration, build mindset, enterprise rollout, hands-on execution, Project Management Professional, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Project Management Professional
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Diploma in Business Analytics
+Teresaburgh School of Business - Class of 2018

@@ -1,0 +1,74 @@
+=========================================
+KEVIN PACE
+Mikaylafort, IL | 283-685-1361 x091 | kevin.pace@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kevin Pace is a data and technology consulting professional with 7+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Productionization, Cloud and engineering partnership, Full AI build lifecycle, Security and scalability, Code quality and reliability, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Cloud and engineering partnership
+  * Full AI build lifecycle
+  * Security and scalability
+  * Code quality and reliability
+  * Human-AI collaboration
+  * Approved AI and engineering stack
+  * Evaluation design
+  * Builder mindset
+  * Internal Transformation production path
+
+CORE SKILLS
+scalability, platform constraints, working systems, build mindset, secure deployment, human-AI handoffs, code review, maintainability, review loops, secure platforms, test sets, DevOps collaboration, quality gates, adoption planning, engineering standards, data protection, production readiness, operational support, solution maintenance, enterprise rollout, operating model change, decision boundaries, approved AI stack, agent evaluation
+
+PROFESSIONAL EXPERIENCE
+AI Builder Senior Consultant - Jordan, Richardson and Robinson
+2019 - 2020
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: processed 38M records through reusable pipelines.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: processed 13M records through reusable pipelines.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: improved model quality by 26%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: processed 20M records through reusable pipelines.
+
+Applied AI Consultant - Marquez, Brown and Estrada
+2020 - 2024
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: processed 33M records through reusable pipelines.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: processed 4M records through reusable pipelines.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: reduced manual analysis effort by 35%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: cut evaluation turnaround from 9 days to 1 day.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced manual analysis effort by 34%.
+
+Data Science Consultant - Sanders LLC
+2024 - Present
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 35M records through reusable pipelines.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: reduced manual analysis effort by 42%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced manual analysis effort by 33%.
+
+SELECTED ACHIEVEMENTS
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Result: processed 40M records through reusable pipelines.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Result: cut evaluation turnaround from 6 days to 3 days.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Result: improved model quality by 17%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Cloud and engineering partnership, Builder mindset, Internal Transformation production path.
+  * Led prototype work across Code quality and reliability, Full AI build lifecycle, Productionization, Cloud and engineering partnership, Human-AI collaboration.
+  * Led roadmap work across Security and scalability, Code quality and reliability, Productionization, Cloud and engineering partnership, Full AI build lifecycle.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/kevin-pace/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+scalability, platform constraints, working systems, build mindset, secure deployment, human-AI handoffs, code review, maintainability, review loops, secure platforms, test sets, DevOps collaboration, quality gates, adoption planning, AWS Certified Machine Learning - Specialty, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Databricks Machine Learning Associate
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Bachelor of Computer Science
+Smithview Institute of Technology - Class of 2017

@@ -1,0 +1,75 @@
+=========================================
+ROBERT HODGE
+Smithstad, MT | 1 (955) 260-6064 | robert.hodge@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Robert Hodge is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Agentic AI delivery, Full AI build lifecycle, Code quality and reliability, Security and scalability, Evaluation design, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Full AI build lifecycle
+  * Code quality and reliability
+  * Security and scalability
+  * Evaluation design
+  * Human-AI collaboration
+  * Agents, plugins, skills, and tools
+  * Productionization
+  * Builder mindset
+  * Visualization
+
+CORE SKILLS
+prompt design, quality gates, review loops, agent tools, prototype portfolio, agent workflows, maintainability, production handoff, code review, test sets, release planning, plugin design, rapid prototyping, tool calling, Tableau, Power BI, deployment controls, agent evaluation, scalability, build mindset
+
+PROFESSIONAL EXPERIENCE
+AI Builder Senior Consultant - Cox LLC
+2018 - 2019
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: improved model quality by 8%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced manual analysis effort by 21%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 14M records through reusable pipelines.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 12 days to 3 days.
+
+Applied AI Consultant - White-Cooper
+2019 - 2021
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: processed 28M records through reusable pipelines.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced manual analysis effort by 29%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: improved model quality by 14%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: improved model quality by 24%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: processed 7M records through reusable pipelines.
+
+Data Science Consultant - Russell-Logan
+2021 - Present
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: processed 24M records through reusable pipelines.
+  * Presented analytical findings through concise visuals, narrative summaries, and recommended actions. Outcome: cut evaluation turnaround from 10 days to 2 days.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: reduced manual analysis effort by 42%.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Outcome: processed 24M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Result: cut evaluation turnaround from 9 days to 1 day.
+  * Created dashboards for adoption, model performance, pipeline health, and executive reporting. Result: processed 9M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: reduced manual analysis effort by 18%.
+
+SELECTED PROJECTS
+  * Led implementation work across Agentic AI delivery, Code quality and reliability, Full AI build lifecycle, Agents, plugins, skills, and tools.
+  * Led roadmap work across Code quality and reliability, Full AI build lifecycle, Human-AI collaboration, Prompt engineering, Productionization.
+  * Led enablement work across Code quality and reliability, Prototype portfolio, Prompt engineering, Productionization.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/robert-hodge/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+prompt design, quality gates, review loops, agent tools, prototype portfolio, agent workflows, maintainability, production handoff, code review, test sets, release planning, plugin design, rapid prototyping, tool calling, TOGAF Foundation, SnowPro Core Certification
+
+CERTIFICATIONS
+  * TOGAF Foundation
+  * SnowPro Core Certification
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+North Brittanymouth School of Business - Class of 2014

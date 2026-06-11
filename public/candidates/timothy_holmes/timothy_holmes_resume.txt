@@ -1,0 +1,97 @@
+=========================================
+TIMOTHY HOLMES
+Jennifershire, IA | +1 (730) 537-7576 | timothy.holmes@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Timothy Holmes is an AI Builder Senior Consultant with 8+ years of direct Data and AI experience, including Prototype portfolio, Human-AI collaboration, Code quality and reliability, Cloud and engineering partnership, Evaluation design, Productionization. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Prototype portfolio
+  * Human-AI collaboration
+  * Code quality and reliability
+  * Cloud and engineering partnership
+  * Evaluation design
+  * Productionization
+  * Security and scalability
+  * AI Lab experimentation
+  * Client workshops
+  * Model evaluation
+  * Sales enablement
+  * AI solution architecture
+  * Microsoft, Databricks, and Snowflake partnerships
+  * Builder mindset
+
+CORE SKILLS
+maintainability, replication kits, plugin design, demo packaging, Databricks, eval harnesses, quality metrics, deployment controls, scalability, build mindset, value proposition, cloud engineering, release planning, executive storytelling, handoff kits, platform teams, skills, decision boundaries, technical design, human oversight, LLM evaluation, autonomy design, ISV partnerships, code review, test sets, demo scripts, build case, responsible AI, process decomposition, hands-on execution, AI Lab prototyping, working systems, identity controls, reference architectures
+
+PROFESSIONAL EXPERIENCE
+Data Science Consultant - Harris, Long and Mckenzie
+2018 - 2022
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: improved model quality by 12%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: processed 18M records through reusable pipelines.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced manual analysis effort by 45%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced manual analysis effort by 42%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved model quality by 20%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: cut evaluation turnaround from 7 days to 3 days.
+
+GenAI Solution Consultant - Jimenez, Klein and Wilson
+2022 - 2024
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved model quality by 15%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: cut evaluation turnaround from 9 days to 3 days.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: processed 15M records through reusable pipelines.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: processed 18M records through reusable pipelines.
+  * Built evaluation datasets and scorecards to compare model outputs against business acceptance criteria. Outcome: reduced manual analysis effort by 32%.
+
+GenAI Solution Consultant - Russo-Ayala
+2024 - 2025
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: cut evaluation turnaround from 10 days to 2 days.
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Outcome: processed 12M records through reusable pipelines.
+  * Created enablement material including pitch decks, discovery questions, demo scripts, and objection handling notes. Outcome: improved model quality by 19%.
+  * Translated ambiguous business needs into deployable technical patterns and delivery milestones. Outcome: reduced manual analysis effort by 20%.
+  * Coordinated opportunities with Microsoft, Databricks, Snowflake, and other ISV partner teams. Outcome: improved model quality by 11%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 8 days to 3 days.
+
+Applied AI Consultant - Smith Inc
+2025 - Present
+  * Coordinated opportunities with Microsoft, Databricks, Snowflake, and other ISV partner teams. Outcome: processed 4M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: processed 16M records through reusable pipelines.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: improved model quality by 10%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: reduced manual analysis effort by 44%.
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: processed 12M records through reusable pipelines.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: processed 4M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Result: processed 17M records through reusable pipelines.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: cut evaluation turnaround from 5 days to 1 day.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Result: reduced manual analysis effort by 41%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Result: cut evaluation turnaround from 12 days to 2 days.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Result: cut evaluation turnaround from 10 days to 1 day.
+
+SELECTED PROJECTS
+  * Led prototype work across Responsible AI, AI Lab experimentation, Model evaluation, Sales enablement.
+  * Led implementation work across Human-AI collaboration, Code quality and reliability, Cloud and engineering partnership.
+  * Led discovery work across Responsible AI, Workflow and operating-model redesign, Security and scalability.
+  * Led enablement work across Responsible AI, Model evaluation, Evaluation design, Workflow and operating-model redesign.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/timothy-holmes/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+maintainability, replication kits, plugin design, demo packaging, Databricks, eval harnesses, quality metrics, deployment controls, scalability, build mindset, value proposition, cloud engineering, release planning, executive storytelling, Project Management Professional, TOGAF Foundation
+
+CERTIFICATIONS
+  * Project Management Professional
+  * TOGAF Foundation
+  * Certified ScrumMaster
+  * Prosci Change Management Certification
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+North Eric Polytechnic - Class of 2015

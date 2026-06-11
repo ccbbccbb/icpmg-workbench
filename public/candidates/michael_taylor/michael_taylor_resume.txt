@@ -1,0 +1,63 @@
+=========================================
+MICHAEL TAYLOR
+Valenzuelaside, TN | +1 (923) 350-5671 | michael.taylor@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Michael Taylor is a business and analytics professional with 5+ years of transferable experience related to Agentic AI delivery, Builder team coaching, Reusable demos, kits, and handoff materials, Change management. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Builder team coaching
+  * Reusable demos, kits, and handoff materials
+  * Change management
+  * Human-AI collaboration
+  * Enterprise operations fluency
+
+CORE SKILLS
+enterprise operations, communications, review loops, demo packaging, agent workflows, replication kits, implementation playbooks, handoff kits, human-AI handoffs, technical direction, operating model change, decision boundaries, process fluency, autonomy design, agentic AI, work review, team development
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - Martinez and Sons
+2021 - 2024
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced prototype-to-production cycle time by 31%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: improved delivery predictability by 15%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: standardized reporting for 4 stakeholder groups.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: coached a team of 14 consultants and engineers.
+
+Product Owner - Hebert Group
+2024 - 2025
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: delivered $2M in AI program value cases.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: improved delivery predictability by 30%.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: coached a team of 13 consultants and engineers.
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: delivered $13M in AI program value cases.
+
+Technology Project Manager - Brooks Group
+2025 - Present
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: coached a team of 7 consultants and engineers.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced prototype-to-production cycle time by 35%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: reduced operational handoffs by 17%.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: reduced prototype-to-production cycle time by 39%.
+
+SELECTED ACHIEVEMENTS
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Result: standardized reporting for 10 stakeholder groups.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Result: standardized reporting for 8 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led implementation work across Reusable demos, kits, and handoff materials, Change management, Enterprise operations fluency, Agentic AI delivery.
+  * Led implementation work across Agentic AI delivery, Builder team coaching, Human-AI collaboration, Enterprise operations fluency.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/michael-taylor/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+
+TOOLS, PLATFORMS, AND METHODS
+enterprise operations, communications, review loops, demo packaging, agent workflows, replication kits, implementation playbooks, handoff kits, human-AI handoffs, technical direction, operating model change, decision boundaries, process fluency, autonomy design, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Bachelor of Science, Statistics
+South Maryton Institute of Technology - Class of 2016

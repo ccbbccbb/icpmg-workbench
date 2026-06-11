@@ -1,0 +1,64 @@
+=========================================
+ROBERT ORTIZ
+Bushmouth, MD | 1 (528) 726-0568 | robert.ortiz@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Robert Ortiz is a business and analytics professional with 2+ years of transferable experience related to Security and scalability, Ambiguity and execution, Automation, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Ambiguity and execution
+  * Automation
+  * Low-code, API, and orchestration tools
+  * Reusable demos, kits, and handoff materials
+  * Trade-off judgment
+  * Cloud and engineering partnership
+
+CORE SKILLS
+handoff kits, replication kits, identity controls, platform teams, workflow orchestration, RPA integration, structured thinking, DevOps collaboration, ambiguity, data protection, iteration, workflow automation, Python automation, delivery judgment, cloud engineering, secure deployment
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Shaw, Foster and Buck
+2023 - 2024
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced operational handoffs by 11%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced operational handoffs by 16%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced operational handoffs by 8%.
+
+Automation Specialist - Smith, Frazier and Hernandez
+2024 - 2025
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: processed 38M records through reusable pipelines.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: reduced manual analysis effort by 45%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: standardized reporting for 8 stakeholder groups.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: standardized reporting for 7 stakeholder groups.
+
+Analytics Consultant - Edwards-Mclaughlin
+2025 - Present
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced manual analysis effort by 19%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: reduced manual analysis effort by 35%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: cut evaluation turnaround from 11 days to 3 days.
+
+SELECTED ACHIEVEMENTS
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Result: cut evaluation turnaround from 8 days to 1 day.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Result: improved model quality by 21%.
+
+SELECTED PROJECTS
+  * Led enablement work across Security and scalability, Reusable demos, kits, and handoff materials, Automation, Low-code, API, and orchestration tools, Cloud and engineering partnership.
+  * Led roadmap work across Reusable demos, kits, and handoff materials, Low-code, API, and orchestration tools, Trade-off judgment, Automation, Ambiguity and execution.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/robert-ortiz/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+handoff kits, replication kits, identity controls, platform teams, workflow orchestration, RPA integration, structured thinking, DevOps collaboration, ambiguity, data protection, iteration, workflow automation, Python automation, delivery judgment, Project Management Professional
+
+CERTIFICATIONS
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Science, Statistics
+Kristyburgh University - Class of 2018

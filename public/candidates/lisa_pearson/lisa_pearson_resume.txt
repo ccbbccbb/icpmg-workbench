@@ -1,0 +1,64 @@
+=========================================
+LISA PEARSON
+Bradfordville, UT | 182 389 1784 | lisa.pearson@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Lisa Pearson is a business and analytics professional with 4+ years of transferable experience related to Evaluation design, Automation, Internal Transformation production path, Validated outcomes. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Automation
+  * Internal Transformation production path
+  * Validated outcomes
+  * Client workshops
+  * Reusable demos, kits, and handoff materials
+  * Trade-off judgment
+
+CORE SKILLS
+trade-off decisions, process mining, internal transformation, eval harnesses, partner field teams, reference architectures, Microsoft, replication kits, adoption planning, operating model change, Python automation, technical design, quality gates, Google Cloud, implementation playbooks, solution architecture, discovery workshops, prioritization
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Stewart Group
+2022 - 2023
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced manual analysis effort by 37%.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: reduced manual analysis effort by 40%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: processed 28M records through reusable pipelines.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: improved model quality by 20%.
+
+Analytics Consultant - Gardner Inc
+2023 - 2025
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: cut evaluation turnaround from 10 days to 3 days.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Maintained partner relationships across sales, solution engineering, and marketplace teams. Outcome: standardized reporting for 8 stakeholder groups.
+
+Business Analyst - Peterson, Rivera and Rogers
+2025 - Present
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: cut evaluation turnaround from 7 days to 3 days.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced operational handoffs by 11%.
+  * Translated ambiguous business needs into deployable technical patterns and delivery milestones. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: processed 37M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Result: reduced manual analysis effort by 46%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Result: improved model quality by 11%.
+
+SELECTED PROJECTS
+  * Led prototype work across Trade-off judgment, Evaluation design, Reusable demos, kits, and handoff materials, Client workshops, Hyperscaler partnerships.
+  * Led implementation work across Trade-off judgment, Automation, AI solution architecture, Internal Transformation production path, Evaluation design.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/lisa-pearson/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+trade-off decisions, process mining, internal transformation, eval harnesses, partner field teams, reference architectures, Microsoft, replication kits, adoption planning, operating model change, Python automation, technical design, quality gates, Google Cloud, TOGAF Foundation
+
+CERTIFICATIONS
+  * TOGAF Foundation
+
+EDUCATION
+Diploma in Business Analytics
+Port Elizabeth School of Business - Class of 2019

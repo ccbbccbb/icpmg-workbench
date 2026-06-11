@@ -1,0 +1,75 @@
+=========================================
+JENNIFER BENNETT
+New Justin, GU | 1 (191) 608-9312 | jennifer.bennett@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jennifer Bennett is a data and technology consulting professional with 10+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Demo safety and governance checks, Validated outcomes, Demo readiness, Reusable demos, kits, and handoff materials, Evaluation design, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Demo safety and governance checks
+  * Validated outcomes
+  * Demo readiness
+  * Reusable demos, kits, and handoff materials
+  * Evaluation design
+  * Cloud and engineering partnership
+  * Workflow and operating-model redesign
+  * Builder team coaching
+  * Low-code, API, and orchestration tools
+  * Contract negotiation and legal liaison
+
+CORE SKILLS
+agent workflows, benefit measurement, operating model design, replication kits, workflow redesign, demo safety, DevOps collaboration, demo narrative, decision systems, multi-agent systems, contract negotiation, secure deployment, executive demos, workflow orchestration, commercial terms, quality gates, risk review, outcome validation, agent evaluation, cloud engineering, demo rehearsal, test sets, autonomous agents
+
+PROFESSIONAL EXPERIENCE
+Data & AI Consulting Manager - Smith, Sutton and Anderson
+2016 - 2017
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: delivered $8M in AI program value cases.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: coached a team of 5 consultants and engineers.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: coached a team of 4 consultants and engineers.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: delivered $6M in AI program value cases.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved delivery predictability by 30%.
+
+Data & AI Consulting Manager - Hill Ltd
+2017 - 2020
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced prototype-to-production cycle time by 40%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: improved delivery predictability by 27%.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: coached a team of 11 consultants and engineers.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: delivered $4M in AI program value cases.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: delivered $7M in AI program value cases.
+
+Data & AI Consulting Manager - Garza-Bell
+2020 - Present
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: coached a team of 11 consultants and engineers.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced prototype-to-production cycle time by 39%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: improved delivery predictability by 31%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: reduced prototype-to-production cycle time by 40%.
+
+SELECTED ACHIEVEMENTS
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Result: improved delivery predictability by 30%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Result: delivered $7M in AI program value cases.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Result: improved delivery predictability by 12%.
+
+SELECTED PROJECTS
+  * Led implementation work across Validated outcomes, Workflow and operating-model redesign, Low-code, API, and orchestration tools, Contract negotiation and legal liaison, Demo safety and governance checks.
+  * Led implementation work across Reusable demos, kits, and handoff materials, Validated outcomes, Demo safety and governance checks.
+  * Led prototype work across Reusable demos, kits, and handoff materials, Demo readiness, Evaluation design.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/jennifer-bennett/agentic-ai-builds
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+agent workflows, benefit measurement, operating model design, replication kits, workflow redesign, demo safety, DevOps collaboration, demo narrative, decision systems, multi-agent systems, contract negotiation, secure deployment, executive demos, workflow orchestration, Project Management Professional, SnowPro Core Certification
+
+CERTIFICATIONS
+  * Project Management Professional
+  * SnowPro Core Certification
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Master of Information Systems
+Ruizhaven Polytechnic - Class of 2010

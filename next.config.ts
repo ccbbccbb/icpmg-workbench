@@ -1,6 +1,14 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  images: {
+    localPatterns: [
+      {
+        pathname: "/candidates/**",
+        search: "?v=seed-refresh-2026-06-11",
+      },
+    ],
+  },
   reactStrictMode: true,
   poweredByHeader: false,
   async headers() {

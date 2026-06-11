@@ -1,0 +1,65 @@
+=========================================
+DERRICK WILLIAMS
+East Kevinborough, DE | 1 (830) 358-3437 | derrick.williams@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Derrick Williams is a business and analytics professional with 3+ years of transferable experience related to Human-AI collaboration, Evaluation design, Internal Transformation production path, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Evaluation design
+  * Internal Transformation production path
+  * Low-code, API, and orchestration tools
+  * Client workshops
+  * Ambiguity and execution
+  * Reusable demos, kits, and handoff materials
+
+CORE SKILLS
+solution packaging, operating model change, decision systems, structured assumptions, delivery momentum, low-code platforms, iteration, demo packaging, configuration, workflow redesign, decision facilitation, API integration, journey mapping, eval harnesses, workflow orchestration, builder community, agent evaluation, ambiguity, sales plays
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Jordan Group
+2023 - 2024
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: improved model quality by 8%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: improved model quality by 16%.
+
+Business Analyst - Robbins PLC
+2024 - 2025
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced operational handoffs by 11%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: processed 22M records through reusable pipelines.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: processed 15M records through reusable pipelines.
+  * Prepared executive briefings that translated AI capabilities into strategic choices and investment decisions. Outcome: reduced operational handoffs by 20%.
+
+Analytics Consultant - Brown-Herrera
+2025 - Present
+  * Coordinated campaigns across partner, sales, and delivery teams to generate qualified opportunities. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: processed 29M records through reusable pipelines.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: cut evaluation turnaround from 7 days to 3 days.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: reduced manual analysis effort by 18%.
+
+SELECTED ACHIEVEMENTS
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Result: standardized reporting for 7 stakeholder groups.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: cut evaluation turnaround from 11 days to 1 day.
+
+SELECTED PROJECTS
+  * Led enablement work across Low-code, API, and orchestration tools, Builder community contribution, Human-AI collaboration.
+  * Led discovery work across Evaluation design, Go-to-market, Ambiguity and execution, Human-AI collaboration.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/derrick-williams/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+solution packaging, operating model change, decision systems, structured assumptions, delivery momentum, low-code platforms, iteration, demo packaging, configuration, workflow redesign, decision facilitation, API integration, journey mapping, eval harnesses, Microsoft Certified: Azure AI Engineer Associate, TOGAF Foundation
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * TOGAF Foundation
+
+EDUCATION
+Diploma in Business Analytics
+North Jason University - Class of 2018

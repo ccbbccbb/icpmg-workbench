@@ -1,0 +1,75 @@
+=========================================
+SCOTT NICHOLSON
+East Stephanieberg, AR | (806) 888-3544 | scott.nicholson@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Scott Nicholson is a data and technology consulting professional with 6+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Productionization, Evaluation design, Demo readiness, Full AI build lifecycle, Validated outcomes, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Evaluation design
+  * Demo readiness
+  * Full AI build lifecycle
+  * Validated outcomes
+  * Trade-off judgment
+  * Partner pipeline creation
+  * Commercial negotiation
+  * Agentic AI delivery
+  * Python
+
+CORE SKILLS
+opportunity shaping, deal governance, multi-agent systems, solution maintenance, AI literacy, pytest, commercial strategy, pricing, revenue tracking, deployment controls, one-pagers, lifecycle ownership, pipeline management, CRM hygiene, eval harnesses, operational support, pandas, learning artifacts, rapid experimentation, production handoff, identity controls, AI Lab prototyping, autonomous agents, prioritization, benefit measurement
+
+PROFESSIONAL EXPERIENCE
+Data & AI Consulting Manager - Adams-Black
+2020 - 2022
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved delivery predictability by 30%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: coached a team of 9 consultants and engineers.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: improved delivery predictability by 17%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved delivery predictability by 19%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: improved delivery predictability by 24%.
+
+AI Delivery Manager - Garcia Ltd
+2022 - 2024
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: delivered $11M in AI program value cases.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: coached a team of 4 consultants and engineers.
+  * Managed opportunities against quarterly targets with clear next steps, stage movement, and executive visibility. Outcome: coached a team of 4 consultants and engineers.
+  * Supported commercial negotiations by clarifying scope, value drivers, dependencies, and success metrics. Outcome: reduced prototype-to-production cycle time by 17%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: reduced prototype-to-production cycle time by 35%.
+
+Generative AI Program Manager - Williams, Yates and Wheeler
+2024 - Present
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: coached a team of 13 consultants and engineers.
+  * Wrote tested Python utilities for data validation, feature generation, and API integration. Outcome: reduced prototype-to-production cycle time by 15%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: coached a team of 6 consultants and engineers.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced prototype-to-production cycle time by 24%.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: coached a team of 8 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Built pipeline reports and follow-up cadences to convert AI interest into qualified pursuits. Result: delivered $4M in AI program value cases.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Result: coached a team of 5 consultants and engineers.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Result: delivered $14M in AI program value cases.
+
+SELECTED PROJECTS
+  * Led implementation work across Security and scalability, Validated outcomes, Evaluation design, Full AI build lifecycle, Commercial negotiation.
+  * Led implementation work across Productionization, Agentic AI delivery, AI literacy artifacts, Pipeline generation.
+  * Led enablement work across Validated outcomes, Commercial negotiation, Evaluation design.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/scott-nicholson/agentic-ai-builds
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+opportunity shaping, deal governance, multi-agent systems, solution maintenance, AI literacy, pytest, commercial strategy, pricing, revenue tracking, deployment controls, one-pagers, lifecycle ownership, pipeline management, CRM hygiene, Databricks Machine Learning Associate, TOGAF Foundation
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * TOGAF Foundation
+
+EDUCATION
+Master of Information Systems
+West Darryltown University - Class of 2018

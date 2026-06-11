@@ -1,0 +1,76 @@
+=========================================
+WILLIAM JONES
+North Meganborough, MA | 158.522.4897 | william.jones@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+William Jones is a data and technology consulting professional with 6+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Validated outcomes, Productionization, Demo readiness, Demo safety and governance checks, Evaluation design, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Validated outcomes
+  * Productionization
+  * Demo readiness
+  * Demo safety and governance checks
+  * Evaluation design
+  * Cloud and engineering partnership
+  * Security and scalability
+  * Agents, plugins, skills, and tools
+  * Builder team coaching
+  * Experimentation
+
+CORE SKILLS
+risk review, demo rehearsal, tool calling, risk management, document AI, demo safety, LangChain, cloud engineering, working systems, data protection, system prompts, build mindset, secure architecture, status reporting, coaching, executive demos, A/B testing, test sets, controls, AI governance, work review, prompt evaluation, builder coaching, deployment controls, demo narrative, microservices, quality gates, LlamaIndex, safe showcase
+
+PROFESSIONAL EXPERIENCE
+Data & AI Consulting Manager - Collins-Jones
+2020 - 2021
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced prototype-to-production cycle time by 40%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved delivery predictability by 18%.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: coached a team of 11 consultants and engineers.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: reduced prototype-to-production cycle time by 15%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced prototype-to-production cycle time by 28%.
+
+AI Product Engineering Manager - Austin-Hodges
+2021 - 2022
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced prototype-to-production cycle time by 21%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced prototype-to-production cycle time by 18%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: delivered $6M in AI program value cases.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: delivered $9M in AI program value cases.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: delivered $11M in AI program value cases.
+
+Data & AI Consulting Manager - Alvarez, Perry and Hill
+2022 - Present
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: coached a team of 13 consultants and engineers.
+  * Tracked experiment results and documented tradeoffs before production rollout. Outcome: reduced prototype-to-production cycle time by 34%.
+  * Designed governance checkpoints for use-case intake, validation, approval, and post-launch review. Outcome: reduced prototype-to-production cycle time by 20%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: reduced prototype-to-production cycle time by 16%.
+  * Led multi-stream AI delivery plans with milestones, dependencies, risk logs, and executive reporting. Outcome: reduced prototype-to-production cycle time by 22%.
+
+SELECTED ACHIEVEMENTS
+  * Led multi-stream AI delivery plans with milestones, dependencies, risk logs, and executive reporting. Result: improved delivery predictability by 16%.
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Result: reduced prototype-to-production cycle time by 19%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Result: delivered $4M in AI program value cases.
+
+SELECTED PROJECTS
+  * Led implementation work across Experimentation, Evaluation design, Demo readiness.
+  * Led implementation work across Productionization, Security and scalability, Prompt engineering.
+  * Led enablement work across Demo readiness, Cloud and engineering partnership, APIs and microservices, Agents, plugins, skills, and tools.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/william-jones/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+risk review, demo rehearsal, tool calling, risk management, document AI, demo safety, LangChain, cloud engineering, working systems, data protection, system prompts, build mindset, secure architecture, status reporting, Databricks Machine Learning Associate, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Prosci Change Management Certification
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+Smithshire School of Business - Class of 2015

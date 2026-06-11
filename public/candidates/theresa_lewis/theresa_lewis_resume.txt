@@ -1,0 +1,75 @@
+=========================================
+THERESA LEWIS
+West Patricia, TX | +1 (975) 209-9030 | theresa.lewis@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Theresa Lewis is a data and technology consulting professional with 11+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Full AI build lifecycle, Security and scalability, Reusable demos, kits, and handoff materials, Validated outcomes, Demo readiness, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Full AI build lifecycle
+  * Security and scalability
+  * Reusable demos, kits, and handoff materials
+  * Validated outcomes
+  * Demo readiness
+  * Productionization
+  * Agents, plugins, skills, and tools
+  * Builder team coaching
+  * AI literacy artifacts
+  * Cloud AI platforms
+
+CORE SKILLS
+solution maintenance, RPA integration, success metrics, data storytelling, AWS, work review, executive demos, showcase artifacts, deployment controls, AI literacy, enterprise operations, implementation playbooks, data protection, Snowflake, agent tools, scalability, demo narrative, adoption metrics, replication kits, process fluency, dashboard design, Google Cloud, orchestration, operational support, Tableau, internal enablement
+
+PROFESSIONAL EXPERIENCE
+Generative AI Program Manager - Ochoa Inc
+2015 - 2018
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved delivery predictability by 12%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: improved delivery predictability by 25%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: coached a team of 13 consultants and engineers.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced prototype-to-production cycle time by 25%.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: improved delivery predictability by 22%.
+
+AI Delivery Manager - Dalton, Martin and Long
+2018 - 2022
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: improved delivery predictability by 16%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: coached a team of 12 consultants and engineers.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: delivered $12M in AI program value cases.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: coached a team of 6 consultants and engineers.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: improved delivery predictability by 24%.
+
+Generative AI Program Manager - Campbell, Webb and Rivera
+2022 - Present
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: improved delivery predictability by 17%.
+  * Compared cloud AI services against client security, latency, and cost constraints. Outcome: improved delivery predictability by 17%.
+  * Presented analytical findings through concise visuals, narrative summaries, and recommended actions. Outcome: delivered $10M in AI program value cases.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced prototype-to-production cycle time by 30%.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: improved delivery predictability by 20%.
+
+SELECTED ACHIEVEMENTS
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Result: improved delivery predictability by 24%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: delivered $7M in AI program value cases.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Result: coached a team of 8 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led discovery work across Productionization, Validated outcomes, Agents, plugins, skills, and tools, Full AI build lifecycle.
+  * Led enablement work across Builder team coaching, Automation, Security and scalability, Enterprise operations fluency.
+  * Led prototype work across Productionization, Enterprise operations fluency, Validated outcomes.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/theresa-lewis/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+solution maintenance, RPA integration, success metrics, data storytelling, AWS, work review, executive demos, showcase artifacts, deployment controls, AI literacy, enterprise operations, implementation playbooks, data protection, Snowflake, Microsoft Certified: Azure AI Engineer Associate, TOGAF Foundation
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+Jeffton Institute of Technology - Class of 2012

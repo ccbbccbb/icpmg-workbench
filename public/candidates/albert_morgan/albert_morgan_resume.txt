@@ -1,0 +1,63 @@
+=========================================
+ALBERT MORGAN
+Thompsonmouth, WI | 773.843.4230 | albert.morgan@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Albert Morgan is a business and analytics professional with 3+ years of transferable experience related to Human-AI collaboration, Agentic AI delivery, Evaluation design, Automation. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Agentic AI delivery
+  * Evaluation design
+  * Automation
+  * Client workshops
+  * Ambiguity and execution
+
+CORE SKILLS
+facilitation, structured assumptions, decision boundaries, multi-agent systems, iteration, ambiguity, RPA integration, process mining, review loops, agent evaluation, delivery momentum, executive demos, human-AI handoffs, Python automation, autonomous agents, workflow automation, journey mapping, eval harnesses, agent workflows
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Bowen, Bell and Weaver
+2023 - 2024
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: processed 32M records through reusable pipelines.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: processed 39M records through reusable pipelines.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 10 days to 1 day.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: cut evaluation turnaround from 12 days to 1 day.
+
+Analytics Consultant - Thomas, King and Peters
+2024 - 2025
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: reduced operational handoffs by 10%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced operational handoffs by 19%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: standardized reporting for 8 stakeholder groups.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: standardized reporting for 7 stakeholder groups.
+
+Analytics Consultant - Wells, Reid and Schwartz
+2025 - Present
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced operational handoffs by 13%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: improved model quality by 21%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced operational handoffs by 14%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: standardized reporting for 6 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Result: reduced manual analysis effort by 41%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Result: cut evaluation turnaround from 7 days to 2 days.
+
+SELECTED PROJECTS
+  * Led enablement work across Client workshops, Evaluation design, Ambiguity and execution.
+  * Led roadmap work across Client workshops, Automation, Evaluation design, Agentic AI delivery.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/albert-morgan/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+facilitation, structured assumptions, decision boundaries, multi-agent systems, iteration, ambiguity, RPA integration, process mining, review loops, agent evaluation, delivery momentum, executive demos, human-AI handoffs, Python automation, TOGAF Foundation
+
+CERTIFICATIONS
+  * TOGAF Foundation
+
+EDUCATION
+Graduate Certificate in Project Management
+North Tiffanymouth University - Class of 2020

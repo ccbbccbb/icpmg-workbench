@@ -1,0 +1,65 @@
+=========================================
+JENNIFER JACKSON
+Lake Jeffreyview, AR | 646-493-2352 | jennifer.jackson@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jennifer Jackson is a business and analytics professional with 6+ years of transferable experience related to Code quality and reliability, Agents, plugins, skills, and tools, Builder community contribution, Ambiguity and execution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Agents, plugins, skills, and tools
+  * Builder community contribution
+  * Ambiguity and execution
+  * Validated outcomes
+  * Data and AI strategy
+  * Industry solutions
+
+CORE SKILLS
+adoption metrics, data protection, community demos, identity access management, plugin design, shared assets, healthcare, threat modelling, benefit measurement, success metrics, industry accelerators, outcome validation, structured assumptions, capability assessment, skills, automated testing
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Sutton-Wilson
+2020 - 2021
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced operational handoffs by 8%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: processed 31M records through reusable pipelines.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: improved model quality by 12%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: standardized reporting for 7 stakeholder groups.
+
+Business Analyst - Morales, Floyd and Ballard
+2021 - 2025
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: reduced operational handoffs by 8%.
+  * Assessed data and AI maturity across operating model, tooling, controls, and delivery capability. Outcome: reduced operational handoffs by 8%.
+  * Created industry use-case maps connecting business problems to reusable technical accelerators. Outcome: reduced operational handoffs by 9%.
+  * Worked with security teams to close architecture and deployment risks before launch. Outcome: improved model quality by 16%.
+
+Automation Specialist - Harrison, Arias and Johnson
+2025 - Present
+  * Worked with security teams to close architecture and deployment risks before launch. Outcome: cut evaluation turnaround from 5 days to 1 day.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Assessed data and AI maturity across operating model, tooling, controls, and delivery capability. Outcome: standardized reporting for 8 stakeholder groups.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: reduced manual analysis effort by 34%.
+
+SELECTED ACHIEVEMENTS
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Result: cut evaluation turnaround from 10 days to 2 days.
+  * Worked with security teams to close architecture and deployment risks before launch. Result: improved model quality by 9%.
+
+SELECTED PROJECTS
+  * Led enablement work across Data and AI strategy, Industry solutions, Validated outcomes, Security.
+  * Led prototype work across Validated outcomes, Security, Ambiguity and execution.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/jennifer-jackson/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+adoption metrics, data protection, community demos, identity access management, plugin design, shared assets, healthcare, threat modelling, benefit measurement, success metrics, industry accelerators, outcome validation, structured assumptions, capability assessment, Google Cloud Professional Machine Learning Engineer, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * Certified ScrumMaster
+
+EDUCATION
+Diploma in Business Analytics
+South Annamouth Polytechnic - Class of 2018

@@ -1,0 +1,76 @@
+=========================================
+SARAH BENNETT
+Bishopshire, ID | (820) 262-9928 | sarah.bennett@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Sarah Bennett is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Evaluation design, Productionization, Prototype portfolio, AI Lab experimentation, Agentic AI delivery, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Productionization
+  * Prototype portfolio
+  * AI Lab experimentation
+  * Agentic AI delivery
+  * Builder mindset
+  * Full AI build lifecycle
+  * Responsible AI
+  * Model evaluation
+  * Visualization
+
+CORE SKILLS
+rapid prototyping, low-code platforms, transparency, rapid experimentation, production handoff, deployment controls, multi-agent systems, reuse, human oversight, agent evaluation, hands-on execution, evaluation datasets, prototype lifecycle, API integration, quality gates, precision and recall, data storytelling, responsible AI, Power BI, shared assets
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Hayes-Robbins
+2018 - 2021
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: processed 6M records through reusable pipelines.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: improved model quality by 27%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: improved model quality by 13%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: improved model quality by 9%.
+
+Applied AI Consultant - Vargas-Davis
+2021 - 2023
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: processed 25M records through reusable pipelines.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved model quality by 20%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved model quality by 19%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: improved model quality by 13%.
+  * Built evaluation datasets and scorecards to compare model outputs against business acceptance criteria. Outcome: improved model quality by 21%.
+
+GenAI Solution Consultant - Larson-Cox
+2023 - Present
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Outcome: reduced manual analysis effort by 38%.
+  * Created dashboards for adoption, model performance, pipeline health, and executive reporting. Outcome: improved model quality by 15%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: cut evaluation turnaround from 12 days to 3 days.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: processed 37M records through reusable pipelines.
+  * Documented compliance requirements for data retention, consent, and auditability. Outcome: improved model quality by 26%.
+
+SELECTED ACHIEVEMENTS
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Result: cut evaluation turnaround from 8 days to 3 days.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Result: improved model quality by 21%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: reduced manual analysis effort by 47%.
+
+SELECTED PROJECTS
+  * Led implementation work across Builder mindset, AI Lab experimentation, Visualization, Low-code, API, and orchestration tools, Builder community contribution.
+  * Led roadmap work across Agentic AI delivery, Visualization, Productionization, Low-code, API, and orchestration tools, Compliance.
+  * Led implementation work across Visualization, Agentic AI delivery, Low-code, API, and orchestration tools, Prototype portfolio, Full AI build lifecycle.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/sarah-bennett/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+rapid prototyping, low-code platforms, transparency, rapid experimentation, production handoff, deployment controls, multi-agent systems, reuse, human oversight, agent evaluation, hands-on execution, evaluation datasets, prototype lifecycle, API integration, Project Management Professional, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * Project Management Professional
+  * AWS Certified Machine Learning - Specialty
+  * Google Cloud Professional Machine Learning Engineer
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Computer Science
+Angelachester School of Business - Class of 2016

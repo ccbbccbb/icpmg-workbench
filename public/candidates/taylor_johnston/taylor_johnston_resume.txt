@@ -1,0 +1,74 @@
+=========================================
+TAYLOR JOHNSTON
+West Thomasmouth, MO | (831) 277-8808 x572 | taylor.johnston@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Taylor Johnston is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include AI Lab experimentation, Productionization, Agentic AI delivery, Full AI build lifecycle, Cloud and engineering partnership, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * AI Lab experimentation
+  * Productionization
+  * Agentic AI delivery
+  * Full AI build lifecycle
+  * Cloud and engineering partnership
+  * Evaluation design
+  * Machine learning
+  * Alliance strategy
+  * Prototype portfolio
+  * Cloud AI platforms
+
+CORE SKILLS
+low-code platforms, production handoff, multi-agent systems, microservices, LLM evaluation, frontier models, demo write-ups, lifecycle ownership, forecasting, classification, test sets, alliance strategy, GitHub demos, AI Lab prototyping, solution maintenance, API integration, Databricks, Snowflake, partner operating model, evaluation datasets, agent evaluation, quality gates, applied research, operational support, AWS, Azure AI, workflow orchestration
+
+PROFESSIONAL EXPERIENCE
+AI Builder Senior Consultant - Morgan, Young and Patterson
+2018 - 2020
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: cut evaluation turnaround from 8 days to 1 day.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced manual analysis effort by 34%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 7 days to 1 day.
+
+Data Science Consultant - Porter Inc
+2020 - 2024
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 10 days to 3 days.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved model quality by 17%.
+  * Developed machine learning models for classification, forecasting, prioritization, and anomaly detection. Outcome: processed 10M records through reusable pipelines.
+  * Defined alliance scorecards covering sourced pipeline, influenced revenue, certification progress, and campaign performance. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: processed 5M records through reusable pipelines.
+
+AI Builder Senior Consultant - Martin-Roberson
+2024 - Present
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Delivered AI workloads on cloud platforms using managed model endpoints, storage, and observability services. Outcome: cut evaluation turnaround from 10 days to 1 day.
+  * Built evaluation datasets and scorecards to compare model outputs against business acceptance criteria. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: processed 17M records through reusable pipelines.
+  * Built API services for model inference, batch scoring, and human review queues. Outcome: cut evaluation turnaround from 12 days to 1 day.
+
+SELECTED ACHIEVEMENTS
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Result: reduced manual analysis effort by 38%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Result: improved model quality by 26%.
+  * Delivered AI workloads on cloud platforms using managed model endpoints, storage, and observability services. Result: processed 27M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led prototype work across Cloud and engineering partnership, Prototype portfolio, Alliance strategy.
+  * Led implementation work across Cloud and engineering partnership, Agentic AI delivery, Evaluation design.
+  * Led enablement work across Low-code, API, and orchestration tools, Full AI build lifecycle, AI Lab experimentation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/taylor-johnston/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+low-code platforms, production handoff, multi-agent systems, microservices, LLM evaluation, frontier models, demo write-ups, lifecycle ownership, forecasting, classification, test sets, alliance strategy, GitHub demos, AI Lab prototyping, AWS Certified Machine Learning - Specialty, SnowPro Core Certification
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * SnowPro Core Certification
+
+EDUCATION
+Master of Data Science
+Washingtonborough Institute of Technology - Class of 2012

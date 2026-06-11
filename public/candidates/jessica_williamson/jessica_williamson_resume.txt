@@ -1,0 +1,64 @@
+=========================================
+JESSICA WILLIAMSON
+Shirleybury, NY | 520-015-8256 | jessica.williamson@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jessica Williamson is a business and analytics professional with 2+ years of transferable experience related to Human-AI collaboration, Reusable demos, kits, and handoff materials, Validated outcomes, Internal Transformation production path. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Reusable demos, kits, and handoff materials
+  * Validated outcomes
+  * Internal Transformation production path
+  * Trade-off judgment
+  * Builder community contribution
+  * Automation
+
+CORE SKILLS
+process mining, delivery judgment, workflow automation, implementation playbooks, RPA integration, handoff kits, reuse, adoption metrics, shared assets, autonomy design, webinars, executive narratives, operating model change, outcome validation
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Wagner-Levine
+2023 - 2024
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced operational handoffs by 19%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: improved model quality by 13%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: improved model quality by 27%.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: reduced manual analysis effort by 36%.
+
+Analytics Consultant - Robles-Kennedy
+2024 - 2025
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced manual analysis effort by 33%.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: standardized reporting for 10 stakeholder groups.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: reduced operational handoffs by 9%.
+  * Authored thought-leadership material on AI adoption patterns, governance, and value realization. Outcome: improved model quality by 12%.
+
+Business Analyst - Butler, Hawkins and Flores
+2025 - Present
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: improved model quality by 16%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced operational handoffs by 17%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: standardized reporting for 3 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Result: standardized reporting for 9 stakeholder groups.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Result: processed 8M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led prototype work across Trade-off judgment, Validated outcomes, Reusable demos, kits, and handoff materials, Automation.
+  * Led implementation work across Internal Transformation production path, Reusable demos, kits, and handoff materials, Thought leadership.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/jessica-williamson/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+process mining, delivery judgment, workflow automation, implementation playbooks, RPA integration, handoff kits, reuse, adoption metrics, shared assets, autonomy design, webinars, executive narratives, operating model change, outcome validation, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Business Administration
+Michaelaberg Polytechnic - Class of 2019

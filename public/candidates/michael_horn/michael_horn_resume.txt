@@ -1,0 +1,64 @@
+=========================================
+MICHAEL HORN
+Teresaport, WI | 764.395.1308 | michael.horn@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Michael Horn is a business and analytics professional with 3+ years of transferable experience related to Human-AI collaboration, Full AI build lifecycle, Security and scalability, Ambiguity and execution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Full AI build lifecycle
+  * Security and scalability
+  * Ambiguity and execution
+  * Client workshops
+  * Trade-off judgment
+  * Builder mindset
+
+CORE SKILLS
+executive demos, low-code platforms, hands-on execution, build mindset, ambiguity, structured thinking, identity controls, review loops, rapid prototyping, autonomy design, iteration, lifecycle ownership
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Raymond Ltd
+2023 - 2024
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 5 days to 1 day.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved model quality by 15%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 6M records through reusable pipelines.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: processed 24M records through reusable pipelines.
+
+Business Analyst - Robinson and Sons
+2024 - 2025
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced operational handoffs by 15%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: processed 4M records through reusable pipelines.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced manual analysis effort by 48%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: standardized reporting for 8 stakeholder groups.
+
+Analytics Consultant - Compton, Norris and Maynard
+2025 - Present
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved model quality by 10%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced operational handoffs by 8%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: reduced manual analysis effort by 29%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced operational handoffs by 19%.
+
+SELECTED ACHIEVEMENTS
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Result: processed 26M records through reusable pipelines.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Result: standardized reporting for 6 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led prototype work across Human-AI collaboration, Full AI build lifecycle, Trade-off judgment.
+  * Led enablement work across Client workshops, Human-AI collaboration, Builder mindset, Full AI build lifecycle, Trade-off judgment.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/michael-horn/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+executive demos, low-code platforms, hands-on execution, build mindset, ambiguity, structured thinking, identity controls, review loops, rapid prototyping, autonomy design, iteration, lifecycle ownership, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Bachelor of Economics
+Lake Wendyberg Polytechnic - Class of 2017

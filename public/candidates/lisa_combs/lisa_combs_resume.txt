@@ -1,0 +1,76 @@
+=========================================
+LISA COMBS
+West Luke, CA | 526-591-7926 x366 | lisa.combs@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Lisa Combs is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Agentic AI delivery, Code quality and reliability, Prototype portfolio, AI Lab experimentation, Cloud and engineering partnership, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Code quality and reliability
+  * Prototype portfolio
+  * AI Lab experimentation
+  * Cloud and engineering partnership
+  * Security and scalability
+  * Evaluation design
+  * Agents, plugins, skills, and tools
+  * Service line leadership engagement
+  * APIs and microservices
+
+CORE SKILLS
+internal stakeholders, cloud engineering, few-shot examples, classification, release planning, operational support, code review, identity controls, operating model change, prototype lifecycle, secure architecture, eval harnesses, deployment controls, lifecycle ownership, solution maintenance, rapid experimentation, microservices, agent workflows, scikit-learn, forecasting, demo write-ups, automated testing, agentic AI, build case, plugin design, agent evaluation, REST APIs, agent tools, autonomous agents
+
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer - Rivera-Morris
+2020 - 2021
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: improved model quality by 19%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: processed 40M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 32%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 5 days to 1 day.
+
+GenAI Solution Consultant - Davis Group
+2021 - 2025
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved model quality by 24%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced manual analysis effort by 38%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: cut evaluation turnaround from 9 days to 1 day.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: processed 13M records through reusable pipelines.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: cut evaluation turnaround from 8 days to 1 day.
+
+AI Builder Senior Consultant - Wright-Sanford
+2025 - Present
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: improved model quality by 17%.
+  * Packaged reusable services with typed contracts, validation, and deployment documentation. Outcome: improved model quality by 18%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: processed 31M records through reusable pipelines.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Developed machine learning models for classification, forecasting, prioritization, and anomaly detection. Outcome: cut evaluation turnaround from 11 days to 1 day.
+
+SELECTED ACHIEVEMENTS
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Result: improved model quality by 24%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: cut evaluation turnaround from 6 days to 1 day.
+  * Packaged reusable services with typed contracts, validation, and deployment documentation. Result: reduced manual analysis effort by 33%.
+
+SELECTED PROJECTS
+  * Led discovery work across Code quality and reliability, Prompt engineering, APIs and microservices.
+  * Led roadmap work across Agentic AI delivery, Evaluation design, Prototype portfolio.
+  * Led implementation work across Security and scalability, Machine learning, Evaluation design.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/lisa-combs/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+internal stakeholders, cloud engineering, few-shot examples, classification, release planning, operational support, code review, identity controls, operating model change, prototype lifecycle, secure architecture, eval harnesses, deployment controls, lifecycle ownership, TOGAF Foundation, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * TOGAF Foundation
+  * Google Cloud Professional Machine Learning Engineer
+  * SnowPro Core Certification
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Master of Data Science
+New Kristinville University - Class of 2014

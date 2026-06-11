@@ -1,0 +1,97 @@
+=========================================
+MELISSA RICHARDS
+North Jessica, PA | 388-777-9499 | melissa.richards@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Melissa Richards is an AI Builder Senior Consultant with 9+ years of direct Data and AI experience, including Evaluation design, Security and scalability, Human-AI collaboration, Code quality and reliability, Full AI build lifecycle, Agentic AI delivery. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Security and scalability
+  * Human-AI collaboration
+  * Code quality and reliability
+  * Full AI build lifecycle
+  * Agentic AI delivery
+  * Productionization
+  * AI Lab experimentation
+  * Security
+  * Validated outcomes
+  * Model evaluation
+  * Python
+  * Cloud and engineering partnership
+  * Stakeholder management
+
+CORE SKILLS
+data protection, commercial strategy, threat modelling, pandas, multi-agent systems, agent workflows, model risk management, applied research, production handoff, status updates, decision boundaries, stakeholder engagement, documentation, adoption metrics, code review, workshop follow-up, rapid experimentation, quality metrics, NumPy, secure platforms, AI governance, maintainability, model training, scalability, controls, platform constraints, secure architecture, cloud engineering, contracting, autonomy design, lifecycle ownership
+
+PROFESSIONAL EXPERIENCE
+AI Builder Senior Consultant - Gray Ltd
+2017 - 2020
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: processed 24M records through reusable pipelines.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: improved model quality by 8%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 9 days to 1 day.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: improved model quality by 27%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: processed 23M records through reusable pipelines.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: processed 27M records through reusable pipelines.
+
+AI Builder Senior Consultant - Thomas Group
+2020 - 2021
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: processed 5M records through reusable pipelines.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: improved model quality by 8%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: improved model quality by 18%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Worked with security teams to close architecture and deployment risks before launch. Outcome: improved model quality by 24%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: improved model quality by 27%.
+
+Applied AI Consultant - Caldwell Inc
+2021 - 2024
+  * Reviewed AI architecture for identity, access, logging, secrets management, and data protection needs. Outcome: reduced manual analysis effort by 19%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: cut evaluation turnaround from 10 days to 1 day.
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Outcome: cut evaluation turnaround from 8 days to 1 day.
+  * Wrote tested Python utilities for data validation, feature generation, and API integration. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Resolved delivery ambiguity by documenting assumptions, owners, and next steps. Outcome: cut evaluation turnaround from 9 days to 2 days.
+
+Machine Learning Engineer - Freeman, Anderson and Brown
+2024 - Present
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 9 days to 2 days.
+  * Resolved delivery ambiguity by documenting assumptions, owners, and next steps. Outcome: improved model quality by 24%.
+  * Created model documentation covering purpose, assumptions, limitations, owners, and monitoring controls. Outcome: reduced manual analysis effort by 28%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Improved model performance through feature engineering, validation splits, and error analysis. Outcome: reduced manual analysis effort by 47%.
+  * Designed experiments to compare model variants, user prompts, and workflow interventions. Outcome: cut evaluation turnaround from 12 days to 2 days.
+
+SELECTED ACHIEVEMENTS
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Result: reduced manual analysis effort by 33%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Result: reduced manual analysis effort by 34%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Result: cut evaluation turnaround from 10 days to 1 day.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: cut evaluation turnaround from 10 days to 2 days.
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Result: reduced manual analysis effort by 39%.
+
+SELECTED PROJECTS
+  * Led implementation work across Experimentation, Model evaluation, Cloud and engineering partnership, Commercial negotiation.
+  * Led discovery work across Validated outcomes, Approved AI and engineering stack, Model evaluation, Agentic AI delivery, Model governance.
+  * Led enablement work across Security and scalability, Model evaluation, Python, Commercial negotiation, Cloud and engineering partnership.
+  * Led roadmap work across Security and scalability, Approved AI and engineering stack, Stakeholder management, Experimentation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/melissa-richards/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+data protection, commercial strategy, threat modelling, pandas, multi-agent systems, agent workflows, model risk management, applied research, production handoff, status updates, decision boundaries, stakeholder engagement, documentation, adoption metrics, Project Management Professional, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Project Management Professional
+  * Microsoft Certified: Azure AI Engineer Associate
+  * TOGAF Foundation
+  * IAPP Certified Information Privacy Professional
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Bachelor of Computer Science
+Robertsshire Polytechnic - Class of 2015

@@ -1,0 +1,76 @@
+=========================================
+BETHANY WRIGHT
+West Christina, MI | +1 (512) 373-1170 | bethany.wright@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Bethany Wright is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Agentic AI delivery, Code quality and reliability, Prototype portfolio, Full AI build lifecycle, Cloud and engineering partnership, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Code quality and reliability
+  * Prototype portfolio
+  * Full AI build lifecycle
+  * Cloud and engineering partnership
+  * Prompt engineering
+  * Compliance
+  * Data engineering
+  * Evaluation design
+  * Demo safety and governance checks
+
+CORE SKILLS
+facilitation, cloud engineering, agent workflows, eval harnesses, few-shot examples, reliability engineering, governance checks, journey mapping, configuration, API integration, build case, agent evaluation, executive demos, risk review, privacy, audit readiness, demo write-ups, review loops, partner channels, DevOps collaboration, data modelling, automated testing, policy interpretation, lifecycle ownership
+
+PROFESSIONAL EXPERIENCE
+Data Science Consultant - Morales-Lane
+2018 - 2019
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced manual analysis effort by 20%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: reduced manual analysis effort by 36%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved model quality by 15%.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 4 days to 3 days.
+
+Applied AI Consultant - Lewis-Parker
+2019 - 2020
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 13M records through reusable pipelines.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Documented compliance requirements for data retention, consent, and auditability. Outcome: improved model quality by 15%.
+  * Improved pipeline reliability through validation, lineage notes, and scheduled quality checks. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: processed 18M records through reusable pipelines.
+
+Machine Learning Engineer - Wright and Sons
+2020 - Present
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved model quality by 13%.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: processed 27M records through reusable pipelines.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: improved model quality by 12%.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: processed 24M records through reusable pipelines.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: reduced manual analysis effort by 43%.
+
+SELECTED ACHIEVEMENTS
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Result: cut evaluation turnaround from 7 days to 3 days.
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Result: cut evaluation turnaround from 11 days to 3 days.
+  * Built governed pipelines for structured and unstructured data used in analytics and AI workflows. Result: reduced manual analysis effort by 43%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Compliance, Builder community contribution, Full AI build lifecycle.
+  * Led enablement work across Data engineering, Human-AI collaboration, Prototype portfolio.
+  * Led discovery work across Compliance, Human-AI collaboration, Builder community contribution, Low-code, API, and orchestration tools.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/bethany-wright/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+facilitation, cloud engineering, agent workflows, eval harnesses, few-shot examples, reliability engineering, governance checks, journey mapping, configuration, API integration, build case, agent evaluation, executive demos, risk review, Databricks Machine Learning Associate, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Certified ScrumMaster
+  * Google Cloud Professional Machine Learning Engineer
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Master of Data Science
+Brandiport University - Class of 2012

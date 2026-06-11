@@ -23,7 +23,7 @@ interface ProximityScaleOptions {
  */
 export function useProximityScale<T extends HTMLElement>({
   radius = 120,
-  maxScale = 1.08,
+  maxScale = 1.02,
   maxBrightness = 1,
   axis = "both",
   transformOrigin = "center",

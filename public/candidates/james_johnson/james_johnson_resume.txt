@@ -1,0 +1,64 @@
+=========================================
+JAMES JOHNSON
+East Jillhaven, NC | 354-618-9894 x794 | james.johnson@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+James Johnson is a business and analytics professional with 3+ years of transferable experience related to Productionization, Agentic AI delivery, Low-code, API, and orchestration tools, Trade-off judgment. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Agentic AI delivery
+  * Low-code, API, and orchestration tools
+  * Trade-off judgment
+  * Validated outcomes
+  * Builder community contribution
+  * SQL and analytics
+
+CORE SKILLS
+prioritization, agentic AI, risk assessment, workflow orchestration, API integration, low-code platforms, multi-agent systems, configuration, structured thinking, quality assurance, production readiness, issue management, benefit measurement, reuse, release planning, controls design
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Hall, Mendoza and Conner
+2023 - 2024
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: processed 8M records through reusable pipelines.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: processed 27M records through reusable pipelines.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: processed 2M records through reusable pipelines.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: cut evaluation turnaround from 4 days to 3 days.
+
+Analytics Consultant - Smith, Evans and Soto
+2024 - 2025
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: processed 17M records through reusable pipelines.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: reduced operational handoffs by 15%.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Designed controls for data access, model approval, output review, and exception handling. Outcome: reduced operational handoffs by 11%.
+
+Analytics Consultant - Vasquez LLC
+2025 - Present
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: standardized reporting for 9 stakeholder groups.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: reduced manual analysis effort by 23%.
+  * Designed controls for data access, model approval, output review, and exception handling. Outcome: improved model quality by 13%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: standardized reporting for 7 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: reduced manual analysis effort by 44%.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Result: reduced manual analysis effort by 32%.
+
+SELECTED PROJECTS
+  * Led implementation work across SQL and analytics, Agentic AI delivery, Trade-off judgment.
+  * Led roadmap work across Trade-off judgment, Productionization, Agentic AI delivery, Low-code, API, and orchestration tools, Validated outcomes.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/james-johnson/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+prioritization, agentic AI, risk assessment, workflow orchestration, API integration, low-code platforms, multi-agent systems, configuration, structured thinking, quality assurance, production readiness, issue management, benefit measurement, reuse, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Bachelor of Economics
+Port Amystad School of Business - Class of 2021

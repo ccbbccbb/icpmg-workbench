@@ -1,0 +1,64 @@
+=========================================
+GABRIEL CROSBY
+South Katie, IN | (466) 613-9925 x426 | gabriel.crosby@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Gabriel Crosby is a business and analytics professional with 4+ years of transferable experience related to Full AI build lifecycle, Reusable demos, kits, and handoff materials, Internal Transformation production path, Change management. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Full AI build lifecycle
+  * Reusable demos, kits, and handoff materials
+  * Internal Transformation production path
+  * Change management
+  * Builder mindset
+  * AI literacy artifacts
+  * Ambiguity and execution
+
+CORE SKILLS
+API integration, training design, delivery momentum, one-pagers, internal transformation, adoption planning, internal enablement, low-code platforms, handoff kits, operating model change, communications, production handoff, delivery governance, human oversight, iteration, replication kits
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Young, Cook and Carson
+2022 - 2024
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved delivery predictability by 32%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: standardized reporting for 7 stakeholder groups.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced operational handoffs by 11%.
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: standardized reporting for 7 stakeholder groups.
+
+Analytics Delivery Lead - Delacruz Inc
+2024 - 2025
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: standardized reporting for 9 stakeholder groups.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: coached a team of 11 consultants and engineers.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: reduced operational handoffs by 20%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: delivered $11M in AI program value cases.
+
+Analytics Delivery Lead - Flores Group
+2025 - Present
+  * Unblocked delivery teams by clarifying scope, decision owners, and acceptance criteria. Outcome: coached a team of 9 consultants and engineers.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: coached a team of 10 consultants and engineers.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: reduced operational handoffs by 19%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced prototype-to-production cycle time by 31%.
+
+SELECTED ACHIEVEMENTS
+  * Partnered with business leads to define new controls, roles, and escalation paths. Result: reduced prototype-to-production cycle time by 26%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Result: coached a team of 12 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led enablement work across Change management, Internal Transformation production path, Responsible AI, Reusable demos, kits, and handoff materials.
+  * Led implementation work across Ambiguity and execution, Reusable demos, kits, and handoff materials, Full AI build lifecycle, Responsible AI, Change management.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/gabriel-crosby/agentic-ai-builds
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+
+TOOLS, PLATFORMS, AND METHODS
+API integration, training design, delivery momentum, one-pagers, internal transformation, adoption planning, internal enablement, low-code platforms, handoff kits, operating model change, communications, production handoff, delivery governance, human oversight, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Graduate Certificate in Project Management
+Port Jenniferbury Institute of Technology - Class of 2019

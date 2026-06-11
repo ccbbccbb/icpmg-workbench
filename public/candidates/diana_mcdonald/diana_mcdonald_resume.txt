@@ -1,0 +1,64 @@
+=========================================
+DIANA MCDONALD
+Donaldshire, CO | 926 218 1361 | diana.mcdonald@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Diana Mcdonald is a business and analytics professional with 5+ years of transferable experience related to Approved AI and engineering stack, Code quality and reliability, Client workshops, Builder community contribution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Code quality and reliability
+  * Client workshops
+  * Builder community contribution
+  * Automation
+  * Ambiguity and execution
+  * Validated outcomes
+
+CORE SKILLS
+reliability engineering, reuse, Python automation, iteration, RPA integration, shared assets, delivery momentum, journey mapping, facilitation, approved AI stack, builder community, maintainability, outcome validation
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Burton-Washington
+2021 - 2024
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: processed 32M records through reusable pipelines.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: improved model quality by 16%.
+
+Business Analyst - Butler Inc
+2024 - 2025
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: processed 2M records through reusable pipelines.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: processed 5M records through reusable pipelines.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: processed 27M records through reusable pipelines.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: standardized reporting for 4 stakeholder groups.
+
+Business Analyst - Cooper PLC
+2025 - Present
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced manual analysis effort by 32%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: standardized reporting for 10 stakeholder groups.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: reduced manual analysis effort by 36%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: cut evaluation turnaround from 7 days to 2 days.
+
+SELECTED ACHIEVEMENTS
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Result: cut evaluation turnaround from 11 days to 3 days.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Result: cut evaluation turnaround from 9 days to 1 day.
+
+SELECTED PROJECTS
+  * Led discovery work across Client workshops, Ambiguity and execution, Validated outcomes, Approved AI and engineering stack.
+  * Led prototype work across Client workshops, Code quality and reliability, Automation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/diana-mcdonald/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+reliability engineering, reuse, Python automation, iteration, RPA integration, shared assets, delivery momentum, journey mapping, facilitation, approved AI stack, builder community, maintainability, outcome validation, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Bachelor of Economics
+Bellside University - Class of 2015

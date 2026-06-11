@@ -1,0 +1,65 @@
+=========================================
+HEATHER RICHARDSON
+Ivantown, ID | (117) 711-3186 x136 | heather.richardson@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Heather Richardson is a business and analytics professional with 5+ years of transferable experience related to Builder team coaching, Internal Transformation production path, Agentic AI delivery, Responsible AI. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Builder team coaching
+  * Internal Transformation production path
+  * Agentic AI delivery
+  * Responsible AI
+  * Human-AI collaboration
+  * Builder mindset
+  * Service line leadership engagement
+
+CORE SKILLS
+transparency, human-AI handoffs, AI ethics, hands-on execution, rapid prototyping, senior manager alignment, working systems, operating model change, team development, autonomous agents, human oversight, service line leaders
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - David and Sons
+2021 - 2023
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: reduced prototype-to-production cycle time by 17%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: improved delivery predictability by 31%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: delivered $4M in AI program value cases.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: delivered $3M in AI program value cases.
+
+Technology Project Manager - Taylor-Henson
+2023 - 2024
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: delivered $10M in AI program value cases.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: reduced prototype-to-production cycle time by 35%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: reduced prototype-to-production cycle time by 34%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: coached a team of 10 consultants and engineers.
+
+Product Owner - Hughes-Wood
+2024 - Present
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced prototype-to-production cycle time by 21%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: standardized reporting for 6 stakeholder groups.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: reduced operational handoffs by 9%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: standardized reporting for 6 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Result: standardized reporting for 10 stakeholder groups.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Result: reduced operational handoffs by 19%.
+
+SELECTED PROJECTS
+  * Led enablement work across Responsible AI, Agentic AI delivery, Builder team coaching, Internal Transformation production path, Human-AI collaboration.
+  * Led enablement work across Agentic AI delivery, Builder mindset, Responsible AI, Builder team coaching.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/heather-richardson/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+transparency, human-AI handoffs, AI ethics, hands-on execution, rapid prototyping, senior manager alignment, working systems, operating model change, team development, autonomous agents, human oversight, service line leaders, Certified ScrumMaster, TOGAF Foundation
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * TOGAF Foundation
+
+EDUCATION
+Diploma in Business Analytics
+East Patrick School of Business - Class of 2018

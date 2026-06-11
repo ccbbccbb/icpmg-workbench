@@ -1,0 +1,97 @@
+=========================================
+KELLY JORDAN
+Lake Thomasshire, OK | 511-118-7593 | kelly.jordan@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kelly Jordan is an AI Builder Senior Consultant with 8+ years of direct Data and AI experience, including Code quality and reliability, Prototype portfolio, Evaluation design, Human-AI collaboration, Security and scalability, Cloud and engineering partnership. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Code quality and reliability
+  * Prototype portfolio
+  * Evaluation design
+  * Human-AI collaboration
+  * Security and scalability
+  * Cloud and engineering partnership
+  * Agents, plugins, skills, and tools
+  * Approved AI and engineering stack
+  * Builder mindset
+  * Low-code, API, and orchestration tools
+  * MLOps
+  * APIs and microservices
+  * AI Lab experimentation
+  * Risk controls
+
+CORE SKILLS
+model deployment, build case, AI Lab prototyping, prompt design, workflow orchestration, webinars, prompt evaluation, eval harnesses, estimation, orchestration, scalability, system prompts, engineering standards, issue management, rapid prototyping, prototype portfolio, Python automation, journey mapping, controls design, platform teams, approved AI stack, DevOps collaboration, quality gates, identity controls, skills, working systems, CI/CD, RPA integration, secure architecture, proposal support
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Salinas Inc
+2018 - 2021
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: cut evaluation turnaround from 4 days to 3 days.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: processed 23M records through reusable pipelines.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved model quality by 16%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: processed 34M records through reusable pipelines.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: cut evaluation turnaround from 10 days to 2 days.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: processed 3M records through reusable pipelines.
+
+Applied AI Consultant - Hunt-Simmons
+2021 - 2024
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: improved model quality by 10%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved model quality by 20%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved model quality by 8%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: cut evaluation turnaround from 5 days to 1 day.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: processed 26M records through reusable pipelines.
+
+Data Science Consultant - Williams, Oconnor and Morrison
+2024 - 2025
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Implemented MLOps practices for versioning, deployment, monitoring, and retraining workflows. Outcome: reduced manual analysis effort by 29%.
+  * Built API services for model inference, batch scoring, and human review queues. Outcome: improved model quality by 15%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: improved model quality by 9%.
+  * Designed controls for data access, model approval, output review, and exception handling. Outcome: processed 16M records through reusable pipelines.
+
+Machine Learning Engineer - Sullivan Group
+2025 - Present
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 31%.
+  * Designed controls for data access, model approval, output review, and exception handling. Outcome: improved model quality by 20%.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: improved model quality by 21%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: reduced manual analysis effort by 32%.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Built demo narratives that connected AI capabilities to client processes and value drivers. Outcome: cut evaluation turnaround from 7 days to 3 days.
+
+SELECTED ACHIEVEMENTS
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Result: processed 31M records through reusable pipelines.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Result: cut evaluation turnaround from 12 days to 1 day.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Result: reduced manual analysis effort by 45%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Result: cut evaluation turnaround from 11 days to 3 days.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: improved model quality by 26%.
+
+SELECTED PROJECTS
+  * Led enablement work across Automation, Full AI build lifecycle, Human-AI collaboration.
+  * Led enablement work across APIs and microservices, Approved AI and engineering stack, Thought leadership, Risk controls.
+  * Led prototype work across Thought leadership, Approved AI and engineering stack, Technical pre-sales.
+  * Led prototype work across Risk controls, Technical pre-sales, Thought leadership, Prompt engineering, Full AI build lifecycle.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/kelly-jordan/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+model deployment, build case, AI Lab prototyping, prompt design, workflow orchestration, webinars, prompt evaluation, eval harnesses, estimation, orchestration, scalability, system prompts, engineering standards, issue management, Microsoft Certified: Azure AI Engineer Associate, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Certified ScrumMaster
+  * TOGAF Foundation
+  * Databricks Machine Learning Associate
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+South Lisaland University - Class of 2012

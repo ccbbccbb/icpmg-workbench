@@ -1,0 +1,75 @@
+=========================================
+CARL MILLER
+West Nicholas, CA | 373 051 7976 | carl.miller@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Carl Miller is a data and technology consulting professional with 7+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Security and scalability, Workflow and operating-model redesign, Reusable demos, kits, and handoff materials, Code quality and reliability, Agentic AI delivery, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Workflow and operating-model redesign
+  * Reusable demos, kits, and handoff materials
+  * Code quality and reliability
+  * Agentic AI delivery
+  * AI solution architecture
+  * Agents, plugins, skills, and tools
+  * Full AI build lifecycle
+  * Low-code, API, and orchestration tools
+  * Security
+
+CORE SKILLS
+agent tools, audit readiness, tool calling, automated testing, policy interpretation, structured thinking, privacy, alliance strategy, controls, prioritization, hands-on execution, workflow orchestration, data protection, solution architecture, process decomposition, dashboard design, reference architectures, secure architecture, orchestration, Power BI, human-AI handoffs, agent workflows, multi-agent systems, handoff kits, documentation, production handoff, implementation playbooks, reliability engineering
+
+PROFESSIONAL EXPERIENCE
+Generative AI Program Manager - Lynch, Barton and Martin
+2019 - 2020
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: coached a team of 6 consultants and engineers.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: reduced prototype-to-production cycle time by 34%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: delivered $4M in AI program value cases.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced prototype-to-production cycle time by 39%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: improved delivery predictability by 28%.
+
+AI Product Engineering Manager - Stephens, Johnson and Newton
+2020 - 2022
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: coached a team of 12 consultants and engineers.
+  * Designed AI solution architectures spanning ingestion, model serving, monitoring, and user workflow integration. Outcome: delivered $10M in AI program value cases.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: reduced prototype-to-production cycle time by 26%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: coached a team of 14 consultants and engineers.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced prototype-to-production cycle time by 38%.
+
+Data & AI Consulting Manager - White, Rubio and Mclaughlin
+2022 - Present
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: improved delivery predictability by 13%.
+  * Worked with security teams to close architecture and deployment risks before launch. Outcome: reduced prototype-to-production cycle time by 16%.
+  * Created model documentation covering purpose, assumptions, limitations, owners, and monitoring controls. Outcome: improved delivery predictability by 21%.
+  * Built joint business plans with partner teams, including routes to market, capability gaps, and quarterly targets. Outcome: improved delivery predictability by 17%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: coached a team of 6 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Result: improved delivery predictability by 28%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Result: coached a team of 13 consultants and engineers.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Result: reduced prototype-to-production cycle time by 40%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Low-code, API, and orchestration tools, Security and scalability, Full AI build lifecycle, Security.
+  * Led implementation work across Agentic AI delivery, Model governance, Human-AI collaboration, Reusable demos, kits, and handoff materials, AI solution architecture.
+  * Led prototype work across Low-code, API, and orchestration tools, Builder mindset, Reusable demos, kits, and handoff materials.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/carl-miller/agentic-ai-builds
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+agent tools, audit readiness, tool calling, automated testing, policy interpretation, structured thinking, privacy, alliance strategy, controls, prioritization, hands-on execution, workflow orchestration, data protection, solution architecture, Microsoft Certified: Azure AI Engineer Associate, SnowPro Core Certification
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * SnowPro Core Certification
+
+EDUCATION
+Master of Business Administration, Analytics
+New Emilyville University - Class of 2016

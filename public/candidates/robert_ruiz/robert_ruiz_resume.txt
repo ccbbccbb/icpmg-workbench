@@ -1,0 +1,64 @@
+=========================================
+ROBERT RUIZ
+West Kristineside, AZ | 156 101 7998 | robert.ruiz@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Robert Ruiz is a business and analytics professional with 5+ years of transferable experience related to Productionization, AI Lab experimentation, Low-code, API, and orchestration tools, Reusable demos, kits, and handoff materials. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * AI Lab experimentation
+  * Low-code, API, and orchestration tools
+  * Reusable demos, kits, and handoff materials
+  * Internal Transformation production path
+  * Builder mindset
+  * Automation
+
+CORE SKILLS
+ISV partnerships, process mining, production readiness, rapid experimentation, implementation playbooks, Python automation, Microsoft, working systems, demo packaging, RPA integration, operational support, internal transformation, handoff kits, Databricks, release planning
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Weaver-Dunn
+2021 - 2023
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: processed 26M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: processed 29M records through reusable pipelines.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: standardized reporting for 9 stakeholder groups.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: cut evaluation turnaround from 6 days to 2 days.
+
+Automation Specialist - Jackson, Johnson and Roy
+2023 - 2025
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced operational handoffs by 9%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: standardized reporting for 7 stakeholder groups.
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: cut evaluation turnaround from 11 days to 1 day.
+
+Business Analyst - Garcia Inc
+2025 - Present
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: standardized reporting for 3 stakeholder groups.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 24%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: standardized reporting for 10 stakeholder groups.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: standardized reporting for 4 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Result: reduced manual analysis effort by 39%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: reduced manual analysis effort by 27%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Automation, Builder mindset, Builder community contribution.
+  * Led enablement work across Internal Transformation production path, AI Lab experimentation, Automation, Reusable demos, kits, and handoff materials.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/robert-ruiz/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+ISV partnerships, process mining, production readiness, rapid experimentation, implementation playbooks, Python automation, Microsoft, working systems, demo packaging, RPA integration, operational support, internal transformation, handoff kits, Databricks, TOGAF Foundation
+
+CERTIFICATIONS
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Economics
+Jacquelineland University - Class of 2019

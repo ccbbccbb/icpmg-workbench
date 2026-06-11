@@ -1,0 +1,93 @@
+=========================================
+CRAIG FERNANDEZ
+Grahamville, AR | 1-551-561-5599 | craig.fernandez@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Craig Fernandez is an AI Builder Senior Consultant with 10+ years of direct Data and AI experience, including Prototype portfolio, Security and scalability, AI Lab experimentation, Full AI build lifecycle, Cloud and engineering partnership, Productionization. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Prototype portfolio
+  * Security and scalability
+  * AI Lab experimentation
+  * Full AI build lifecycle
+  * Cloud and engineering partnership
+  * Productionization
+  * Evaluation design
+  * Agents, plugins, skills, and tools
+  * Reusable demos, kits, and handoff materials
+  * Executive stakeholder management
+  * Value case development
+  * Experimentation
+  * Validated outcomes
+  * Responsible AI
+
+CORE SKILLS
+release planning, plugin design, AI ethics, implementation playbooks, agent tools, DevOps collaboration, one-pagers, frontier models, benefit measurement, statistical analysis, learning artifacts, secure deployment, agent evaluation, GitHub demos, fairness, identity controls, demo write-ups, stakeholder alignment, skills, tool calling, prototype lifecycle, executive briefings, demo packaging, value cases, rapid experimentation, measurement plans, eval harnesses, platform teams, test sets, scalability, responsible AI, build case
+
+PROFESSIONAL EXPERIENCE
+GenAI Solution Consultant - Brown LLC
+2016 - 2017
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: processed 14M records through reusable pipelines.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 29M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 45%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: processed 29M records through reusable pipelines.
+
+Applied AI Consultant - Cooley PLC
+2017 - 2021
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved model quality by 21%.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: cut evaluation turnaround from 6 days to 3 days.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: cut evaluation turnaround from 11 days to 1 day.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: cut evaluation turnaround from 4 days to 3 days.
+  * Prepared executive briefings that translated AI capabilities into strategic choices and investment decisions. Outcome: processed 36M records through reusable pipelines.
+
+AI Builder Senior Consultant - Lyons PLC
+2021 - 2023
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: reduced manual analysis effort by 24%.
+  * Managed senior stakeholder expectations through clear decision points, risks, and value narratives. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Quantified AI value cases using baseline costs, expected adoption, quality impact, and time savings. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Tracked experiment results and documented tradeoffs before production rollout. Outcome: improved model quality by 13%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: processed 15M records through reusable pipelines.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: cut evaluation turnaround from 6 days to 2 days.
+
+Applied AI Consultant - Chapman, Leach and Anderson
+2023 - Present
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: processed 34M records through reusable pipelines.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: reduced manual analysis effort by 29%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: improved model quality by 11%.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: improved model quality by 27%.
+
+SELECTED ACHIEVEMENTS
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Result: reduced manual analysis effort by 48%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Result: reduced manual analysis effort by 44%.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: improved model quality by 12%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Result: reduced manual analysis effort by 36%.
+  * Designed experiments to compare model variants, user prompts, and workflow interventions. Result: processed 37M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led enablement work across Validated outcomes, Experimentation, Full AI build lifecycle, AI Lab experimentation.
+  * Led roadmap work across Experimentation, Cloud and engineering partnership, Responsible AI, Prototype portfolio.
+  * Led discovery work across Evaluation design, Prototype portfolio, Responsible AI.
+  * Led discovery work across Reusable demos, kits, and handoff materials, Validated outcomes, Security and scalability.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/craig-fernandez/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+release planning, plugin design, AI ethics, implementation playbooks, agent tools, DevOps collaboration, one-pagers, frontier models, benefit measurement, statistical analysis, learning artifacts, secure deployment, agent evaluation, GitHub demos, AWS Certified Machine Learning - Specialty, SnowPro Core Certification
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * SnowPro Core Certification
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+South Michael Institute of Technology - Class of 2012

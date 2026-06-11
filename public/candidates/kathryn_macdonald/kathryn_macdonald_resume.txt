@@ -1,0 +1,63 @@
+=========================================
+KATHRYN MACDONALD
+Andrewton, OK | +1 (161) 217-7011 | kathryn.macdonald@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kathryn Macdonald is a business and analytics professional with 4+ years of transferable experience related to Cloud and engineering partnership, Code quality and reliability, Productionization, Internal Transformation production path. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Code quality and reliability
+  * Productionization
+  * Internal Transformation production path
+  * Reusable demos, kits, and handoff materials
+  * Builder community contribution
+
+CORE SKILLS
+handoff kits, code review, automated testing, internal transformation, release planning, deployment controls, shared assets, enterprise rollout, DevOps collaboration, platform teams, cloud engineering, demo packaging, production readiness, implementation playbooks, secure deployment, builder community, operational support
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Simon, Willis and Schmidt
+2022 - 2024
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced manual analysis effort by 48%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: processed 37M records through reusable pipelines.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: improved model quality by 18%.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: standardized reporting for 8 stakeholder groups.
+
+Analytics Consultant - Richmond LLC
+2024 - 2025
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced manual analysis effort by 42%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: standardized reporting for 3 stakeholder groups.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced manual analysis effort by 47%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: processed 12M records through reusable pipelines.
+
+Automation Specialist - Perez PLC
+2025 - Present
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: standardized reporting for 9 stakeholder groups.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: standardized reporting for 5 stakeholder groups.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: improved model quality by 11%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: improved model quality by 27%.
+
+SELECTED ACHIEVEMENTS
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Result: improved model quality by 16%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Result: processed 33M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led discovery work across Code quality and reliability, Reusable demos, kits, and handoff materials, Productionization.
+  * Led implementation work across Productionization, Code quality and reliability, Cloud and engineering partnership.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/kathryn-macdonald/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+handoff kits, code review, automated testing, internal transformation, release planning, deployment controls, shared assets, enterprise rollout, DevOps collaboration, platform teams, cloud engineering, demo packaging, production readiness, implementation playbooks, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Bachelor of Mathematics
+East Michael Polytechnic - Class of 2020

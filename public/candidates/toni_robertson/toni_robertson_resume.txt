@@ -1,0 +1,76 @@
+=========================================
+TONI ROBERTSON
+Wrightfurt, WY | 905-294-1355 x163 | toni.robertson@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Toni Robertson is a data and technology consulting professional with 6+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Evaluation design, Code quality and reliability, Validated outcomes, Reusable demos, kits, and handoff materials, Agents, plugins, skills, and tools, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Code quality and reliability
+  * Validated outcomes
+  * Reusable demos, kits, and handoff materials
+  * Agents, plugins, skills, and tools
+  * Ambiguity and execution
+  * Thought leadership
+  * Team leadership
+  * Demo safety and governance checks
+  * AI literacy artifacts
+
+CORE SKILLS
+iteration, technical leadership, agent evaluation, safe showcase, skills, release planning, regulated enterprise, product strategy, working systems, orchestration, internal stakeholders, automated testing, white papers, AI literacy, tool calling, agent workflows, roadmaps, production readiness, performance feedback, autonomous agents, acceptance criteria, operational support, rapid prototyping, structured assumptions
+
+PROFESSIONAL EXPERIENCE
+Applied AI Manager - Wood Inc
+2020 - 2022
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: coached a team of 8 consultants and engineers.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: delivered $2M in AI program value cases.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: coached a team of 14 consultants and engineers.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced prototype-to-production cycle time by 19%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: reduced prototype-to-production cycle time by 33%.
+
+Applied AI Manager - Murphy-Shaffer
+2022 - 2024
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: reduced prototype-to-production cycle time by 21%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: improved delivery predictability by 31%.
+  * Presented market insights and practical AI adoption lessons to senior business audiences. Outcome: delivered $13M in AI program value cases.
+  * Coached junior team members on consulting communication, solution design, and delivery discipline. Outcome: coached a team of 12 consultants and engineers.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: delivered $8M in AI program value cases.
+
+Generative AI Program Manager - Warner and Sons
+2024 - Present
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: improved delivery predictability by 31%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: improved delivery predictability by 25%.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: delivered $4M in AI program value cases.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: delivered $3M in AI program value cases.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: delivered $14M in AI program value cases.
+
+SELECTED ACHIEVEMENTS
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: coached a team of 10 consultants and engineers.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Result: delivered $2M in AI program value cases.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Result: delivered $4M in AI program value cases.
+
+SELECTED PROJECTS
+  * Led implementation work across Demo safety and governance checks, Reusable demos, kits, and handoff materials, Ambiguity and execution, Agentic AI delivery, Validated outcomes.
+  * Led prototype work across Productionization, Validated outcomes, Reusable demos, kits, and handoff materials, Enterprise operations fluency.
+  * Led discovery work across Ambiguity and execution, Reusable demos, kits, and handoff materials, Code quality and reliability, Evaluation design.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/toni-robertson/agentic-ai-builds
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+iteration, technical leadership, agent evaluation, safe showcase, skills, release planning, regulated enterprise, product strategy, working systems, orchestration, internal stakeholders, automated testing, white papers, AI literacy, Certified ScrumMaster, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * AWS Certified Machine Learning - Specialty
+  * SnowPro Core Certification
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+West Joanna Polytechnic - Class of 2014

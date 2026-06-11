@@ -1,0 +1,63 @@
+=========================================
+GAIL FREEMAN
+Patricktown, MS | 1-836-274-8220 | gail.freeman@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Gail Freeman is a business and analytics professional with 2+ years of transferable experience related to Security and scalability, Client workshops, Builder mindset, Reusable demos, kits, and handoff materials. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Security and scalability
+  * Client workshops
+  * Builder mindset
+  * Reusable demos, kits, and handoff materials
+  * Ambiguity and execution
+  * Trade-off judgment
+
+CORE SKILLS
+identity controls, executive demos, working systems, trade-off decisions, build mindset, structured thinking, scalability, facilitation, prioritization, discovery workshops, hands-on execution, journey mapping, handoff kits
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Thompson and Sons
+2023 - 2024
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: improved model quality by 10%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced manual analysis effort by 19%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced manual analysis effort by 35%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: processed 28M records through reusable pipelines.
+
+Analytics Consultant - Hicks, Silva and Harris
+2024 - 2025
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: processed 37M records through reusable pipelines.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: cut evaluation turnaround from 12 days to 3 days.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: improved model quality by 12%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: improved model quality by 9%.
+
+Automation Specialist - Lucero, Stanton and Carrillo
+2025 - Present
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: improved model quality by 12%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: reduced operational handoffs by 12%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced operational handoffs by 8%.
+
+SELECTED ACHIEVEMENTS
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Result: cut evaluation turnaround from 6 days to 3 days.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: improved model quality by 22%.
+
+SELECTED PROJECTS
+  * Led implementation work across Trade-off judgment, Reusable demos, kits, and handoff materials, Security and scalability, Client workshops.
+  * Led discovery work across Reusable demos, kits, and handoff materials, Client workshops, Ambiguity and execution, Security and scalability, Trade-off judgment.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/gail-freeman/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+identity controls, executive demos, working systems, trade-off decisions, build mindset, structured thinking, scalability, facilitation, prioritization, discovery workshops, hands-on execution, journey mapping, handoff kits, SnowPro Core Certification
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+
+EDUCATION
+Diploma in Business Analytics
+Cookborough Institute of Technology - Class of 2021

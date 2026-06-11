@@ -1,0 +1,65 @@
+=========================================
+JOSEPH NEWTON
+Ianshire, MH | +1 (283) 607-5759 | joseph.newton@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Joseph Newton is a business and analytics professional with 4+ years of transferable experience related to Approved AI and engineering stack, Builder mindset, Low-code, API, and orchestration tools, Client workshops. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Builder mindset
+  * Low-code, API, and orchestration tools
+  * Client workshops
+  * Reusable demos, kits, and handoff materials
+  * Data engineering
+  * Validated outcomes
+
+CORE SKILLS
+dbt, outcome validation, low-code platforms, public sector, engineering standards, executive demos, success metrics, industry accelerators, implementation playbooks, ELT, workflow orchestration, platform constraints
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Leonard, Torres and Valenzuela
+2022 - 2024
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced manual analysis effort by 33%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: cut evaluation turnaround from 8 days to 1 day.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: improved model quality by 27%.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced manual analysis effort by 42%.
+
+Business Analyst - Myers-Brown
+2024 - 2025
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: processed 14M records through reusable pipelines.
+  * Improved pipeline reliability through validation, lineage notes, and scheduled quality checks. Outcome: cut evaluation turnaround from 4 days to 2 days.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced operational handoffs by 18%.
+  * Coordinated opportunities with Microsoft, Databricks, Snowflake, and other ISV partner teams. Outcome: improved model quality by 8%.
+
+Automation Specialist - Hill-Zimmerman
+2025 - Present
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced manual analysis effort by 48%.
+  * Positioned Data and AI solutions using partner platform strengths and joint value propositions. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Created industry use-case maps connecting business problems to reusable technical accelerators. Outcome: improved model quality by 8%.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: reduced manual analysis effort by 45%.
+
+SELECTED ACHIEVEMENTS
+  * Coordinated opportunities with Microsoft, Databricks, Snowflake, and other ISV partner teams. Result: processed 14M records through reusable pipelines.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Result: improved model quality by 12%.
+
+SELECTED PROJECTS
+  * Led discovery work across Industry solutions, Builder community contribution, Low-code, API, and orchestration tools, Builder mindset.
+  * Led discovery work across Client workshops, Approved AI and engineering stack, Reusable demos, kits, and handoff materials, Low-code, API, and orchestration tools.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/joseph-newton/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+dbt, outcome validation, low-code platforms, public sector, engineering standards, executive demos, success metrics, industry accelerators, implementation playbooks, ELT, workflow orchestration, platform constraints, Google Cloud Professional Machine Learning Engineer, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Diploma in Business Analytics
+Lake Stacie Institute of Technology - Class of 2018

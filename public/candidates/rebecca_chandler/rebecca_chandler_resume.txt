@@ -1,0 +1,74 @@
+=========================================
+REBECCA CHANDLER
+South Melissaland, DC | (246) 730-6182 x162 | rebecca.chandler@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Rebecca Chandler is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Agentic AI delivery, Security and scalability, Agents, plugins, skills, and tools, Full AI build lifecycle, Code quality and reliability, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Security and scalability
+  * Agents, plugins, skills, and tools
+  * Full AI build lifecycle
+  * Code quality and reliability
+  * Sales enablement
+  * Commercial negotiation
+  * Builder community contribution
+  * Generative AI
+  * Automation
+
+CORE SKILLS
+operational support, prototype lifecycle, reuse, maintainability, data strategy, AI strategy, production handoff, agent workflows, LLM evaluation, builder community, secure deployment, solution maintenance, AI copilots, skills, retrieval augmented generation, plugin design, precision and recall, code review, workflow automation, production readiness, contracting, identity controls, demo scripts
+
+PROFESSIONAL EXPERIENCE
+Machine Learning Engineer - Powell-Meyers
+2020 - 2024
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: cut evaluation turnaround from 9 days to 3 days.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: improved model quality by 15%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: processed 18M records through reusable pipelines.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved model quality by 8%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: processed 32M records through reusable pipelines.
+
+Machine Learning Engineer - Walters-Reyes
+2024 - 2025
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced manual analysis effort by 27%.
+  * Trained client-facing teams on AI use cases, partner offers, and qualification criteria. Outcome: reduced manual analysis effort by 29%.
+  * Supported commercial negotiations by clarifying scope, value drivers, dependencies, and success metrics. Outcome: processed 21M records through reusable pipelines.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: processed 10M records through reusable pipelines.
+
+GenAI Solution Consultant - Hodges LLC
+2025 - Present
+  * Built generative AI prototypes for knowledge search, summarization, intake triage, and analyst assistance. Outcome: improved model quality by 18%.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: improved model quality by 17%.
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Outcome: processed 36M records through reusable pipelines.
+  * Developed AI roadmaps that balanced quick-win use cases with platform, governance, and talent needs. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: cut evaluation turnaround from 9 days to 3 days.
+
+SELECTED ACHIEVEMENTS
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Result: cut evaluation turnaround from 5 days to 3 days.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Result: cut evaluation turnaround from 12 days to 3 days.
+  * Prepared executive deal summaries covering pricing assumptions, delivery risk, and partner commitments. Result: reduced manual analysis effort by 41%.
+
+SELECTED PROJECTS
+  * Led enablement work across Code quality and reliability, LLM applications, Productionization.
+  * Led implementation work across Commercial negotiation, LLM applications, Model evaluation, Full AI build lifecycle.
+  * Led prototype work across Builder community contribution, Productionization, Agents, plugins, skills, and tools.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/rebecca-chandler/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+
+TOOLS, PLATFORMS, AND METHODS
+operational support, prototype lifecycle, reuse, maintainability, data strategy, AI strategy, production handoff, agent workflows, LLM evaluation, builder community, secure deployment, solution maintenance, AI copilots, skills, Microsoft Certified: Azure AI Engineer Associate, TOGAF Foundation
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+South Vanessaview Institute of Technology - Class of 2015

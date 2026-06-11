@@ -1,0 +1,64 @@
+=========================================
+MARY MCLEAN
+Mcbridemouth, MS | (452) 938-5079 x093 | mary.mclean@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Mary Mclean is a business and analytics professional with 5+ years of transferable experience related to AI Lab experimentation, Cloud and engineering partnership, Code quality and reliability, Ambiguity and execution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * AI Lab experimentation
+  * Cloud and engineering partnership
+  * Code quality and reliability
+  * Ambiguity and execution
+  * Reusable demos, kits, and handoff materials
+  * Client workshops
+  * Builder mindset
+
+CORE SKILLS
+hands-on execution, frontier models, structured assumptions, DevOps collaboration, handoff kits, implementation playbooks, build mindset, demo packaging, AI Lab prototyping, replication kits, executive demos, iteration, maintainability, platform teams, cloud engineering
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Todd, Martin and Vasquez
+2021 - 2024
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 41%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced manual analysis effort by 39%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: processed 21M records through reusable pipelines.
+
+Analytics Consultant - Osborne-Wiggins
+2024 - 2025
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: improved model quality by 9%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: processed 5M records through reusable pipelines.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved model quality by 10%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced operational handoffs by 13%.
+
+Business Analyst - Kim, Abbott and Adams
+2025 - Present
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: processed 30M records through reusable pipelines.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: reduced manual analysis effort by 26%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: cut evaluation turnaround from 6 days to 2 days.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: improved model quality by 14%.
+
+SELECTED ACHIEVEMENTS
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Result: standardized reporting for 4 stakeholder groups.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Result: processed 40M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led implementation work across Cloud and engineering partnership, Client workshops, Builder mindset, Code quality and reliability.
+  * Led implementation work across Client workshops, AI Lab experimentation, Reusable demos, kits, and handoff materials.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/mary-mclean/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+hands-on execution, frontier models, structured assumptions, DevOps collaboration, handoff kits, implementation playbooks, build mindset, demo packaging, AI Lab prototyping, replication kits, executive demos, iteration, maintainability, platform teams, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Bachelor of Science, Statistics
+Smithport School of Business - Class of 2018

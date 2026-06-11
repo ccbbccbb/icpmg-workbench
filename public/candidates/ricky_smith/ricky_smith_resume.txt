@@ -1,0 +1,76 @@
+=========================================
+RICKY SMITH
+West Danahaven, MH | (788) 509-7037 | ricky.smith@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Ricky Smith is a data and technology consulting professional with 6+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Reusable demos, kits, and handoff materials, Workflow and operating-model redesign, Demo safety and governance checks, Agentic AI delivery, Code quality and reliability, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Reusable demos, kits, and handoff materials
+  * Workflow and operating-model redesign
+  * Demo safety and governance checks
+  * Agentic AI delivery
+  * Code quality and reliability
+  * Alliance strategy
+  * Builder team coaching
+  * Cloud AI platforms
+  * APIs and microservices
+  * Security and scalability
+
+CORE SKILLS
+operating model design, technical design, Google Cloud, joint business planning, partner operating model, secure architecture, handoff kits, Snowflake, Azure AI, automated testing, FastAPI, multi-agent systems, replication kits, REST APIs, agent workflows, risk review, team development, scalability, data protection, OpenAPI, work review, agentic AI
+
+PROFESSIONAL EXPERIENCE
+AI Delivery Manager - Taylor-Smith
+2020 - 2022
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: improved delivery predictability by 30%.
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Outcome: reduced prototype-to-production cycle time by 39%.
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: delivered $10M in AI program value cases.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced prototype-to-production cycle time by 27%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced prototype-to-production cycle time by 37%.
+
+AI Delivery Manager - Cochran Group
+2022 - 2025
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: improved delivery predictability by 12%.
+  * Built joint business plans with partner teams, including routes to market, capability gaps, and quarterly targets. Outcome: improved delivery predictability by 33%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: reduced prototype-to-production cycle time by 18%.
+  * Compared cloud AI services against client security, latency, and cost constraints. Outcome: improved delivery predictability by 22%.
+  * Built API services for model inference, batch scoring, and human review queues. Outcome: coached a team of 9 consultants and engineers.
+
+Applied AI Manager - Walters-Brown
+2025 - Present
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: delivered $7M in AI program value cases.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced prototype-to-production cycle time by 28%.
+  * Compared cloud AI services against client security, latency, and cost constraints. Outcome: reduced prototype-to-production cycle time by 29%.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: delivered $10M in AI program value cases.
+
+SELECTED ACHIEVEMENTS
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Result: improved delivery predictability by 26%.
+  * Packaged reusable services with typed contracts, validation, and deployment documentation. Result: reduced prototype-to-production cycle time by 33%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Result: coached a team of 10 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led implementation work across AI solution architecture, Builder team coaching, APIs and microservices, Code quality and reliability.
+  * Led prototype work across Agentic AI delivery, Demo safety and governance checks, Workflow and operating-model redesign, AI solution architecture.
+  * Led roadmap work across Alliance strategy, Code quality and reliability, AI solution architecture, Agentic AI delivery, Builder team coaching.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/ricky-smith/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+
+TOOLS, PLATFORMS, AND METHODS
+operating model design, technical design, Google Cloud, joint business planning, partner operating model, secure architecture, handoff kits, Snowflake, Azure AI, automated testing, FastAPI, multi-agent systems, replication kits, REST APIs, SnowPro Core Certification, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * IAPP Certified Information Privacy Professional
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Engineering, Software Systems
+Port Sherri Polytechnic - Class of 2016

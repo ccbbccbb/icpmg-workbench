@@ -1,0 +1,64 @@
+=========================================
+SEAN HUFF
+Brittanyberg, SC | 690 561 6684 | sean.huff@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Sean Huff is a business and analytics professional with 5+ years of transferable experience related to Productionization, Approved AI and engineering stack, Internal Transformation production path, Trade-off judgment. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Productionization
+  * Approved AI and engineering stack
+  * Internal Transformation production path
+  * Trade-off judgment
+  * Ambiguity and execution
+  * Reusable demos, kits, and handoff materials
+  * Low-code, API, and orchestration tools
+
+CORE SKILLS
+adoption planning, handoff kits, delivery momentum, platform constraints, internal transformation, configuration, trade-off decisions, iteration, operational support, secure platforms, low-code platforms, release planning, deployment controls, enterprise rollout, prioritization, production readiness, engineering standards, structured thinking, operating model change, API integration
+
+PROFESSIONAL EXPERIENCE
+Analytics Consultant - Brown PLC
+2021 - 2023
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: processed 27M records through reusable pipelines.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: processed 7M records through reusable pipelines.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: standardized reporting for 4 stakeholder groups.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: cut evaluation turnaround from 12 days to 1 day.
+
+Analytics Consultant - Hernandez-Dawson
+2023 - 2024
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: standardized reporting for 10 stakeholder groups.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced manual analysis effort by 25%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: cut evaluation turnaround from 6 days to 3 days.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: improved model quality by 18%.
+
+Analytics Consultant - Freeman-Reed
+2024 - Present
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: standardized reporting for 8 stakeholder groups.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: standardized reporting for 7 stakeholder groups.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: cut evaluation turnaround from 12 days to 3 days.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: reduced manual analysis effort by 28%.
+
+SELECTED ACHIEVEMENTS
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: reduced manual analysis effort by 20%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Result: cut evaluation turnaround from 5 days to 2 days.
+
+SELECTED PROJECTS
+  * Led enablement work across Reusable demos, kits, and handoff materials, Productionization, Approved AI and engineering stack, Internal Transformation production path.
+  * Led discovery work across Internal Transformation production path, Trade-off judgment, Productionization, Reusable demos, kits, and handoff materials.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/sean-huff/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+adoption planning, handoff kits, delivery momentum, platform constraints, internal transformation, configuration, trade-off decisions, iteration, operational support, secure platforms, low-code platforms, release planning, deployment controls, enterprise rollout, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+
+EDUCATION
+Bachelor of Mathematics
+East Michaelstad School of Business - Class of 2017

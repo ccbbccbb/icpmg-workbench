@@ -1,0 +1,95 @@
+=========================================
+DARREN HAMPTON
+Nicoletown, MI | 1 (379) 075-4919 | darren.hampton@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Darren Hampton is an AI Builder Senior Consultant with 7+ years of direct Data and AI experience, including Cloud and engineering partnership, Evaluation design, Productionization, Code quality and reliability, Agents, plugins, skills, and tools, Approved AI and engineering stack. The profile shows repeated ownership of strategy, delivery, stakeholder outcomes, and measurable value realization.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Evaluation design
+  * Productionization
+  * Code quality and reliability
+  * Agents, plugins, skills, and tools
+  * Approved AI and engineering stack
+  * Security and scalability
+  * Human-AI collaboration
+  * AI Lab experimentation
+  * Full AI build lifecycle
+  * Enterprise Data and AI platform acumen
+  * Model evaluation
+  * APIs and microservices
+  * Strategic partner plans
+
+CORE SKILLS
+FastAPI, revenue strategy, skills, CI/CD, AI platforms, eval harnesses, quality metrics, human-AI handoffs, decision boundaries, Microsoft, release planning, evaluation datasets, test sets, cloud engineering, secure platforms, monitoring, production handoff, pytest, risk assessment, deployment controls, LLM evaluation, pandas, partner plans, reliability engineering, platform teams, plugin design, quality assurance, model deployment, identity controls, feature stores
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Vargas, Davis and Harris
+2019 - 2022
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced manual analysis effort by 47%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: cut evaluation turnaround from 7 days to 3 days.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: improved model quality by 15%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced manual analysis effort by 46%.
+
+Machine Learning Engineer - Wilson, Allen and Perry
+2022 - 2023
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved model quality by 14%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: improved model quality by 18%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: improved model quality by 20%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: processed 37M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: reduced manual analysis effort by 46%.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: reduced manual analysis effort by 18%.
+
+Applied AI Consultant - Carter, Scott and Williams
+2023 - 2024
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: improved model quality by 24%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: reduced manual analysis effort by 41%.
+  * Connected platform features to client adoption paths, integration needs, and commercial value. Outcome: improved model quality by 24%.
+  * Built evaluation datasets and scorecards to compare model outputs against business acceptance criteria. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Packaged reusable services with typed contracts, validation, and deployment documentation. Outcome: processed 36M records through reusable pipelines.
+  * Led partner plans and revenue origination strategies that prioritized pipeline growth and market adoption. Outcome: improved model quality by 21%.
+
+Machine Learning Engineer - Woods, Cooper and Davis
+2024 - Present
+  * Built API services for model inference, batch scoring, and human review queues. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Led partner plans and revenue origination strategies that prioritized pipeline growth and market adoption. Outcome: cut evaluation turnaround from 11 days to 1 day.
+  * Designed controls for data access, model approval, output review, and exception handling. Outcome: reduced manual analysis effort by 19%.
+  * Positioned Data and AI solutions using partner platform strengths and joint value propositions. Outcome: processed 13M records through reusable pipelines.
+  * Built Python services and notebooks for ingestion, modelling, evaluation, and reporting. Outcome: improved model quality by 18%.
+  * Defined operational checks for model drift, data freshness, latency, and incident response. Outcome: improved model quality by 20%.
+
+SELECTED ACHIEVEMENTS
+  * Built API services for model inference, batch scoring, and human review queues. Result: improved model quality by 25%.
+  * Connected platform features to client adoption paths, integration needs, and commercial value. Result: cut evaluation turnaround from 9 days to 2 days.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Result: cut evaluation turnaround from 5 days to 1 day.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Result: reduced manual analysis effort by 34%.
+  * Executed strategic business plans with cross-functional teams focused on opportunity identification. Result: processed 31M records through reusable pipelines.
+
+SELECTED PROJECTS
+  * Led implementation work across Model evaluation, Python, Approved AI and engineering stack, Human-AI collaboration.
+  * Led roadmap work across Agents, plugins, skills, and tools, Enterprise Data and AI platform acumen, MLOps, Security and scalability.
+  * Led prototype work across Risk controls, Cloud and engineering partnership, Human-AI collaboration, Strategic partner plans, Model evaluation.
+  * Led prototype work across Productionization, Python, AI Lab experimentation, APIs and microservices, Human-AI collaboration.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/darren-hampton/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+FastAPI, revenue strategy, skills, CI/CD, AI platforms, eval harnesses, quality metrics, human-AI handoffs, decision boundaries, Microsoft, release planning, evaluation datasets, test sets, cloud engineering, Certified ScrumMaster, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * IAPP Certified Information Privacy Professional
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Master of Applied Computing
+South Meganport Polytechnic - Class of 2015

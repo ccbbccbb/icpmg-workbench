@@ -1,0 +1,64 @@
+=========================================
+JOSHUA WALSH
+North Brittanymouth, KY | 497.714.6341 | joshua.walsh@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Joshua Walsh is a business and analytics professional with 7+ years of transferable experience related to Cloud and engineering partnership, Demo readiness, Workflow and operating-model redesign, Human-AI collaboration. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Demo readiness
+  * Workflow and operating-model redesign
+  * Human-AI collaboration
+  * Trade-off judgment
+  * Enterprise operations fluency
+  * Responsible AI
+
+CORE SKILLS
+process decomposition, demo narrative, trade-off decisions, regulated enterprise, fairness, platform teams, structured thinking, human oversight, operating model design, enterprise operations, secure deployment, transparency, decision systems, demo rehearsal
+
+PROFESSIONAL EXPERIENCE
+Product Owner - Brown Ltd
+2019 - 2022
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: coached a team of 10 consultants and engineers.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: reduced operational handoffs by 13%.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: improved delivery predictability by 30%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: improved delivery predictability by 24%.
+
+Product Owner - Brown, Fernandez and Pierce
+2022 - 2024
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: reduced operational handoffs by 15%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: improved delivery predictability by 25%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: coached a team of 5 consultants and engineers.
+  * Prepared demo narratives, artifacts, and walkthroughs that made agentic AI capabilities easy to evaluate. Outcome: reduced operational handoffs by 9%.
+
+Analytics Delivery Lead - Meyers, Ritter and Zuniga
+2024 - Present
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: reduced prototype-to-production cycle time by 17%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced operational handoffs by 9%.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: reduced prototype-to-production cycle time by 16%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced operational handoffs by 14%.
+
+SELECTED ACHIEVEMENTS
+  * Separated work into agent-owned, human-owned, and review-gated steps before build execution. Result: coached a team of 9 consultants and engineers.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: coached a team of 13 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led implementation work across Workflow and operating-model redesign, Demo readiness, Responsible AI, Enterprise operations fluency, Trade-off judgment.
+  * Led discovery work across Responsible AI, Enterprise operations fluency, Workflow and operating-model redesign.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/joshua-walsh/agentic-ai-builds
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+process decomposition, demo narrative, trade-off decisions, regulated enterprise, fairness, platform teams, structured thinking, human oversight, operating model design, enterprise operations, secure deployment, transparency, decision systems, demo rehearsal, TOGAF Foundation
+
+CERTIFICATIONS
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Science, Statistics
+Port Eric School of Business - Class of 2015

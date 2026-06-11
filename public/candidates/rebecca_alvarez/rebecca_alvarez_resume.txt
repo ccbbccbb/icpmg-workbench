@@ -1,0 +1,76 @@
+=========================================
+REBECCA ALVAREZ
+Lewisshire, FM | 382-631-3589 x947 | rebecca.alvarez@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Rebecca Alvarez is a data and technology consulting professional with 4+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Evaluation design, Approved AI and engineering stack, Productionization, Security and scalability, Prototype portfolio, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Approved AI and engineering stack
+  * Productionization
+  * Security and scalability
+  * Prototype portfolio
+  * Human-AI collaboration
+  * Agents, plugins, skills, and tools
+  * Client workshops
+  * Code quality and reliability
+  * Prompt engineering
+
+CORE SKILLS
+prototype portfolio, quality gates, production readiness, build case, rapid experimentation, plugin design, prompt design, human-AI handoffs, model training, decision boundaries, deployment controls, frontier models, platform constraints, feature engineering, eval harnesses, AI Lab prototyping, code review, tool calling, automated testing, review loops
+
+PROFESSIONAL EXPERIENCE
+Data Science Consultant - Mcneil Group
+2022 - 2023
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: cut evaluation turnaround from 8 days to 3 days.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: cut evaluation turnaround from 4 days to 1 day.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced manual analysis effort by 44%.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: cut evaluation turnaround from 10 days to 3 days.
+
+AI Builder Senior Consultant - Dalton, Collins and Morgan
+2023 - 2025
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: reduced manual analysis effort by 46%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved model quality by 16%.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: improved model quality by 8%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: reduced manual analysis effort by 40%.
+
+GenAI Solution Consultant - Jackson-King
+2025 - Present
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced manual analysis effort by 25%.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Outcome: processed 38M records through reusable pipelines.
+  * Developed machine learning models for classification, forecasting, prioritization, and anomaly detection. Outcome: reduced manual analysis effort by 39%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: processed 14M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Result: cut evaluation turnaround from 10 days to 2 days.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Result: cut evaluation turnaround from 10 days to 2 days.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Result: cut evaluation turnaround from 9 days to 3 days.
+
+SELECTED PROJECTS
+  * Led implementation work across Prototype portfolio, Agents, plugins, skills, and tools, Security and scalability.
+  * Led enablement work across Approved AI and engineering stack, Productionization, Client workshops.
+  * Led enablement work across Evaluation design, Client workshops, Productionization, Code quality and reliability, Security and scalability.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/rebecca-alvarez/agentic-ai-builds
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+prototype portfolio, quality gates, production readiness, build case, rapid experimentation, plugin design, prompt design, human-AI handoffs, model training, decision boundaries, deployment controls, frontier models, platform constraints, feature engineering, Certified ScrumMaster, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * Microsoft Certified: Azure AI Engineer Associate
+  * Project Management Professional
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+Wendyport Institute of Technology - Class of 2017

@@ -1,0 +1,64 @@
+=========================================
+MEGAN WATSON
+Kristineton, FM | 1 (957) 444-9853 | megan.watson@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Megan Watson is a business and analytics professional with 4+ years of transferable experience related to Demo readiness, Internal Transformation production path, Builder team coaching, Trade-off judgment. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Demo readiness
+  * Internal Transformation production path
+  * Builder team coaching
+  * Trade-off judgment
+  * Low-code, API, and orchestration tools
+  * Builder mindset
+  * Human-AI collaboration
+
+CORE SKILLS
+team development, rapid prototyping, working systems, executive demos, ROI modelling, structured thinking, API integration, low-code platforms, hands-on execution, demo narrative, builder coaching, build mindset
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - Anderson-Grant
+2022 - 2024
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: delivered $3M in AI program value cases.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced operational handoffs by 17%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: reduced prototype-to-production cycle time by 32%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced operational handoffs by 12%.
+
+Analytics Delivery Lead - Lane Group
+2024 - 2025
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: coached a team of 9 consultants and engineers.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: standardized reporting for 10 stakeholder groups.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced operational handoffs by 9%.
+  * Created benefits trackers to compare forecast savings against realized delivery outcomes. Outcome: reduced prototype-to-production cycle time by 18%.
+
+Product Owner - Chambers-Villarreal
+2025 - Present
+  * Created benefits trackers to compare forecast savings against realized delivery outcomes. Outcome: delivered $8M in AI program value cases.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: reduced operational handoffs by 17%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: standardized reporting for 5 stakeholder groups.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: reduced operational handoffs by 16%.
+
+SELECTED ACHIEVEMENTS
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Result: reduced prototype-to-production cycle time by 31%.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Result: reduced prototype-to-production cycle time by 34%.
+
+SELECTED PROJECTS
+  * Led prototype work across Low-code, API, and orchestration tools, Demo readiness, Builder team coaching, Trade-off judgment, Human-AI collaboration.
+  * Led roadmap work across Builder team coaching, Builder mindset, Internal Transformation production path, Human-AI collaboration.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/megan-watson/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+team development, rapid prototyping, working systems, executive demos, ROI modelling, structured thinking, API integration, low-code platforms, hands-on execution, demo narrative, builder coaching, build mindset, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+
+EDUCATION
+Diploma in Business Analytics
+Jonestown School of Business - Class of 2019

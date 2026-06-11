@@ -1,0 +1,74 @@
+=========================================
+JAMES RODRIGUEZ
+Tracytown, NJ | 249 287 5523 | james.rodriguez@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+James Rodriguez is a data and technology consulting professional with 6+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Evaluation design, Security and scalability, Agentic AI delivery, Agents, plugins, skills, and tools, Code quality and reliability, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Security and scalability
+  * Agentic AI delivery
+  * Agents, plugins, skills, and tools
+  * Code quality and reliability
+  * Human-AI collaboration
+  * Prototype portfolio
+  * Productionization
+  * Cloud and engineering partnership
+  * Enterprise architecture
+
+CORE SKILLS
+Power BI, deployment controls, multi-agent systems, automated testing, demo write-ups, human-AI handoffs, eval harnesses, tool calling, operational support, secure architecture, data protection, code review, orchestration, data storytelling, release planning, cloud engineering, maintainability, DevOps collaboration, scalability, technology roadmaps, LangChain, production readiness, enterprise architecture, agent evaluation, document AI
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Gibson-Levy
+2020 - 2024
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced manual analysis effort by 43%.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: improved model quality by 19%.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: improved model quality by 19%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced manual analysis effort by 44%.
+
+Applied AI Consultant - Baker, Stafford and Lopez
+2024 - 2025
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: processed 6M records through reusable pipelines.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: processed 16M records through reusable pipelines.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved model quality by 20%.
+
+Machine Learning Engineer - Johnson, Delgado and Nguyen
+2025 - Present
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: processed 37M records through reusable pipelines.
+  * Mapped AI solution options to enterprise architecture standards and existing integration patterns. Outcome: processed 16M records through reusable pipelines.
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Outcome: improved model quality by 13%.
+  * Created dashboards for adoption, model performance, pipeline health, and executive reporting. Outcome: processed 4M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Result: processed 30M records through reusable pipelines.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Result: processed 40M records through reusable pipelines.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Result: cut evaluation turnaround from 7 days to 2 days.
+
+SELECTED PROJECTS
+  * Led discovery work across Security and scalability, Agents, plugins, skills, and tools, Human-AI collaboration.
+  * Led prototype work across Enterprise architecture, Agents, plugins, skills, and tools, Prototype portfolio.
+  * Led enablement work across Productionization, Evaluation design, Code quality and reliability, Cloud and engineering partnership, Prototype portfolio.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/james-rodriguez/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+Power BI, deployment controls, multi-agent systems, automated testing, demo write-ups, human-AI handoffs, eval harnesses, tool calling, operational support, secure architecture, data protection, code review, orchestration, data storytelling, Databricks Machine Learning Associate, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Prosci Change Management Certification
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Bachelor of Computer Science
+Lake Kimberly Polytechnic - Class of 2015

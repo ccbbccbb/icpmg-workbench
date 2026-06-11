@@ -1,0 +1,64 @@
+=========================================
+ROBIN PEREZ
+New Lorimouth, KY | 1 (924) 877-5191 | robin.perez@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Robin Perez is a business and analytics professional with 6+ years of transferable experience related to Demo safety and governance checks, Code quality and reliability, Validated outcomes, Builder mindset. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Demo safety and governance checks
+  * Code quality and reliability
+  * Validated outcomes
+  * Builder mindset
+  * Trade-off judgment
+  * Responsible AI
+  * Low-code, API, and orchestration tools
+
+CORE SKILLS
+structured thinking, process fluency, demo safety, roadmaps, acceptance criteria, working systems, user stories, fairness, success metrics, outcome validation, hands-on execution, code review
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - Hutchinson, Pena and Bowers
+2020 - 2022
+  * Documented demo constraints and risk controls before showing prototypes to business stakeholders. Outcome: reduced operational handoffs by 15%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: improved delivery predictability by 15%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced operational handoffs by 10%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: coached a team of 10 consultants and engineers.
+
+Technology Project Manager - Perez Inc
+2022 - 2023
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: delivered $5M in AI program value cases.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: reduced prototype-to-production cycle time by 40%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: standardized reporting for 9 stakeholder groups.
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: reduced prototype-to-production cycle time by 21%.
+
+Product Owner - Byrd-Sloan
+2023 - Present
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced operational handoffs by 12%.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: reduced operational handoffs by 20%.
+  * Ran demo safety checks covering data exposure, prompt behavior, user permissions, and governance assumptions. Outcome: standardized reporting for 10 stakeholder groups.
+  * Defined MVP scope, acceptance criteria, and release plans for AI products. Outcome: delivered $3M in AI program value cases.
+
+SELECTED ACHIEVEMENTS
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Result: standardized reporting for 10 stakeholder groups.
+  * Led partner plans and revenue origination strategies that prioritized pipeline growth and market adoption. Result: reduced prototype-to-production cycle time by 21%.
+
+SELECTED PROJECTS
+  * Led discovery work across Enterprise operations fluency, Product management, Strategic partner plans.
+  * Led implementation work across Builder mindset, Validated outcomes, Low-code, API, and orchestration tools, Enterprise operations fluency, Trade-off judgment.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/robin-perez/agentic-ai-builds
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+structured thinking, process fluency, demo safety, roadmaps, acceptance criteria, working systems, user stories, fairness, success metrics, outcome validation, hands-on execution, code review, Project Management Professional
+
+CERTIFICATIONS
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Science, Statistics
+Wagnerhaven Institute of Technology - Class of 2018

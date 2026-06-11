@@ -1,0 +1,76 @@
+=========================================
+MICHAEL TURNER
+Biancafurt, CA | 181-491-4832 | michael.turner@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Michael Turner is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Approved AI and engineering stack, Agents, plugins, skills, and tools, Code quality and reliability, Agentic AI delivery, Evaluation design, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Agents, plugins, skills, and tools
+  * Code quality and reliability
+  * Agentic AI delivery
+  * Evaluation design
+  * Cloud and engineering partnership
+  * Human-AI collaboration
+  * Ambiguity and execution
+  * Model evaluation
+  * Prompt engineering
+
+CORE SKILLS
+cloud engineering, LLM evaluation, policy interpretation, eval harnesses, prototype portfolio, prompt design, decision boundaries, fairness, secure deployment, human-AI handoffs, document AI, orchestration, LlamaIndex, agent workflows, autonomous agents, structured assumptions, audit readiness, autonomy design, system prompts, regulatory requirements, maintainability
+
+PROFESSIONAL EXPERIENCE
+Data Science Consultant - May-Hanna
+2018 - 2021
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: improved model quality by 8%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: reduced manual analysis effort by 41%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: processed 19M records through reusable pipelines.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: processed 36M records through reusable pipelines.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: processed 33M records through reusable pipelines.
+
+GenAI Solution Consultant - Marshall, Nelson and Howell
+2021 - 2022
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved model quality by 23%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: reduced manual analysis effort by 38%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: improved model quality by 22%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Outcome: reduced manual analysis effort by 39%.
+
+Data Science Consultant - Jimenez, Woodward and Mcguire
+2022 - Present
+  * Reviewed model failures and used findings to improve prompts, data retrieval, and guardrails. Outcome: processed 26M records through reusable pipelines.
+  * Reduced output variance through structured prompts, retrieval context, and failure-case testing. Outcome: processed 12M records through reusable pipelines.
+  * Documented compliance requirements for data retention, consent, and auditability. Outcome: improved model quality by 24%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: cut evaluation turnaround from 7 days to 2 days.
+  * Integrated language models into business workflows through APIs, queues, and review interfaces. Outcome: improved model quality by 24%.
+
+SELECTED ACHIEVEMENTS
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Result: processed 14M records through reusable pipelines.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Result: cut evaluation turnaround from 7 days to 2 days.
+  * Worked with legal and risk teams to align AI workflows with internal policy requirements. Result: cut evaluation turnaround from 11 days to 1 day.
+
+SELECTED PROJECTS
+  * Led enablement work across Ambiguity and execution, Model evaluation, Evaluation design, LLM applications.
+  * Led prototype work across Prototype portfolio, Agentic AI delivery, Human-AI collaboration, Evaluation design, Prompt engineering.
+  * Led discovery work across Evaluation design, Code quality and reliability, Responsible AI.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/michael-turner/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+cloud engineering, LLM evaluation, policy interpretation, eval harnesses, prototype portfolio, prompt design, decision boundaries, fairness, secure deployment, human-AI handoffs, document AI, orchestration, LlamaIndex, agent workflows, Databricks Machine Learning Associate, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Google Cloud Professional Machine Learning Engineer
+  * Certified ScrumMaster
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+Robertside University - Class of 2013

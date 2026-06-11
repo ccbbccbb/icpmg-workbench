@@ -1,0 +1,75 @@
+=========================================
+EDWARD MURPHY
+Matthewhaven, AL | +1 (110) 982-9955 | edward.murphy@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Edward Murphy is a data and technology consulting professional with 7+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Agents, plugins, skills, and tools, Code quality and reliability, Full AI build lifecycle, AI Lab experimentation, Evaluation design, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Code quality and reliability
+  * Full AI build lifecycle
+  * AI Lab experimentation
+  * Evaluation design
+  * Machine learning
+  * Cloud and engineering partnership
+  * Strategic partner plans
+  * SQL and analytics
+  * Validated outcomes
+
+CORE SKILLS
+adoption metrics, secure deployment, forecasting, eval harnesses, benefit measurement, hands-on execution, low-code platforms, revenue strategy, process fluency, workflow orchestration, Airflow, CRM hygiene, automated testing, success metrics, scikit-learn, agent tools, build mindset, maintainability, analytics engineering, production handoff, regulated enterprise, plugin design, outcome validation, AI Lab prototyping
+
+PROFESSIONAL EXPERIENCE
+GenAI Solution Consultant - Giles, Carter and Williams
+2019 - 2020
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: processed 40M records through reusable pipelines.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: processed 4M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: improved model quality by 20%.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: reduced manual analysis effort by 18%.
+
+Data Science Consultant - Waters-Johnson
+2020 - 2024
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: cut evaluation turnaround from 10 days to 1 day.
+  * Improved model performance through feature engineering, validation splits, and error analysis. Outcome: cut evaluation turnaround from 4 days to 3 days.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: cut evaluation turnaround from 5 days to 1 day.
+  * Executed strategic business plans with cross-functional teams focused on opportunity identification. Outcome: reduced manual analysis effort by 35%.
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: cut evaluation turnaround from 11 days to 1 day.
+
+Machine Learning Engineer - Lang, Williamson and Hall
+2024 - Present
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: reduced manual analysis effort by 44%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: cut evaluation turnaround from 11 days to 1 day.
+  * Packaged reusable services with typed contracts, validation, and deployment documentation. Outcome: improved model quality by 19%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced manual analysis effort by 32%.
+  * Improved pipeline reliability through validation, lineage notes, and scheduled quality checks. Outcome: reduced manual analysis effort by 18%.
+
+SELECTED ACHIEVEMENTS
+  * Improved model performance through feature engineering, validation splits, and error analysis. Result: improved model quality by 10%.
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Result: reduced manual analysis effort by 30%.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Result: cut evaluation turnaround from 9 days to 2 days.
+
+SELECTED PROJECTS
+  * Led discovery work across Pipeline generation, Builder mindset, Data engineering.
+  * Led discovery work across Cloud and engineering partnership, Full AI build lifecycle, Validated outcomes, APIs and microservices.
+  * Led enablement work across Cloud and engineering partnership, SQL and analytics, Low-code, API, and orchestration tools.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/edward-murphy/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+adoption metrics, secure deployment, forecasting, eval harnesses, benefit measurement, hands-on execution, low-code platforms, revenue strategy, process fluency, workflow orchestration, Airflow, CRM hygiene, automated testing, success metrics, AWS Certified Machine Learning - Specialty, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Databricks Machine Learning Associate
+  * SnowPro Core Certification
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+North James University - Class of 2016

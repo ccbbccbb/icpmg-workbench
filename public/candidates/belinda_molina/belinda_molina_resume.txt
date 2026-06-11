@@ -1,0 +1,65 @@
+=========================================
+BELINDA MOLINA
+West Michaelshire, MI | 266 666 2013 | belinda.molina@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Belinda Molina is a business and analytics professional with 6+ years of transferable experience related to Agentic AI delivery, Internal Transformation production path, Low-code, API, and orchestration tools, AI literacy artifacts. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Internal Transformation production path
+  * Low-code, API, and orchestration tools
+  * AI literacy artifacts
+  * Enterprise operations fluency
+  * Builder mindset
+  * Trade-off judgment
+
+CORE SKILLS
+operating model change, adoption planning, internal enablement, structured thinking, configuration, rapid prototyping, low-code platforms, agent workflows, process fluency, trade-off decisions, autonomous agents, internal transformation, enterprise operations, enterprise rollout, one-pagers, API integration, delivery judgment
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - Carroll, Mcfarland and Adkins
+2020 - 2021
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: coached a team of 11 consultants and engineers.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: delivered $11M in AI program value cases.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: coached a team of 4 consultants and engineers.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: reduced operational handoffs by 12%.
+
+Product Owner - Rose, Griffith and Pace
+2021 - 2023
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: standardized reporting for 4 stakeholder groups.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: coached a team of 4 consultants and engineers.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: coached a team of 6 consultants and engineers.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: reduced prototype-to-production cycle time by 34%.
+
+Technology Project Manager - Randolph-Krause
+2023 - Present
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: standardized reporting for 5 stakeholder groups.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: reduced operational handoffs by 16%.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: standardized reporting for 4 stakeholder groups.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced prototype-to-production cycle time by 28%.
+
+SELECTED ACHIEVEMENTS
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Result: delivered $8M in AI program value cases.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Result: standardized reporting for 5 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led implementation work across Trade-off judgment, Low-code, API, and orchestration tools, Builder mindset, Enterprise operations fluency.
+  * Led prototype work across AI literacy artifacts, Low-code, API, and orchestration tools, Agentic AI delivery, Trade-off judgment, Enterprise operations fluency.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/belinda-molina/agentic-ai-builds
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+
+TOOLS, PLATFORMS, AND METHODS
+operating model change, adoption planning, internal enablement, structured thinking, configuration, rapid prototyping, low-code platforms, agent workflows, process fluency, trade-off decisions, autonomous agents, internal transformation, enterprise operations, enterprise rollout, IAPP Certified Information Privacy Professional, SnowPro Core Certification
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+  * SnowPro Core Certification
+
+EDUCATION
+Graduate Certificate in Project Management
+Lake Leslieshire Institute of Technology - Class of 2014

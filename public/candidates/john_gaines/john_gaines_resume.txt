@@ -1,0 +1,65 @@
+=========================================
+JOHN GAINES
+Lake Jean, WA | 899 454 6831 | john.gaines@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+John Gaines is a business and analytics professional with 3+ years of transferable experience related to Approved AI and engineering stack, Human-AI collaboration, Full AI build lifecycle, Low-code, API, and orchestration tools. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Human-AI collaboration
+  * Full AI build lifecycle
+  * Low-code, API, and orchestration tools
+  * Builder mindset
+  * Builder community contribution
+  * Validated outcomes
+
+CORE SKILLS
+lifecycle ownership, solution maintenance, approved AI stack, autonomy design, hands-on execution, platform constraints, workflow orchestration, low-code platforms, review loops, success metrics, configuration, human-AI handoffs, secure platforms, benefit measurement, rapid prototyping, adoption metrics, API integration
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Thompson-Baker
+2023 - 2024
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: improved model quality by 23%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: cut evaluation turnaround from 11 days to 1 day.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: standardized reporting for 3 stakeholder groups.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: processed 14M records through reusable pipelines.
+
+Automation Specialist - Shaffer LLC
+2024 - 2025
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: reduced manual analysis effort by 46%.
+  * Delivered AI builds inside approved enterprise technology stacks and platform guardrails. Outcome: cut evaluation turnaround from 10 days to 3 days.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: processed 10M records through reusable pipelines.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced manual analysis effort by 23%.
+
+Analytics Consultant - Wallace, Hansen and Cowan
+2025 - Present
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: standardized reporting for 5 stakeholder groups.
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: cut evaluation turnaround from 12 days to 2 days.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: cut evaluation turnaround from 10 days to 2 days.
+
+SELECTED ACHIEVEMENTS
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Result: reduced manual analysis effort by 46%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Result: standardized reporting for 9 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led roadmap work across Builder community contribution, Full AI build lifecycle, Low-code, API, and orchestration tools.
+  * Led roadmap work across Full AI build lifecycle, Builder community contribution, Low-code, API, and orchestration tools.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/john-gaines/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+lifecycle ownership, solution maintenance, approved AI stack, autonomy design, hands-on execution, platform constraints, workflow orchestration, low-code platforms, review loops, success metrics, configuration, human-AI handoffs, secure platforms, benefit measurement, AWS Certified Machine Learning - Specialty, Project Management Professional
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+  * Project Management Professional
+
+EDUCATION
+Graduate Certificate in Project Management
+East Paulafurt School of Business - Class of 2021

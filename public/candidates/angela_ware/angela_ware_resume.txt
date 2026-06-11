@@ -1,0 +1,64 @@
+=========================================
+ANGELA WARE
+Johnview, TN | 612.276.0919 | angela.ware@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Angela Ware is a business and analytics professional with 4+ years of transferable experience related to Internal Transformation production path, Security and scalability, AI literacy artifacts, Service line leadership engagement. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Internal Transformation production path
+  * Security and scalability
+  * AI literacy artifacts
+  * Service line leadership engagement
+  * Ambiguity and execution
+  * Change management
+  * Builder mindset
+
+CORE SKILLS
+enterprise rollout, adoption planning, working systems, identity controls, ambiguity, service line leaders, communications, internal transformation, operating model change, internal stakeholders, delivery momentum, scalability, build mindset, hands-on execution, iteration, rapid prototyping, learning artifacts, internal enablement, senior manager alignment
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Boyer-Wolf
+2022 - 2023
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: delivered $11M in AI program value cases.
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: coached a team of 13 consultants and engineers.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: reduced prototype-to-production cycle time by 25%.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: improved delivery predictability by 20%.
+
+Analytics Delivery Lead - Mcdonald, Walker and Velez
+2023 - 2024
+  * Designed AI workflows with access controls, data protection, audit trails, and scalable service patterns. Outcome: standardized reporting for 6 stakeholder groups.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: reduced operational handoffs by 9%.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: delivered $11M in AI program value cases.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: reduced prototype-to-production cycle time by 20%.
+
+Analytics Delivery Lead - Webb Inc
+2024 - Present
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: reduced operational handoffs by 17%.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: reduced operational handoffs by 14%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: reduced prototype-to-production cycle time by 25%.
+  * Partnered with business leads to define new controls, roles, and escalation paths. Outcome: coached a team of 6 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Partnered with business leads to define new controls, roles, and escalation paths. Result: reduced prototype-to-production cycle time by 35%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Result: reduced operational handoffs by 13%.
+
+SELECTED PROJECTS
+  * Led discovery work across Internal Transformation production path, Service line leadership engagement, Change management, Builder mindset.
+  * Led enablement work across AI literacy artifacts, Builder mindset, Security and scalability, Internal Transformation production path, Ambiguity and execution.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/angela-ware/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+enterprise rollout, adoption planning, working systems, identity controls, ambiguity, service line leaders, communications, internal transformation, operating model change, internal stakeholders, delivery momentum, scalability, build mindset, hands-on execution, TOGAF Foundation
+
+CERTIFICATIONS
+  * TOGAF Foundation
+
+EDUCATION
+Diploma in Business Analytics
+Lake Donna Institute of Technology - Class of 2019

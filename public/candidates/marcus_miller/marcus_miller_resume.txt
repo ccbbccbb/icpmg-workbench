@@ -1,0 +1,65 @@
+=========================================
+MARCUS MILLER
+Richardfort, TN | 1-994-042-9068 | marcus.miller@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Marcus Miller is a business and analytics professional with 5+ years of transferable experience related to Internal Transformation production path, Service line leadership engagement, AI literacy artifacts, Enterprise operations fluency. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Internal Transformation production path
+  * Service line leadership engagement
+  * AI literacy artifacts
+  * Enterprise operations fluency
+  * Trade-off judgment
+  * Industry solutions
+  * Ambiguity and execution
+
+CORE SKILLS
+financial services, AI literacy, enterprise operations, ambiguity, healthcare, process fluency, retail, trade-off decisions, enterprise rollout, internal transformation, public sector, executive engagement
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Hartman Inc
+2021 - 2024
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: standardized reporting for 8 stakeholder groups.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: coached a team of 8 consultants and engineers.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: improved delivery predictability by 32%.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: standardized reporting for 5 stakeholder groups.
+
+Technology Project Manager - Jacobs Ltd
+2024 - 2025
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: reduced prototype-to-production cycle time by 23%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: reduced prototype-to-production cycle time by 18%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced prototype-to-production cycle time by 29%.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: standardized reporting for 7 stakeholder groups.
+
+Analytics Delivery Lead - Campos, Garrett and Stokes
+2025 - Present
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: improved delivery predictability by 24%.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: standardized reporting for 6 stakeholder groups.
+  * Created industry use-case maps connecting business problems to reusable technical accelerators. Outcome: improved delivery predictability by 18%.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: coached a team of 5 consultants and engineers.
+
+SELECTED ACHIEVEMENTS
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Result: delivered $7M in AI program value cases.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Result: delivered $4M in AI program value cases.
+
+SELECTED PROJECTS
+  * Led implementation work across Trade-off judgment, AI literacy artifacts, Industry solutions, Service line leadership engagement.
+  * Led implementation work across AI literacy artifacts, Ambiguity and execution, Service line leadership engagement.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/marcus-miller/agentic-ai-builds
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+financial services, AI literacy, enterprise operations, ambiguity, healthcare, process fluency, retail, trade-off decisions, enterprise rollout, internal transformation, public sector, executive engagement, Google Cloud Professional Machine Learning Engineer, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * Certified ScrumMaster
+
+EDUCATION
+Graduate Certificate in Project Management
+North Keith School of Business - Class of 2018

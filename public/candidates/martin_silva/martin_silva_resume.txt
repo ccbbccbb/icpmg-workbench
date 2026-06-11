@@ -1,0 +1,65 @@
+=========================================
+MARTIN SILVA
+Christinachester, WA | +1 (351) 996-0711 | martin.silva@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Martin Silva is a business and analytics professional with 9+ years of transferable experience related to Reusable demos, kits, and handoff materials, Ambiguity and execution, Human-AI collaboration, Service line leadership engagement. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Reusable demos, kits, and handoff materials
+  * Ambiguity and execution
+  * Human-AI collaboration
+  * Service line leadership engagement
+  * Change management
+  * Business case development
+  * AI literacy artifacts
+
+CORE SKILLS
+KPI design, review loops, senior manager alignment, executive engagement, iteration, delivery momentum, training design, cost estimation, decision boundaries, human-AI handoffs, investment cases, service line leaders, demo packaging, autonomy design, handoff kits, structured assumptions, SQL, adoption planning, implementation playbooks, AI literacy
+
+PROFESSIONAL EXPERIENCE
+Analytics Delivery Lead - Walker Group
+2017 - 2021
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: standardized reporting for 3 stakeholder groups.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: standardized reporting for 9 stakeholder groups.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: standardized reporting for 6 stakeholder groups.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: standardized reporting for 5 stakeholder groups.
+
+Product Owner - Moore-Holland
+2021 - 2024
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: delivered $8M in AI program value cases.
+  * Created benefits trackers to compare forecast savings against realized delivery outcomes. Outcome: standardized reporting for 9 stakeholder groups.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: reduced prototype-to-production cycle time by 31%.
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: improved delivery predictability by 16%.
+
+Analytics Delivery Lead - Phillips-Robinson
+2024 - Present
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: improved delivery predictability by 30%.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: delivered $13M in AI program value cases.
+  * Worked with service line leaders and senior managers to shape internal AI experimentation priorities. Outcome: delivered $6M in AI program value cases.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced prototype-to-production cycle time by 28%.
+
+SELECTED ACHIEVEMENTS
+  * Turned technical decisions into plain-language materials for business teams and new builders. Result: improved delivery predictability by 21%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Result: reduced prototype-to-production cycle time by 20%.
+
+SELECTED PROJECTS
+  * Led roadmap work across SQL and analytics, Change management, Reusable demos, kits, and handoff materials, Business case development, AI literacy artifacts.
+  * Led discovery work across Ambiguity and execution, Reusable demos, kits, and handoff materials, Change management, AI literacy artifacts.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/martin-silva/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Led an AI Lab pipeline from problem statement through prototype, evaluation harness, productionization plan, change management, and product ownership.
+
+TOOLS, PLATFORMS, AND METHODS
+KPI design, review loops, senior manager alignment, executive engagement, iteration, delivery momentum, training design, cost estimation, decision boundaries, human-AI handoffs, investment cases, service line leaders, demo packaging, autonomy design, SnowPro Core Certification, Certified ScrumMaster
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * Certified ScrumMaster
+
+EDUCATION
+Bachelor of Science, Statistics
+North Christopher University - Class of 2013

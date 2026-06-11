@@ -1,0 +1,64 @@
+=========================================
+KURT YOUNG
+North Kristen, ME | 402-683-2037 x850 | kurt.young@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kurt Young is a business and analytics professional with 5+ years of transferable experience related to Human-AI collaboration, Evaluation design, Code quality and reliability, Client workshops. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Human-AI collaboration
+  * Evaluation design
+  * Code quality and reliability
+  * Client workshops
+  * Ambiguity and execution
+  * Trade-off judgment
+  * Market development
+
+CORE SKILLS
+autonomy design, executive demos, trade-off decisions, builder coaching, journey mapping, structured assumptions, team development, ambiguity, delivery momentum, prioritization, agent evaluation, code review, reliability engineering, discovery workshops, demand generation, review loops, structured thinking, market analysis, iteration
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Paul Ltd
+2021 - 2022
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 7 days to 1 day.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: improved model quality by 26%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: standardized reporting for 5 stakeholder groups.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: standardized reporting for 7 stakeholder groups.
+
+Analytics Consultant - Smith LLC
+2022 - 2023
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: standardized reporting for 5 stakeholder groups.
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Outcome: reduced manual analysis effort by 30%.
+  * Created competitive positioning notes for AI offerings across platforms and industries. Outcome: improved model quality by 19%.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: processed 2M records through reusable pipelines.
+
+Analytics Consultant - Bridges PLC
+2023 - Present
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: standardized reporting for 10 stakeholder groups.
+  * Facilitated client workshops to identify AI opportunities, feasibility constraints, and implementation paths. Outcome: standardized reporting for 4 stakeholder groups.
+  * Identified market demand themes and translated them into AI solution themes and partner campaigns. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: reduced manual analysis effort by 20%.
+
+SELECTED ACHIEVEMENTS
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: reduced manual analysis effort by 43%.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Result: cut evaluation turnaround from 5 days to 2 days.
+
+SELECTED PROJECTS
+  * Led roadmap work across Human-AI collaboration, Client workshops, Builder team coaching, Ambiguity and execution, Trade-off judgment.
+  * Led prototype work across Trade-off judgment, Evaluation design, Ambiguity and execution, Human-AI collaboration, Code quality and reliability.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/kurt-young/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+
+TOOLS, PLATFORMS, AND METHODS
+autonomy design, executive demos, trade-off decisions, builder coaching, journey mapping, structured assumptions, team development, ambiguity, delivery momentum, prioritization, agent evaluation, code review, reliability engineering, discovery workshops, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+
+EDUCATION
+Graduate Certificate in Project Management
+West Darlenemouth School of Business - Class of 2017

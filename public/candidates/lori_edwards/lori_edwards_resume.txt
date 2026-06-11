@@ -1,0 +1,64 @@
+=========================================
+LORI EDWARDS
+Port Sara, HI | 981 748 3163 | lori.edwards@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Lori Edwards is a business and analytics professional with 4+ years of transferable experience related to AI Lab experimentation, Prototype portfolio, Ambiguity and execution, Validated outcomes. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * AI Lab experimentation
+  * Prototype portfolio
+  * Ambiguity and execution
+  * Validated outcomes
+  * Trade-off judgment
+  * Builder community contribution
+  * Automation
+
+CORE SKILLS
+frontier models, iteration, benefit measurement, RPA integration, Python automation, process mining, prioritization, shared assets, rapid experimentation, success metrics, outcome validation, AI Lab prototyping, adoption metrics, demo write-ups, delivery momentum, reuse, prototype portfolio, community demos, workflow automation
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Fox, Long and Johnson
+2022 - 2024
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: reduced operational handoffs by 12%.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: improved model quality by 9%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: improved model quality by 11%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: standardized reporting for 6 stakeholder groups.
+
+Business Analyst - Ross, Robinson and Mclean
+2024 - 2025
+  * Contributed demos, reusable assets, and implementation lessons back to the builder community. Outcome: reduced operational handoffs by 13%.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: improved model quality by 27%.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: improved model quality by 14%.
+
+Business Analyst - Anderson-Woodward
+2025 - Present
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: standardized reporting for 6 stakeholder groups.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: processed 22M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: improved model quality by 20%.
+
+SELECTED ACHIEVEMENTS
+  * Coached teams to document assumptions and decide when to prototype, harden, pause, or scale. Result: improved model quality by 26%.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Result: standardized reporting for 7 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led enablement work across Builder community contribution, Automation, Trade-off judgment, Prototype portfolio.
+  * Led discovery work across Trade-off judgment, Automation, Prototype portfolio, Ambiguity and execution, Builder community contribution.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/lori-edwards/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+frontier models, iteration, benefit measurement, RPA integration, Python automation, process mining, prioritization, shared assets, rapid experimentation, success metrics, outcome validation, AI Lab prototyping, adoption metrics, demo write-ups, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Bachelor of Economics
+Hooverview Institute of Technology - Class of 2017

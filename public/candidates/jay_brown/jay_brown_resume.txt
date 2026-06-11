@@ -1,0 +1,75 @@
+=========================================
+JAY BROWN
+Johnberg, MP | 1-358-873-8836 | jay.brown@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Jay Brown is a data and technology consulting professional with 7+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Builder team coaching, Cloud and engineering partnership, Agentic AI delivery, Workflow and operating-model redesign, Internal Transformation production path, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Builder team coaching
+  * Cloud and engineering partnership
+  * Agentic AI delivery
+  * Workflow and operating-model redesign
+  * Internal Transformation production path
+  * Demo readiness
+  * Team leadership
+  * Sales enablement
+  * Builder mindset
+  * Enterprise operations fluency
+
+CORE SKILLS
+team development, operating model design, battlecards, operating model, cloud engineering, one-pagers, DevOps collaboration, autonomous agents, performance feedback, decision systems, internal transformation, builder coaching, enterprise rollout, working systems, production handoff, solution maintenance, process decomposition, demo packaging, hands-on execution, enterprise operations, workflow redesign, rapid prototyping, learning artifacts, resource planning, replication kits, multi-agent systems
+
+PROFESSIONAL EXPERIENCE
+AI Product Engineering Manager - Strickland, Gutierrez and Kim
+2019 - 2023
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: coached a team of 13 consultants and engineers.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: coached a team of 8 consultants and engineers.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: delivered $7M in AI program value cases.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: reduced prototype-to-production cycle time by 33%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced prototype-to-production cycle time by 17%.
+
+AI Delivery Manager - Garcia Group
+2023 - 2024
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: reduced prototype-to-production cycle time by 34%.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: improved delivery predictability by 23%.
+  * Led mixed teams of consultants, engineers, and analysts through discovery, build, and rollout phases. Outcome: reduced prototype-to-production cycle time by 31%.
+  * Trained client-facing teams on AI use cases, partner offers, and qualification criteria. Outcome: coached a team of 13 consultants and engineers.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: improved delivery predictability by 22%.
+
+Applied AI Manager - Smith and Sons
+2024 - Present
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: delivered $13M in AI program value cases.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: reduced prototype-to-production cycle time by 18%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: delivered $7M in AI program value cases.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: improved delivery predictability by 16%.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: improved delivery predictability by 20%.
+
+SELECTED ACHIEVEMENTS
+  * Turned technical decisions into plain-language materials for business teams and new builders. Result: delivered $12M in AI program value cases.
+  * Led mixed teams of consultants, engineers, and analysts through discovery, build, and rollout phases. Result: reduced prototype-to-production cycle time by 39%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Result: reduced prototype-to-production cycle time by 27%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Demo readiness, Reusable demos, kits, and handoff materials, Cloud and engineering partnership, Builder team coaching.
+  * Led implementation work across Reusable demos, kits, and handoff materials, Internal Transformation production path, Builder mindset, Team leadership.
+  * Led enablement work across Workflow and operating-model redesign, Builder team coaching, Reusable demos, kits, and handoff materials, Sales enablement, Enterprise operations fluency.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/jay-brown/agentic-ai-builds
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+
+TOOLS, PLATFORMS, AND METHODS
+team development, operating model design, battlecards, operating model, cloud engineering, one-pagers, DevOps collaboration, autonomous agents, performance feedback, decision systems, internal transformation, builder coaching, enterprise rollout, working systems, Databricks Machine Learning Associate, Prosci Change Management Certification
+
+CERTIFICATIONS
+  * Databricks Machine Learning Associate
+  * Prosci Change Management Certification
+
+EDUCATION
+Master of Information Systems
+South Natalie Polytechnic - Class of 2015

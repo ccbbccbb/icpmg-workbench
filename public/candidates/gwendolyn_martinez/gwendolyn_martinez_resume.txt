@@ -1,0 +1,64 @@
+=========================================
+GWENDOLYN MARTINEZ
+Danielchester, FL | 643-196-8040 x023 | gwendolyn.martinez@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Gwendolyn Martinez is a business and analytics professional with 4+ years of transferable experience related to Reusable demos, kits, and handoff materials, Demo readiness, Internal Transformation production path, Builder mindset. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Reusable demos, kits, and handoff materials
+  * Demo readiness
+  * Internal Transformation production path
+  * Builder mindset
+  * Low-code, API, and orchestration tools
+  * AI literacy artifacts
+  * Responsible AI
+
+CORE SKILLS
+responsible AI, demo packaging, workflow orchestration, transparency, adoption planning, hands-on execution, demo narrative, operating model change, iteration, implementation playbooks, configuration, delivery momentum, handoff kits, human oversight, API integration, showcase artifacts, enterprise rollout, replication kits
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Sanchez-Brooks
+2022 - 2023
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: standardized reporting for 9 stakeholder groups.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: improved delivery predictability by 15%.
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: reduced prototype-to-production cycle time by 33%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: delivered $6M in AI program value cases.
+
+Product Owner - Wise and Sons
+2023 - 2024
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: improved delivery predictability by 17%.
+  * Turned technical decisions into plain-language materials for business teams and new builders. Outcome: improved delivery predictability by 15%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: reduced operational handoffs by 18%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: standardized reporting for 3 stakeholder groups.
+
+Product Owner - Reynolds LLC
+2024 - Present
+  * Combined low-code tools, APIs, and orchestration logic to create usable enterprise workflow automation. Outcome: delivered $13M in AI program value cases.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: improved delivery predictability by 33%.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: improved delivery predictability by 23%.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: improved delivery predictability by 19%.
+
+SELECTED ACHIEVEMENTS
+  * Turned technical decisions into plain-language materials for business teams and new builders. Result: improved delivery predictability by 19%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Result: coached a team of 11 consultants and engineers.
+
+SELECTED PROJECTS
+  * Led prototype work across Internal Transformation production path, Reusable demos, kits, and handoff materials, Ambiguity and execution.
+  * Led prototype work across Demo readiness, Low-code, API, and orchestration tools, Builder mindset, AI literacy artifacts, Responsible AI.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/gwendolyn-martinez/agentic-ai-builds
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+
+TOOLS, PLATFORMS, AND METHODS
+responsible AI, demo packaging, workflow orchestration, transparency, adoption planning, hands-on execution, demo narrative, operating model change, iteration, implementation playbooks, configuration, delivery momentum, handoff kits, human oversight, TOGAF Foundation
+
+CERTIFICATIONS
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Mathematics
+New Richardland School of Business - Class of 2019

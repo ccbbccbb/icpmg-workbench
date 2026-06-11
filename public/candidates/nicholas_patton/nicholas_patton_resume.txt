@@ -1,0 +1,65 @@
+=========================================
+NICHOLAS PATTON
+Danielmouth, NE | 1 (183) 494-6701 | nicholas.patton@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Nicholas Patton is a business and analytics professional with 4+ years of transferable experience related to Agents, plugins, skills, and tools, Full AI build lifecycle, Ambiguity and execution, Builder mindset. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agents, plugins, skills, and tools
+  * Full AI build lifecycle
+  * Ambiguity and execution
+  * Builder mindset
+  * Internal Transformation production path
+  * Validated outcomes
+  * Builder community contribution
+
+CORE SKILLS
+ambiguity, prototype lifecycle, lifecycle ownership, structured assumptions, skills, builder community, replication kits, adoption planning, Python automation, implementation playbooks, enterprise rollout, hands-on execution, adoption metrics, workflow automation, tool calling, outcome validation
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Brooks and Sons
+2022 - 2023
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: reduced manual analysis effort by 45%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: reduced manual analysis effort by 38%.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: reduced operational handoffs by 15%.
+
+Automation Specialist - Johnson Ltd
+2023 - 2024
+  * Planned rollout activities across business units, operating model updates, communications, and adoption tracking. Outcome: reduced manual analysis effort by 48%.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: cut evaluation turnaround from 9 days to 1 day.
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: reduced manual analysis effort by 20%.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: reduced operational handoffs by 14%.
+
+Business Analyst - Stevenson-Brown
+2024 - Present
+  * Helped peers reuse patterns by documenting components, limits, and setup steps. Outcome: reduced manual analysis effort by 39%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: processed 10M records through reusable pipelines.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: processed 18M records through reusable pipelines.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: standardized reporting for 10 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Result: standardized reporting for 5 stakeholder groups.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Result: improved model quality by 22%.
+
+SELECTED PROJECTS
+  * Led enablement work across Internal Transformation production path, Prototype portfolio, Builder mindset.
+  * Led implementation work across Reusable demos, kits, and handoff materials, Ambiguity and execution, Internal Transformation production path.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/nicholas-patton/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+
+TOOLS, PLATFORMS, AND METHODS
+ambiguity, prototype lifecycle, lifecycle ownership, structured assumptions, skills, builder community, replication kits, adoption planning, Python automation, implementation playbooks, enterprise rollout, hands-on execution, adoption metrics, workflow automation, Prosci Change Management Certification, Microsoft Certified: Azure AI Engineer Associate
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * Microsoft Certified: Azure AI Engineer Associate
+
+EDUCATION
+Bachelor of Business Administration
+North Manuelburgh Institute of Technology - Class of 2018

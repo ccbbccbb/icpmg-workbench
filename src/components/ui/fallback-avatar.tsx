@@ -21,10 +21,11 @@ function hashString(str: string): [number, number] {
 }
 
 function mulberry32(seed: number) {
+  let state = seed;
   return () => {
-    seed |= 0;
-    seed = (seed + 0x6d2b79f5) | 0;
-    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+    state |= 0;
+    state = (state + 0x6d2b79f5) | 0;
+    let t = Math.imul(state ^ (state >>> 15), 1 | state);
     t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
     return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
   };
@@ -240,7 +241,7 @@ export default function FallbackAvatar({
 
   useEffect(() => {
     uniformsRef.current = null;
-  }, [name]);
+  }, []);
 
   // Initial static render
   useEffect(() => {
@@ -248,7 +249,7 @@ export default function FallbackAvatar({
     const canvas = canvasRef.current;
     if (!canvas) return;
     renderToCanvas(canvas, getUniforms(), 0);
-  }, [name, size, isMounted, getUniforms]);
+  }, [isMounted, getUniforms]);
 
   // Hover animation
   useEffect(() => {

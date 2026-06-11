@@ -1,0 +1,65 @@
+=========================================
+BOBBY RODRIGUEZ
+Jackville, NM | +1 (872) 752-7581 | bobby.rodriguez@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Bobby Rodriguez is a business and analytics professional with 8+ years of transferable experience related to Validated outcomes, Builder team coaching, Evaluation design, Enterprise operations fluency. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Validated outcomes
+  * Builder team coaching
+  * Evaluation design
+  * Enterprise operations fluency
+  * Trade-off judgment
+  * Responsible AI
+  * Automation
+
+CORE SKILLS
+test sets, delivery judgment, operating model, technical direction, transparency, structured thinking, fairness, work review, regulated enterprise, responsible AI, trade-off decisions, success metrics, quality gates, workflow automation, RPA integration, Python automation
+
+PROFESSIONAL EXPERIENCE
+Technology Project Manager - Gray, Fox and Carlson
+2018 - 2020
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: delivered $5M in AI program value cases.
+  * Helped builders improve delivery quality by pairing on design choices, evaluation plans, and demo preparation. Outcome: coached a team of 5 consultants and engineers.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: delivered $2M in AI program value cases.
+  * Mapped how enterprise functions operate today and identified where autonomous agents could improve delivery. Outcome: reduced prototype-to-production cycle time by 34%.
+
+Analytics Delivery Lead - Moore-Adkins
+2020 - 2023
+  * Made informed trade-offs between build speed, reliability, governance, and user value. Outcome: standardized reporting for 9 stakeholder groups.
+  * Defined guardrails and review steps for higher-risk AI use cases. Outcome: improved delivery predictability by 17%.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: delivered $8M in AI program value cases.
+  * Developed AI roadmaps that balanced quick-win use cases with platform, governance, and talent needs. Outcome: reduced operational handoffs by 14%.
+
+Analytics Delivery Lead - Davis, Jimenez and Sparks
+2023 - Present
+  * Developed AI roadmaps that balanced quick-win use cases with platform, governance, and talent needs. Outcome: improved delivery predictability by 29%.
+  * Balanced strategy, technology, controls, and execution in complex regulated environments. Outcome: reduced prototype-to-production cycle time by 22%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: reduced operational handoffs by 8%.
+  * Automated recurring data quality checks and exception routing for operations teams. Outcome: improved delivery predictability by 21%.
+
+SELECTED ACHIEVEMENTS
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Result: reduced operational handoffs by 16%.
+  * Automated recurring data quality checks and exception routing for operations teams. Result: reduced prototype-to-production cycle time by 18%.
+
+SELECTED PROJECTS
+  * Led enablement work across Trade-off judgment, Automation, Enterprise operations fluency, Evaluation design, Builder team coaching.
+  * Led prototype work across Validated outcomes, Trade-off judgment, Evaluation design, Data and AI strategy, Enterprise operations fluency.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/bobby-rodriguez/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Coached Consultants and Senior Consultants by setting technical direction, reviewing agent designs, and documenting trade-off decisions.
+
+TOOLS, PLATFORMS, AND METHODS
+test sets, delivery judgment, operating model, technical direction, transparency, structured thinking, fairness, work review, regulated enterprise, responsible AI, trade-off decisions, success metrics, quality gates, workflow automation, Certified ScrumMaster, IAPP Certified Information Privacy Professional
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Graduate Certificate in Project Management
+South Jasmine University - Class of 2015

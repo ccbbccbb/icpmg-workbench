@@ -1,0 +1,74 @@
+=========================================
+AMY SANDERS
+Harperburgh, ND | (520) 634-2233 x905 | amy.sanders@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Amy Sanders is a data and technology consulting professional with 8+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Approved AI and engineering stack, Human-AI collaboration, Cloud and engineering partnership, Productionization, Evaluation design, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Approved AI and engineering stack
+  * Human-AI collaboration
+  * Cloud and engineering partnership
+  * Productionization
+  * Evaluation design
+  * Agentic AI delivery
+  * Full AI build lifecycle
+  * Enterprise architecture
+  * SQL and analytics
+  * Machine learning
+
+CORE SKILLS
+enterprise architecture, solution maintenance, test sets, AI Lab prototyping, dashboard design, applied research, lead sharing, release planning, field sales, workflow automation, RPA integration, agent evaluation, prototype lifecycle, Power BI, integration patterns, secure platforms, secure deployment, production handoff, technology roadmaps, rapid experimentation, model training, autonomy design, eval harnesses, human-AI handoffs, orchestration, DevOps collaboration
+
+PROFESSIONAL EXPERIENCE
+AI Builder Senior Consultant - Aguirre, Kaiser and Fox
+2018 - 2022
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced manual analysis effort by 29%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: cut evaluation turnaround from 12 days to 1 day.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: processed 40M records through reusable pipelines.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: cut evaluation turnaround from 7 days to 1 day.
+
+Applied AI Consultant - Robinson-Williamson
+2022 - 2023
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: processed 34M records through reusable pipelines.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: improved model quality by 8%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: processed 5M records through reusable pipelines.
+  * Created transition roadmaps from prototype architecture to production-ready platforms. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Used SQL to profile source data, define metrics, and validate model input quality. Outcome: improved model quality by 17%.
+
+AI Builder Senior Consultant - Noble-Jones
+2023 - Present
+  * Built analytics views that made AI outputs traceable to source records and business KPIs. Outcome: processed 15M records through reusable pipelines.
+  * Improved model performance through feature engineering, validation splits, and error analysis. Outcome: reduced manual analysis effort by 25%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: processed 40M records through reusable pipelines.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: improved model quality by 12%.
+  * Built account pursuit cadences with partner sellers, internal account teams, and solution leads. Outcome: improved model quality by 24%.
+
+SELECTED ACHIEVEMENTS
+  * Mapped AI solution options to enterprise architecture standards and existing integration patterns. Result: processed 32M records through reusable pipelines.
+  * Built account pursuit cadences with partner sellers, internal account teams, and solution leads. Result: cut evaluation turnaround from 4 days to 2 days.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Result: reduced manual analysis effort by 37%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Productionization, Approved AI and engineering stack, Automation.
+  * Led discovery work across Approved AI and engineering stack, Automation, Productionization, Partner field sales collaboration, Human-AI collaboration.
+  * Led roadmap work across Productionization, Approved AI and engineering stack, Agentic AI delivery.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/amy-sanders/agentic-ai-builds
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+enterprise architecture, solution maintenance, test sets, AI Lab prototyping, dashboard design, applied research, lead sharing, release planning, field sales, workflow automation, RPA integration, agent evaluation, prototype lifecycle, Power BI, Google Cloud Professional Machine Learning Engineer, Databricks Machine Learning Associate
+
+CERTIFICATIONS
+  * Google Cloud Professional Machine Learning Engineer
+  * Databricks Machine Learning Associate
+
+EDUCATION
+Master of Applied Computing
+Kimberg School of Business - Class of 2016

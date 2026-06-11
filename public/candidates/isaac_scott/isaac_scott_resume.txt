@@ -1,0 +1,76 @@
+=========================================
+ISAAC SCOTT
+Johnbury, SC | 604-093-5479 | isaac.scott@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Isaac Scott is a data and technology consulting professional with 7+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Evaluation design, Security and scalability, AI Lab experimentation, Cloud and engineering partnership, Full AI build lifecycle, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Security and scalability
+  * AI Lab experimentation
+  * Cloud and engineering partnership
+  * Full AI build lifecycle
+  * Agentic AI delivery
+  * Productionization
+  * Agents, plugins, skills, and tools
+  * Risk controls
+  * Security
+
+CORE SKILLS
+LLM evaluation, lead sharing, precision and recall, scalability, quality metrics, test sets, cloud marketplace, working systems, field sales, prototype lifecycle, DevOps collaboration, partner funding, cloud engineering, document AI, release planning, threat modelling, multi-agent systems, evaluation datasets, solution maintenance, LangChain, issue management, partner channels, quality gates, identity controls
+
+PROFESSIONAL EXPERIENCE
+GenAI Solution Consultant - Palmer Inc
+2019 - 2022
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: processed 33M records through reusable pipelines.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: cut evaluation turnaround from 6 days to 1 day.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: improved model quality by 25%.
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: cut evaluation turnaround from 5 days to 2 days.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved model quality by 15%.
+
+GenAI Solution Consultant - Jones, Wheeler and Rasmussen
+2022 - 2025
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: cut evaluation turnaround from 11 days to 3 days.
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Outcome: processed 5M records through reusable pipelines.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: processed 39M records through reusable pipelines.
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: improved model quality by 8%.
+  * Designed controls for data access, model approval, output review, and exception handling. Outcome: reduced manual analysis effort by 42%.
+
+GenAI Solution Consultant - French-Rivera
+2025 - Present
+  * Maintained risk registers and mitigation plans for AI delivery initiatives. Outcome: reduced manual analysis effort by 44%.
+  * Reviewed AI architecture for identity, access, logging, secrets management, and data protection needs. Outcome: cut evaluation turnaround from 8 days to 1 day.
+  * Moved from concept to working system quickly, using code, configuration, APIs, and orchestration tools. Outcome: improved model quality by 12%.
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Outcome: cut evaluation turnaround from 11 days to 2 days.
+  * Integrated language models into business workflows through APIs, queues, and review interfaces. Outcome: processed 16M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Worked with security teams to close architecture and deployment risks before launch. Result: processed 26M records through reusable pipelines.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Result: cut evaluation turnaround from 5 days to 2 days.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: reduced manual analysis effort by 42%.
+
+SELECTED PROJECTS
+  * Led roadmap work across Model evaluation, Builder mindset, Full AI build lifecycle, Productionization.
+  * Led prototype work across Full AI build lifecycle, Agentic AI delivery, Code quality and reliability.
+  * Led roadmap work across Agentic AI delivery, Evaluation design, Full AI build lifecycle, AI Lab experimentation, Security.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/isaac-scott/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+LLM evaluation, lead sharing, precision and recall, scalability, quality metrics, test sets, cloud marketplace, working systems, field sales, prototype lifecycle, DevOps collaboration, partner funding, cloud engineering, document AI, Prosci Change Management Certification, Certified ScrumMaster
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * Certified ScrumMaster
+  * IAPP Certified Information Privacy Professional
+  * SnowPro Core Certification
+
+EDUCATION
+Master of Applied Computing
+Port Joyland Institute of Technology - Class of 2015

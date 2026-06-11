@@ -1,0 +1,64 @@
+=========================================
+MCKENZIE SINGH
+Irwinstad, NV | (174) 621-0827 x662 | mckenzie.singh@gmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Mckenzie Singh is a business and analytics professional with 6+ years of transferable experience related to AI Lab experimentation, Full AI build lifecycle, Approved AI and engineering stack, Automation. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * AI Lab experimentation
+  * Full AI build lifecycle
+  * Approved AI and engineering stack
+  * Automation
+  * Ambiguity and execution
+  * Validated outcomes
+  * Client workshops
+
+CORE SKILLS
+structured assumptions, journey mapping, frontier models, facilitation, executive demos, workflow automation, ambiguity, platform constraints, RPA integration, applied research, iteration, adoption metrics, Python automation, prototype lifecycle, outcome validation
+
+PROFESSIONAL EXPERIENCE
+Business Analyst - Davidson Ltd
+2020 - 2022
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: reduced manual analysis effort by 28%.
+  * Connected discovery, build, evaluation, deployment, adoption, and continuous improvement into one delivery plan. Outcome: cut evaluation turnaround from 12 days to 3 days.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: improved model quality by 10%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: improved model quality by 9%.
+
+Business Analyst - Martinez, Salinas and Lopez
+2022 - 2023
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: improved model quality by 11%.
+  * Maintained delivery momentum while problem definitions, stakeholders, and constraints evolved. Outcome: reduced manual analysis effort by 21%.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: reduced operational handoffs by 17%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: reduced operational handoffs by 8%.
+
+Analytics Consultant - Cervantes, Harvey and Brown
+2023 - Present
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: improved model quality by 26%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Reduced manual review effort by codifying intake, enrichment, and approval workflows. Outcome: standardized reporting for 10 stakeholder groups.
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: standardized reporting for 4 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Automated recurring data quality checks and exception routing for operations teams. Result: reduced manual analysis effort by 47%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Result: reduced operational handoffs by 17%.
+
+SELECTED PROJECTS
+  * Led discovery work across Client workshops, AI Lab experimentation, Validated outcomes.
+  * Led enablement work across Ambiguity and execution, Approved AI and engineering stack, Client workshops.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/mckenzie-singh/agentic-ai-builds
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+
+TOOLS, PLATFORMS, AND METHODS
+structured assumptions, journey mapping, frontier models, facilitation, executive demos, workflow automation, ambiguity, platform constraints, RPA integration, applied research, iteration, adoption metrics, Python automation, prototype lifecycle, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Bachelor of Science, Statistics
+Saraberg School of Business - Class of 2014

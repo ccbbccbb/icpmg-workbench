@@ -1,0 +1,75 @@
+=========================================
+BRANDON ROACH
+Dianeside, NJ | 413.539.6478 | brandon.roach@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Brandon Roach is a data and technology consulting professional with 7+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Cloud and engineering partnership, Prototype portfolio, Full AI build lifecycle, Agentic AI delivery, Evaluation design, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Prototype portfolio
+  * Full AI build lifecycle
+  * Agentic AI delivery
+  * Evaluation design
+  * Human-AI collaboration
+  * Approved AI and engineering stack
+  * Internal Transformation production path
+  * LLM applications
+  * Builder mindset
+
+CORE SKILLS
+review loops, solution maintenance, rapid experimentation, secure deployment, secure platforms, lifecycle ownership, chat applications, retrieval augmented generation, agent workflows, GitHub demos, build case, tool calling, agent evaluation, engineering standards, build mindset, platform constraints, autonomous agents, rapid prototyping, approved AI stack, prototype lifecycle, platform teams, prototype portfolio, frontier models, autonomy design, enterprise rollout, working systems, hands-on execution, workflow orchestration, eval harnesses, internal transformation
+
+PROFESSIONAL EXPERIENCE
+Applied AI Consultant - Owens Inc
+2019 - 2023
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: processed 10M records through reusable pipelines.
+  * Prepared build-case submissions that showed practical problem solving, AI use, and original thinking. Outcome: cut evaluation turnaround from 5 days to 1 day.
+  * Owned the build lifecycle from problem framing and lab prototype through productionization and maintenance planning. Outcome: improved model quality by 14%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: processed 23M records through reusable pipelines.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: processed 27M records through reusable pipelines.
+
+Data Science Consultant - Gould Group
+2023 - 2025
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: processed 25M records through reusable pipelines.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced manual analysis effort by 28%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: reduced manual analysis effort by 18%.
+  * Partnered with internal transformation teams to convert lab concepts into scalable enterprise workflows. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Integrated language models into business workflows through APIs, queues, and review interfaces. Outcome: cut evaluation turnaround from 9 days to 1 day.
+
+Data Science Consultant - Morris, Sanders and Richard
+2025 - Present
+  * Implemented LLM applications with retrieval, guardrails, evaluation data, and user feedback capture. Outcome: processed 5M records through reusable pipelines.
+  * Demonstrated ideas through functioning prototypes rather than static recommendations. Outcome: reduced manual analysis effort by 45%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: processed 11M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Outcome: improved model quality by 27%.
+  * Evaluated generative AI use cases against data access, explainability, cost, and operational risk. Outcome: cut evaluation turnaround from 6 days to 3 days.
+
+SELECTED ACHIEVEMENTS
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Result: processed 13M records through reusable pipelines.
+  * Used secure AI Lab environments to test frontier-model use cases before broader internal release. Result: processed 33M records through reusable pipelines.
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Result: cut evaluation turnaround from 9 days to 3 days.
+
+SELECTED PROJECTS
+  * Led roadmap work across Full AI build lifecycle, LLM applications, Prototype portfolio, Internal Transformation production path, Evaluation design.
+  * Led discovery work across Agentic AI delivery, Prototype portfolio, Approved AI and engineering stack, Generative AI, LLM applications.
+  * Led enablement work across Evaluation design, Builder mindset, LLM applications, AI Lab experimentation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/brandon-roach/agentic-ai-builds
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Designed evaluations for tool use, workflow completion, output quality, safety constraints, and regression checks.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+review loops, solution maintenance, rapid experimentation, secure deployment, secure platforms, lifecycle ownership, chat applications, retrieval augmented generation, agent workflows, GitHub demos, build case, tool calling, agent evaluation, engineering standards, Prosci Change Management Certification, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * Prosci Change Management Certification
+  * AWS Certified Machine Learning - Specialty
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Engineering, Computer Engineering
+Lake Krystalview Institute of Technology - Class of 2017

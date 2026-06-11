@@ -32,7 +32,6 @@
   /* Semantic surfaces & links */
   --color-kpmgGreen: #22c55e;
   --color-backgroundDark: #212121;
-  --color-backgroundLight: #e6efff;
   --color-blackAlpha: #00000014;
   --color-lightLink: #0069c2;
   --color-lightLinkHover: #007ae6;
@@ -51,7 +50,7 @@
   --text-2xs--line-height: 0.8rem;
 }
 
-/* Semantic tokens for spell-ui components (shadcn-style), mapped to the KPMG palette */
+/* Semantic tokens for spell-ui components (shadcn-style) */
 :root {
   --radius: 0.625rem;
   --background: #ffffff;
@@ -66,12 +65,12 @@
   --secondary-foreground: var(--color-kpmgGray1);
   --muted: var(--color-kpmgGray6);
   --muted-foreground: var(--color-kpmgGray2);
-  --accent: var(--color-backgroundLight);
-  --accent-foreground: var(--color-kpmgBlue);
+  --accent: var(--color-kpmgGray6);
+  --accent-foreground: var(--color-kpmgGray1);
   --destructive: #dc2626;
   --border: var(--color-kpmgGray45);
   --input: var(--color-kpmgGray45);
-  --ring: var(--color-kpmgCobaltBlue);
+  --ring: var(--color-kpmgGray45);
 }
 
 @theme inline {
@@ -131,7 +130,7 @@
   }
 
   ::selection {
-    background-color: #98b9e2b3;
+    background-color: #d1d1d1b3;
   }
 }
 
@@ -271,7 +270,7 @@
  * --- Hardcoded base values (already active above; listed for reference) ---
  *
  * body color:              #121212
- * ::selection background:  #98b9e2b3
+ * ::selection background:  #d1d1d1b3
  *
  * ---------------------------------------------------------------------------
  */

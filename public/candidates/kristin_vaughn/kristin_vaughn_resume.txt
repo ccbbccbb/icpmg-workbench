@@ -1,0 +1,77 @@
+=========================================
+KRISTIN VAUGHN
+Lake Ericport, PR | +1 (181) 033-2932 | kristin.vaughn@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Kristin Vaughn is a data and technology consulting professional with 8+ years of experience in leading internal agentic AI initiatives from AI Lab prototyping through evaluations, productionization, change management, product ownership, demo readiness, governance, and reusable handoff kits. Strongest evidence areas include Cloud and engineering partnership, Builder team coaching, Demo readiness, Evaluation design, Agents, plugins, skills, and tools, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Builder team coaching
+  * Demo readiness
+  * Evaluation design
+  * Agents, plugins, skills, and tools
+  * Reusable demos, kits, and handoff materials
+  * Validated outcomes
+  * Team leadership
+  * Agile delivery
+  * Commercial negotiation
+
+CORE SKILLS
+implementation playbooks, performance feedback, technical discovery, resource planning, Scrum, cloud engineering, sprint planning, success metrics, demo rehearsal, orchestration, skills, commercial strategy, replication kits, coaching, proposal support, secure deployment, operating model design, pricing, adoption metrics, contracting, handoff kits, deal governance, adoption planning, platform teams, Kanban, estimation, benefit measurement, outcome validation, backlog management
+
+PROFESSIONAL EXPERIENCE
+Applied AI Manager - Newman Ltd
+2018 - 2022
+  * Converted prototype requirements into engineering tickets, architecture notes, and platform dependency plans. Outcome: improved delivery predictability by 29%.
+  * Set direction for Consultants and Senior Consultants, reviewed work, and coached builders through trade-offs. Outcome: coached a team of 6 consultants and engineers.
+  * Maintained demo readiness with current sample data, risk notes, and clear user journey scripts. Outcome: coached a team of 10 consultants and engineers.
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: coached a team of 12 consultants and engineers.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: delivered $3M in AI program value cases.
+
+AI Delivery Manager - Flowers and Sons
+2022 - 2023
+  * Packaged reusable agent capabilities so later builds could start from tested components. Outcome: delivered $10M in AI program value cases.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: coached a team of 12 consultants and engineers.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: coached a team of 13 consultants and engineers.
+  * Led mixed teams of consultants, engineers, and analysts through discovery, build, and rollout phases. Outcome: delivered $8M in AI program value cases.
+  * Ran sprint ceremonies and converted discovery notes into prioritized delivery backlogs. Outcome: improved delivery predictability by 14%.
+
+AI Product Engineering Manager - Roth, Morgan and Walker
+2023 - Present
+  * Ran sprint ceremonies and converted discovery notes into prioritized delivery backlogs. Outcome: delivered $9M in AI program value cases.
+  * Supported commercial negotiations by clarifying scope, value drivers, dependencies, and success metrics. Outcome: delivered $13M in AI program value cases.
+  * Redesigned multi-step workflows and decision systems around human-AI collaboration and measurable outcomes. Outcome: coached a team of 7 consultants and engineers.
+  * Built demo narratives that connected AI capabilities to client processes and value drivers. Outcome: delivered $11M in AI program value cases.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: improved delivery predictability by 33%.
+
+SELECTED ACHIEVEMENTS
+  * Coordinated analysts, engineers, and client owners through two-week delivery cycles. Result: coached a team of 6 consultants and engineers.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Result: reduced prototype-to-production cycle time by 25%.
+  * Built demo narratives that connected AI capabilities to client processes and value drivers. Result: reduced prototype-to-production cycle time by 31%.
+
+SELECTED PROJECTS
+  * Led discovery work across Commercial negotiation, Builder team coaching, Demo readiness.
+  * Led roadmap work across Technical pre-sales, Change management, Validated outcomes, Demo readiness, Workflow and operating-model redesign.
+  * Led enablement work across Demo readiness, Agile delivery, Reusable demos, kits, and handoff materials.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/kristin-vaughn/agentic-ai-builds
+  * Partnered with cloud platform and engineering teams on code quality, reliability, security, scalability, observability, and release criteria.
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Prepared demo readiness artifacts covering user journey, risk assumptions, data boundaries, prompt behavior, and stakeholder narrative.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+implementation playbooks, performance feedback, technical discovery, resource planning, Scrum, cloud engineering, sprint planning, success metrics, demo rehearsal, orchestration, skills, commercial strategy, replication kits, coaching, Certified ScrumMaster, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * Google Cloud Professional Machine Learning Engineer
+  * SnowPro Core Certification
+  * IAPP Certified Information Privacy Professional
+
+EDUCATION
+Master of Data Science
+Reedport University - Class of 2016

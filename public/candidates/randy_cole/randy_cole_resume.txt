@@ -1,0 +1,65 @@
+=========================================
+RANDY COLE
+Josephbury, MH | +1 (766) 445-5980 | randy.cole@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Randy Cole is a business and analytics professional with 8+ years of transferable experience related to Cloud and engineering partnership, Code quality and reliability, Evaluation design, AI literacy artifacts. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Cloud and engineering partnership
+  * Code quality and reliability
+  * Evaluation design
+  * AI literacy artifacts
+  * Human-AI collaboration
+  * Service line leadership engagement
+  * Change management
+
+CORE SKILLS
+learning artifacts, service line leaders, operating model change, ambiguity, iteration, fairness, agent evaluation, one-pagers, decision boundaries, acceptance criteria, adoption planning, platform teams, automated testing, internal stakeholders, AI ethics, review loops
+
+PROFESSIONAL EXPERIENCE
+Product Owner - Wilson-Whitney
+2018 - 2020
+  * Worked with cloud platform and engineering teams on deployment design, reliability, observability, and support. Outcome: standardized reporting for 8 stakeholder groups.
+  * Improved reliability by adding structured logging, retries, validation, and documented failure modes. Outcome: delivered $2M in AI program value cases.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: reduced operational handoffs by 18%.
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: standardized reporting for 10 stakeholder groups.
+
+Technology Project Manager - Brown, Martin and Wilson
+2020 - 2023
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: delivered $10M in AI program value cases.
+  * Translated leadership priorities into problem statements, prototype scope, and adoption plans. Outcome: standardized reporting for 8 stakeholder groups.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: reduced operational handoffs by 9%.
+  * Assessed responsible AI considerations including fairness, explainability, privacy, and human oversight. Outcome: improved delivery predictability by 29%.
+
+Product Owner - Walsh, Schmidt and Park
+2023 - Present
+  * Captured build learnings in one-pagers, AI literacy notes, and reusable explanation artifacts. Outcome: coached a team of 5 consultants and engineers.
+  * Prepared adoption plans, training decks, and change impact assessments for AI-enabled process changes. Outcome: coached a team of 11 consultants and engineers.
+  * Owned product backlogs for AI-enabled tools, balancing user needs, risk controls, and delivery capacity. Outcome: delivered $10M in AI program value cases.
+  * Defined appropriate autonomy levels based on risk, workflow maturity, and user confidence. Outcome: reduced prototype-to-production cycle time by 28%.
+
+SELECTED ACHIEVEMENTS
+  * Reviewed code quality, test coverage, error handling, and operational readiness before internal release. Result: reduced prototype-to-production cycle time by 16%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Result: reduced operational handoffs by 18%.
+
+SELECTED PROJECTS
+  * Led prototype work across Ambiguity and execution, Cloud and engineering partnership, Evaluation design.
+  * Led implementation work across Code quality and reliability, Service line leadership engagement, AI literacy artifacts, Evaluation design, Product management.
+
+AGENTIC AI BUILD LEADERSHIP
+  * Prototype portfolio: https://github.com/randy-cole/agentic-ai-builds
+  * Defined human-AI handoffs, autonomy boundaries, governance checkpoints, and adoption metrics for regulated enterprise workflows.
+  * Packaged validated agents into demo narratives, safety notes, reusable kits, one-pagers, and handoff material for downstream internal teams.
+
+TOOLS, PLATFORMS, AND METHODS
+learning artifacts, service line leaders, operating model change, ambiguity, iteration, fairness, agent evaluation, one-pagers, decision boundaries, acceptance criteria, adoption planning, platform teams, automated testing, internal stakeholders, SnowPro Core Certification, AWS Certified Machine Learning - Specialty
+
+CERTIFICATIONS
+  * SnowPro Core Certification
+  * AWS Certified Machine Learning - Specialty
+
+EDUCATION
+Graduate Certificate in Project Management
+Port Christine School of Business - Class of 2014

@@ -1,0 +1,76 @@
+=========================================
+TREVOR POTTS
+West Yolanda, MS | +1 (620) 402-9303 | trevor.potts@yahoo.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Trevor Potts is a data and technology consulting professional with 4+ years of experience in building, testing, hardening, and maintaining production-grade agents, plugins, skills, tools, integrations, evaluations, and reusable assets for internal enterprise workflows. Strongest evidence areas include Evaluation design, Agents, plugins, skills, and tools, Approved AI and engineering stack, Prototype portfolio, AI Lab experimentation, with practical delivery and stakeholder results.
+
+AREAS OF EXPERTISE
+  * Evaluation design
+  * Agents, plugins, skills, and tools
+  * Approved AI and engineering stack
+  * Prototype portfolio
+  * AI Lab experimentation
+  * Agentic AI delivery
+  * Productionization
+  * Validated outcomes
+  * Visualization
+  * Security and scalability
+
+CORE SKILLS
+secure platforms, operational support, outcome validation, deployment controls, executive storytelling, applied research, solution evangelism, agentic AI, system prompts, plugin design, platform constraints, secure architecture, pandas, rapid experimentation, data storytelling, commercial strategy, agent evaluation, autonomy design, FastAPI, multi-agent systems, scalability, human-AI handoffs, benefit measurement, decision boundaries, demo write-ups
+
+PROFESSIONAL EXPERIENCE
+GenAI Solution Consultant - West Inc
+2022 - 2024
+  * Built test cases and scoring rubrics to compare agent behavior across prompt, tool, and model changes. Outcome: improved model quality by 13%.
+  * Built agents, plugins, skills, and tools that automated internal workflow steps with clear ownership boundaries. Outcome: improved model quality by 23%.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Outcome: cut evaluation turnaround from 9 days to 1 day.
+  * Maintained a prototype portfolio with build notes, demo assets, and explanations of design decisions. Outcome: improved model quality by 17%.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: improved model quality by 20%.
+
+Machine Learning Engineer - Leon, Weaver and Rosario
+2024 - 2025
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Outcome: improved model quality by 20%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: cut evaluation turnaround from 6 days to 3 days.
+  * Coordinated production readiness reviews across product, engineering, security, and business teams. Outcome: processed 22M records through reusable pipelines.
+  * Defined validation metrics before build work started and used them to decide whether prototypes should scale. Outcome: improved model quality by 8%.
+  * Created dashboards for adoption, model performance, pipeline health, and executive reporting. Outcome: improved model quality by 10%.
+
+AI Builder Senior Consultant - Hernandez, Hurst and Salazar
+2025 - Present
+  * Presented analytical findings through concise visuals, narrative summaries, and recommended actions. Outcome: reduced manual analysis effort by 42%.
+  * Resolved security and scalability issues before expanding prototypes to broader user groups. Outcome: reduced manual analysis effort by 40%.
+  * Designed prompt templates with examples, constraints, and evaluation checks for repeatable AI outputs. Outcome: reduced manual analysis effort by 47%.
+  * Designed human-AI handoffs with clear decision boundaries, review points, and escalation paths. Outcome: reduced manual analysis effort by 20%.
+  * Prepared executive deal summaries covering pricing assumptions, delivery risk, and partner commitments. Outcome: processed 33M records through reusable pipelines.
+
+SELECTED ACHIEVEMENTS
+  * Built agent patterns that combined planning, tool use, memory, human review, and escalation boundaries. Result: cut evaluation turnaround from 7 days to 3 days.
+  * Aligned prototypes with engineering standards so validated concepts could move into production paths. Result: cut evaluation turnaround from 7 days to 3 days.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Result: cut evaluation turnaround from 5 days to 1 day.
+
+SELECTED PROJECTS
+  * Led enablement work across Validated outcomes, Prompt engineering, Security and scalability, Approved AI and engineering stack, Prototype portfolio.
+  * Led implementation work across Security and scalability, AI Lab experimentation, Visualization.
+  * Led roadmap work across Data and AI solution evangelism, Agents, plugins, skills, and tools, Security and scalability, Human-AI collaboration, Agentic AI delivery.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/trevor-potts/agentic-ai-builds
+  * Built, tested, and hardened agents, plugins, skills, and tools connected to enterprise platforms and internal data sources.
+  * Contributed reusable components and implementation notes back to a shared AI stack so later builds could start further ahead.
+  * Documented build decisions, assumptions, user handoffs, autonomy limits, and responsible AI considerations for prototype case review.
+
+TOOLS, PLATFORMS, AND METHODS
+secure platforms, operational support, outcome validation, deployment controls, executive storytelling, applied research, solution evangelism, agentic AI, system prompts, plugin design, platform constraints, secure architecture, pandas, rapid experimentation, Certified ScrumMaster, Google Cloud Professional Machine Learning Engineer
+
+CERTIFICATIONS
+  * Certified ScrumMaster
+  * Google Cloud Professional Machine Learning Engineer
+  * Prosci Change Management Certification
+  * TOGAF Foundation
+
+EDUCATION
+Bachelor of Computer Science
+Harrisonhaven School of Business - Class of 2020

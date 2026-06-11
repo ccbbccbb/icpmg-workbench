@@ -1,0 +1,64 @@
+=========================================
+NICOLE JONES
+North Austinton, MS | (652) 039-2340 | nicole.jones@hotmail.com
+=========================================
+
+PROFESSIONAL SUMMARY
+Nicole Jones is a business and analytics professional with 5+ years of transferable experience related to Agentic AI delivery, Evaluation design, Productionization, Ambiguity and execution. The profile shows partial alignment to Data and AI work, with gaps in deeper role ownership.
+
+AREAS OF EXPERTISE
+  * Agentic AI delivery
+  * Evaluation design
+  * Productionization
+  * Ambiguity and execution
+  * Validated outcomes
+  * Client workshops
+  * Low-code, API, and orchestration tools
+
+CORE SKILLS
+release planning, demo packaging, agent workflows, handoff kits, success metrics, agentic AI, delivery momentum, production readiness, rapid experimentation, facilitation, quality gates, adoption metrics
+
+PROFESSIONAL EXPERIENCE
+Automation Specialist - Hernandez, Campbell and Rose
+2021 - 2022
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: reduced operational handoffs by 14%.
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Outcome: standardized reporting for 8 stakeholder groups.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced operational handoffs by 16%.
+  * Led ambiguous problem spaces by making reasonable assumptions, testing quickly, and keeping teams aligned. Outcome: processed 27M records through reusable pipelines.
+
+Analytics Consultant - Williams-Hernandez
+2022 - 2025
+  * Tracked adoption, quality, cycle time, and user feedback to prove whether an agentic workflow worked. Outcome: cut evaluation turnaround from 5 days to 3 days.
+  * Converted stakeholder interviews into solution options, assumptions, and decision logs. Outcome: reduced manual analysis effort by 29%.
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: reduced manual analysis effort by 23%.
+  * Created implementation notes so other teams could reproduce agent patterns without restarting discovery. Outcome: cut evaluation turnaround from 11 days to 1 day.
+
+Automation Specialist - Smith-Howard
+2025 - Present
+  * Integrated AI components with existing platforms and data sources through pragmatic API patterns. Outcome: cut evaluation turnaround from 8 days to 2 days.
+  * Moved prototypes into production by defining release criteria, support paths, monitoring, and fallback procedures. Outcome: reduced operational handoffs by 19%.
+  * Packaged validated prototypes into reusable demos, replication kits, and handoff material for downstream teams. Outcome: reduced manual analysis effort by 24%.
+  * Designed and delivered agentic AI workflows that moved beyond experimentation into daily business operations. Outcome: standardized reporting for 10 stakeholder groups.
+
+SELECTED ACHIEVEMENTS
+  * Designed evaluation harnesses for agent outputs, workflow completion, safety checks, and regression testing. Result: cut evaluation turnaround from 10 days to 3 days.
+  * Turned applied research ideas into working demos, validation notes, and production handoff plans. Result: standardized reporting for 6 stakeholder groups.
+
+SELECTED PROJECTS
+  * Led prototype work across Low-code, API, and orchestration tools, Ambiguity and execution, Reusable demos, kits, and handoff materials.
+  * Led discovery work across Agentic AI delivery, Productionization, Reusable demos, kits, and handoff materials, AI Lab experimentation.
+
+AGENTIC AI BUILD PORTFOLIO
+  * Prototype portfolio: https://github.com/nicole-jones/agentic-ai-builds
+  * Created demo assets for the builder community, including setup notes, sample data, walkthrough scripts, and known limitations.
+  * Moved well-scoped prototypes through Internal Transformation handoff with deployment notes, support assumptions, and monitoring checks.
+
+TOOLS, PLATFORMS, AND METHODS
+release planning, demo packaging, agent workflows, handoff kits, success metrics, agentic AI, delivery momentum, production readiness, rapid experimentation, facilitation, quality gates, adoption metrics, Project Management Professional
+
+CERTIFICATIONS
+  * Project Management Professional
+
+EDUCATION
+Bachelor of Economics
+West Carlosville Polytechnic - Class of 2017

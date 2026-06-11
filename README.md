@@ -65,7 +65,7 @@ The demo is designed as if the hiring team is reviewing 300+ synthetic applicant
 * AI Builder - Manager
 * Data & AI Alliance Executive
 
-The workbench shows:
+The workbench displays:
 
 * open requisitions
 * candidate volume by role
@@ -105,46 +105,6 @@ candidate applications
 
 The AI-assisted layer should help organize and explain evidence. It should not decide who gets hired.
 
-## Current Demo Scope
-
-The current skeleton focuses on:
-
-* a polished Next.js workbench UI
-* KPMG-inspired visual language
-* synthetic requisitions and candidate snapshots
-* a hiring-team dashboard view
-* a reviewer workflow for moving from high-level role volume into candidate review
-* local-first demo behavior with no private systems or credentials
-
-Planned or partially scoped capabilities:
-
-* CV/resume ingestion pipeline for PDF/image-to-text extraction
-* targeted metadata extraction from resumes
-* async/background processing model
-* auditable candidate evidence packets
-* reviewer-facing score explanations
-* GitHub Actions CI for typecheck, lint, formatting, tests, and build
-
-## Responsible AI Boundaries
-
-This prototype should be presented with clear boundaries:
-
-* It does not make final hiring decisions.
-* It does not rank candidates as "good" or "bad" in isolation.
-* It should surface evidence, gaps, and risks for reviewer inspection.
-* It should use only synthetic, public, or sample data.
-* It should make assumptions and scoring criteria visible.
-* It should preserve human accountability for interviews, shortlisting, and hiring decisions.
-* It should avoid hidden telemetry, personal surveillance, or opaque candidate scoring.
-
-## Demo Narrative
-
-The story for the hiring team:
-
-> When candidate volume is high, the hard part is not only reading resumes faster. The hard part is preserving fairness, consistency, evidence, and human judgment while moving quickly.
-
-This workbench shows how an AI Builder could take a messy, high-volume screening process and turn it into a structured reviewer workflow.
-
 ## Tech Stack
 
 * Next.js
@@ -168,7 +128,7 @@ Open:
 http://localhost:3000
 ```
 
-## Useful Commands
+## Commands
 
 ```bash
 bun run types
@@ -177,11 +137,3 @@ bun run format:check
 bun run all:check
 bun run build
 ```
-
-## Submission Framing
-
-In the final KPMG submission, this app should be positioned as:
-
-> A hiring-team workbench that helps evaluate AI Builder candidates by converting high-volume applicant intake into an inspectable, human-reviewed evidence workflow.
-
-The key point is not that the tool replaces recruiters or hiring managers. The key point is that it demonstrates how I would enter an ambiguous enterprise workflow, identify the real operational pain, build a tangible prototype, and explain the tradeoffs clearly.

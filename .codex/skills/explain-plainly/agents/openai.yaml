@@ -1,0 +1,7 @@
+interface:
+  display_name: "[X] Explain Plainly"
+  brand_color: "#45B64A"
+  short_description: "Restate chat content, specs, decisions, or technical concepts in plain English."
+  default_prompt: "Use $explain-plainly to translate the provided content into a plain-English explanation: what it means, why it matters, how it works, blockers, tradeoffs, and outcomes."
+policy:
+  allow_implicit_invocation: false

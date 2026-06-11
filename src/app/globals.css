@@ -1,0 +1,264 @@
+@import "tailwindcss";
+
+@theme {
+  /* KPMG blues */
+  --color-kpmgBlue: #02338d;
+  --color-kpmgDarkBlue: #0c233c;
+  --color-kpmgDarkBlueHover: #0f2b49;
+  --color-kpmgCobaltBlue: #1e4ae2;
+  --color-kpmgCobaltBlueHover: #1a41cb;
+  --color-kpmgPacificBlue: #00b8f5;
+  --color-kpmgLightBlue: #aceaff;
+  --color-kpmgLightBlue2: #75d2ff;
+
+  /* KPMG purples / pinks */
+  --color-kpmgPurple: #7213ea;
+  --color-kpmgLightPurple: #b497ff;
+  --color-kpmgPink: #fd349c;
+  --color-kpmgLightPink: #ffa3d9;
+
+  /* KPMG grays */
+  --color-kpmgGray1: #333333;
+  --color-kpmgGray12: #424242;
+  --color-kpmgGray1Hover: #404040;
+  --color-kpmgGray2: #666666;
+  --color-kpmgGray3: #989898;
+  --color-kpmgGray4: #b2b2b2;
+  --color-kpmgGray45: #d1d1d1;
+  --color-kpmgGray5: #e5e5e5;
+  --color-kpmgGray6: #f5f5f5;
+
+  /* Semantic surfaces & links */
+  --color-kpmgGreen: #22c55e;
+  --color-backgroundDark: #212121;
+  --color-backgroundLight: #e6efff;
+  --color-blackAlpha: #00000014;
+  --color-lightLink: #0069c2;
+  --color-lightLinkHover: #007ae6;
+  --color-darkLink: #95ccff;
+  --color-darkLinkHover: #80c1ff;
+  --color-whiteHover: #f2f2f2;
+
+  /* Typography */
+  --font-sans: var(--font-open-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-opensans: var(--font-open-sans), ui-sans-serif, system-ui, sans-serif;
+  /* Condensed lives on the same variable font's wdth axis; combine with font-stretch-condensed */
+  --font-condensed: var(--font-open-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-opensanscondensed: var(--font-open-sans), ui-sans-serif, system-ui, sans-serif;
+
+  --text-2xs: 0.6rem;
+  --text-2xs--line-height: 0.8rem;
+}
+
+/* Semantic tokens for spell-ui components (shadcn-style), mapped to the KPMG palette */
+:root {
+  --radius: 0.625rem;
+  --background: #ffffff;
+  --foreground: #121212;
+  --card: #ffffff;
+  --card-foreground: #121212;
+  --popover: #ffffff;
+  --popover-foreground: #121212;
+  --primary: var(--color-kpmgBlue);
+  --primary-foreground: #ffffff;
+  --secondary: var(--color-kpmgGray6);
+  --secondary-foreground: var(--color-kpmgGray1);
+  --muted: var(--color-kpmgGray6);
+  --muted-foreground: var(--color-kpmgGray2);
+  --accent: var(--color-backgroundLight);
+  --accent-foreground: var(--color-kpmgBlue);
+  --destructive: #dc2626;
+  --border: var(--color-kpmgGray45);
+  --input: var(--color-kpmgGray45);
+  --ring: var(--color-kpmgCobaltBlue);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --animate-skeleton: skeleton 2s -1s infinite linear;
+  @keyframes skeleton {
+    to {
+      background-position: -200% 0;
+    }
+  }
+}
+
+@layer base {
+  html {
+    box-sizing: border-box;
+  }
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+
+  html,
+  body {
+    height: 100%;
+    margin: 0;
+    line-height: 1.5;
+    color: #121212;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background-color: #98b9e2b3;
+  }
+}
+
+@keyframes gradient-move {
+  0%,
+  100% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+/*
+ * ---------------------------------------------------------------------------
+ * Legacy reference (from .tmp/kpmg-css-assets.css) — not active.
+ * Uncomment sections below only if we need them. Nothing here is ported from
+ * the old app by default.
+ * ---------------------------------------------------------------------------
+ *
+ * --- @theme: missing color token ---
+ *
+ * @theme {
+ *   --color-yellowWarning: #c5782f;
+ * }
+ *
+ * Utility: text-yellowWarning
+ *
+ * --- Opacity bg variants (auto-generated once parent colors exist in @theme) ---
+ *
+ * bg-kpmgCobaltBlue/10   (#1e4ae21a)
+ * bg-kpmgCobaltBlue/20   (#1e4ae233)
+ * bg-kpmgLightPink/10    (#ffa3d91a)
+ * bg-kpmgLightPink/20    (#ffa3d933)
+ * bg-kpmgPacificBlue/10  (#00b8f51a)
+ * bg-kpmgPacificBlue/15  (#00b8f526)
+ * bg-kpmgPurple/10       (#7213ea1a)
+ * bg-kpmgPurple/15       (#7213ea26)
+ *
+ * --- Component-scoped runtime vars (set inline on elements, not globals) ---
+ *
+ * --theme-color
+ * --border-color
+ * --border-left-color
+ * --border-hover
+ * --text-color
+ * --hover-bg
+ * --grid-columns
+ *
+ * Compiled utility examples:
+ *   border-[var(--theme-color)]
+ *   bg-[var(--theme-color)]
+ *   text-[var(--text-color)]
+ *   border-b-[var(--border-color)]
+ *   hover:border-[var(--border-hover)]
+ *   grid-cols-[var(--grid-columns)]
+ *
+ * --- AG Grid quartz theme overrides ---
+ *
+ * .ag-theme-quartz {
+ *   --ag-background-color: #e5e5e5;
+ *   --ag-header-font-weight: bold;
+ *   --ag-header-background-color: #d1d1d1;
+ *   --ag-odd-row-background-color: #d1d1d1;
+ *   --ag-font-family: var(--font-opensans);
+ * }
+ *
+ * --- Loader / pulse animations ---
+ *
+ * @keyframes loader {
+ *   to {
+ *     opacity: 0.3;
+ *     transform: translate3d(0, -0.5rem, 0);
+ *   }
+ * }
+ *
+ * @keyframes pulse {
+ *   0%,
+ *   100% {
+ *     transform: scale(1);
+ *   }
+ *
+ *   50% {
+ *     opacity: 0.5;
+ *     transform: scale(1.5);
+ *   }
+ * }
+ *
+ * @utility animate-loader {
+ *   animation: loader 0.6s infinite alternate;
+ * }
+ *
+ * @utility animation-delay-200 {
+ *   animation-delay: 0.2s;
+ * }
+ *
+ * @utility animation-delay-400 {
+ *   animation-delay: 0.4s;
+ * }
+ *
+ * --- Focus ring variants (blue-300 ring, offset light/dark) ---
+ *
+ * @utility focus-ring-light {
+ *   &:focus {
+ *     --tw-ring-color: rgb(147 197 253 / 0.75);
+ *     --tw-ring-offset-width: 1px;
+ *     --tw-ring-offset-color: #000000;
+ *     box-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+ *   }
+ * }
+ *
+ * @utility focus-ring-dark {
+ *   &:focus {
+ *     --tw-ring-color: rgb(147 197 253 / 0.75);
+ *     --tw-ring-offset-width: 1px;
+ *     --tw-ring-offset-color: #ffffff;
+ *     box-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+ *   }
+ * }
+ *
+ * Legacy class names: focus:ring-light, focus:ring-dark,
+ * focus-visible:ring-light, focus-visible:ring-dark
+ *
+ * --- Hardcoded base values (already active above; listed for reference) ---
+ *
+ * body color:              #121212
+ * ::selection background:  #98b9e2b3
+ *
+ * ---------------------------------------------------------------------------
+ */

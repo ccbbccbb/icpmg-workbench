@@ -1,0 +1,20 @@
+{
+  "name": "Candidate Screening",
+  "short_name": "Candidate Screening",
+  "description": "Highlights top candidates as they come in",
+  "theme_color": "#02338D",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "",
+  "scope": "/",
+  "start_url": "/",
+  "id": "/",
+  "icons": [],
+  "splash_screens": [],
+  "screenshots": [],
+  "categories": [],
+  "features": [],
+  "lang": "en",
+  "prefer_related_applications": false,
+  "related_applications": []
+}

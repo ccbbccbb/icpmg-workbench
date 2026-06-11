@@ -1,0 +1,57 @@
+{
+    "[markdown]": {
+      "editor.wordWrap": "on"
+    },
+    "[mdx]": {
+      "editor.wordWrap": "on"
+    },
+    "editor.quickSuggestions": {
+      "strings": "on"
+    },
+    "editor.linkedEditing": true,
+    "workbench.editor.revealIfOpen": true,
+    "files.associations": {
+      "*.css": "tailwindcss"
+    },
+    "tailwindCSS.experimental.configFile": {
+      "client/src/app/globals.css": "client/src/**"
+    },
+    "tailwindCSS.classFunctions": ["cn", "cva", "clsx"],
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.files.exclude": [
+      "**/*.md",
+      "**/*.mdx",
+      "**/*.svg"
+    ],
+    "tailwindCSS.rootFontSize": 14,
+    "npm.packageManager": "bun",
+    "typescript.tsdk": "client/node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "files.readonlyInclude": {
+      "**/bun.lock": true,
+    },
+    "search.exclude": {
+      "**/openai.yaml": true,
+      "**/node_modules/**": true,
+      "**/bun.lock": true,
+      "**/.next/**": true,
+      "**.gitkeep": true,
+      "**.png": true,
+      "**.svg": true,
+      "**.mp3": true,
+      "**.webm": true,
+      "**.ttf": true,
+      "**.gif": true,
+    },
+    "files.watcherExclude": {
+      "**/node_modules/**": true,
+      "**/.devcontainer/**": true,
+      "**/__pycache__/**": true,
+      "**/.next/**": true,
+      "**/.turbo/**": true,
+      "**/.cache/**": true,
+      "**/out/**": true,
+      "**/dist/**": true,
+      "**/tsconfig.tsbuildinfo/**": true,
+    }
+  }

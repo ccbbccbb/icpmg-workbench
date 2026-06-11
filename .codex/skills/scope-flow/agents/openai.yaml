@@ -1,0 +1,7 @@
+interface:
+  display_name: "[S] Scope Flow"
+  brand_color: "#00A995"
+  short_description: "Read-only scope, tracked draft/todo lifecycle docs, scoped commits"
+  default_prompt: "Use $scope-flow for scoped repo work: pick read-only, draft, or integrate; keep lifecycle docs under reports/scope."
+policy:
+  allow_implicit_invocation: false

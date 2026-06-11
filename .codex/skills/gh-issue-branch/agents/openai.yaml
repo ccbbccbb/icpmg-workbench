@@ -1,0 +1,7 @@
+interface:
+  display_name: "[GH] Create Issue Branch"
+  brand_color: "#EC2427"
+  short_description: "Create an issue-backed Git branch"
+  default_prompt: "Use $gh-issue-branch to create a scoped GitHub issue and switch to a matching branch."
+policy:
+  allow_implicit_invocation: false

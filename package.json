@@ -1,0 +1,45 @@
+{
+  "name": "icpmg-workbench",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "types": "tsc --noEmit",
+    "types:watch": "tsc --noEmit --watch",
+    "lint": "biome lint --write src/",
+    "lint:check": "biome lint src/",
+    "format": "biome format --write src/",
+    "format:check": "biome format src/",
+    "assist": "biome check --write --linter-enabled=false --formatter-enabled=false src/",
+    "assist:check": "biome check --linter-enabled=false --formatter-enabled=false src/",
+    "fix": "biome check --write src/",
+    "fix:unsafe": "biome check --write --unsafe src/",
+    "all": "biome check --write --unsafe src/ && tsc --noEmit",
+    "all:check": "bun run types && biome check src/",
+    "knip": "knip"
+  },
+  "dependencies": {
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "framer-motion": "12.38.0",
+    "lucide-react": "1.17.0",
+    "next": "16.2.6",
+    "radix-ui": "1.5.0",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "sonner": "2.0.7",
+    "tailwind-merge": "3.6.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.4.15",
+    "@tailwindcss/postcss": "4.3.0",
+    "@types/bun": "1.3.14",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "knip": "6.13.1",
+    "tailwindcss": "4.3.0",
+    "typescript": "6.0.3"
+  }
+}

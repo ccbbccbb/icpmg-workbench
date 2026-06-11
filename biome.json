@@ -1,0 +1,143 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.4.15/schema.json",
+  "vcs": {
+    "enabled": true,
+    "clientKind": "git",
+    "useIgnoreFile": false,
+    "root": ".."
+  },
+  "files": {
+    "ignoreUnknown": true,
+    "includes": [
+      "src/**/*.ts",
+      "src/**/*.tsx",
+      "src/**/*.css"
+    ]
+  },
+  "formatter": {
+    "enabled": true,
+    "formatWithErrors": false,
+    "indentStyle": "space",
+    "indentWidth": 2,
+    "lineEnding": "lf",
+    "lineWidth": 100
+  },
+  "css": {
+    "parser": {
+      "tailwindDirectives": true
+    }
+  },
+  "linter": {
+    "enabled": true,
+    "domains": {
+      "react": "recommended",
+      "next": "recommended",
+      "project": "recommended"
+    },
+    "rules": {
+      "recommended": true,
+      "complexity": {
+        "noExcessiveCognitiveComplexity": "off",
+        "useSimplifiedLogicExpression": "warn",
+        "noUselessSwitchCase": "off"
+      },
+      "correctness": {
+        "noUnusedImports": "error",
+        "noUnusedVariables": "warn",
+        "noUnusedFunctionParameters": "off",
+        "useExhaustiveDependencies": "warn",
+        "useHookAtTopLevel": "error",
+        "noReactPropAssignments": "error",
+        "noNextAsyncClientComponent": "error"
+      },
+      "style": {
+        "noNonNullAssertion": "off",
+        "useImportType": "error",
+        "useConst": "error",
+        "noParameterAssign": "warn"
+      },
+      "suspicious": {
+        "noExplicitAny": "off",
+        "noConsole": "off",
+        "noArrayIndexKey": "off",
+        "noDuplicateFontNames": "error"
+      },
+      "a11y": {
+        "noSvgWithoutTitle": "off"
+      },
+      "nursery": {
+        "useBaseline": "warn",
+        "useImportsFirst": "warn",
+        "useSortedClasses": {
+          "level": "error",
+          "fix": "safe",
+          "options": {
+            "attributes": ["class", "className"],
+            "functions": ["cn", "clsx", "cva", "tw"]
+          }
+        }
+      }
+    }
+  },
+  "overrides": [
+    {
+      "includes": ["src/providers/**"],
+      "linter": {
+        "rules": {
+          "style": {
+            "useFilenamingConvention": {
+              "level": "error",
+              "options": {
+                "requireAscii": true,
+                "match": "[A-Z][a-zA-Z0-9]*[.]tsx"
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "includes": ["src/hooks/**"],
+      "linter": {
+        "rules": {
+          "style": {
+            "useFilenamingConvention": {
+              "level": "error",
+              "options": {
+                "requireAscii": true,
+                "match": "use[A-Z][a-zA-Z0-9]*[.](?:ts|tsx)"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "assist": {
+    "actions": {
+      "source": {
+        "noDuplicateClasses": {
+          "level": "on",
+          "options": {
+            "attributes": ["class", "className"],
+            "functions": ["cn", "clsx", "cva", "tw"]
+          }
+        },
+        "organizeImports": "on",
+        "useSortedAttributes": "on"
+      }
+    }
+  },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "double",
+      "jsxQuoteStyle": "double",
+      "semicolons": "always",
+      "trailingCommas": "es5",
+      "arrowParentheses": "always"
+    },
+    "parser": {
+      "unsafeParameterDecoratorsEnabled": true
+    }
+  }
+}

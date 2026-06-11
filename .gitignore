@@ -1,0 +1,9 @@
+.DS_Store
+.tmp
+.env
+.env.local
+.env.production
+.next
+node_modules
+next-env.d.ts
+tsconfig.tsbuildinfo

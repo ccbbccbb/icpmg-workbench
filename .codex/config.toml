@@ -1,0 +1,21 @@
+file_opener = "cursor"
+sandbox_mode = "workspace-write"
+
+[features]
+multi_agent = true
+hooks = true
+
+[agents]
+max_threads = 7
+max_depth = 2
+
+[tui]
+status_line = [
+    "model-with-reasoning",
+    "context-remaining",
+    "current-dir",
+    "git-branch",
+    "context-window-size",
+    "weekly-limit",
+]
+theme = "monokai-extended-origin"

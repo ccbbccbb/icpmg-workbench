@@ -1,0 +1,7 @@
+interface:
+  display_name: "[GH] PR Feedback"
+  brand_color: "#EC2427"
+  short_description: "Resolve a PR with gh and validate its review comments locally"
+  default_prompt: "Use $gh-pr-feedback to resolve the exact open PR from the current branch, a specified PR number, or the most recent open PR request."
+policy:
+  allow_implicit_invocation: false

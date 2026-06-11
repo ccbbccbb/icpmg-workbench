@@ -21,6 +21,7 @@ import {
   getCandidateCountsByReqId,
   getCandidatesByReqId,
 } from "@/lib/candidate-snapshots";
+import { useProximityScale } from "@/hooks/useProximityScale";
 import { getJobByReqId, JOB_LISTINGS } from "@/lib/jobs-data";
 import { cn } from "@/lib/utils/cn-util";
 
@@ -143,13 +144,21 @@ function CandidateRail({
   selectedCandidateId?: string;
   onSelect: (candidateId: string) => void;
 }) {
+  const railRef = useProximityScale<HTMLDivElement>({
+    axis: "y",
+    maxBrightness: 1.03,
+    maxScale: 1.04,
+    radius: 110,
+    transformOrigin: "left center",
+  });
+
   return (
     <aside className="overflow-hidden rounded-2xl bg-background shadow-sm">
       <div className="border-kpmgGray45/60 border-b px-5 py-4">
         <p className="font-medium text-foreground">Ranked candidates</p>
         <p className="mt-1 text-kpmgGray2 text-sm">Sorted by applied-role match score</p>
       </div>
-      <div className="max-h-[calc(100vh-18rem)] overflow-y-auto">
+      <div className="max-h-[calc(100vh-18rem)] overflow-y-auto overflow-x-hidden" ref={railRef}>
         {candidates.map((candidate, index) => (
           <button
             className={cn(

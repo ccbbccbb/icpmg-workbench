@@ -3,10 +3,12 @@
 import { ChevronDown, ChevronLeft, ChevronRight, Search, Sparkles } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { type ReactNode, useEffect, useState } from "react";
+import { AnimateSectionOnReveal } from "@/components/animate-section-on-reveal";
 import { Button } from "@/components/ui/button";
 import { RandomizedText } from "@/components/ui/randomized-text";
 import { Spinner } from "@/components/ui/spinner";
 import { WorkbenchHeader } from "@/components/workbench-header";
+import { useProximityScale } from "@/hooks/useProximityScale";
 import { useUtcClock } from "@/hooks/useUtcClock";
 import { JOB_LISTINGS, JOB_PAGINATION, type JobListing } from "@/lib/jobs-data";
 import { cn } from "@/lib/utils/cn-util";
@@ -16,6 +18,11 @@ const TOTAL_NEW_THIS_WEEK = JOB_LISTINGS.reduce((sum, job) => sum + job.newThisW
 
 export default function WorkbenchPage() {
   const utcTime = useUtcClock();
+  const heroStatsRef = useProximityScale<HTMLDListElement>({
+    axis: "x",
+    maxBrightness: 1.15,
+    maxScale: 1.08,
+  });
   const [liveAgents, setLiveAgents] = useState(3);
 
   // Sync indicator: spin for 15s on load and again every 120s.
@@ -60,92 +67,98 @@ export default function WorkbenchPage() {
     <div className="min-h-screen bg-kpmgGray6">
       <WorkbenchHeader />
 
-      <div className="bg-gradient-to-r from-kpmgBlue via-kpmgCobaltBlue to-kpmgPacificBlue px-6 py-10 sm:px-0">
-        <div className="mx-auto flex max-w-5xl flex-wrap items-end justify-between gap-8">
-          <div>
-            <h1 className="font-semibold text-2xl text-white">Open requisitions</h1>
-            <p className="mt-1 flex items-center gap-2 text-sm text-white/60">
-              <Spinner
-                className={cn("text-white/60", !isSyncing && "animate-none")}
-                size="sm"
-                speed="slow"
+      <AnimateSectionOnReveal index={0}>
+        <div className="bg-gradient-to-r from-kpmgBlue via-kpmgCobaltBlue to-kpmgPacificBlue px-6 py-10 sm:px-0">
+          <div className="mx-auto flex max-w-5xl flex-wrap items-end justify-between gap-8">
+            <div>
+              <h1 className="font-semibold text-2xl text-white">Open requisitions</h1>
+              <p className="mt-1 flex items-center gap-2 text-sm text-white/60">
+                <Spinner
+                  className={cn("text-white/60", !isSyncing && "animate-none")}
+                  size="sm"
+                  speed="slow"
+                />
+                Intake pipeline &middot; last sync 2 min ago
+              </p>
+            </div>
+            <dl className="flex flex-wrap items-end gap-8" ref={heroStatsRef}>
+              <HeroStat label="Total Candidates" value={TOTAL_CANDIDATES.toLocaleString()} />
+              <HeroStat label="This Week" value={`+${TOTAL_NEW_THIS_WEEK}`} />
+              <HeroStat label="Time Saved" value="2,102h" />
+              <HeroStat
+                label="Live Agents"
+                value={
+                  <RandomizedText delay={0} key={liveAgents} split="chars">
+                    {String(liveAgents)}
+                  </RandomizedText>
+                }
               />
-              Intake pipeline &middot; last sync 2 min ago
-            </p>
-          </div>
-          <dl className="flex flex-wrap items-end gap-8">
-            <HeroStat label="Total Candidates" value={TOTAL_CANDIDATES.toLocaleString()} />
-            <HeroStat label="This Week" value={`+${TOTAL_NEW_THIS_WEEK}`} />
-            <HeroStat label="Time Saved" value="2,102h" />
-            <HeroStat
-              label="Live Agents"
-              value={
-                <RandomizedText delay={0} key={liveAgents} split="chars">
-                  {String(liveAgents)}
-                </RandomizedText>
-              }
-            />
-            <HeroStat label="Avg. Time-to-Shortlist" value="2.4d" />
-          </dl>
-        </div>
-      </div>
-
-      <section className="border-kpmgGray45/60 border-b bg-background px-6 py-3 sm:px-0">
-        <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-4">
-          <div className="flex flex-wrap items-center gap-6 text-kpmgGray2 text-sm">
-            <StatusItem color="bg-kpmgGreen" label="Pipeline healthy" />
-            <StatusItem color="bg-kpmgPacificBlue" label={<LastAgentRun utcTime={utcTime} />} />
-            <StatusItem color="bg-kpmgPink" label="4 candidates flagged for review" />
-          </div>
-          <div className="flex w-64 items-center gap-2 rounded-full border border-kpmgGray45 px-4 py-2">
-            <Search aria-hidden className="size-4 text-kpmgGray3" />
-            <input
-              className="w-full bg-transparent text-sm outline-none placeholder:text-kpmgGray3"
-              placeholder="Search"
-              readOnly
-            />
+              <HeroStat label="Avg. Time-to-Shortlist" value="2.4d" />
+            </dl>
           </div>
         </div>
-      </section>
+      </AnimateSectionOnReveal>
 
-      <main className="mx-auto max-w-5xl px-6 py-8 sm:px-0">
-        <div className="mb-4 flex items-center justify-between text-sm">
-          <span className="font-medium text-foreground">{JOB_PAGINATION.total} Results</span>
-          <span className="flex items-center gap-2 text-kpmgGray2">
-            Sort By
-            <span className="flex items-center gap-1 text-foreground">
-              Relevance
-              <ChevronDown aria-hidden className="size-3.5" />
-            </span>
-          </span>
-        </div>
+      <AnimateSectionOnReveal index={1}>
+        <section className="border-kpmgGray45/60 border-b bg-background px-6 py-3 sm:px-0">
+          <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-4">
+            <div className="flex flex-wrap items-center gap-6 text-kpmgGray2 text-sm">
+              <StatusItem color="bg-kpmgGreen" label="Pipeline healthy" />
+              <StatusItem color="bg-kpmgPacificBlue" label={<LastAgentRun utcTime={utcTime} />} />
+              <StatusItem color="bg-kpmgPink" label="4 candidates flagged for review" />
+            </div>
+            <div className="flex w-64 items-center gap-2 rounded-full border border-kpmgGray45 px-4 py-2">
+              <Search aria-hidden className="size-4 text-kpmgGray3" />
+              <input
+                className="w-full bg-transparent text-sm outline-none placeholder:text-kpmgGray3"
+                placeholder="Search"
+                readOnly
+              />
+            </div>
+          </div>
+        </section>
+      </AnimateSectionOnReveal>
 
-        <div className="overflow-hidden rounded-2xl bg-background shadow-sm">
-          <ul>
-            {JOB_LISTINGS.map((job, index) => (
-              <JobRow job={job} key={job.reqId} showDivider={index > 0} />
-            ))}
-          </ul>
-
-          <footer className="flex items-center justify-end gap-8 border-kpmgGray45/60 border-t px-6 py-3 text-kpmgGray2 text-sm">
-            <span className="flex items-center gap-2">
-              Items per page
-              <span className="flex items-center gap-1 font-medium text-foreground">
-                {JOB_PAGINATION.pageSize}
-                <ChevronDown aria-hidden className="size-4" />
+      <AnimateSectionOnReveal index={2}>
+        <main className="mx-auto max-w-5xl px-6 py-8 sm:px-0">
+          <div className="mb-4 flex items-center justify-between text-sm">
+            <span className="font-medium text-foreground">{JOB_PAGINATION.total} Results</span>
+            <span className="flex items-center gap-2 text-kpmgGray2">
+              Sort By
+              <span className="flex items-center gap-1 text-foreground">
+                Relevance
+                <ChevronDown aria-hidden className="size-3.5" />
               </span>
             </span>
-            <span>
-              {JOB_PAGINATION.rangeStart} &ndash; {JOB_PAGINATION.rangeEnd} of{" "}
-              {JOB_PAGINATION.total}
-            </span>
-            <span className="flex items-center gap-4">
-              <ChevronLeft aria-hidden className="size-5 text-kpmgGray4" />
-              <ChevronRight aria-hidden className="size-5 text-kpmgGray1" />
-            </span>
-          </footer>
-        </div>
-      </main>
+          </div>
+
+          <div className="overflow-hidden rounded-2xl bg-background shadow-sm">
+            <ul>
+              {JOB_LISTINGS.map((job, index) => (
+                <JobRow job={job} key={job.reqId} showDivider={index > 0} />
+              ))}
+            </ul>
+
+            <footer className="flex items-center justify-end gap-8 border-kpmgGray45/60 border-t px-6 py-3 text-kpmgGray2 text-sm">
+              <span className="flex items-center gap-2">
+                Items per page
+                <span className="flex items-center gap-1 font-medium text-foreground">
+                  {JOB_PAGINATION.pageSize}
+                  <ChevronDown aria-hidden className="size-4" />
+                </span>
+              </span>
+              <span>
+                {JOB_PAGINATION.rangeStart} &ndash; {JOB_PAGINATION.rangeEnd} of{" "}
+                {JOB_PAGINATION.total}
+              </span>
+              <span className="flex items-center gap-4">
+                <ChevronLeft aria-hidden className="size-5 text-kpmgGray4" />
+                <ChevronRight aria-hidden className="size-5 text-kpmgGray1" />
+              </span>
+            </footer>
+          </div>
+        </main>
+      </AnimateSectionOnReveal>
     </div>
   );
 }

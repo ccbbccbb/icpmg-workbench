@@ -3,7 +3,7 @@
   "entry": ["src/app/**/{page,layout,template,loading,error,not-found,route}.tsx"],
   "project": ["src/**/*.{ts,tsx}"],
   "ignore": ["src/components/ui/**"],
-  "ignoreDependencies": ["tailwindcss", "sonner"],
+  "ignoreDependencies": ["tailwindcss", "tw-animate-css", "sonner"],
   "ignoreExportsUsedInFile": {
     "interface": true,
     "type": true

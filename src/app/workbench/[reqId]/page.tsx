@@ -58,7 +58,7 @@ export default function RequisitionPage() {
       <WorkbenchHeader />
 
       <AnimateSectionOnReveal index={0}>
-        <div className="bg-gradient-to-r from-kpmgBlue via-kpmgCobaltBlue to-kpmgPacificBlue px-6 py-8">
+        <div className="bg-gradient-to-r from-kpmgBlue via-kpmgCobaltBlue to-kpmgPacificBlue px-4 py-6 sm:px-6 sm:py-8">
           <div className="mx-auto max-w-7xl">
             <Button
               className="mb-7 border border-white/20 bg-kpmgBlue/50 text-white hover:bg-kpmgBlue/65 hover:text-white"
@@ -70,12 +70,12 @@ export default function RequisitionPage() {
               Requisitions
             </Button>
 
-            <div className="flex flex-wrap items-end justify-between gap-8">
-              <div>
-                <h1 className="font-semibold text-2xl text-white">{job.title}</h1>
+            <div className="flex flex-col gap-8 lg:flex-row lg:items-end lg:justify-between">
+              <div className="min-w-0">
+                <h1 className="font-semibold text-2xl text-white sm:text-3xl">{job.title}</h1>
                 <p className="mt-2 text-sm text-white/70">Req ID: {job.reqId}</p>
               </div>
-              <dl className="grid grid-cols-2 gap-3 sm:grid-cols-4">
+              <dl className="grid w-full grid-cols-2 gap-x-6 gap-y-5 sm:grid-cols-4 lg:w-auto lg:gap-3">
                 <HeroMetric label="Applicants" value={String(counts.total)} />
                 <HeroMetric label="Strong" value={String(counts.strong)} />
                 <HeroMetric label="Review" value={String(counts.review)} />
@@ -87,14 +87,14 @@ export default function RequisitionPage() {
       </AnimateSectionOnReveal>
 
       <AnimateSectionOnReveal index={1}>
-        <section className="border-kpmgGray45/60 border-b bg-background px-6 py-3">
-          <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 text-sm">
-            <div className="flex flex-wrap items-center gap-5 text-kpmgGray2">
+        <section className="border-kpmgGray45/60 border-b bg-background px-4 py-4 sm:px-6">
+          <div className="mx-auto flex max-w-7xl flex-col items-stretch gap-4 text-sm md:flex-row md:items-center md:justify-between">
+            <div className="flex flex-wrap items-center gap-x-5 gap-y-3 text-kpmgGray2">
               <StatusPill tone="green" value={`${shortlistCandidates.length} shortlist-ready`} />
               <StatusPill tone="blue" value={`${counts.crossRole} cross-role recommendations`} />
               <StatusPill tone="pink" value={`${counts.low} low alignment`} />
             </div>
-            <div className="flex w-72 items-center gap-2 rounded-full border border-kpmgGray45 px-4 py-2">
+            <div className="flex w-full items-center gap-2 rounded-full border border-kpmgGray45 px-4 py-2 md:w-72">
               <Search aria-hidden className="size-4 text-kpmgGray3" />
               <input
                 className="w-full bg-transparent text-sm outline-none placeholder:text-kpmgGray3"
@@ -107,7 +107,7 @@ export default function RequisitionPage() {
       </AnimateSectionOnReveal>
 
       <AnimateSectionOnReveal index={2}>
-        <main className="mx-auto grid max-w-7xl gap-6 px-6 py-8 lg:grid-cols-[24rem_minmax(0,1fr)]">
+        <main className="mx-auto grid max-w-7xl gap-6 px-4 py-6 sm:px-6 lg:grid-cols-[24rem_minmax(0,1fr)] lg:py-8">
           <CandidateRail
             candidates={candidates}
             onSelect={setSelectedCandidateId}
@@ -127,7 +127,7 @@ export default function RequisitionPage() {
 
 function HeroMetric({ label, value }: { label: string; value: string }) {
   return (
-    <div className="min-w-28 border-white/20 border-l pl-4">
+    <div className="min-w-0 border-white/20 border-l pl-4 lg:min-w-28">
       <dt className="text-[0.65rem] text-white/60 uppercase tracking-widest">{label}</dt>
       <dd className="mt-1 font-semibold text-2xl text-white tabular-nums">{value}</dd>
     </div>
@@ -167,7 +167,7 @@ function CandidateRail({
   });
 
   return (
-    <aside className="flex min-h-0 flex-col self-stretch overflow-hidden rounded-2xl bg-background shadow-sm">
+    <aside className="order-2 flex min-h-0 flex-col self-stretch overflow-hidden rounded-2xl bg-background shadow-sm lg:order-1">
       <div className="shrink-0 border-kpmgGray45/60 border-b px-5 py-4">
         <p className="font-medium text-foreground">Ranked candidates</p>
         <p className="mt-1 text-kpmgGray2 text-sm">Sorted by applied-role match score</p>
@@ -189,7 +189,7 @@ function CandidateRail({
               </span>
               <Image
                 alt=""
-                className="size-22 rounded-full object-cover"
+                className="size-16 rounded-full object-cover sm:size-22"
                 height={88}
                 src={candidateImageSrc(candidate.profileImagePath)}
                 width={88}
@@ -222,12 +222,12 @@ function CandidateSnapshotPanel({
   currentReqId: string;
 }) {
   return (
-    <section className="space-y-6">
+    <section className="order-1 space-y-6 lg:order-2">
       <div className="rounded-2xl bg-background shadow-sm">
-        <div className="grid gap-x-6 gap-y-2 p-4 md:grid-cols-[auto_minmax(0,1fr)_auto]">
+        <div className="grid grid-cols-[auto_minmax(0,1fr)] gap-x-4 gap-y-4 p-4 md:grid-cols-[auto_minmax(0,1fr)_auto] md:gap-x-6 md:gap-y-2">
           <Image
             alt=""
-            className="size-24 rounded-2xl object-cover"
+            className="size-18 rounded-2xl object-cover sm:size-24"
             height={96}
             priority
             src={candidateImageSrc(candidate.profileImagePath)}
@@ -235,7 +235,9 @@ function CandidateSnapshotPanel({
           />
           <div className="min-w-0">
             <div className="flex flex-wrap items-center gap-2">
-              <h2 className="font-semibold text-2xl text-foreground">{candidate.candidateName}</h2>
+              <h2 className="font-semibold text-foreground text-xl sm:text-2xl">
+                {candidate.candidateName}
+              </h2>
               <ReviewBandBadge band={candidate.reviewBand} />
             </div>
             <div className="mt-2 flex flex-wrap items-center gap-2">
@@ -258,13 +260,13 @@ function CandidateSnapshotPanel({
             </div>
             <p className="mt-2 text-kpmgGray2 text-sm">{candidate.yearsReason}</p>
           </div>
-          <div className="flex flex-col items-stretch gap-2 md:w-44">
+          <div className="col-span-full flex flex-col items-stretch gap-2 md:col-span-1 md:w-44">
             <div className="flex flex-col justify-center rounded-xl bg-kpmgBlue px-4 py-3 text-center text-white">
               <p className="text-white/65 text-xs uppercase tracking-widest">Match score</p>
               <p className="mt-1 font-extrabold text-3xl tabular-nums">{candidate.score}</p>
             </div>
           </div>
-          <div className="flex flex-wrap items-center gap-2 md:col-span-full">
+          <div className="col-span-full flex flex-wrap items-center gap-2">
             {candidate.titleMatches.slice(0, 3).map((title) => (
               <span
                 className="rounded-full bg-kpmgGray6 px-3 py-1 text-kpmgGray2 text-xs lowercase"
@@ -278,7 +280,7 @@ function CandidateSnapshotPanel({
                 Prototype portfolio
               </span>
             ) : null}
-            <span className="ml-auto flex gap-2">
+            <span className="hidden gap-2 sm:ml-auto sm:flex">
               <button
                 aria-label="Email candidate"
                 className="flex size-7 cursor-pointer items-center justify-center rounded-full bg-kpmgGray6 text-kpmgGray2 transition-colors hover:bg-kpmgGray5"
@@ -298,7 +300,7 @@ function CandidateSnapshotPanel({
         </div>
 
         {candidate.isCrossRoleRecommendation ? (
-          <div className="border-kpmgLightPink/50 border-t bg-kpmgLightPink/10 px-6 py-3 text-kpmgGray1 text-sm">
+          <div className="border-kpmgLightPink/50 border-t bg-kpmgLightPink/10 px-4 py-3 text-kpmgGray1 text-sm sm:px-6">
             <AlertTriangle aria-hidden className="mr-2 inline size-4 text-kpmgPink" />
             Stronger fit detected for {candidate.recommendedRole} by {candidate.crossRoleDelta}{" "}
             points.
@@ -419,7 +421,7 @@ function ScoreComparison({
           return (
             <div key={jobId}>
               <div className="mb-1 flex items-center justify-between gap-3 text-sm">
-                <span className="font-medium text-foreground">{job?.title ?? jobId}</span>
+                <span className="min-w-0 font-medium text-foreground">{job?.title ?? jobId}</span>
                 <span className="text-kpmgGray2 tabular-nums">{score}</span>
               </div>
               <div className="h-2 overflow-hidden rounded-full bg-kpmgGray5">

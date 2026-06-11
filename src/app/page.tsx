@@ -25,7 +25,7 @@ export default function Home() {
   const { user, isHydrated, isPending, signIn, signOut } = useMockAuth();
 
   return (
-    <main className="flex min-h-screen items-center justify-center bg-gradient-to-br from-kpmgDarkBlue via-kpmgBlue to-kpmgCobaltBlue p-6">
+    <main className="flex min-h-screen animate-[gradient-move_20s_ease_infinite] items-center justify-center bg-[length:200%_200%] bg-gradient-to-br from-kpmgDarkBlue via-kpmgBlue to-kpmgCobaltBlue p-6">
       <motion.div
         animate={{ opacity: 1, y: 0 }}
         className="flex w-full flex-col items-center gap-10"

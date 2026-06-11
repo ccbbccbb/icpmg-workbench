@@ -8,6 +8,7 @@ import { Button } from "@/components/ui/button";
 import { RandomizedText } from "@/components/ui/randomized-text";
 import { Spinner } from "@/components/ui/spinner";
 import { WorkbenchHeader } from "@/components/workbench-header";
+import { useCountUp } from "@/hooks/useCountUp";
 import { useProximityScale } from "@/hooks/useProximityScale";
 import { useUtcClock } from "@/hooks/useUtcClock";
 import { JOB_LISTINGS, JOB_PAGINATION, type JobListing } from "@/lib/jobs-data";
@@ -24,6 +25,12 @@ export default function WorkbenchPage() {
     maxScale: 1.02,
   });
   const [liveAgents, setLiveAgents] = useState(3);
+
+  // Count-up choreography: numbers climb as the hero section reveals.
+  const candidatesCount = useCountUp(TOTAL_CANDIDATES, { delayMs: 150 });
+  const weekCount = useCountUp(TOTAL_NEW_THIS_WEEK, { delayMs: 250 });
+  const hoursSavedCount = useCountUp(2102, { delayMs: 350 });
+  const avgShortlistHours = useCountUp(58, { delayMs: 450 });
 
   // Sync indicator: spin for 15s on load and again every 120s.
   const [isSyncing, setIsSyncing] = useState(true);
@@ -82,9 +89,12 @@ export default function WorkbenchPage() {
               </p>
             </div>
             <dl className="flex flex-wrap items-end gap-8" ref={heroStatsRef}>
-              <HeroStat label="Total Candidates" value={TOTAL_CANDIDATES.toLocaleString()} />
-              <HeroStat label="This Week" value={`+${TOTAL_NEW_THIS_WEEK}`} />
-              <HeroStat label="Time Saved" value="2,102h" />
+              <HeroStat label="Candidates" value={Math.round(candidatesCount).toLocaleString()} />
+              <HeroStat label="This Week" value={String(Math.round(weekCount))} />
+              <HeroStat
+                label="Time Saved"
+                value={`${Math.round(hoursSavedCount).toLocaleString()}h`}
+              />
               <HeroStat
                 label="Live Agents"
                 value={
@@ -93,7 +103,10 @@ export default function WorkbenchPage() {
                   </RandomizedText>
                 }
               />
-              <HeroStat label="Avg. Time-to-Shortlist" value="2.4d" />
+              <HeroStat
+                label="Avg. Time-to-Shortlist"
+                value={`${Math.round(avgShortlistHours)}h`}
+              />
             </dl>
           </div>
         </div>

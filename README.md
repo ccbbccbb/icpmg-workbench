@@ -6,13 +6,19 @@ Data pipeline and mapping details: [DATA.md](./DATA.md).
 
 ## Origin: Personal Screening Experience
 
-This prototype stems from my own applicant-screening experience at my last company. I took the initiative to help hire developers end to end: creating roles, posting job listings, screening candidates, scheduling interviews, and meeting applicants. The biggest lesson was how intense screening becomes when candidate volume is high, especially when some roles attract hundreds or thousands of applications.
+This prototype stems from my own applicant screening experience. During my last employment, I took the initiative to help hire developers end to end, all on my own. Not too long after, I was creating roles, posting job listings, screening candidates, scheduling interviews, meeting applicants - managing the whole pipeline. 
 
-To make the process more structured, I asked colleagues whether we could avoid relying only on LinkedIn and have candidates apply through a consistent intake flow. We used a Google Form so applicants submitted comparable information, then I parsed the responses in Google Sheets, cleaned the data, compared signals, built filters, and used practical spreadsheet tactics to move from raw applicant volume to a reviewable shortlist.
+What I learned here was - screening's no joke. And it's a nightmare when candidate volume is high - especially when some roles and one click apply processes attract hundreds or thousands of applications...
 
-That experience made the team better because it created a clearer pipeline, more consistent candidate review, and a stronger handoff into interviews. It also planted the seed for this project: high-volume screening is not just a resume-reading problem. It is a workflow, evidence, fairness, and decision-support problem.
+To make the process more structured, I asked colleagues whether we could avoid relying only on `simple apply` button flows & have candidates apply through a consistent intake flow. 
 
-## Product Thesis
+So we tried it. 
+
+We used a Google Form. Applicants submitted info, I parsed the details in Sheets, did some cleanup - compared signals, built filters, and used practical spreadsheet tactics to move from raw applicant volume (>1k) to a reviewable shortlist.
+
+The team learned that having a clear pipeline to iterate on - this was a good thing. More consistent candidate review, stronger handoff into interviews - this planted the seed for my demo today.
+
+## Thesis
 
 The assignment asks candidates to build something that helps evaluate AI Builders well.
 

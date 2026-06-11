@@ -6,6 +6,8 @@ import {
   BriefcaseBusiness,
   CheckCircle2,
   ExternalLink,
+  Mail,
+  Phone,
   Search,
   Sparkles,
   UserRound,
@@ -14,6 +16,7 @@ import Image from "next/image";
 import { notFound, useParams, useRouter } from "next/navigation";
 import { useMemo, useState } from "react";
 import { AnimateSectionOnReveal } from "@/components/animate-section-on-reveal";
+import { LinkedinIcon } from "@/components/icons/linkedin-icon";
 import { Button } from "@/components/ui/button";
 import { WorkbenchHeader } from "@/components/workbench-header";
 import { useProximityScale } from "@/hooks/useProximityScale";
@@ -181,7 +184,7 @@ function CandidateRail({
               onClick={() => onSelect(candidate.candidateId)}
               type="button"
             >
-              <span className="mt-1 w-8 shrink-0 text-center font-semibold text-kpmgGray3 text-xs tabular-nums">
+              <span className="mt-1 w-8 shrink-0 text-center font-semibold text-kpmgGray3 text-sm tabular-nums">
                 {index + 1}
               </span>
               <Image
@@ -221,7 +224,7 @@ function CandidateSnapshotPanel({
   return (
     <section className="space-y-6">
       <div className="rounded-2xl bg-background shadow-sm">
-        <div className="grid gap-6 p-6 md:grid-cols-[auto_minmax(0,1fr)_auto]">
+        <div className="grid gap-x-6 gap-y-2 p-4 md:grid-cols-[auto_minmax(0,1fr)_auto]">
           <Image
             alt=""
             className="size-24 rounded-2xl object-cover"
@@ -233,6 +236,9 @@ function CandidateSnapshotPanel({
           <div className="min-w-0">
             <div className="flex flex-wrap items-center gap-2">
               <h2 className="font-semibold text-2xl text-foreground">{candidate.candidateName}</h2>
+              <ReviewBandBadge band={candidate.reviewBand} />
+            </div>
+            <div className="mt-2 flex flex-wrap items-center gap-2">
               <a
                 className="flex items-center gap-1 rounded-full bg-kpmgGray6 px-3 py-1 font-medium text-kpmgGray2 text-xs transition-colors hover:bg-kpmgGray5"
                 href={`/candidates/${candidate.resumePath}`}
@@ -242,30 +248,52 @@ function CandidateSnapshotPanel({
                 <ExternalLink aria-hidden className="size-3" />
                 Resume
               </a>
-              <ReviewBandBadge band={candidate.reviewBand} />
+              <button
+                className="flex cursor-pointer items-center gap-1 rounded-full bg-kpmgGray6 px-3 py-1 font-medium text-kpmgGray2 text-xs transition-colors hover:bg-kpmgGray5"
+                type="button"
+              >
+                <LinkedinIcon className="size-3" />
+                LinkedIn
+              </button>
             </div>
             <p className="mt-2 text-kpmgGray2 text-sm">{candidate.yearsReason}</p>
-            <div className="mt-4 flex flex-wrap gap-2">
-              {candidate.titleMatches.slice(0, 3).map((title) => (
-                <span
-                  className="rounded-full bg-kpmgGray6 px-3 py-1 text-kpmgGray2 text-xs lowercase"
-                  key={title}
-                >
-                  {title}
-                </span>
-              ))}
-              {candidate.prototypePortfolio ? (
-                <span className="rounded-full bg-kpmgCobaltBlue/10 px-3 py-1 text-kpmgBlue text-xs lowercase">
-                  Prototype portfolio
-                </span>
-              ) : null}
-            </div>
           </div>
           <div className="flex flex-col items-stretch gap-2 md:w-44">
-            <div className="rounded-xl bg-kpmgBlue p-4 text-center text-white">
+            <div className="flex flex-col justify-center rounded-xl bg-kpmgBlue px-4 py-3 text-center text-white">
               <p className="text-white/65 text-xs uppercase tracking-widest">Match score</p>
               <p className="mt-1 font-extrabold text-3xl tabular-nums">{candidate.score}</p>
             </div>
+          </div>
+          <div className="flex flex-wrap items-center gap-2 md:col-span-full">
+            {candidate.titleMatches.slice(0, 3).map((title) => (
+              <span
+                className="rounded-full bg-kpmgGray6 px-3 py-1 text-kpmgGray2 text-xs lowercase"
+                key={title}
+              >
+                {title}
+              </span>
+            ))}
+            {candidate.prototypePortfolio ? (
+              <span className="rounded-full bg-kpmgCobaltBlue/10 px-3 py-1 text-kpmgBlue text-xs lowercase">
+                Prototype portfolio
+              </span>
+            ) : null}
+            <span className="ml-auto flex gap-2">
+              <button
+                aria-label="Email candidate"
+                className="flex size-7 cursor-pointer items-center justify-center rounded-full bg-kpmgGray6 text-kpmgGray2 transition-colors hover:bg-kpmgGray5"
+                type="button"
+              >
+                <Mail aria-hidden className="size-3.5" />
+              </button>
+              <button
+                aria-label="Call candidate"
+                className="flex size-7 cursor-pointer items-center justify-center rounded-full bg-kpmgGray6 text-kpmgGray2 transition-colors hover:bg-kpmgGray5"
+                type="button"
+              >
+                <Phone aria-hidden className="size-3.5" />
+              </button>
+            </span>
           </div>
         </div>
 
@@ -290,14 +318,14 @@ function CandidateSnapshotPanel({
 
 function EvidencePanel({ candidate }: { candidate: CandidateSnapshot }) {
   return (
-    <div className="rounded-2xl bg-background p-6 shadow-sm">
+    <div className="rounded-2xl bg-background p-4 shadow-sm">
       <div className="mb-4 flex items-center gap-2">
         <Sparkles aria-hidden className="size-5 text-kpmgCobaltBlue" />
         <h3 className="font-semibold text-foreground">Evidence highlights</h3>
       </div>
       <div className="grid gap-4 md:grid-cols-2">
         {candidate.highlights.map((highlight) => (
-          <article className="rounded-xl border border-kpmgGray45/70 p-6" key={highlight.label}>
+          <article className="rounded-xl border border-kpmgGray45/70 p-4" key={highlight.label}>
             <div className="flex items-center gap-2">
               <CheckCircle2 aria-hidden className="size-4 shrink-0 text-kpmgGreen" />
               <span className="font-medium text-kpmgGray3 text-xs capitalize">
@@ -332,7 +360,7 @@ function GapsPanel({ candidate }: { candidate: CandidateSnapshot }) {
     candidate.riskFlags.length > 0;
 
   return (
-    <div className="rounded-2xl bg-background p-6 shadow-sm">
+    <div className="rounded-2xl bg-background p-4 shadow-sm">
       <div className="mb-4 flex items-center gap-2">
         <AlertTriangle aria-hidden className="size-5 text-kpmgPink" />
         <h3 className="font-semibold text-foreground">Gaps and flags</h3>
@@ -380,7 +408,7 @@ function ScoreComparison({
   const scores = Object.entries(candidate.scoresByJob).filter(([jobId]) => jobId === currentReqId);
 
   return (
-    <aside className="rounded-2xl bg-background p-6 shadow-sm">
+    <aside className="rounded-2xl bg-background p-4 shadow-sm">
       <div className="mb-4 flex items-center gap-2">
         <BriefcaseBusiness aria-hidden className="size-5 text-kpmgCobaltBlue" />
         <h3 className="font-semibold text-foreground">Role fit</h3>

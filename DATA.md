@@ -1,8 +1,14 @@
-# Data: From Resume Volume To Evidence Packets
+# Data: CV & Resume Volume -> Faster Candidate Selection
 
-The demo data is structured to support the project thesis: high-volume screening is not just a resume-reading problem. It is a workflow, evidence, fairness, and decision-support problem.
+The data is structured to support the main thesis: high-volume screening is not just a resume-reading problem:
 
-It does not treat a resume as a single blob of text or a candidate as a single score. It separates the workflow into source data, extracted evidence, ranking logic, reviewer-facing highlights, and auditability.
+It is a workflow, evidence, fairness, + decision-support problem.
+
+It does not treat a resume as a single blob of text, or a candidate as a single score.
+
+Rather - it separates validation into source data, extracted evidence, ranking logic, reviewer-facing highlights, and auditability.
+
+This is a win for everyone.
 
 ## Source Data
 

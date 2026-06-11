@@ -19,22 +19,29 @@ export function WorkbenchHeader() {
   const { user, signOut } = useMockAuth();
 
   return (
-    <header className="flex items-center gap-3 bg-background px-6 py-3">
-      <Image alt="KPMG" height={28} priority src="/assets/kpmg-blue.svg" width={70} />
-      <span className="font-semibold text-foreground text-lg">
+    <header className="flex flex-wrap items-center gap-x-2 gap-y-2 bg-background px-4 py-3 sm:flex-nowrap sm:gap-x-3 sm:px-6">
+      <Image
+        alt="KPMG"
+        className="h-auto w-14 shrink-0 sm:w-[70px]"
+        height={28}
+        priority
+        src="/assets/kpmg-blue.svg"
+        width={70}
+      />
+      <span className="min-w-0 flex-1 font-semibold text-foreground text-sm leading-tight sm:text-lg">
         iCPMG Workbench
-        <sup className="ml-1 font-normal text-kpmgCobaltBlue text-xs uppercase tracking-wide">
+        <sup className="ml-1 font-normal text-[0.625rem] text-kpmgCobaltBlue uppercase tracking-wide sm:text-xs">
           alpha
         </sup>
       </span>
 
-      <div className="ml-auto flex items-center gap-5">
+      <div className="ml-auto flex shrink-0 items-center gap-3 sm:gap-5">
         <button
           className="flex cursor-pointer items-center gap-2 text-kpmgGray1 text-sm hover:text-kpmgBlue"
           type="button"
         >
           <CalendarDays aria-hidden className="size-4" />
-          Schedule
+          <span className="hidden sm:inline">Schedule</span>
         </button>
 
         <DropdownMenu>

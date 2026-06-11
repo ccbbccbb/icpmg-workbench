@@ -6,7 +6,6 @@ import { type ReactNode, useEffect, useState } from "react";
 import { AnimateSectionOnReveal } from "@/components/animate-section-on-reveal";
 import { Button } from "@/components/ui/button";
 import { RandomizedText } from "@/components/ui/randomized-text";
-import { Spinner } from "@/components/ui/spinner";
 import { WorkbenchHeader } from "@/components/workbench-header";
 import { useCountUp } from "@/hooks/useCountUp";
 import { useProximityScale } from "@/hooks/useProximityScale";
@@ -31,22 +30,6 @@ export default function WorkbenchPage() {
   const weekCount = useCountUp(TOTAL_NEW_THIS_WEEK, { delayMs: 250 });
   const hoursSavedCount = useCountUp(2102, { delayMs: 350 });
   const avgShortlistHours = useCountUp(58, { delayMs: 450 });
-
-  // Sync indicator: spin for 15s on load and again every 120s.
-  const [isSyncing, setIsSyncing] = useState(true);
-  useEffect(() => {
-    let stopTimer: ReturnType<typeof setTimeout>;
-    const startSpin = () => {
-      setIsSyncing(true);
-      stopTimer = globalThis.setTimeout(() => setIsSyncing(false), 15_000);
-    };
-    stopTimer = globalThis.setTimeout(() => setIsSyncing(false), 15_000);
-    const intervalId = globalThis.setInterval(startSpin, 120_000);
-    return () => {
-      globalThis.clearInterval(intervalId);
-      globalThis.clearTimeout(stopTimer);
-    };
-  }, []);
 
   // Drift the live-agent count randomly every 14-35s for ops-console feel.
   useEffect(() => {
@@ -75,20 +58,18 @@ export default function WorkbenchPage() {
       <WorkbenchHeader />
 
       <AnimateSectionOnReveal index={0}>
-        <div className="bg-gradient-to-r from-kpmgBlue via-kpmgCobaltBlue to-kpmgPacificBlue px-6 py-10 sm:px-0">
-          <div className="mx-auto flex max-w-5xl flex-wrap items-end justify-between gap-8">
-            <div>
-              <h1 className="font-semibold text-2xl text-white">Open requisitions</h1>
-              <p className="mt-1 flex items-center gap-2 text-sm text-white/60">
-                <Spinner
-                  className={cn("text-white/60", !isSyncing && "animate-none")}
-                  size="sm"
-                  speed="slow"
-                />
+        <div className="bg-gradient-to-r from-kpmgBlue via-kpmgCobaltBlue to-kpmgPacificBlue px-4 py-8 sm:px-6 sm:py-10 lg:px-0">
+          <div className="mx-auto flex max-w-5xl flex-col items-start gap-8 lg:flex-row lg:items-end lg:justify-between">
+            <div className="min-w-0">
+              <h1 className="font-semibold text-2xl text-white sm:text-3xl">Open requisitions</h1>
+              <p className="mt-1 text-sm text-white/60">
                 Intake pipeline &middot; last sync 2 min ago
               </p>
             </div>
-            <dl className="flex flex-wrap items-end gap-8" ref={heroStatsRef}>
+            <dl
+              className="grid w-full grid-cols-2 gap-x-6 gap-y-6 sm:grid-cols-3 lg:flex lg:w-auto lg:flex-wrap lg:items-end lg:gap-8"
+              ref={heroStatsRef}
+            >
               <HeroStat label="Candidates" value={Math.round(candidatesCount).toLocaleString()} />
               <HeroStat label="This Week" value={String(Math.round(weekCount))} />
               <HeroStat
@@ -113,14 +94,14 @@ export default function WorkbenchPage() {
       </AnimateSectionOnReveal>
 
       <AnimateSectionOnReveal index={1}>
-        <section className="border-kpmgGray45/60 border-b bg-background px-6 py-3 sm:px-0">
-          <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-4">
-            <div className="flex flex-wrap items-center gap-6 text-kpmgGray2 text-sm">
+        <section className="border-kpmgGray45/60 border-b bg-background px-4 py-4 sm:px-6 lg:px-0">
+          <div className="mx-auto flex max-w-5xl flex-col items-stretch gap-4 md:flex-row md:items-center md:justify-between">
+            <div className="flex flex-wrap items-center gap-x-6 gap-y-3 text-kpmgGray2 text-sm">
               <StatusItem color="bg-kpmgGreen" label="Pipeline healthy" />
               <StatusItem color="bg-kpmgPacificBlue" label={<LastAgentRun utcTime={utcTime} />} />
               <StatusItem color="bg-kpmgPink" label="4 candidates flagged for review" />
             </div>
-            <div className="flex w-64 items-center gap-2 rounded-full border border-kpmgGray45 px-4 py-2">
+            <div className="flex w-full items-center gap-2 rounded-full border border-kpmgGray45 px-4 py-2 md:w-64">
               <Search aria-hidden className="size-4 text-kpmgGray3" />
               <input
                 className="w-full bg-transparent text-sm outline-none placeholder:text-kpmgGray3"
@@ -133,8 +114,8 @@ export default function WorkbenchPage() {
       </AnimateSectionOnReveal>
 
       <AnimateSectionOnReveal index={2}>
-        <main className="mx-auto max-w-5xl px-6 py-8 sm:px-0">
-          <div className="mb-4 flex items-center justify-between text-sm">
+        <main className="mx-auto max-w-5xl px-4 py-6 sm:px-6 lg:px-0 lg:py-8">
+          <div className="mb-4 flex flex-wrap items-center justify-between gap-3 text-sm">
             <span className="font-medium text-foreground">{JOB_PAGINATION.total} Results</span>
             <span className="flex items-center gap-2 text-kpmgGray2">
               Sort By
@@ -152,8 +133,8 @@ export default function WorkbenchPage() {
               ))}
             </ul>
 
-            <footer className="flex items-center justify-end gap-8 border-kpmgGray45/60 border-t px-6 py-3 text-kpmgGray2 text-sm">
-              <span className="flex items-center gap-2">
+            <footer className="flex items-center justify-center border-kpmgGray45/60 border-t px-4 py-4 text-center text-kpmgGray2 text-sm sm:justify-end sm:gap-8 sm:px-6 sm:py-3 sm:text-left">
+              <span className="hidden items-center gap-2 sm:flex">
                 Items per page
                 <span className="flex items-center gap-1 font-medium text-foreground">
                   {JOB_PAGINATION.pageSize}
@@ -164,7 +145,7 @@ export default function WorkbenchPage() {
                 {JOB_PAGINATION.rangeStart} &ndash; {JOB_PAGINATION.rangeEnd} of{" "}
                 {JOB_PAGINATION.total}
               </span>
-              <span className="flex items-center gap-4">
+              <span className="hidden items-center gap-4 sm:flex">
                 <ChevronLeft aria-hidden className="size-5 text-kpmgGray4" />
                 <ChevronRight aria-hidden className="size-5 text-kpmgGray1" />
               </span>
@@ -178,7 +159,7 @@ export default function WorkbenchPage() {
 
 function HeroStat({ label, value }: { label: string; value: ReactNode }) {
   return (
-    <div className="border-white/20 border-l pl-4">
+    <div className="min-w-0 border-white/20 border-l pl-4">
       <dt className="text-[0.65rem] text-white/60 uppercase tracking-widest">{label}</dt>
       <dd className="mt-1 font-semibold text-2xl text-white tabular-nums">{value}</dd>
     </div>
@@ -188,10 +169,15 @@ function HeroStat({ label, value }: { label: string; value: ReactNode }) {
 function LastAgentRun({ utcTime }: { utcTime: string | null }) {
   const [hours, minutes] = (utcTime ?? "--:--").split(":");
   return (
-    <span>
-      Last agent run {hours}
-      <span className="animate-[blink_1s_steps(1,end)_infinite]">:</span>
-      {minutes} UTC &bull; 0 errors
+    <span className="inline-flex items-baseline gap-1">
+      <span>
+        Last agent run {hours}
+        <span className="animate-[blink_1s_steps(1,end)_infinite]">:</span>
+        {minutes}
+      </span>
+      <span>UTC</span>
+      <span>&bull;</span>
+      <span>0 errors</span>
     </span>
   );
 }
@@ -217,7 +203,7 @@ function JobRow({ job, showDivider }: { job: JobListing; showDivider: boolean })
   return (
     <li
       className={cn(
-        "grid grid-cols-[2fr_repeat(3,minmax(0,9rem))_auto] items-start gap-6 px-6 py-6 transition-colors hover:bg-kpmgGray6/60",
+        "grid gap-4 px-4 py-5 transition-colors hover:bg-kpmgGray6/60 sm:px-6 lg:grid-cols-[minmax(0,2fr)_repeat(3,minmax(0,9rem))_minmax(12rem,auto)] lg:items-start lg:gap-6",
         showDivider && "border-kpmgGray45/60 border-t",
         locked ? "cursor-not-allowed" : "cursor-pointer"
       )}
@@ -237,15 +223,17 @@ function JobRow({ job, showDivider }: { job: JobListing; showDivider: boolean })
           <p className="mt-2 text-kpmgGray2 text-sm">Req ID: {job.reqId}</p>
         </div>
       </div>
-      <JobMeta label="Candidates" value={String(job.totalApplicants)} />
-      <JobMeta label="New This Week" value={`+${job.newThisWeek}`} />
-      <JobMeta label="Pipeline Stage" value={job.pipelineStage} />
-      <div className="flex flex-col items-stretch gap-2">
-        <Button className="rounded-full px-6 hover:bg-black" disabled={locked}>
+      <div className="grid grid-cols-3 gap-3 sm:max-w-lg lg:contents">
+        <JobMeta label="Candidates" value={String(job.totalApplicants)} />
+        <JobMeta label="New This Week" value={`+${job.newThisWeek}`} />
+        <JobMeta label="Pipeline Stage" value={job.pipelineStage} />
+      </div>
+      <div className="flex w-full flex-col items-stretch gap-2 sm:max-w-xs lg:max-w-none">
+        <Button className="w-full rounded-full px-4 hover:bg-black" disabled={locked}>
           Review Candidates
         </Button>
         <Button
-          className="rounded-full px-6"
+          className="w-full rounded-full px-4"
           disabled={locked}
           onClick={(event) => event.stopPropagation()}
           variant="outline"
@@ -260,7 +248,7 @@ function JobRow({ job, showDivider }: { job: JobListing; showDivider: boolean })
 
 function JobMeta({ label, value }: { label: string; value: string }) {
   return (
-    <div className="text-sm">
+    <div className="min-w-0 text-sm">
       <p className="text-kpmgGray3">{label}</p>
       <p className="mt-1 text-foreground">{value}</p>
     </div>

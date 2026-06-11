@@ -18,7 +18,7 @@ export const JOB_LISTINGS: JobListing[] = [
     featured: true,
   },
   {
-    reqId: "32539",
+    reqId: "32544",
     title: "AI Builder - Manager",
     totalApplicants: 93,
     newThisWeek: 11,

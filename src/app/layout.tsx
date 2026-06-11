@@ -22,7 +22,7 @@ const openSans = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "iCPMG Workbench — Alpha",
+  title: "iCPMG Workbench • Alpha",
   description: "KPMG's candidate intelligence layer for iCIMS.",
 };
 

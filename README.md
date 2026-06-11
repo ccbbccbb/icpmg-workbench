@@ -2,9 +2,13 @@
 
 Prototype team workbench for evaluating candidates at scale. Demo uses synthetic/sample candidate data.
 
+<img src="./public/assets/preview.png" alt="iCPMG Workbench preview" width="100%" />
+
 Data pipeline and mapping details: [DATA.md](./DATA.md).
 
-## Origin: Personal Screening Experience
+
+
+## Origin: Personal Hiring & Screening Experience
 
 This prototype stems from my own applicant screening experience. During my last employment, I took the initiative to help hire developers end to end, all on my own. Not too long after, I was creating roles, posting job listings, screening candidates, scheduling interviews, meeting applicants - managing the whole pipeline. 
 
@@ -24,9 +28,7 @@ The assignment asks candidates to build something that helps evaluate AI Builder
 
 My interpretation:
 
-```text
-Help the hiring team evaluate AI Builder candidates by turning high-volume candidate intake into an inspectable, evidence-based reviewer workflow.
-```
+> Help the hiring team evaluate AI Builder candidates by turning high-volume candidate intake into an inspectable, evidence-based reviewer workflow.
 
 The goal is not to automate hiring decisions. The goal is to help reviewers see the right evidence faster, compare candidates more consistently, and preserve human judgment at the decision boundary.
 
@@ -38,9 +40,7 @@ The first instinct is to benchmark for the single best candidate. That matters, 
 
 The product tension became:
 
-```text
-Do we optimize for finding the best candidate, or do we optimize for increasing the number of candidates the team can review well?
-```
+> Do we optimize for finding the best candidate, or do we optimize for increasing the number of candidates the team can review well?
 
 The answer should be both.
 
@@ -141,9 +141,7 @@ This prototype should be presented with clear boundaries:
 
 The story for the hiring team:
 
-```text
-When candidate volume is high, the hard part is not only reading resumes faster. The hard part is preserving fairness, consistency, evidence, and human judgment while moving quickly.
-```
+> When candidate volume is high, the hard part is not only reading resumes faster. The hard part is preserving fairness, consistency, evidence, and human judgment while moving quickly.
 
 This workbench shows how an AI Builder could take a messy, high-volume screening process and turn it into a structured reviewer workflow.
 
@@ -184,8 +182,6 @@ bun run build
 
 In the final KPMG submission, this app should be positioned as:
 
-```text
-A hiring-team workbench that helps evaluate AI Builder candidates by converting high-volume applicant intake into an inspectable, human-reviewed evidence workflow.
-```
+> A hiring-team workbench that helps evaluate AI Builder candidates by converting high-volume applicant intake into an inspectable, human-reviewed evidence workflow.
 
 The key point is not that the tool replaces recruiters or hiring managers. The key point is that it demonstrates how I would enter an ambiguous enterprise workflow, identify the real operational pain, build a tangible prototype, and explain the tradeoffs clearly.

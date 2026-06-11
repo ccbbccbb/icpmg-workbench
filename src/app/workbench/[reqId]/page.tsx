@@ -366,7 +366,7 @@ function GapsPanel({ candidate }: { candidate: CandidateSnapshot }) {
         <h3 className="font-semibold text-foreground">Gaps and flags</h3>
       </div>
       {hasGaps ? (
-        <div className="grid gap-4 md:grid-cols-3">
+        <div className="space-y-4">
           <GapList items={candidate.missingCritical} label="Missing critical" />
           <GapList items={candidate.missingStrong} label="Missing strong" />
           <GapList items={candidate.riskFlags} label="Risk flags" />
